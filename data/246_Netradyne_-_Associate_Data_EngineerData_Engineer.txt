@@ -1,0 +1,137 @@
+================================================================================
+JOB: Netradyne - Associate Data Engineer/Data Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/867955b2-4448-4eb2-9e8a-bc0b050633f5
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Netradyne
+Job Domain
+Information Technology (IT)
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Whitefield, Bangalore
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://www.netradyne.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+Please find the information in Detailed Breakup
+First Year Annual Overall CTC
+Please find the information in Detailed Breakup
+First Year Monthly Salary
+Please find the information in Detailed Breakup
+First Year Overall CTC - Detailed Breakup
+Annual CTC:
+
+a. M.Tech - 24 LPA (18 Base + 3 JB + 2 DB) – Deferred Bonus comes with a claw back period of 24 months.
+
+
+b. B.TECH CTC: 22 LPA (16 Base + 3 JB + 3DB) -– Deferred Bonus comes with a claw back period of 24 months.
+Second Year Approx. Annual Base CTC
+NA
+Second Year Approx. Annual Overall CTC
+NA
+Second Year Approx. Monthly Salary
+NA
+Second Year Approx. Overall CTC - Detailed Breakup
+NA
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+05-Nov-25 18:30:10
+Application Deadline
+07-Nov-25 11:20:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Associate Data Engineer/Data Engineer
+Shortlist Published At
+Stage 2(Resume Shortlisting-Associate Data Engineer/Data Engineer) - 25 Nov 2025 15:27:38
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+BS (Research)
+M.Mgt
+M.Tech
+MS (Research)
+M.Des
+Discipline
+All
+Eligibility
+JDs are attached for reference.
+Skills
+JDs are attached for reference.
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Associate Data Engineer/Data Engineer
+
+---
+
+DETAILED JOB DESCRIPTION
+Job Title: Associate Data Engineer/Data Engineer
+Company: Netradyne Technology India
+Location: Whitefield, Bangalore
+Employment Type: Full-time
+Work Model: On-site
+Shift: General Shift (5 days a week)
+About Netradyne: Netradyne is a cutting-edge technology company revolutionizing the transportation industry with its advanced AI-powered solutions. We specialize in developing innovative products and services that enhance fleet safety, efficiency, and performance. With a focus on data-driven insights and real-time analytics, Netradyne is at the forefront of shaping the future of transportation.
+Job Overview: As an Associate Data Engineer or Data Engineer at Netradyne, you'll be part of a team dedicated to developing cutting-edge AI solutions that help drivers and fleets optimize system performance and identify areas for real-time improvement, ultimately enhancing efficiency and reducing resource consumption. If you have experience in IoT-related fields and a passion for optimizing systems and software development, we invite you to apply and join our innovative team.
+Key Responsibilities:
+•Develop various cloud/web components to ingest, process, transform, and visualize data at scale.
+•Build tools/framework to improve data-mining, labeling, training, and validation of in-house deep-learning/machine-learning features.
+•Develop back-end components to improve responsiveness and overall performance.
+•Follow engineering best practices (unit testing, continuous delivery etc.)
+•Deployment and monitoring of production ready infrastructure.
+Mandatory Skills:
+• Strong programming skills in Python.
+• Strong fundamentals in Computer Science - particularly in OOP, algorithms, and data structures.
+• Good understanding of internals and schema design for various data stores (RDBMS and NoSQL).
+• Good linux fundamentals and grasp of concepts like virtualenv, docker etc.
+Preferred Skills:
+• Expertise in prompt engineering and generative AI is a big plus.
+• Expertise in at least one popular Python web-framework (like Django or Flask) is a plus.
+• Basic understanding of probability, machine-learning, and deep-learning concepts is a plus.
+• Exposure to AWS services like Kinesis, SQS, ASG etc is a plus.
+  Interview Process
+• 1st round: Test for proficiency in programming languages such as C/C++/ Python, Aptitude, Puzzles, Algorithms, System level understanding, Deep diving into final year project
+• 2nd round: Test on statistics, probability, and ML and CV concepts.
+• HR round: Cultural Assessment
+Equal Opportunity Employer Statement: Netradyne is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+Additional Information: This position is based out in HM Tech Park, Whitefield Bangalore with potential for work flexibility.
+Contact Information: For inquiries, please contact Recruiter at 9008760705/9047477352 or dakshita.liston@netradyne.com/prasanth.bheeman.c@netradyne.com.
+Follow us on LinkedIn: For more information on our work culture, follow us on (1) Netradyne: My Company | LinkedIn
+
+================================================================================

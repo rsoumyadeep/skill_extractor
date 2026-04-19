@@ -1,0 +1,182 @@
+================================================================================
+JOB: EdgeFleet.AI - Computer Vision Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/6e1da7d7-dfa7-45cb-88ee-422bf0312c9c
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+EdgeFleet.AI
+Job Domain
+Research and Development
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+New Delhi, India.
+Industry
+Engineering and Technology
+Industry Sector
+Private
+Website URL
+https://www.edgefleet.ai/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+Rupee-14,00,000
+First Year Annual Overall CTC
+Rupee-18,00,000
+First Year Monthly Salary
+Rupee-1,16,666
+First Year Overall CTC - Detailed Breakup
+Annual Overall CTC- 18,00,000 Rupees
+Annual Base Salary - 14,00,000 Rupees
+Variable - 4,00,000 Rupees
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+2
+Application Start Time
+14-Nov-25 02:00:00
+Application Deadline
+26-Nov-25 11:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Computer Vision Engineer
+Shortlist Published At
+Stage 2(Online Test-Computer Vision Engineer) - 26 Dec 2025 14:50:23Stage 3(Assignment-Computer Vision Engineer) - 26 Dec 2025 14:52:39Stage 4(Technical Interview-Computer Vision Engineer) - 26 Dec 2025 14:53:33
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Assignment
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+BS (Research)
+M.Tech
+M.Tech (Research)
+PhD (Engineering)
+Post Doc
+PhD (Integrated)
+Discipline
+B.Tech in Mathematics and Computing
+BS (Research) in Mathematics
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Robert Bosch Centre for Cyber Physical Systems
+M.Tech Axis Bank Centre for Mathematics and Computing
+M.Tech Computational and Data Sciences
+PhD Axis Bank Centre for Mathematics and Computing
+PhD Computer Science and Automation
+PhD Robert Bosch Centre for Cyber Physical Systems
+M.Tech Signal Processing
+M.Tech Artificial Intelligence
+M.Tech Robotics and Autonomous Systems
+Eligibility
+Final year or recent graduates from B.Tech / B.E / M.Tech / M.S / Ph.D. programs in:
+
+Computer Science / Artificial Intelligence / Robotics / Electronics / Mechatronics
+
+Minimum CGPA- 8.0
+Skills
+Strong foundation in Computer Vision and Deep Learning
+3D Vision & Geometry,2D to 3D
+Programming Proficiency-Python, C++
+Strong Mathematical skills-Linear Algebra, Optimization, Probability, and 3D Coordinate Systems
+Camera Calibration techniques
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+🚀 EdgeFleet.AI is Calling the Visionaries
+Where Machines Don’t Just See — They Understand.
+
+
+🧭 About EdgeFleet.AI
+At EdgeFleet.AI, we are building something extraordinary —an intelligence that transcends boundaries, disciplines, and machines.
+Think of it as a shared brain for autonomous systems —where drones, robots, and fleets don’t just operate… they perceive, predict, and understand the world around them.
+We’re pushing the limits of computer vision, from recognition to reconstruction, prediction, and spatial reasoning — creating the eyes and instincts of next-gen autonomy.
+
+
+💼 Role: Computer Vision Engineer
+      Location: New Delhi, India.
+      Type : Full Time (On-Site)
+
+
+🧠 What You’ll Work On
+
+
+You will be at the core of EdgeFleet.AI’s perception systems — designing how autonomous machines see and understand reality.
+
+
+Your Mission:
+Build real-time 3D perception pipelines (SLAM, SfM, NeRF, Gaussian Splatting).
+Develop self-supervised learning and multi-view geometry systems.
+Implement object tracking, depth estimation, and pose prediction for real-world Robots.
+Collaborate on sensor fusion, reconstruction, and AI-based spatial understanding.
+Contribute to open research and prototype breakthroughs in computer vision.
+
+🎓 Eligibility Criteria
+Education:
+B.Tech / B.E / M.Tech / M.S / Ph.D. in
+Computer Science, Artificial Intelligence, Robotics, or Electronics.
+Minimum CGPA: 8.0 or above
+
+
+🧩 Skill Set You’ll Need
+Core Competencies
+Computer Vision & Deep Learning (CNNs, Transformers, Self-Supervised Learning)
+SLAM, SfM, NeRF, Gaussian Splatting, 3D Reconstruction
+Multi-View Geometry, Epipolar Geometry, Depth & Pose Estimation
+Python, PyTorch / TensorFlow, OpenCV, NumPy, CUDA
+2D to 3D Conversion techniques
+Camera calibration Techniques
+
+
+Bonus Skills
+ROS, Blender / Unreal / Unity for simulation
+Differentiable rendering frameworks (e.g., Instant-NGP, Nerfstudio, COLMAP)
+
+💡 What We Value
+A visionary mindset — seeing systems, not just scripts.
+Curiosity and boldness to explore uncharted research directions.
+Strong mathematical reasoning and coding discipline.
+Passion for robotics, drones, and spatial AI.
+Desire to build and lead — not just follow.
+
+🌌 Why Join Us
+Build the perception backbone of future fleets and robots.
+Blend research + real-world impact in one role.
+Work with visionaries in AI, robotics, and computer vision.
+Push the limits of spatial intelligence — and your own imagination.
+
+✨ At EdgeFleet.AI, you won’t just be coding vision — you’ll be architecting perception itself.
+Join us. Let’s make machines not just see… but perceive with purpose.
+
+================================================================================

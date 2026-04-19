@@ -1,0 +1,133 @@
+================================================================================
+JOB: Applied Materials - Algorithm Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/d88ba48b-c6b6-4739-be5a-164b49e1c431
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Applied Materials
+Job Domain
+Engineering
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Chennai
+Industry
+Manufacturing
+Industry Sector
+Private
+Website URL
+https://www.appliedmaterials.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+M.tech 1450000, Ph. D Base Salary 2004110
+First Year Annual Overall CTC
+1,729,060 + 6000 RSU (#25% of the RSUs will vest after completion of one (1) year and 6.25% of the award will vest every three (3) months thereafter) Ph.D CTC 2389811+ USD 6000 RSU vesting for 4 years + Relocation allowance
+First Year Monthly Salary
+1,20,833
+First Year Overall CTC - Detailed Breakup
+This is for M.Tech
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+16-Jan-26 10:55:00
+Application Deadline
+18-Jan-26 17:00:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Algorithm Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Engg
+M.Tech
+M.Tech (Research)
+Discipline
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech (Research) Instrumentation and Applied Physics
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech in Instrumentation Systems
+M.Tech Supercomputer Education and Research Centre
+Eligibility
+Must have 7 CGPA or 70% and above in X, XII, UG & PG
+Skills
+• Strong foundation in data structures, algorithms, and complexity analysis.
+• Expertise in one or more areas:
+o Machine Learning / Deep Learning
+o Optimization Techniques
+o Signal/Image Processing
+o Numerical Methods
+• Proficiency in programming languages such as Python, C++, or MATLAB.
+Bond Details
+No
+
+---
+
+DETAILED JOB DESCRIPTION
+About the Role
+We are seeking highly motivated Algorithm Engineers to design and develop cutting-edge algorithms that power our next-generation products. This role involves solving complex problems in areas such as optimization, machine learning, signal processing, and computational mathematics. Ideal candidates will have strong theoretical foundations and the ability to translate them into practical, scalable solutions.
+
+
+Key Responsibilities
+• Research, design, and implement advanced algorithms for real-world applications.
+• Analyze problem requirements and propose innovative solutions.
+• Develop prototypes and production-ready implementations.
+• Optimize algorithms for performance, scalability, and robustness.
+• Collaborate with software engineers and domain experts to integrate algorithms into products.
+• Stay current with emerging trends in algorithms, AI/ML, and computational techniques.
+
+
+Required Qualifications
+• Education:
+oMaster’s degree in Computer Science, Electrical Engineering, Applied Mathematics, or related field.
+o Exceptional NCG candidates with strong academic background will also be considered.
+• Strong foundation in data structures, algorithms, and complexity analysis.
+• Expertise in one or more areas:
+o Machine Learning / Deep Learning
+o Optimization Techniques
+o Signal/Image Processing
+o Numerical Methods
+• Proficiency in programming languages such as Python, C++, or MATLAB.
+• Strong analytical and problem-solving skills.
+
+================================================================================

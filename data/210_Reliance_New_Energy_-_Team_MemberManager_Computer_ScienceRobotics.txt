@@ -1,0 +1,112 @@
+================================================================================
+JOB: Reliance New Energy - Team Member/Manager (Computer Science/Robotics)
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/c5340d7f-f92d-4de0-8be9-2acd87b4c773
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Reliance New Energy
+Job Domain
+Technology
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Pan India
+Industry
+Renewable Energy
+Industry Sector
+Private
+Website URL
+https://www.ril.com/businesses/new-energy-materials
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+NA
+First Year Annual Overall CTC
+15,00,000
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+Fixed CTC (LPA) -13 L, Variable (LPA) -   2 L, Total Pay (LPA) - 15 L & Deferred Bonus - 5L (paid after 36 months, no clawback)
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+19-Nov-25 17:10:47
+Application Deadline
+20-Nov-25 17:00:00
+Time Left
+Closed
+Application Current State
+HR Interview-Team Member/Manager (Computer Science/Robotics)
+Shortlist Published At
+Stage 2(Technical Interview-Team Member/Manager (Computer Science/Robotics)) - 27 Dec 2025 13:22:37Stage 3(HR Interview-Team Member/Manager (Computer Science/Robotics)) - 27 Dec 2025 13:22:55
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+Discipline
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+Eligibility
+• Minimum CGPA: 8.0 (no backlogs)
+• 10th, 12th & UG: ≥ 60%
+
+Skills
+M.Tech in relevant domain
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+Reliance is building the world's most comprehensive, integrated, and future-ready New Energy ecosystem to drive India's journey towards energy independence and global sustainability leadership. As part of our strategic commitment, Reliance has pledged to achieve Net-Zero Carbon status by 2035 — one of the most ambitious climate goals globally.
+We aim to enable India’s shift from an energy-importing nation to a global clean-energy powerhouse and empower MSMEs, startups, academia and industry partners to participate in the green-tech ecosystem. Our New Energy Giga Complex spans Navi Mumbai, Jamnagar, Dahej, Kutch and Bengaluru with full-stack engineering, commissioning, R&D, and operations capability.
+Work Locations (Full-time office): Navi Mumbai, Jamnagar, Dahej, Kutch, Bengaluru and PAN-India project sites.
+Job Role
+Manager – Team Member (Computer Science / Digital) Engineering
+Project Execution | Technology Deployment | New Energy Manufacturing
+Role Summary
+Contribute to engineering, commissioning, scale‑up, and optimization of cutting‑edge New Energy facilities including Solar PV, Hydrogen systems, Electrolysers, Energy Storage, Power Electronics, and Advanced Materials. Work in multi‑disciplinary environments supporting commissioning, operations, safety, quality, and technology deployment.
+Key Responsibilities
+• Industrial digital systems, IoT, automation data models
+• AI/ML for energy, factory digital twins, predictive analytics
+• Cybersecurity, databases, software integration in plants
+• Automation software, MES/SCADA integration
+Skills & Knowledge
+• Python, cloud platforms, data engineering
+• AI/ML basics, digital manufacturing systems
+• Cyber‑security & automation exposure
+
+================================================================================

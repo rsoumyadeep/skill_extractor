@@ -1,0 +1,128 @@
+================================================================================
+JOB: Siemens Healthineers - Engineer - Design & Development
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/0f42798e-35de-40c4-a107-587eeedf012d
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Siemens Healthineers
+Job Domain
+Data Analyst
+Job Type
+Full Time Placement
+Job Mode
+Hybrid
+Locations
+Bangalore
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://www.siemens-healthineers.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+NA
+First Year Annual Overall CTC
+16,00,000
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+INR 16,00,00/-
+INR 2,00,000/- Joining bonus
+INR 8,00,000/- Retention bonus paid after 4 successful years with us
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Nov-25 23:10:35
+Application Deadline
+27-Nov-25 07:02:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Engineer - Design & Development
+Shortlist Published At
+Stage 2(Online Test-Engineer - Design & Development) - 26 Dec 2025 14:51:34Stage 3(Technical Interview-Engineer - Design & Development) - 26 Dec 2025 14:53:14
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+Discipline
+B.Tech in Mathematics and Computing
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+Eligibility
+1. Graduating in 2026 with Computer Sci degree (Undergrad/Postgrad).
+2. Should not have active backlogs
+3. Should have 6.5 and above CGPA
+Skills
+Mentioned in JD
+Bond Details
+No Bond
+
+---
+
+DETAILED JOB DESCRIPTION
+As a Data Analyst, you are required to:
+
+
+• Develop prototypes and proof of concepts using multiple data-sources, AI/ML methods and big-data technologies
+• Port data across data-sources /DB systems in order to improve performance, scalability or to facilitate analytics.
+• Stay curious and enthusiastic about using related technologies to solve problems and enthuse others to see the benefit in business domain
+Qualification: Bachelor's or Master's in Computer Science & Engineering, or equivalent. Professional Degree in Data Science, Engineering is desirable.
+
+Desired Knowledge & Experience:
+• Sound knowledge in programming languages like Python, R will be an added advantage
+• Strong written/communication skill to be work with partners along the globe
+• Strong theoretical knowledge of probability, statistics, and linear algebra. Should have done coursework on these topics (at least 1 semester) in their Engineering.
+• Should have done coursework on AI, ML algorithms in their Engineering.
+• Should have done a coursework on Python programming (both theory and lab sessions). Usage of atleast one Data Science library, working experience with data frames.
+• Should have interest and passion to work on Data Science (as compared to full stack / or regular development projects).
+• Having prior experience in developing mini-projects, POC on AI/ML based topics is desirable.
+• Having prior experience as interns on data science projects is desirable.
+• Practical knowledge on building data visualization tools is desirable.
+• Knowledge of any reporting/BI tool (e.g. Qlik, Tableau, PowerBI, SAS VA etc…)
+• Coursework on databases, big data, data warehouse is desirable.
+• Knowledge / Experience in conventional DB technologies (RDBMS, Object Oriented)
+• Strong Knowledge/Experience in using query languages such as SQL
+• Basic knowledge in Data Warehousing concepts (Data Modelling, STAR Schema, Snowflake Schema and various Data Warehousing concepts)
+• Basic knowledge on Extract Transform & Load concept (any tool is fine e.g. SAS DI Studio, Informatica…etc)
+
+
+Required Soft skills & Other Capabilities:
+• Great attention to detail and good analytical abilities.
+• Good planning and organizational skills
+• Collaborative approach to sharing ideas and finding solutions
+• Ability to work independently and also in a global team environment.
+
+================================================================================

@@ -1,0 +1,123 @@
+================================================================================
+JOB: TIAA Global Capabilities - Associate - Data Scientist
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/9ca2814f-111f-4179-9af0-5e8ecc34b4db
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+TIAA Global Capabilities
+Job Domain
+Technical
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Pune or Mumbai
+Industry
+Financial Services
+Industry Sector
+Private
+Website URL
+https://www.tiaa.org/public
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+18,00,000
+First Year Annual Overall CTC
+18,86,400 (Fixed + Retrials)
+First Year Monthly Salary
+1,57,200 (Fixed + Retrials)
+First Year Overall CTC - Detailed Breakup
+Fixed CTC INR 18,00,000 + Retrials INR 86400
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+01-Dec-25 01:21:33
+Application Deadline
+09-Dec-25 08:00:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Associate - Data Scientist
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+Discipline
+M.Tech Computer Science and Engineering
+M.Tech Artificial Intelligence
+Eligibility
+Student should be qualified from the Shortlisted Degrees and Should not have any Active Backlog at the time of Joining us .
+Should be Batch 2026 Pass outs.
+Willing to Relocate to Pune or Mumbai as the Job Location.
+
+• M.Tech-Computer Science and Automation
+• M.Tech in Artificial Intelligence
+
+Skills
+as mentioned in JD
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+
+---
+
+DETAILED JOB DESCRIPTION
+Key Responsibilities and Duties:
+Drive Business Impact Through Data Innovation
+• Build predictive models and algorithms that directly influence client investment strategies and retirement planning decisions, helping millions of Americans achieve financial security
+• Uncover hidden patterns in large, complex datasets to identify new opportunities for improving client services and product offerings
+Develop Technical Expertise
+• Design and implement cutting-edge data mining architectures and statistical models using modern tools and programming languages
+• Transform raw data from multiple sources into actionable business insights through advanced analytics and machine learning techniques
+Collaborate and Learn
+• Work closely with cross-functional teams including product managers, engineers, and business stakeholders to translate complex findings into clear, compelling data visualizations and reports
+• Research emerging data science methodologies and contribute to implementing new analytical processes that enhance our capabilities
+Ensure Data Excellence
+• Take ownership of data quality initiatives, ensuring comprehensive and reliable datasets from both structured and unstructured sources
+• Apply programming skills to clean, organize, and prepare data for sophisticated analytical models
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Do you have any expertise in AI? (Multiple Choice)
+
+Q2. Have you taken any AI Courses at IISc? (Multiple Choice)
+
+Q3. Have you done any projects on AI? (Multiple Choice)
+
+================================================================================

@@ -1,0 +1,143 @@
+================================================================================
+JOB: First Advantage Global Operating Center Private Limited - Associate Data Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/5b7b65fc-2cc8-424b-9e77-4c031efd6904
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+First Advantage Global Operating Center Private Limited
+Job Domain
+Data Science and Data Engineer
+Job Type
+Full Time Placement
+Job Mode
+Virtual
+Locations
+Bangalore
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://fadv.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+Between INR 12 to 15 Lakh market standard
+First Year Annual Overall CTC
+Between INR 12,57,374 to 15,63868 market standard
+First Year Monthly Salary
+Between 100000 to 125000
+First Year Overall CTC - Detailed Breakup
+Will be provided to shortlisted candidates
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+5
+Application Start Time
+18-Feb-26 11:04:05
+Application Deadline
+20-Feb-26 11:00:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Associate Data Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+All
+Discipline
+All
+Eligibility
+Holding Degree of Data Engineer
+Having Azure and Data Bricks certifications would be a plus
+Skills
+1. Strong communication skills and a willingness to learn.
+2. Team player with a positive attitude and strong work ethic.
+3. Academic or project exposure to Data Warehousing / Data Lakes.
+4. Awareness of Cloud platforms (Azure preferred).
+5. Exposure to tools like Azure Data Factory, Databricks, Spark, Synapse.
+6. Basic knowledge of Big Data concepts (Spark, Hadoop, Hive, Kafka).
+6. Internship, capstone project, or hackathon experience in data or analytics.
+Bond Details
+Not Applicable
+
+---
+
+JD ATTACHMENTS
+
+---
+
+DETAILED JOB DESCRIPTION
+About the Role
+We are looking for enthusiastic freshers or early‑career professionals who are passionate about data and technology. As a Junior Data Engineer / ETL Developer, you will work with experienced engineers to build, test, and maintain data pipelines that power analytics and business insights.
+This role offers hands‑on exposure to real‑world data platforms, cloud technologies, and modern data engineering practices.
+
+
+What You Will Do
+Assist in building and maintaining ETL/data pipelines for Data Warehouses and Data Lakes.
+Learn to understand business requirements and help convert them into basic data mappings.
+Support data extraction, transformation, and loading using industry‑standard tools.
+Perform data validation, unit testing, and debugging to ensure data accuracy.
+Help monitor and schedule data jobs and workflows.
+Create and maintain technical documentation (data mapping, design notes, test cases).
+
+
+Required Qualifications
+Bachelor’s degree in Computer Science, IT, Data Science, Engineering, or related field.
+Strong fundamentals in SQL and databases (Relational or NoSQL).
+Basic knowledge of ETL concepts and data warehousing.
+Exposure to Python through academics, projects, or internships.
+Familiarity with Git or any version control system.
+Good analytical and problem‑solving skills.
+Strong communication skills and a willingness to learn.
+Team player with a positive attitude and strong work ethic.
+Academic or project exposure to Data Warehousing / Data Lakes.
+Awareness of Cloud platforms (Azure preferred).
+Exposure to tools like Azure Data Factory, Databricks, Spark, Synapse.
+Basic knowledge of Big Data concepts (Spark, Hadoop, Hive, Kafka).
+Internship, capstone project, or hackathon experience in data or analytics.
+Collaborate with developers, testers, and business teams in an Agile environment.
+Continuously learn and apply best practices in data quality, performance, and scalability.
+
+
+What You’ll Gain
+Hands‑on training in enterprise‑scale data engineering.
+Mentorship from experienced data professionals.
+Exposure to cloud and modern data platforms.
+Clear career growth path in Data Engineering & Analytics.
+Opportunity to work in a collaborative, global team.
+
+---
+
+ADDITIONAL DETAILS
+Having azure and data bricks certifications would be a plus
+
+================================================================================

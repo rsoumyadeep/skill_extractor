@@ -1,0 +1,171 @@
+================================================================================
+JOB: Qualcomm - System Engineer - Modem System
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/6f701e16-f6ab-4c2a-9050-32a2b20c65b7
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Qualcomm
+Job Domain
+Engineering
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore / Hyderabad /Chennai / Noida
+Industry
+Semiconductor and Telecommunications
+Industry Sector
+Private
+Website URL
+https://www.qualcomm.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+INR 19,50,000
+First Year Annual Overall CTC
+refer below
+First Year Monthly Salary
+162,500 (gross component)
+First Year Overall CTC - Detailed Breakup
+Compensation For DD ,M.Tech , MS Research Students: System profiles (R&D)
+Details Amount
+Total Gross Pay INR 19.5 L
+Retirals (PF and Gratuity) INR 1.31 L
+Performance Bonus* INR 1.90 L
+Joining Bonus ( Paid within 60 days ) INR 9.60 L
+Relocation Bonus ( Paid within 60 days ) INR 0.50 L
+RSU - Restricted Stock Value Awards (Vesting in 3 years )** INR 13.20 L ( $ 16000)
+Retention Bonus (Paid after 12 months ) INR 5.00 L
+* Performance bonus % may vary based on individual & Organization Performance | **RSU -33% vesting every year
+Additional Benefits: Relocation Assistance, Insurance, Transport. RSU $1=INR 83
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Oct-25 19:24:31
+Application Deadline
+28-Oct-25 06:00:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-System Engineer - Modem System
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+MS (Research)
+Discipline
+All
+Eligibility
+CGPA 7 and above
+70% and above in 10th,12th and undergrad
+Skills
+PHY and MAC Layers • Information theory, Coding theory, Adaptive filtering, Signal Detection and Estimation, Digital Communications • Familiarity with 3GPP/3GPP2 standards. • Modem algorithms design, including channel and interference estimation, advance
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+System Engineer - Modem System
+
+---
+
+DETAILED JOB DESCRIPTION
+Job Title Systems Engineers/Specialist
+
+
+Job Area Engineering - Systems
+Location Hyderabad, Bangalore, Chennai
+Educational Requirements:
+Masters in Electrical Engineering (Communications/Signal Processing areas)
+
+
+Overview Over the past thirty years, the systems engineering team at Qualcomm
+conceived and commercialized key innovations in wireless
+communication systems including cdma2000, EV-DO, HSPA, OFDMA
+based LTE-Advanced, Carrier Aggregation, HetNets, Small Cells, LTE in
+Unlicensed, LTE Direct, M2M (eMTC, NB-IoT), Wi-Fi 802.11ac and
+802.11ax.
+
+
+We are looking for innovative engineers in the areas of wireless
+communications and signal processing, who develop deep understanding
+of problems through thoughtful data-driven analysis and then shepherd the
+solutions through the lab to real world deployment.
+
+
+Individuals in this role will actively participate and contribute to
+Qualcomm's systems engineering activities related to the evolution of 3G,
+4G, 5G, WLAN and satellite communications technologies towards ever
+improving efficiency and capability. They will be required to gain
+thorough understanding of 3GPP/3GPP2 physical layer specifications and
+will be responsible for designing WWAN modem baseband algorithms
+and subsequent performance characterization, fixed point design and
+validation. The work would include theoretical analysis, computer aided
+analysis, regular active participation in design and review sessions,
+contribution to QUALCOMM's IP portfolio, systems support for
+implementation, technical contributions towards proprietary or public air
+interface specifications.
+
+
+Individuals who possess skills/experience in one or more of the following
+are requested to apply:
+
+
+• PHY and MAC Layers
+• Information theory, Coding theory, Adaptive filtering, Signal
+Detection and Estimation, Digital Communications
+• Familiarity with 3GPP/3GPP2 standards.
+• Modem algorithms design, including channel and interference
+estimation, advanced receivers, decoders, tracking loops,
+techniques to mitigate RF impairments/distortions
+• Interference and mobility management in radio access networks,
+interference cancellation, equalization, multi-user detection
+• Mobile broadband, IoE, Mission Critical, Vehicular
+Communications, eMBB, massive IoT
+• OFDMA and CDMA based FDD/TDD licensed/unlicensed
+systems
+• RLC, PDCP, RRC, S1, X2, IP, UDP, TCP, HTTP protocols
+• Radio access and core network design
+• Programming skills in C/C++/MATLAB
+• Familiarity with UNIX/Win/Linux computing platforms
+
+
+Privacy Policy: Your personal data will be processed according to Qualcomm's privacy policy which
+can be found at https://www.qualcomm.com/site/privacy
+
+================================================================================

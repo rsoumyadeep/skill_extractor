@@ -1,0 +1,233 @@
+================================================================================
+JOB: LTIMindtree - Research Engineer (Neuromorphic)
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/ec7bade1-3290-45c9-97f6-66e7653cc16c
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+LTIMindtree
+Job Domain
+Research Engineer (Neuromorphic)
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Information Technology (IT)
+Industry Sector
+Public
+Website URL
+https://www.ltimindtree.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+NA
+First Year Annual Overall CTC
+NA
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+Annual CTC: M.E/M. Tech/MS/BS-MS – 13 LPA & B.E./B. Tech/BS – 12.5 LPA
+1st year Annual Overall CTC: M.E/M. Tech/MS/BS-MS – 13 LPA & B.E./B. Tech/BS – 12.5 LPA
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+24-Feb-26 13:17:16
+Application Deadline
+25-Feb-26 13:15:22
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Research Engineer (Neuromorphic)
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+BS (Research)
+M.Tech
+M.Tech (Research)
+MS (Research)
+Discipline
+M.Tech Electrical Engineering
+M.Tech in Signal Processing
+Eligibility
+Eligibility Criteria
+
+
+2026 Batch of B.E./B.Tech/M.E/M.Tech/BS/MS/
+BS-MS Fulltime engineering program
+Consistent academic records of 60% in 10th, 12th, Diploma (as applicable), UG and PG courses (aggregate of all semesters & subjects)
+Appropriate CGPA to percentage conversion to be considered as per the respective university norms.
+SSC/Diploma/HSC should have cleared in FIRST ATTEMPT. The scores of the Main/improvement exam will be considered as final.
+For candidates who have pursued both HSC and Diploma, marks scored in the Diploma course will be considered.
+Initial results (% scores) declared would be considered for students awaiting re-evaluation results.
+At the time of recruitment process, there must be no standing arrears in current education.
+No academic gap allowed during the course duration. (SSC/HSC/Diploma/UG/PG)
+Skills
+Year of passing 2026 passed out candidates ONLY
+Qualification/
+Course
+B.E./B.Tech, M.E/M.Tech, BS/MS/BS-MS, Phd
+Academic Gap Not more than 2 years academic gap is allowed. (SSC/HSC/Diploma/UG/PG)
+SSC, Diploma, HSC
+Percentages/CGPA
+• Consistent academic records of 60% above OR Equivalent CGPA in 10th, 12th,
+Diploma (as applicable), UG and PG courses (aggregate of all semesters &
+subjects)
+• Appropriate CGPA to percentage conversion to be considered as per the
+respective university norms. The scores of the Main or improvement exam
+would be considered as final.
+• For candidates pursuing both HSC and Diploma, marks scored in the Diploma
+course will be considered.
+• For UG and PG courses aggregate of all semesters & all subjects will be
+considered
+ATKTs/Backlogs/
+Reattempts/Arrears
+• Initial results (% scores) declared would be considered for students awaiting
+re-evaluation results.
+• At the time of recruitment process, there must be no standing arrears in
+current education
+Experience Freshers
+Citizenship Citizenship Should be an Indian Nationa
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+Introduction
+LTM is a global technology consulting and digital solutions company that enables enterprises across industries
+to reimagine business models, accelerate innovation, and maximize growth by harnessing digital technologies.
+As a digital transformation partner to more than 700 clients, LTM brings extensive domain and technology
+expertise to help drive superior competitive differentiation, customer experiences, and business outcomes in a
+converging world. Powered by 87,000+ talented and entrepreneurial professionals across more than 40+
+countries, LTM— a Larsen & Toubro Group company — solves the most complex business challenges and
+delivers transformation at scale. For more information, please visit LTIMindtree is now LTM | It’s time to Outcreate
+Role Details
+Business Unit: Global Technology Office Proposed Role: Research Engineer (Neuromorphic)
+Education: M.E/M.TECH
+Stream: Neuromorphic Computing, Electrical
+Engineering, Signal Processing, Dynamical Systems
+backgrounds
+Experience Required: 0 Location: Bengaluru
+Responsibilities & Skill Requirements:
+- Neural model design: Design SNN or other brain-inspired architectures and Reservoir Computing models for
+multi-dimensional temporal data.
+- Neural Coding: Develop efficient encoding schemes (Rate, Temporal, or Phase coding) to translate use case
+specific metrics into spike-based representations.
+- Software Implementation: Utilize neural frameworks to map algorithms onto neuromorphic hardware
+backends like Intel Loihi, IBM TrueNorth, Innatera Pulsar.
+- Deployment and testing: Deploy models on neuromorphic simulators, hardware (e.g. Intel Loihi 2, SpiNNaker)
+as well as conventional hardware. Optimize models for energy-efficiency and real-time performance.
+- Benchmarking: Conduct comparative studies between neuromorphic models and conventional Deep
+Learning (RNNs, LSTMs) regarding accuracy, latency and power. You will need to document approaches,
+manage experiments & do detail result analysis. Iteratively refine algorithms for compactness and efficiency
+- Application Building: Build ITOps / Cybersecurity / Biomedical application prototypes for real-time anomaly
+detection, log pattern recognition, low power temporal pattern recognition, sensing and signal processing at
+the edge, and predictive system scaling.
+- Collaboration: Collaborate with academic partners to incorporate latest research development, work with
+SMEs to understand real-world scenarios & constraints.
+- Knowledge creation: Contribute to publications or patents as appropriate.
+HEADER TEXT GOES HERE
+FEBRUARY 24, 2026 2
+Required Skills & Competencies
+Programming: Strong Python (NumPy, SciPy, PyTorch). Familiarity with C/C++ would be a good additional skill
+for low-level Process Models.
+Mathematical Foundations: Linear Algebra & Calculus, Differential Equations, Dynamical Systems modeling &
+Stochastic Processes (Optional).
+Neural Models & Algorithm Development: Deep understanding of neuronal Spiking Neural Network (SNN)
+models like the Leaky Integrate-and-Fire (LIF), Reservoir Computing etc.
+Learning Rules: Exposure to STDP, E-Prop, Surrogate Gradient Descent for SNN training.
+Data Science: Knowledge of signal processing and time-series analysis (FFT, wavelets, windowing). Working
+knowledge of Machine Learning (Scikit-Learn) & Deep Neural Networks (RNNs, CNNs) using Pytorch.
+Frameworks: Proficiency in framework(s) to map algorithms onto hardware backends. Exposure to braininspired computing frameworks/SDKs/libraries like Lava (Intel), snnTorch, Nengo, ReservoirPy, simulators like
+Norse, Brain2/NEST is preferable. (The names are indicative – other similar frameworks / platforms is fine)
+- Neuromorphic Experience (Optional plus): Hands-on experience with neuromorphic hardware platforms or
+FPGA/ASIC design tools. Knowledge of Intel’s NxSDK or similar toolchains is a bonus. Exposure to eventdriven sensors (e.g. DVS camera) or asynchronous computing is beneficial.
+Neuromorphic systems expertise(Optional plus): Understanding of neuromorphic architectures and their
+applications in various fields.
+Overview: As a founding member of the Neuromorphic Computing track, you will be working on application of
+brain-inspired algorithms in IT / Security Operations and other applications requiring low energy, real-time,
+edge intelligence.
+You will design, implement, and benchmark algorithms involving Spiking Neural models, neural coding
+schemes, STDP and other bio-inspired approaches that leverage the asynchronous, event-driven nature of
+neuromorphic hardware to solve complex problems.
+The role involves doing applied research, and you will be instrumental in transforming state-of-the-art
+neuromorphic computing research into impactful prototypes for real-world problems. This role involves
+working in an interdisciplinary environment. You will be required to
+adapt to new learning rules and architectures as research progresses.
+Education: Candidates with Masters / PhD in Computer Science, Neuromorphic Engineering, Computational
+Neuroscience is well aligned for this position.
+Candidates with Electrical Engineering, Signal Processing, Dynamical Systems backgrounds may also apply if
+they have deep interest in this field.
+Project experience in the area of neuromorphic computing is a plus.
+HEADER TEXT GOES HERE
+FEBRUARY 24, 2026 3
+Additional Information:
+This role is for industry-focused applied research and. involves hands-on development of prototypes using
+neuromorphic computing and related technologies.
+The successful candidate:
+- Will be part of LTM Research group and will focus on researching and developing neuromorphic prototypes
+for various industries.
+- Work with business units to identify, prioritize suitable use cases and work towards their implementation
+leveraging latest developments in brain inspired computing.
+- Implement / reproduce / adapt recent research papers.
+- Interface with academia, startup partners and platform vendors as required
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Permanent Residence City (Text)
+
+Q2. Permanent Residence State (Text)
+
+Q3. Any Standing Arrears (Text)
+
+Q4. Nationality (Text)
+
+Q5. Name Of Father (Text)
+
+Q6. First Name (Text)
+
+Q7. Last Name (Text)
+
+Q8. "DOB (dd/mm/yyyy)" (Text)
+
+Q9. Current College Name (Text)
+
+Q10. Current College City (Text)
+
+Q11. Current College State (Text)
+
+================================================================================

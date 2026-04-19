@@ -1,0 +1,120 @@
+================================================================================
+JOB: Stardour Aerospace Technologies Private Limited - Associate Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/d68b4909-2acc-4954-8ad3-f6c164814753
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Stardour Aerospace Technologies Private Limited
+Job Domain
+R&D
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Hyderabad
+Industry
+Aerospace and Defense
+Industry Sector
+Private
+Website URL
+https://stardour.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+6,60,000
+First Year Annual Overall CTC
+10,00,000
+First Year Monthly Salary
+55,000
+First Year Overall CTC - Detailed Breakup
+Base : 6.6 LPA
+ESOPs : 3.4 LPA
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+23-Jan-26 09:40:49
+Application Deadline
+24-Jan-26 09:40:55
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Associate Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+Assignment
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Engg
+M.Tech
+M.Tech (Research)
+Discipline
+M.Tech (Research) Astronomy and Astrophysics Programme
+M.Tech (Research) Instrumentation and Applied Physics
+M.Tech Astronomy and Astrophysics Programme
+M.Tech Mechanical Engineering
+PhD Astronomy and Astrophysics Programme
+PhD Instrumentation and Applied Physics
+PhD Mechanical Engineering
+M.Tech (Research) Mechanical Engineering
+Eligibility
+- B.Tech/M.Tech in fields selected above
+- Relevant project experience in precision optics, instrumentation, or telescope design
+
+Skills
+- Proficiency in CAD and FEA tools
+- Understanding of opto-mechanical design principles
+•Familiarity with manufacturing processes
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+Design and develop mechanical structures, mounts, and mechanisms for precision optical telescopes. Work closely with optical and controls engineers to turn optical designs into stable, buildable hardware. This is a hands-on role with real ownership from CAD to assembly and testing.
+
+
+Key Responsibilities:
+- Design opto-mechanical assemblies (mounts, trusses, mirror cells, mechanisms) using CAD tools.
+- Perform structural, thermal, and modal analyses (FEA) to ensure stability and performance under gravity, temperature changes, and dynamics.
+- Develop drawings and coordinate fabrication and assembly of prototypes.
+- Plan and execute alignment procedures and support integration and test activities.
+- Collaborate with optical team on tolerances, alignment features, and error budgets.
+
+
+Preferred:
+- Experience with telescope structures, mirror supports, or precision mechanisms.
+- Knowledge of STOP analysis (Structural-Thermal-Optical Performance).
+- Hands-on experience with prototyping, assembly, or testing of optical hardware.
+
+================================================================================

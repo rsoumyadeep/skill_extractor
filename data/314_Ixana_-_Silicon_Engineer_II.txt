@@ -1,0 +1,133 @@
+================================================================================
+JOB: Ixana - Silicon Engineer II
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/9d3afae5-fdc5-4c3d-9445-249bd57ac1be
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Ixana
+Job Domain
+Technology
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+VLSI and Semiconductors
+Industry Sector
+Private
+Website URL
+http://www.ixana.ai
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+20,00,000
+First Year Annual Overall CTC
+40,57,000
+First Year Monthly Salary
+1,66,666.66
+First Year Overall CTC - Detailed Breakup
+Base : 20L
+Benefits : 4.8L
+Stocks : Upto 10L
+Joining Bonus : Upto 5L
+Total CTC : 40.5L
+Second Year Approx. Annual Base CTC
+22,00,000
+Second Year Approx. Annual Overall CTC
+42,57,000
+Second Year Approx. Monthly Salary
+1,83,333.33
+Second Year Approx. Overall CTC - Detailed Breakup
+Base : 22L
+Benefits : 4.8L
+Stocks : Variable
+Bonus : Variable
+Total CTC : 42.5L
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Oct-25 18:59:04
+Application Deadline
+28-Oct-25 06:00:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Silicon Engineer II
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Technical Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+PhD (Engineering)
+PhD (Science)
+PhD (Integrated)
+Discipline
+M.Engg in Semiconductor Technology
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech in Instrumentation Systems
+PhD Electrical Communication Engineering
+PhD Electrical Engineering
+PhD Electronic Systems Engineering
+M.Tech Smart Manufacturing
+M.Tech Semiconductor Technology
+M.Tech Mobility Engineering
+M.Tech Microelectronics & VLSI Design
+M.Tech Electronic Product Design
+Eligibility
+GPA 8 and above
+Skills
+Preferred Skills:
+Experience with PCB design software (Eagle, Altium Designer, OrCAD)
+Knowledge of test automation using scripting languages (e.g., Python and LabVIEW)
+Understanding of various wireless communication circuits
+Excellent communication and doc
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+Requirements
+B.Tech in Electrical Engineering, Computer Science, or related field
+experience in post-silicon validation, or GPA ≥ 9/10
+Hands-on lab experience with electrical components, analyzers, and probes
+Strong scripting or programming skills in C/C++/Python
+Familiarity with mobile SoC architecture and performance metrics
+Passion for low-power systems and next-gen hardware interfaces
+
+
+Preferred Skills:
+Experience with PCB design software (Eagle, Altium Designer, OrCAD)
+Knowledge of test automation using scripting languages (e.g., Python and LabVIEW)
+Understanding of various wireless communication circuits
+Excellent communication and documentation abilities
+
+================================================================================

@@ -1,0 +1,139 @@
+================================================================================
+JOB: Cadence Design Systems - Design Engineer II
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/555bfb64-9269-4765-ae42-5f28230f41cb
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Cadence Design Systems
+Job Domain
+Semiconductor
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Pune
+Industry
+VLSI and Semiconductors
+Industry Sector
+PSUs
+Website URL
+https://www.cadence.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+22,00,000
+First Year Annual Overall CTC
+27,00,000
+First Year Monthly Salary
+1,80,000
+First Year Overall CTC - Detailed Breakup
+Base 22,00,000
+Other 4,00,000
+Bonus 5,00,000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+04-Nov-25 17:21:01
+Application Deadline
+07-Nov-25 08:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Design Engineer II
+Shortlist Published At
+Stage 2(Pen & Paper Test-Design Engineer II) - 25 Nov 2025 15:26:46Stage 3(Technical Interview-Design Engineer II) - 25 Nov 2025 15:57:10
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Pen & Paper Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+PhD (Engineering)
+Discipline
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+PhD Electrical Communication Engineering
+PhD Electrical Engineering
+PhD Electronic Systems Engineering
+M.Tech Signal Processing
+M.Tech Electronics & Communication Engineering
+M.Tech Semiconductor Technology
+M.Tech Microelectronics & VLSI Design
+M.Tech Electronics Systems Engineering
+Eligibility
+8 CGPA
+Skills
+RTL/flow development / ASIC Design Flow, including Synthesis, Physical Designing , Timing Analysis, Power Analysis and Formal Verification
+Bond Details
+5 Lakhs Joining bonus with 2 year pay back clause
+
+---
+
+DETAILED JOB DESCRIPTION
+Job Responsibilities:
+
+
+Digital design implementation of state-of-the-art  Cadence IPs using Cadence EDA tools - Genus, Innovus, Tempus, Voltus and other backend tools
+
+
+PPA characterization and optimization of these performance-oriented and power-oriented best-in-class IP cores for advanced process nodes, such as 7nm/5nm/3nm/2nm
+
+
+Development, automation and maintenance of EDA flows and scripts for physical implementation
+
+
+Manage regression infrastructure that tracks quality of the RTL/flow development as well as the PPA of the key designs
+
+
+Participate in benchmarking PPAs for customer engagements
+
+
+Should have knowledge of complete ASIC Design Flow, including Synthesis, Physical Designing , Timing Analysis, Power Analysis and Formal Verification
+
+
+Experience with Cadence digital design tools will be an added advantage
+
+
+Hands on scripting languages like Python, Perl, TCL, Unix shell etc
+
+
+Strong understanding of digital logic design, processor design, and computer architecture is desirable
+
+
+Should have excellent communication, analytical and problem solving skills
+
+
+Should be self-motivated and good team player
+
+================================================================================

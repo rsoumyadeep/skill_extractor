@@ -1,0 +1,112 @@
+================================================================================
+JOB: Omni Design Technologies India Centre of Excellence Pvt. Ltd. - Analog/Mixed-Signal IC Design Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/b144a9b6-bae1-4d31-babc-0a0db88dde9d
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Omni Design Technologies India Centre of Excellence Pvt. Ltd.
+Job Domain
+Analog IC Design
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bengaluru, Hyderabad
+Industry
+VLSI and Semiconductors
+Industry Sector
+Private
+Website URL
+https://www.omnidesigntech.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+886404 rupees per Annum
+First Year Annual Overall CTC
+2021600 rupess per Annum
+First Year Monthly Salary
+166467 per month
+First Year Overall CTC - Detailed Breakup
+Apart from the above CTC we provide stock options to each employee, as we are not a listed company the value of stock options can’t be disclosed.
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+10-Dec-25 15:30:00
+Application Deadline
+11-Dec-25 16:00:00
+Time Left
+Closed
+Application Current State
+HR Interview-Analog/Mixed-Signal IC Design Engineer
+Shortlist Published At
+Stage 2(Technical Interview-Analog/Mixed-Signal IC Design Engineer) - 23 Dec 2025 17:47:44Stage 3(HR Interview-Analog/Mixed-Signal IC Design Engineer) - 23 Dec 2025 17:54:49
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+PhD (Engineering)
+Discipline
+M.Tech (Research) Electrical Engineering
+M.Tech Electrical Engineering
+PhD Electrical Engineering
+Eligibility
+B.Tech/M.Tech/PhD in Electronics and Electrical engineering
+Skills
+• Familiarity with high-speed, high-resolution analog-to-digital (ADC) or digital-to-analog (DAC) data converter design and building block circuits such as bandgap reference, op-amp, comparators, oscillators, DLL, PLL etc.
+• Strong intuitive and analytical understanding of transistor-level circuit design including noise and mismatch analysis
+• Experience with analog and digital behavioral modeling
+• Familiar with Cadence schematic capture, virtuoso, Spectre and/or HSPICE circuit simulation tools
+Bond Details
+None
+
+---
+
+JOB OFFER LETTER SAMPLE COPY
+CTC Breakup and Perks
+
+---
+
+DETAILED JOB DESCRIPTION
+Analog/Mixed-Signal Design Engineer focusing on high-performance analog-to-digital and digital-to-analog converters. The successful candidate in this role will design high performance transistor level circuits starting from initial specification, through design and layout supervision, silicon evaluation and characterization to final product introduction to market.
+Qualifications
+• B.Tech/M.Tech/PhD in Electronics and Electrical engineering
+• Familiarity with high-speed, high-resolution analog-to-digital (ADC) or digital-to-analog (DAC) data converter design and building block circuits such as bandgap reference, op-amp, comparators, oscillators, DLL, PLL etc.
+• Strong intuitive and analytical understanding of transistor-level circuit design including noise and mismatch analysis
+• Experience with analog and digital behavioral modeling
+• Familiar with Cadence schematic capture, virtuoso, Spectre and/or HSPICE circuit simulation tools
+• Must be familiar with layout parasitic extraction tools and layout dependent impairments in advanced CMOS processes
+• Must be able to work independently, create and adhere to schedules
+• Must possess strong written and verbal communication skills with an ability to work with teams spread across geographic locations
+• Should be able to seek help proactively
+
+================================================================================

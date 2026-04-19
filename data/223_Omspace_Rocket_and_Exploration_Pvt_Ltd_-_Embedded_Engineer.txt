@@ -1,0 +1,155 @@
+================================================================================
+JOB: Omspace Rocket and Exploration Pvt. Ltd - Embedded Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/514dfa65-5582-4b25-8d2f-4212a1830553
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Omspace Rocket and Exploration Pvt. Ltd
+Job Domain
+Technical Department
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Ahmedabad , Gujarat
+Industry
+Manufacturing
+Industry Sector
+Private
+Website URL
+https://www.omspacerocket.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+10,000,00 Anually
+First Year Annual Overall CTC
+12,000,00 Anually
+First Year Monthly Salary
+70,000-80,000 per month
+First Year Overall CTC - Detailed Breakup
+1st Year Annual Base CTC: 10,000,00 Anually
+1st Year Annual Overall CTC: 12,000,00 Anually
+1st Year Monthly Salary: 70,000-80,000 per month
+Second Year Approx. Annual Base CTC
+11,000,00 Anually
+Second Year Approx. Annual Overall CTC
+13,000,00 Anually
+Second Year Approx. Monthly Salary
+85,000-95,000 per month
+Second Year Approx. Overall CTC - Detailed Breakup
+2nd Year Approx. Annual Base CTC:11,000,00 Anually
+2nd Year Approx. Annual Overall CTC: 13,000,00 Anually
+2nd Year Approx. Monthly Salary: 85,000-95,000 per month
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+13-Nov-25 13:35:46
+Application Deadline
+15-Nov-25 08:00:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Embedded Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+12
+Maximum Job Experience
+24
+Programme
+B.Tech
+BS (Research)
+M.Tech
+M.Tech (Research)
+MS (Research)
+PhD (Engineering)
+PhD (Integrated)
+Discipline
+B.Tech in Mathematics and Computing
+BS (Research) in Mathematics
+BS (Research) in Physics
+M.Engg in Semiconductor Technology
+M.Tech (Research) Aerospace Engineering
+M.Tech (Research) Astronomy and Astrophysics Programme
+M.Tech (Research) Centre for Cryogenic Technology
+M.Tech (Research) Centre for Earth Sciences
+M.Tech (Research) Centre for High Energy Physics
+M.Tech (Research) Centre for Nano Science and Engineering
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech (Research) Mathematics
+M.Tech Aerospace Engineering
+M.Tech Astronomy and Astrophysics Programme
+M.Tech Centre for Cryogenic Technology
+PhD Mathematics
+PhD Physics
+M.Tech Centre for NanoScience and Engineering
+M.Tech Semiconductor Technology
+M.Tech Microelectronics & VLSI Design
+M.Tech Electronic Product Design
+M.Tech Computer Science & Engineering
+M.Tech Electronics Systems Engineering
+Eligibility
+Master’s (M.Tech) or PhD in Electronics, Computer Science, Electrical, Mechanical
+or Aerospace Engineering.
+
+
+Skills
+● Proficiency in C/C++ and Python for embedded programming.
+● Hands-on experience with RTOS, microcontrollers, ARM-based processors, and
+FPGA programming.
+● Knowledge of communication protocols.
+● Strong debugging and troubleshooting skills for hardware-software integration.
+Bond Details
+1 year Bond.
+
+---
+
+JD ATTACHMENTS
+Embedded JD
+
+---
+
+DETAILED JOB DESCRIPTION
+Job Summary
+We are looking for an experienced Embedded Engineer who will design, develop, and
+maintain embedded systems for spacecraft subsystems.
+
+Key Responsibilities
+● Design and implement embedded software/firmware for aerospace systems.
+● Develop and test real-time operating systems (RTOS) and applications.
+● Integrate and interface microcontrollers, actuators, and sensors with flight
+systems.
+● Conduct hardware-software integration, debugging, and validation.
+● Collaborate with GNC, propulsion, and systems engineering teams for system-level
+integration.
+● Document designs, test cases, and verification results in line with aerospace quality
+Processes.
+
+---
+
+ADDITIONAL DETAILS
+Preferred Skills
+● Familiarity with aerospace communication systems and avionics architectures.
+● Exposure to HIL/SIL testing environments.
+
+================================================================================

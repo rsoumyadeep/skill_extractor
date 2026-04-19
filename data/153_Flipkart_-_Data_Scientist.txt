@@ -1,0 +1,99 @@
+================================================================================
+JOB: Flipkart - Data Scientist
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/e41570d4-7c9d-434a-8840-c1497b79216d
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Flipkart
+Job Domain
+Data Science
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Fast Moving Consumer Goods (FMCG)
+Industry Sector
+Private
+Website URL
+https://flipkart.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+25,00,000
+First Year Annual Overall CTC
+39,65,937
+First Year Monthly Salary
+3,30,000
+First Year Overall CTC - Detailed Breakup
+Document shared
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+06-Dec-25 00:03:00
+Application Deadline
+08-Dec-25 08:00:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Data Scientist
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Technical Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+Discipline
+M.Tech Mathematics
+Eligibility
+No active backlogs
+M.Tech branches
+Skills
+Expertise in data science, problem solving, analytical rigor, data acumen, innovation, adapability
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+DS JD
+
+---
+
+DETAILED JOB DESCRIPTION
+This is an opportunity to join Flipkart's Data Science team as a Data Scientist, where you will spearhead the
+development of systemic intelligence and data-driven products. Sitting at the core of Flipkart's mission to
+build unparalleled customer experiences, your contributions will directly drive personalization, optimization,
+and innovation across India's largest e-commerce marketplace.
+
+================================================================================

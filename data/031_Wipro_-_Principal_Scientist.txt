@@ -1,0 +1,113 @@
+================================================================================
+JOB: Wipro - Principal Scientist
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/de1f338c-615b-4508-995c-516977c723b0
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Wipro
+Job Domain
+AI
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bangalore
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://www.wipro.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+NA
+First Year Annual Overall CTC
+60 LPA
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+60 LPA
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+20-Feb-26 15:06:22
+Application Deadline
+22-Feb-26 20:00:34
+Time Left
+Closed
+Application Current State
+Technical Interview-Principal Scientist
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+120
+Maximum Job Experience
+180
+Programme
+M.Tech
+PhD (Engineering)
+Discipline
+M.Tech Computational and Data Sciences
+M.Tech Artificial Intelligence
+M.Tech Centre for NanoScience and Engineering
+M.Tech Robotics and Autonomous Systems
+M.Tech Computer Science & Engineering
+Eligibility
+PhD/M.Tech
+Skills
+Ph.D. or Master’s in Computer Science, Machine Learning, Mathematics, Computational Linguistics, or a related field.
+10–15 years of industry and/or academic experience in AI/ML, with 7+ years in NLP and Generative AI.
+Demonstrated leadership in publishing top-tier research in LLMs, multimodal models, or related areas.
+Proven experience in large-scale model training, optimization, and deployment.
+Expertise in Python, with proficiency in frameworks such as Hugging Face Transformers, TensorFlow, PyTorch, Keras, JAX.
+Deep understanding of LLMs, multimodal AI, embedding models, vector databases, and agentic AI.
+Experience with MLOps/LLMOps tools (e.g., MLflow, Weights & Biases, DVC, SageMaker, Vertex AI).
+Strong system design skills, including distributed systems, data pipelines, and API development.
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+Ph.D. or Master’s in Computer Science, Machine Learning, Mathematics, Computational Linguistics, or a related field.
+10–15 years of industry and/or academic experience in AI/ML, with 7+ years in NLP and Generative AI.
+Demonstrated leadership in publishing top-tier research in LLMs, multimodal models, or related areas.
+Proven experience in large-scale model training, optimization, and deployment.
+Expertise in Python, with proficiency in frameworks such as Hugging Face Transformers, TensorFlow, PyTorch, Keras, JAX.
+Deep understanding of LLMs, multimodal AI, embedding models, vector databases, and agentic AI.
+Experience with MLOps/LLMOps tools (e.g., MLflow, Weights & Biases, DVC, SageMaker, Vertex AI).
+Strong system design skills, including distributed systems, data pipelines, and API development.
+
+---
+
+ADDITIONAL DETAILS
+NA60
+
+================================================================================

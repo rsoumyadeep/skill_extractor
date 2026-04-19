@@ -1,0 +1,154 @@
+================================================================================
+JOB: Wipro - Project Engineer - AI Scientist
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/b7fa156f-f36f-4fd7-8c52-a4e31b93b87a
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Wipro
+Job Domain
+IT Services
+Job Type
+Full Time Placement
+Job Mode
+Hybrid
+Locations
+Bangalore
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://www.wipro.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+17,04,320
+First Year Annual Overall CTC
+20,00,000
+First Year Monthly Salary
+1,66,667
+First Year Overall CTC - Detailed Breakup
+Components Compensation Per annum
+Basic 800000
+HRA 400000
+Statutory Bonus 42000
+WBP 306800
+Additional Allowance 155520
+Provident Fund (Employer) 96000
+Gratuity 42480
+MAS 7200
+Target Variable Pay 150000
+Total CTC 2000000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+12-Feb-26 16:11:48
+Application Deadline
+15-Feb-26 22:00:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Project Engineer - AI Scientist
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Engg
+M.Tech
+M.Tech (Research)
+MS (Research)
+PhD (Engineering)
+PhD (Science)
+PhD (Integrated)
+MS
+Discipline
+All
+Eligibility
+60% in 10th 12th UG and PG BE,B.Tech,ME, MTech, M.S, Dual,Integrated, Ph.D (All streams)
+Skills
+• Strong foundation in data structures, algorithms, probability, statistics, and linear algebra.
+• Solid programming skills in Python; familiarity with ML frameworks (PyTorch, TensorFlow) is ideal.
+• Coursework or project experience in:
+o Machine Learning
+o Deep Learning
+o Natural Language Processing
+o Computer Vision
+• Familiarity with Transformers, LLM architectures, attention mechanisms, or generative AI concepts.
+• Basic understanding of cloud environments (AWS/Azure/GCP) and distributed computing.
+• Strong analytical, mathematical, and problem-solving skills.
+• Curiosity to explore research papers, experiment with ideas, and build prototypes.
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+Job Role: AI Scientist
+Position Overview:
+As an AI Scientist at Wipro Innovation Network, you will work on next-generation AI systems — from generative models and LLMs to agentic AI, multimodal learning, and advanced optimization techniques.
+You will experiment, prototype, and build AI systems that solve real-world problems across industries, collaborating with researchers, engineers, and product teams.
+This role gives you exposure to research-grade models, large datasets, AI frameworks, and WIN Labs’ frontier-tech ecosystem.
+Key Responsibilities
+• Build and experiment with AI/ML models: LLMs, SLMs, generative models, NLP, CV, and multi-modal AI.
+• Develop algorithms and prototypes to solve real-world problems across different domains.
+• Train and fine-tune models on large datasets; experiment with optimizations to improve performance.
+• Work on agentic AI workflows: tool-using agents, retrieval, planning, reasoning, multi-agent orchestration.
+• Translate business problems into scalable AI/ML solutions with guidance from senior engineers.
+• Explore approaches for AI safety, robustness, red-teaming, & alignment.
+• Contribute to internal IP, accelerators, or experiments.
+• Collaborate with cross-functional teams to integrate models into production-grade systems.
+• Stay updated on the latest AI research trends and apply them in experiments.
+Required Qualifications & Skills
+• Strong foundation in data structures, algorithms, probability, statistics, and linear algebra.
+• Solid programming skills in Python; familiarity with ML frameworks (PyTorch, TensorFlow) is ideal.
+• Coursework or project experience in:
+o Machine Learning
+o Deep Learning
+o Natural Language Processing
+o Computer Vision
+• Familiarity with Transformers, LLM architectures, attention mechanisms, or generative AI concepts.
+• Basic understanding of cloud environments (AWS/Azure/GCP) and distributed computing.
+• Strong analytical, mathematical, and problem-solving skills.
+• Curiosity to explore research papers, experiment with ideas, and build prototypes.
+Preferred Attributes
+• Experience from internships, ML competitions (Kaggle), research labs, or college robotics/AI clubs.
+• Understanding of:
+o Reinforcement learning
+o Multi-agent systems
+o Retrieval-augmented generation (RAG)
+o LangChain or similar frameworks
+• Exposure to LLM fine-tuning, quantization, optimization, or prompt engineering.
+• Experience with GitHub, open-source contributions, or personal AI projects..
+
+================================================================================

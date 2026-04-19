@@ -1,0 +1,193 @@
+================================================================================
+JOB: Atlassian - Associate Data Scientist
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/c64eef54-fe77-4674-9041-a05bfdf0b841
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Atlassian
+Job Domain
+Data Science
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bengaluru/ Remote
+Industry
+Engineering and Technology
+Industry Sector
+Public
+Website URL
+https://atlassian.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+Please see below
+First Year Annual Overall CTC
+Please see below
+First Year Monthly Salary
+Please see below
+First Year Overall CTC - Detailed Breakup
+Base Pay (A) - 24,70,000 INR
+Bonus Target % - 10%
+Bonus Target Amount (B) - 2,47,000 INR
+Annual Equity (C) - 8,09,270 INR
+
+Annual Total Target Compensation (A+B+C)= 35,26,270 INR
+
+Total Equity: $37800 (Projected to vest quarterly over 4 years in equal tranches.)
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Oct-25 16:00:00
+Application Deadline
+28-Oct-25 08:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Associate Data Scientist
+Shortlist Published At
+Stage 2(Online Test-Associate Data Scientist) - 24 Nov 2025 12:05:36Stage 3(Technical Interview-Associate Data Scientist) - 24 Nov 2025 12:21:38
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+BS (Research)
+M.Tech
+M.Tech (Research)
+MS (Research)
+Discipline
+B.Tech in Mathematics and Computing
+BS (Research) in Mathematics
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Mathematics
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Mathematics
+MS (Research) in Mathematics
+M.Tech Computer Science & Engineering
+Eligibility
+2026 Graduate
+
+6+ CGPA (or equivalent)
+
+Bachelors or Masters in a Quantitative discipline (e.g. Engineering, Statistics, Mathematics, Physics, Econometrics, or Computer Science)
+
+No current/active backlogs
+Skills
+Have experience manipulating data proficiently using 1) SQL, 2) Python, or R
+Demonstrate the ability to translate business questions into technical solutions, and communicate analytical results to broad audiences
+Bond Details
+Not applicable
+
+---
+
+JD ATTACHMENTS
+Associate Data Scientist
+
+---
+
+DETAILED JOB DESCRIPTION
+About Atlassian
+At Atlassian, we're motivated by a common goal: to unleash the potential of every team. Our software products help teams all over the planet, and our solutions are designed for all types of work. Team collaboration through our tools makes what may be impossible alone, possible together.
+
+
+We believe that the unique contributions of all Atlassians create our success. To ensure that our products and culture continue to incorporate everyone's perspectives and experience, we never discriminate based on race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status. All your information will be kept confidential according to EEO guidelines.
+
+
+To learn more about our culture and hiring process, visit go.atlassian.com/crh.
+
+
+Working at Atlassian
+Atlassians have the flexibility to work where they can collaborate most effectively with their team, whether at home, one of our global offices, or both. As a distributed-first company, all interviews are conducted virtually. We hire in any country where we have a legal entity. Learn how we work at go.atlassian.com/distributed.
+
+
+Your Future Org
+
+
+Does the thought of being able to influence business decisions excite you? Do you love solving tough problems, and flourishing with variety? Come join Atlassian's growing Analytics & Data Science team and use your skills to have an impact on millions of teams around the world! Atlassian makes it easier for the world to collaborate and build together, and YOU could help Atlassian do that! We’re growing fast, so there’ll be tons of opportunities for you to make an impact and take charge of the direction of your work.
+
+
+In the Analytics and Data Science team, Your Opportunities are BIG.
+Using your eye for business and creative problem-solving, you will build data products and generate insights allowing our business and product leaders to make better-informed decisions. 
+
+
+Unearth insights from large volumes data and communicate those insights in a way that persuades action by senior leaders, product managers, designers, marketers and engineers.
+
+
+You'll use SQL, R, and/or Python often, but you won't be at your desk all day. Part of your job is to improve the data literacy of your stakeholders teaching people when, where, and how to harness the data available.
+
+
+Super-launch your career on a high-performing team while gaining an invaluable introduction to the role of analytics and data science at a fast-growing global technology giant
+
+
+On your first day, we'll expect you to:
+Have experience manipulating data proficiently using 1) SQL, 2) Python, or R Demonstrate the ability to translate business questions into technical solutions, and communicate analytical results to broad audiences
+
+
+Have a passion for collaborating with cross-functional team members, like engineers, product managers, designers, and other analysts
+
+
+Qualifications:
+2026 Graduate
+
+
+6+ CGPA (or equivalent)
+
+
+Bachelors or Masters in a Quantitative discipline (e.g. Engineering, Statistics, Mathematics, Physics, Econometrics, or Computer Science)
+
+
+No current/active backlogs
+
+
+Benefits and Perks:
+Atlassian offers a wide range of perks and benefits designed to support you, your family and to help you engage with your local community. Our offerings include health and wellbeing resources, paid volunteer days, and so much more. To learn more, Atlassian Internships: Students and New Grads | Atlassian Atlassian Benefits for Global Employees | Atlassian
+
+---
+
+ADDITIONAL DETAILS
+Associate Data Scientist (Open for Bachelor's & Master's students)
+Job posting link: https://global-invite-atlassian.icims.com/jobs/23051/job?mode=view 
+
+
+As part of the preparation for this role, we require all students to complete this SQL course before the test and interviews - https://www.codecademy.com/learn/learn-sql.  
+
+It is mandatory to apply on this Job Posting Link too
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Did you complete this 2nd Level of Registration (https://global-invite-atlassian.icims.com/jobs/23051/job?mode=view) (Multiple Choice)
+
+================================================================================

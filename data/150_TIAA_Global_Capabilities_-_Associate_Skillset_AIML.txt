@@ -1,0 +1,158 @@
+================================================================================
+JOB: TIAA Global Capabilities - Associate (Skillset –AIML)
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/20010efd-4605-4645-aac2-d84dd9d47c4d
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+TIAA Global Capabilities
+Job Domain
+Technical
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Pune or Mumbai
+Industry
+Financial Services
+Industry Sector
+Private
+Website URL
+https://www.tiaa.org/public
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+18,00,000
+First Year Annual Overall CTC
+18,86,400
+First Year Monthly Salary
+1,57,200
+First Year Overall CTC - Detailed Breakup
+Fixed CTC INR 18,00,000 + Retrials INR 86400
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+01-Dec-25 01:22:56
+Application Deadline
+09-Dec-25 08:00:09
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Associate (Skillset –AIML)
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+Discipline
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Artificial Intelligence
+Eligibility
+Student should be qualified from the Shortlisted Degrees and Should not have any Active Backlog.
+Should be Batch 2026 Pass outs.
+Willing to Relocate to Pune or Mumbai as the Job Location.
+
+M.Tech in Computational and Data Sciences
+M.Tech in Computer Science and Engineering
+M.Tech in Artificial Intelligence
+M.Tech-Computer Science and Automation
+
+Skills
+as Mentioned in JD
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Associate (Skillset AIML)
+
+---
+
+DETAILED JOB DESCRIPTION
+ABOUT THE COMPANY
+About TIAA
+TIAA(Teachers Insurance and Annuity Association)is a leading provider of financial services founded in 1918 by Andrew Carnegie. With over $1.3 trillion in assets under management(as of September 30,2024),TIAA serves more than 5million active and retired employees in academic, research, medical, cultural, and government fields. The company offers a wide range of financial products and services, including retirement plans, investment solutions, banking services, IRAs, life insurance, and wealth management services. Known for its nonprofit heritage and commitment to sustainable investing, TIAA has consistently received high ratings for financial strength and stability from independent rating agencies.
+
+
+About TIAA Global Capabilities
+TIAA Global Capabilities delivers high-quality global technology, operations and shared services to TIAA's businesses and associates. TIAA Global Capabilities' associates work closely with colleagues in the U.S. and around the world to meet the needs of its ever-growing client base. Since its inception, we have played a vital role within the broader organization and has delivered exceptional performance with highest level of operational excellence.
+ 
+About Nuveen
+Nuveen is the investment management arm of TIAA. It is one of the largest global asset managers with specialist knowledge across a wide array of asset classes, including fixed income, equities and alternatives. Nuveen is driven not only by the independent investment processes across the firm, but also the insights, risk management, analytics and other tools and resources a truly world-class platform provides. As a global asset manager, our mission is to work in partnership with our clients to create outcome-focused solutions to help them secure their financial future. For more information about the firm please visit our website at www.Nuveen.com
+
+
+Overview of the Role:
+We are a forward-thinking team committed to delivering transformative business outcomes leveraging both traditional AI/ML and next-gen technologies like Generative AI. Join us to be part of a collaborative, innovative, and fast-paced environment where your ideas, contributions and skills will shape the future of asset management.
+
+
+Job Description
+• Work on key AI products and AI projects, including Generative AI, Machine Learning and deep learning.
+• Collaborate with cross functional teams to design, build and deploy AI models that directly impact business outcomes.
+• Interact and fine tune LLMs (Large Language Models) and SLMs (Small Language Models) to address diverse use cases including predictive analysis, conversational AI and recommendation systems.
+• Create, test and optimize prompt engineering strategies to enhance performance of Generative AI models.
+• Apply strong machine learning concepts and principles to innovate across various line of businesses.
+• Deep dive into datasets to perform exploratory data analysis, extract insights, train models, and develop end to end MDLC pipelines.
+• Stay updated with latest trends in AI and dynamically use new methodologies and tools to maintain competitive edge.
+• Participate in Hackathons, Kaggathons, brainstorming sessions to drive innovation.
+
+
+
+
+Technical Skills & Experience Required
+• Education: Grads/Post-Grads with a degree in Data Science , AI or related field
+• AI/ML fundamentals: Solid understanding of machine learning concepts, statistics, deep learning, NLP, algorithms and frameworks.
+• Gen AI Expertise: Experience or string interest in working on Gen AI including prompt engineering, LLM fine tuning and model evaluations
+• Programming Skills: Proficient in Python or R and familiarity with libraries like PyTorch, SykitLearn, TensorFlow, HuggingFace etc. Knowledge of APIs and front nd visualizations would be beneficial.
+•Problem-Solving: Creative thinkers with a skill to break down complex problems into actionable solutions, and work in a dynamic environment with proactiveness
+•Collaboration: Team players who thrive in dynamic, collaborative, and learning focused environment.
+•Passion for AI: A strong desire to stay ahead of the curve in AI advancements
+•Other Skills: Big data technologies such as Apache Hadoop and Apache Spark
+
+
+Why join us?
+• Hands-on experience: Work among team of bright domain experts, technologists and data scientists on impactful projects that directly contribute to business success.
+• Learning Opportunities: Access to training programs and resources at the enterprise level to enhance your expertise in cutting edge technologies.
+• Innovative Environment: Be part of an innovative, curious, creative and collaborative team.
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Do you have any expertise in AI? (Multiple Choice)
+
+Q2. Have you done any courses in AI at IISc? (Multiple Choice)
+
+Q3. Have you done any projects in AI? (Multiple Choice)
+
+================================================================================

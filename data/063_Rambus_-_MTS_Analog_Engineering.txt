@@ -1,0 +1,130 @@
+================================================================================
+JOB: Rambus - MTS Analog Engineering
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/b3e045d0-fe7f-4d1d-ae9f-44deb2261aea
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Rambus
+Job Domain
+Analog Engineering
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+VLSI and Semiconductors
+Industry Sector
+Private
+Website URL
+https://www.rambus.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+NA
+First Year Annual Overall CTC
+NA
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+Annual CTC:
+
+RSUs offered $ 15,000.00 for 4years
+
+
+Guaranteed Compensation 15,50,000
+
+Bonus 8% 1,24,000
+
+Gratuity 37260
+
+Insurance Benefits 87345
+
+Total Cost to Company 17,98,605/-
+
+Joining Bonus 1,00,000/-
+
+RSU Value each year ~3,37,500 INR conversion
+
+Extended Benefits 82,100/-
+
+1st Year comp from Rambus 23,18,205/-
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+06-Feb-26 18:07:44
+Application Deadline
+12-Feb-26 10:01:01
+Time Left
+Closed
+Application Current State
+Technical Interview-MTS Analog Engineering
+Shortlist Published At
+Stage 2(Pen & Paper Test-MTS Analog Engineering) - 17 Feb 2026 14:42:30Stage 3(Technical Interview-MTS Analog Engineering) - 23 Feb 2026 16:47:22
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Pen & Paper Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+Discipline
+M.Tech Electrical Engineering
+M.Tech Semiconductor Technology
+M.Tech Microelectronics & VLSI Design
+M.Tech Electronics Systems Engineering
+Eligibility
+9 & above CGPA
+Skills
+Skill set : Analog Design
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Rambus Full Time
+
+---
+
+DETAILED JOB DESCRIPTION
+JOB DESCRIPTION
+OVERVIEW
+Rambus, a premier chip and silicon IP provider making data faster and safer, is seeking to hire an exceptional Member of Technical Staff (MTS), Analog Engineering, to join our Memory Interface Chip (MIC) group in Bangalore, In this role, you will be working with some of the brightest inventors and engineers in the world developing products that make data faster and safer.
+As an MTS, you’ll play a pivotal role in designing and contributing to achieving the world class analog design. In this full/part-time role, you’ll report directly to our Manager Analog Engineering. Our MIC is dedicated to innovating and leading the memory interface chip industry, and your contributions will be instrumental in Register clock driver (RCD) and Clock driver (CKD) design
+Rambus offers a flexible work environment, embracing a hybrid approach for most office-based roles. Employees are encouraged to spend an average of at least three days per week onsite, allowing for two days of remote work.
+Responsibilities:
+· Designs, develops, and builds analog circuits in advanced process nodes for analog and mixed signal IPs.
+· Designs floorplans, performs circuit design, extracts chip parameters, and simulates analog behavior models, creates test plans to verify design according to circuit and block microarchitecture specifications and evaluates test results.
+· Verifies functionality to optimize circuit for power, performance, area, timing, and yield goals.
+· Collaborates cross functionally to report design progress and collects, tracks, and resolves any performance and circuit design issues.
+· Optimizes performance, power, area, and reduces leakage of circuits. Works with architecture and layout team to design circuits for best functionality, robustness, and electrical capabilities
+
+================================================================================

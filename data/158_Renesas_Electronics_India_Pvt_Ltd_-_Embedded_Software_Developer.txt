@@ -1,0 +1,149 @@
+================================================================================
+JOB: Renesas Electronics India Pvt. Ltd. - Embedded Software Developer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/53784601-c5e3-4191-8e16-63a4c1e9ad24
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Renesas Electronics India Pvt. Ltd.
+Job Domain
+Embedded Software Developer
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Engineering and Technology
+Industry Sector
+Private
+Website URL
+https://www.renesas.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+18,00,000
+First Year Annual Overall CTC
+20,52,000
+First Year Monthly Salary
+1,50,000
+First Year Overall CTC - Detailed Breakup
+Base pay: 1800000 + Variable Pay 144000 = 1944000 + PF 108000 = Annual CTC - 2052000
+Sign on Bonus - 600000 - Split into 2 equal installments, paid during 1st and 13th month salary
+Equity: INR 503456 - Vested for 3 years
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+02-Dec-25 09:59:23
+Application Deadline
+05-Dec-25 08:50:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Embedded Software Developer
+Shortlist Published At
+Stage 2(Technical Interview-Embedded Software Developer) - 26 Dec 2025 12:39:08
+
+---
+
+APPLICATION STAGES
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+M.Tech (Research)
+MS (Research)
+Discipline
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech Computer Science and Engineering
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech Artificial Intelligence
+M.Tech Electronics & Communication Engineering
+M.Tech Semiconductor Technology
+M.Tech Microelectronics & VLSI Design
+M.Tech Computer Science & Engineering
+M.Tech Electronics Systems Engineering
+Eligibility
+• B.E./B.Tech or M.E./M.Tech in Electronics, Computer Science, or related field.
+• Strong programming skills in C/C++ and embedded Linux.
+• Hands-on experience with embedded system development.
+• Familiarity with AI/ML frameworks (TensorFlow Lite, PyTorch Mobile) and hardware acceleration.
+• Knowledge of python is an added plus.
+• Knowledge of automotive communication protocols and working knowledge with Linux/Android/FreeRTOS/Zephyr.
+
+Skills
+• B.E./B.Tech or M.E./M.Tech in Electronics, Computer Science, or related field.
+• Strong programming skills in C/C++ and embedded Linux.
+• Hands-on experience with embedded system development.
+• Familiarity with AI/ML frameworks (TensorFlow Lite, PyTorch Mobile) and hardware acceleration.
+• Knowledge of python is an added plus.
+• Knowledge of automotive communication protocols and working knowledge with Linux/Android/FreeRTOS/Zephyr.
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+About Us
+We are driving innovation in next-generation automotive platforms, delivering cutting-edge solutions for ADAS, Fusion, and zonal architectures. Our team works on Renesas R-Car SoCs, enabling high-performance, low-power automotive systems with advanced AI capabilities.
+Role Overview
+As an Embedded Software Developer, you will design, develop, and optimize software across the entire stack—from secure bootloaders to AI-driven applications—on R-Car SoCs.
+This role demands strong expertise in embedded systems, performance tuning, and AI optimization for automotive-grade platforms.
+Key Responsibilities
+• Develop Bootloader, Linux, Android and QNX enablement for multi-core SoCs.
+• Implement fast boot strategies and optimize boot time for automotive use cases.
+• Design and implement software for heterogeneous compute units (CPU, GPU, DSP, NPU).
+• Optimize low-level drivers and middleware for performance and reliability.
+• AI Optimization & Applications
+• Port and optimize AI models for R-Car accelerators using Renesas AI toolchains.
+• Implement quantization, pruning, and performance tuning for real-time inference.
+• Develop reference applications for ADAS and cockpit domains leveraging CNN, ISP, and vision processing pipelines.
+• System Integration & Validation
+• Collaborate with hardware teams for SoC bring-up and validation.
+• Conduct benchmarks and profiling using toolchains and simulators.
+• Ensure compliance with automotive standards (ISO26262, ASPICE).
+Required Qualifications
+• B.E./B.Tech or M.E./M.Tech in Electronics, Computer Science, or related field.
+• Strong programming skills in C/C++ and embedded Linux.
+• Hands-on experience with embedded system development.
+• Familiarity with AI/ML frameworks (TensorFlow Lite, PyTorch Mobile) and hardware acceleration.
+• Knowledge of python is an added plus.
+• Knowledge of automotive communication protocols and working knowledge with Linux/Android/FreeRTOS/Zephyr.
+Preferred Skills
+• Understanding of SoC architecture and multi-threaded programming.
+• Experience with AI compiler toolchains and performance optimization.
+What We Offer
+• Opportunity to work on industry-first 3nm automotive SoCs with advanced AI capabilities.
+• Access to Renesas AI toolchains and cutting-edge development platforms.
+• Mentorship and global collaboration across automotive innovation teams.
+• Competitive compensation, flexible work options, and career growth in automotive technology.
+
+================================================================================

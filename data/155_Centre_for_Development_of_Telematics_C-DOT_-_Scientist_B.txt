@@ -1,0 +1,218 @@
+================================================================================
+JOB: Centre for Development of Telematics (C-DOT) - Scientist ‘B’
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/381f7120-2629-4533-80fd-f6091c917c63
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Centre for Development of Telematics (C-DOT)
+Job Domain
+R & D
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Delhi/ Bangalore
+Industry
+Telecommunications
+Industry Sector
+Government
+Website URL
+http://www.cdot.in
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+22,35,110.28
+First Year Annual Overall CTC
+22,35,110.28
+First Year Monthly Salary
+1,40,015.00
+First Year Overall CTC - Detailed Breakup
+Monthly Annually
+Particulars
+Basic Pay (initial) 56,100.00 6,73,200.00.
+Dearness Allowance 59% of Basic Pay 33,099.00 3,97,188.00.
+Employerʼs contribution to Provident Fund 10,704.00 1,28,448.00.
+Lease 40% of Basic Pay* 22,440.00 2,69,280.00.
+Conveyance allowance 17,172.00 2,06,064.00.
+Newspaper & periodicals 500 6,000.00.
+Prof. knowledge update allowance 25,000.00.
+SUB TOTAL - A 1,40,015.00 17,05,180.00.
+
+Flexible benefits
+Leave Travel Concession (estimated) 55,000.00.
+Medical Reimbursement 2 months Basic Pay) 1,12,200.00.
+Membership Professional Bodies 9,905.00.
+Telephone bills and internet Rs.3000 p.m.+taxes) 42,480.00.
+Self development training (estimated) 25,000.00.
+Leave encashment 30 days of Basic+DA 89,199.00.
+Gratuity 15 days of Basic+DA 51,461.00.
+Interest subsidy housing 64,164.38.
+Interest subsidy conveyance 29,115.90.
+Laptop Rs.75000 + taxes, once in 4 years) 22,125.00.
+Canteen subsidy 26,400.00.
+Employerʼs contribution to SRC 2,880.00
+SUB TOTAL - B 5,29,930.28
+
+TOTAL (A +B) 22,35,110.28
+
+Note: Lease 40% has been assumed in lieu of HRA 30%.
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Nov-25 10:43:00
+Application Deadline
+08-Dec-25 10:00:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Scientist ‘B’
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Pen & Paper Test
+Assignment
+Group Discussion
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+Discipline
+M.Tech Computer Science and Engineering
+M.Tech Signal Processing
+M.Tech Electronics & Communication Engineering
+M.Tech Computer Science & Engineering
+Eligibility
+Qualification: BE/B.Tech/ME/M.Tech in Computer Science & Engineering or
+Electronics & Communication Engineering. Where ECE is not a standalone
+department, Electrical Engineering may be considered if demonstrably
+equivalent to ECE.
+
+Stream continuity: For ME/M.Tech in EC/CS, BE/B.Tech must also be EC/CS;
+cross-stream combinations are not considered.
+
+Academic thresholds: Minimum 70% or 7.0/10 CGPA in B.E/B.Tech and in the
+highest qualification acquired. Screening will consider up to 6th semester for
+UG and up to 2nd semester for PG; final eligibility requires overall 70%/7.0
+CGPA upon completion.
+
+Attempts/backlogs: No backlogs; all subjects in every qualification must be
+cleared in the first and single attempt.
+
+Nationality: Indian nationals only.
+
+Age criteria (as on 01 August 2026):
+
+For BE/BTech:
+a) GEN/EWS Category : Not exceeding 25 years.
+b) OBC Category : Not exceeding 28 years.
+c) SC/ST/PH Category : Not exceeding 30 years.
+
+For ME/Mtech:
+a) GEN/EWS Category : Not exceeding 27 years.
+b) OBC Category : Not exceeding 30 years.
+c) SC/ST/PH Category : Not exceeding 32 years.
+
+Skills
+Mentioned in the JD above
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+CDOT Document
+
+---
+
+JOB OFFER LETTER SAMPLE COPY
+
+---
+
+DETAILED JOB DESCRIPTION
+ROLE TITLE: SCIENTIST-‘B’ (Electronics & Communication Engineering)
+Key accountabilities:
+
+
+• Understanding product requirements, architecting, a suitable solution aften an
+analysis of different alternatives.
+• Design and/or testing of a board, including PCB design in CAD tool
+environment. The board would typically be a microprocessor based board,
+with a variety of electrical and optical network interfaces, and could involve
+RF/DSP/Fibre-optical system components/network processors, etc.
+• Desing, coding, simulation and testing of FPGA/PLD
+• Testing of the design and design related procured components eg. Optical
+modules, amplifiers, couplers, etc.
+• Validation of a product/solution and ensuring its working in the customer
+environment.
+• Documentation of the design, to facilitate mass production of the design and
+technology transfer.
+
+
+Role requirement behaviors: Team spirit, proficiency towards using latest hardware
+design and testing tools
+
+
+ROLE TITLE: SCIENTIST- ‘B’ (Computer Science Engineering)
+Key accountabilities:
+
+
+• Well versed with computer network and system programming having excellent
+software development skills and problem tackling approach.
+• Sound base in computer design and architecture.
+• Basic knowledge in RISC, CISC architecture types, and variants of
+processors based on Intel, MIPS and Power PC.
+• In depth knowledge in operating system concepts viz memory management,
+disk scheduling, multithreading, parallel processing, use of semaphores and
+tackling different deadlock situations, ways to detect and avoid them optimally.
+• Developer having decent knowledge in database concepts and normalization,
+having concrete idea about use of ER diagrams.
+• Expertise in C/C++/Python/MEAN stack programming and sound knowledge
+in optimum algorithm and design patterns.
+• Expertise in objective C & Swift is desirable.
+• Exposure in J2SE, J2EE, web technologies and Linux environment is
+desirable.
+• Exposure to Basic data science, NLP, Machine Learning, Deep Learning
+(CNN,RNN,LSTM) is desirable
+
+
+Role requirement behaviors: Analytical thinking, Learning Ability, Teamwork,
+Continuous Learning
+
+---
+
+ADDITIONAL DETAILS
+Ensure to refer to attached CDOT Document for login credentials to login to the portal and also for more information.
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Completed applying on CDOT portal using link : https://cdotrecruitment.cdot.in/campusrecruitment/college_login.jsp;jsessionid=D32732C6DCA9F330E5B12743E0160DB9 (Multiple Choice)
+
+================================================================================

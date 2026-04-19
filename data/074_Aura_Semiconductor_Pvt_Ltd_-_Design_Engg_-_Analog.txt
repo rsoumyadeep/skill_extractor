@@ -1,0 +1,126 @@
+================================================================================
+JOB: Aura Semiconductor Pvt Ltd - Design Engg - Analog
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/c6d28997-11a9-4e51-837e-ed7532286b05
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Aura Semiconductor Pvt Ltd
+Job Domain
+Fresher
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bangalore
+Industry
+VLSI and Semiconductors
+Industry Sector
+Private
+Website URL
+https://www.aurasemi.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+17,75,000
+First Year Annual Overall CTC
+20,00,000
+First Year Monthly Salary
+1,45,000
+First Year Overall CTC - Detailed Breakup
+TOTAL Cost to Company (INR) (A) 20,00,000
+Relocation Bonus (one-time) (B) 2,00,000
+Joining Bonus (One-time) (C) 3,00,000
+TOTAL CTC (A+B+C) 25,00,000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+22-Jan-26 12:00:53
+Application Deadline
+27-Jan-26 13:30:23
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Design Engg - Analog
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Pen & Paper Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+Discipline
+M.Tech Computer Science and Engineering
+M.Tech Electronic Systems Engineering
+M.Tech in Instrumentation Systems
+Eligibility
+M.Tech
+Skills
+Engineering
+Bond Details
+NO Bond
+
+---
+
+JD ATTACHMENTS
+Analog Design Engg
+
+---
+
+DETAILED JOB DESCRIPTION
+Job Overview Duties include
+• As an Analog design engineer, the designer will design analog/mixed signal circuits in the fields of RF, Audio, Power Management, Data Converters, Clock synthesizers and Jitter Attenuators.
+• Run extensive simulations on the design to fully verify functionality and performance before fabrication and will validate the chip in the lab.
+• Explore alternative design techniques to meet the chip specifications while minimizing device costs with ample opportunities to innovate during the design cycle that can lead to patentable ideas.
+• Detailed design cycle that spans not only circuit design and simulation but also layout support, test, evaluation and debugging of prototype ICs and design support for mass production.
+• Plays a lead role in product definition and be responsible for designing significant blocks of the chip, including chip architecture and chip top integration.
+• Will be working with small, nifty, focused, world class design team at Aura in a creative role.
+
+---
+
+ADDITIONAL DETAILS
+ESSENTIAL FUNCTIONS
+• Be thorough with circuit design and signal processing fundamentals.
+• Is a good team player and works well with internal and external partners, shares knowledge with the team and always eager to stay up to date with recent design practices.
+• Provides guidance to layout designers for sensitive custom layouts.
+• Simulates for the block-level and top-level specifications, design and layout.
+• Be hands on in post-silicon debug, lab testing, characterization and troubleshooting.
+REQUIREMENTS
+• Candidates preferred from premier institutes for fresher and all experience levels
+• Relevant background and experience in Analog/mixed-signal and/or RF IC design.
+• Knowledge in behavioural modelling, Verilog-AMS & Matlab programming.
+• Knowledge in Mixed mode simulation and SOC integration.
+• Advanced system knowledge is preferable.
+• Excellent written and verbal presentation skills.
+
+================================================================================

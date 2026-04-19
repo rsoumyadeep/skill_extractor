@@ -1,0 +1,149 @@
+================================================================================
+JOB: EdgeFleet.AI - Full Stack Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/bcee0929-9361-4f5b-8f95-5e2aba6d34ba
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+EdgeFleet.AI
+Job Domain
+Technology
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+New Delhi
+Industry
+Engineering and Technology
+Industry Sector
+Private
+Website URL
+https://www.edgefleet.ai/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+10,00,000
+First Year Annual Overall CTC
+12,00,000
+First Year Monthly Salary
+83,333.33
+First Year Overall CTC - Detailed Breakup
+12 lakhs - 10 lakhs (Base) + 2 lakhs (Variable)
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+2
+Application Start Time
+09-Mar-26 15:20:12
+Application Deadline
+13-Mar-26 10:01:22
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Full Stack Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Assignment
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+Discipline
+M.Tech Computer Science and Engineering
+M.Tech Computer Science and Automation
+Eligibility
+CGPA : 7.5
+Skills
+Strong fundamentals in programming, data structures, and problem-solving
+Solid understanding of web applications end-to-end
+Experience with JavaScript / TypeScript
+Hands-on with frontend frameworks (React, Next.js, or similar)
+Experience building RESTful APIs and working with asynchronous systems
+Familiarity with databases (PostgreSQL, MySQL, MongoDB, etc.)
+Working knowledge of Git and collaborative workflows
+Comfortable working in fast-paced, evolving environments
+Clear communication and a strong team-first mindset
+Openness to learning new tools, frameworks, and technologies
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+FullStack_EdgeFleetJD
+
+---
+
+DETAILED JOB DESCRIPTION
+EdgeFleet.AI is Hiring – Full-Stack Engineer
+Where intelligent systems meet scalable software.
+Build the backbone of next-generation AI products powering vision, language, and real-time intelligence at the edge.
+🚀 About EdgeFleet.AI
+At EdgeFleet.AI, we are building a unified intelligence layer for autonomous and edge systems — where AI models, real-time data, and user-facing platforms come together seamlessly.
+Our products sit at the intersection of Computer Vision, AI infrastructure, and scalable web platforms, enabling machines to not just perceive the world, but to reason, communicate, and act.
+🚀 Role Details
+Location: New Delhi, India
+Type: Full-Time (On-site)
+🚀 About the Role
+We’re looking for a curious, driven Full-Stack Engineer who enjoys building end-to-end systems — from robust backend services to intuitive frontend interfaces.
+This role is ideal for someone who:
+Loves owning features from idea deployment→
+Enjoys working close to AI/ML systems and real-world data
+Values clean code, performance, and scalability
+Thrives in a fast-moving, collaborative startup environment
+You’ll work closely with AI engineers, product teams, and designers to build platforms that power EdgeFleet’s AI-driven products.🛠️
+What You’ll Do
+Design, develop, and maintain scalable backend services and REST APIs
+Build and integrate frontend interfaces with backend and AI systems
+Work closely with AI/ML teams to expose models via APIs and dashboards
+Implement real-time and data-driven features for AI-powered applications
+Write clean, readable, and maintainable code
+Optimize system performance, reliability, and scalability
+Debug issues, refactor legacy components, and improve overall code quality
+Participate in architecture discussions and technical decision-making
+✅ What We’re Looking For
+Strong fundamentals in programming, data structures, and problem-solving
+Solid understanding of web applications end-to-end
+Experience with JavaScript / TypeScript
+Hands-on with frontend frameworks (React, Next.js, or similar)
+Experience building RESTful APIs and working with asynchronous systems
+Familiarity with databases (PostgreSQL, MySQL, MongoDB, etc.)
+Working knowledge of Git and collaborative workflows
+Comfortable working in fast-paced, evolving environments
+Clear communication and a strong team-first mindset
+Openness to learning new tools, frameworks, and technologies
+🚀 Bonus (Nice to Have)
+Exposure to Python-based backends (FastAPI, Flask, Django)
+Experience integrating with AI/ML services or inference pipelines
+Familiarity with cloud platforms (AWS, GCP, Azure)
+Basic understanding of Docker / containerized deployments
+ Interest in AI, Computer Vision, or real-time systems
+
+================================================================================

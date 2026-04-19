@@ -1,0 +1,111 @@
+================================================================================
+JOB: Applied Materials - Product Development Engineer - Electrical
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/040eec5e-50b2-4343-9c39-b6dd58c4cdf5
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Applied Materials
+Job Domain
+Core
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Manufacturing
+Industry Sector
+Private
+Website URL
+https://www.appliedmaterials.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+17,07,480
+First Year Annual Overall CTC
+20,36,093
+First Year Monthly Salary
+1,42,290
+First Year Overall CTC - Detailed Breakup
+Base Salary 1707480
+PF Employer contribution per month-12% of Basic 112694
+Contribution to Gratuity-4.81%of Basic 45171.3834
+Target Incentive 170748
+CTC 2036093.383
+Sign on Bonus** INR 750000 **Sign-on bonus shall be payable in three installments. Will be eligible for the first installment of INR 2,50,000 on completion of 30 days of employment with the company. Will be eligible for the second installment of INR 2,50,000 on completion of one (1) year of employment with the company. Will be eligible for the third installment of INR 2,50,000 on completion of one (2) year of employment with the company.
+RSU*** 10000 USD (#25% of the RSUs will vest after completion of one (1) year and 6.#25% of the award will vest every three (3) months thereafter
+Second Year Approx. Annual Base CTC
+Based on the performance
+Second Year Approx. Annual Overall CTC
+Based on the performance
+Second Year Approx. Monthly Salary
+Based on the performance
+Second Year Approx. Overall CTC - Detailed Breakup
+Based on the performance
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+07-Nov-25 14:30:00
+Application Deadline
+08-Nov-25 09:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Product Development Engineer - Electrical
+Shortlist Published At
+Stage 2(Technical Interview-Product Development Engineer - Electrical) - 26 Dec 2025 15:57:01
+
+---
+
+APPLICATION STAGES
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Engg
+M.Tech
+M.Tech (Research)
+Discipline
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+Eligibility
+7 CGPA or 70% and above in X, XII, UG & PG
+Skills
+RF, Electromagnetics theory, Power distribution, Embedded system design
+Bond Details
+No
+
+---
+
+DETAILED JOB DESCRIPTION
+ RF, Electromagnetics theory
+ Transmission line theory & design considerations
+ RF Power coupling & impedance matching
+ RF filter theory & design
+ RF circuit modeling & EM field simulation using industry CAD tools
+ Embedded system design
+ Power distribution
+ Digital logic implementation
+ Safety and interlock design
+ Systems approach to component interface definition
+ Must have 7 CGPA or 70% and above in X, XII, UG & PG
+
+================================================================================

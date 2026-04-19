@@ -1,0 +1,147 @@
+================================================================================
+JOB: Blinq Mobility Private Limited - Swap Station Integration Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/9cbe2582-4ba4-4764-9cd9-5c88188dbc22
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Blinq Mobility Private Limited
+Job Domain
+Mechanical engineering
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Gurugram
+Industry
+Automotive & Auto Ancillaries
+Industry Sector
+Private
+Website URL
+https://www.blinqmobility.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+600000 LPA
+First Year Annual Overall CTC
+800000 LPA
+First Year Monthly Salary
+50,000
+First Year Overall CTC - Detailed Breakup
+₹8.0 LPA (Gross: ₹6.0 LPA + ESOPS, Benefits & Performance-based components)
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+-
+Application Deadline
+-
+Time Left
+-
+Application Current State
+PUBLISHED
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+Discipline
+M.Tech (Research) Robert Bosch Centre for Cyber Physical Systems
+M.Tech Mechanical Engineering
+M.Tech Smart Manufacturing
+M.Tech Semiconductor Technology
+M.Tech Mobility Engineering
+M.Tech Electronic Product Design
+Eligibility
+Minimum CGPA: 6.5
+Mechanical Engineering, Production & Industrial Engineering (PIE),
+Mechanical Engineering with specialization in Automotive Engineering (MAM) , Electrical Engineering
+
+Skills
+Relevant Skills / Certifications (Optional): Robotics, Automation, Control Systems, Rail-Guided Motion Systems
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Swap Station Integration Engineer
+
+---
+
+DETAILED JOB DESCRIPTION
+Company Overview
+Blinq Mobility is a fast-growing startup revolutionising the urban commute by addressing two
+fundamental challenges in electric mobility:
+● Reducing charging downtime through proprietary quick battery-swapping technology
+● Building purpose-built, lightweight electric vehicles using advanced plastic–composite
+material architectures
+Our vehicles and infrastructure are designed ground-up for high-utilisation urban operations,
+with a strong emphasis on engineering-led product development.
+Why Join Blinq Mobility?
+At Blinq, you will work on production-critical hardware systems that directly enable
+next-generation electric mobility. We offer:
+● Ownership of real, deployed automation systems
+● Exposure to vehicle, infrastructure, and system-level engineering
+● Mentorship from senior engineers with deep industry and motorsport backgrounds
+● A startup culture focused on hands-on execution, rapid iteration, and engineering-first
+decision-making
+Job Role
+As a Swap Station Integration Engineer, you will be responsible for designing and
+developing the rail-guided automation systems used in Blinq Mobility’s battery-swapping
+platform. You will work on precise mechanical motion, actuation, sensing, and system
+integration to enable fast, safe, and reliable battery swaps.
+
+---
+
+ADDITIONAL DETAILS
+Key Responsibilities
+● Design and develop the rail-guided motion system for Blinq Mobility’s
+battery-swapping platform, ensuring precise and repeatable battery movement from
+the vehicle latching mechanism to the charging bay
+● Automate the end-to-end battery-swapping process, including alignment, transfer,
+latching, and secure placement
+● Integrate mechanical systems with actuators, sensors, and control logic for smooth
+and reliable operation
+● Collaborate closely with mechanical, electrical, and software teams to optimise
+system performance and system-level integration
+● Conduct testing, validation, and troubleshooting of rail-guided and automation
+systems under varied operational and environmental conditions
+● Drive continuous improvement initiatives focused on swap speed, positional
+accuracy, robustness, and operational reliability
+Preferred Student Background
+This role is best suited for students with hands-on experience in:
+● Robotics and automation projects
+● Mechatronic system design involving actuators, sensors, and motion control
+● Rail-guided or linear motion systems
+● Hardware-focused engineering teams or projects
+
+================================================================================

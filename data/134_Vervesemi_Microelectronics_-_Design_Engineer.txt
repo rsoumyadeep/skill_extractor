@@ -1,0 +1,100 @@
+================================================================================
+JOB: Vervesemi Microelectronics - Design Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/e2037c7e-2a54-4579-a47f-76a4c84f3621
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Vervesemi Microelectronics
+Job Domain
+Design
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Noida
+Industry
+VLSI and Semiconductors
+Industry Sector
+Private
+Website URL
+https://vervesemi.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+8,40,000
+First Year Annual Overall CTC
+13,50,000
+First Year Monthly Salary
+71,800
+First Year Overall CTC - Detailed Breakup
+• Fixed take home salary: 8.4L
+• ESOP (performance based): 10L over 3 years
+• Retention Bonus 1.2L on completion of 3 years
+• PF contribution: Rs 21600
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+10-Dec-25 12:02:50
+Application Deadline
+13-Dec-25 11:30:16
+Time Left
+Closed
+Application Current State
+Pen & Paper Test-Design Engineer
+Shortlist Published At
+Stage 2(Pen & Paper Test-Design Engineer) - 13 Jan 2026 12:15:02
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Pen & Paper Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+Discipline
+M.Engg in Semiconductor Technology
+Eligibility
+The person should be master's degree in electrical engineering with excellent academic record and should have relevant exposure in analog domain. The person should be well versed with CMOS design techniques and has exposure to analog design tools. He should have learning aptitude, should be highly motivated, a self-starter with ability to work in team
+Skills
+Analog Design
+Bond Details
+No bond
+
+---
+
+JD ATTACHMENTS
+Digital
+Analog
+
+---
+
+DETAILED JOB DESCRIPTION
+Vervesemi Microelectronics requires Analog IC Design Engineer. The requirement involves design of various Analog and Mixed Signal blocks like Regulators, Bias References, PLLs, ADCs, DACs, and Other Analog Blocks like Operational amplifiers, Comparators, Oscillators, Voltage and Current Reference circuits etc. The job involves Circuit Design, Simulation and to work in the complete project cycle until tape-out
+
+================================================================================

@@ -1,0 +1,187 @@
+================================================================================
+JOB: Atlassian - Machine Learning Engineer (PhD)
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/791b91e1-d512-4b90-bf10-637620e6f931
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Atlassian
+Job Domain
+Artificial Intelligence/ Machine Learning
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bengaluru/ Remote
+Industry
+Engineering and Technology
+Industry Sector
+Public
+Website URL
+https://atlassian.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+Please see below
+First Year Annual Overall CTC
+Please see below
+First Year Monthly Salary
+Please see below
+First Year Overall CTC - Detailed Breakup
+Base Pay (A) - 39,60,000
+Bonus Target % - 15%
+Bonus Target Amount (B) - 5,94,000
+Annual Equity (C) - 12,20,327
+
+Annual Total Target Compensation (A+B+C)= 57,74,327
+
+Total Equity: $57,000 (Projected to vest quarterly over 4 years in equal tranches.)
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Oct-25 16:00:00
+Application Deadline
+28-Oct-25 08:00:00
+Time Left
+Closed
+Application Current State
+Assignment-Machine Learning Engineer (PhD)
+Shortlist Published At
+Stage 2(Online Test-Machine Learning Engineer (PhD)) - 24 Nov 2025 12:00:22Stage 3(Assignment-Machine Learning Engineer (PhD)) - 24 Nov 2025 12:32:36
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Assignment
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+PhD (Engineering)
+PhD (Science)
+Discipline
+PhD Computational and Data Sciences
+PhD Computer Science and Automation
+PhD Mathematics
+Eligibility
+- 6+ CGPA (or equivalent)
+- Education qualifications:
+Holds a bachelor's degree or higher in computer science or a related technical field.
+Enrolled full-time in a PhD program in Computer Science or a related technical field specialising in Machine Learning/ Artificial Intelligence.
+- Currently in the final dissertation year, and expected to graduate in 2026.
+- Strong programming skills in Python or similar languages.
+- No current/active backlogs
+Skills
+- Strong foundation in AI/ML, LLMs, Model optimisation and related techniques, & fine-tuning models for the domain of the problem.
+- Familiarity and experience with state-of-the-art development & research, publishing, building and scaling machine learning
+Bond Details
+Not Applicable
+
+---
+
+JD ATTACHMENTS
+Machine Learning Engineer (PhD)
+
+---
+
+DETAILED JOB DESCRIPTION
+About Atlassian
+At Atlassian, we're motivated by a common goal: to unleash the potential of every team. Our software products help teams all over the planet and our solutions are designed for all types of work. Team collaboration through our tools makes what may be impossible alone, possible together.
+
+
+We believe that the unique contributions of all Atlassians create our success. To ensure that our products and culture continue to incorporate everyone's perspectives and experience, we never discriminate based on race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status. All your information will be kept confidential according to EEO guidelines.
+
+
+To learn more about our culture and hiring process, visit go.atlassian.com/crh.
+
+
+Working at Atlassian
+Atlassians have the flexibility to work where they can collaborate most effectively with their team, whether at home, one of our global offices, or both. As a distributed-first company, all interviews are conducted virtually. We hire in any country where we have a legal entity. Learn how we work at go.atlassian.com/distributed.
+
+
+Your Future Org
+At Atlassian, our machine learning teams tackle business and product challenges across the company. Collaborating with stakeholders in Growth, GTM, Product, Finance, and Sales, we deliver machine learning infrastructure and model applications. Our teams, comprised of ML engineers and system engineers, foster collaboration, knowledge sharing, and individual growth. They operate nimbly, emphasising speed from conceptualisation to initial output while maintaining a strong focus on business impact. This role offers a unique chance to work in a collaborative environment and implement cutting-edge machine learning techniques, including search/recommendation engines, GenAI applications, LLM training, and more.
+
+
+More about You
+You will work on broad spectrum of tasks such as designing system and model architectures, conducting rigorous experimentation and model evaluations. You will be responsible for the application of AI/ML to various product problems to improve Atlassian products and actively contribute to Atlassian Intelligence features.
+
+
+Responsibilities
+- Focus on Machine Learning applications, and a strong foundation in AI/ML, LLMs, Model optimisation and related techniques, and evaluating the models.
+- Build machine learning models and work on Generative AI projects
+- Translate business problems into technical solutions through experiments and analysis
+- Identify opportunities to improve the current approach
+- Agile development mindset, appreciating the benefit of constant iteration and improvement.
+
+
+Must Have Skills
+- Strong foundation in AI/ML, LLMs, Model optimisation and related techniques, and fine-tuning models for the domain of the problem.
+- Familiarity and experience with state-of-the-art development and research, publishing, building and scaling machine learning models using large amounts of data.
+- Excellent communication and collaboration skills.
+- Strong programming skills in Python or similar languages.
+
+
+Good To Have Skills
+- Experience with relevant ML frameworks such as LangChain, LangGraph, Pydantic AI, PyTorch, or TensorFlow
+- Experience with pretraining, post-training techniques, fine-tuning techniques like LoRA and QLoRA, prompt engineering, few-shot learning, and evaluations.
+- Familiarity with large-scale model training and deployment.
+- Good to have programming skills in Kotlin or similar languages.
+
+
+Minimum Qualifications:
+- 6+ CGPA (or equivalent)
+- Education qualifications:
+Holds a bachelor's degree or higher in computer science or a related technical field.
+Enrolled full-time in a PhD program in Computer Science or a related technical field specialising in Machine Learning/ Artificial Intelligence.
+- Currently in the final dissertation year, and expected to graduate in 2026.
+- Strong programming skills in Python or similar languages.
+- No current/active backlogs
+
+
+Preferred Qualifications:
+Strong publication record in top-tier AI conferences or journals like NeurIPS, ICML, RecSys, etc.
+
+
+Benefits and Perks:
+Atlassian offers a wide range of perks and benefits designed to support you, your family and to help you engage with your local community. Our offerings include health and wellbeing resources, paid volunteer days, and so much more. To learn more, Atlassian Internships: Students and New Grads | Atlassian Atlassian Benefits for Global Employees | Atlassian
+
+---
+
+ADDITIONAL DETAILS
+Machine Learning Engineer (Open for PhD students only)
+Job posting link: https://global-invite-atlassian.icims.com/jobs/22851/job?mode=view
+
+
+Applying on the above link is mandatory
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Did you complete the 2nd Level of Registration(https://global-invite-atlassian.icims.com/jobs/22851/job?mode=view) (Multiple Choice)
+
+================================================================================

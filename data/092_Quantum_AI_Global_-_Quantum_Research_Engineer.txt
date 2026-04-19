@@ -1,0 +1,95 @@
+================================================================================
+JOB: Quantum AI Global - Quantum Research Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/dd04e150-1774-452f-810e-ccf1cfa1e8b0
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Quantum AI Global
+Job Domain
+Individual Contributor
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Hyderabad
+Industry
+Deep Tech
+Industry Sector
+Private
+Website URL
+https://thequantum.ai/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+12-15 LPA
+First Year Annual Overall CTC
+12- 15 LPA
+First Year Monthly Salary
+Depends on the exact package
+First Year Overall CTC - Detailed Breakup
+12-15 LPA
+Second Year Approx. Annual Base CTC
+Depending on 1st year performance
+Second Year Approx. Annual Overall CTC
+Depending on 1st year performance
+Second Year Approx. Monthly Salary
+Depending on 1st year performance
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+10-Dec-25 14:00:00
+Application Deadline
+09-Jan-26 15:00:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Quantum Research Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Group Discussion
+HR Interview
+Technical Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+Discipline
+M.Tech (Research) Computer Science and Automation
+Eligibility
+MTech from Computer Science background
+Specialization / Elective courses on Quantum Computing.
+BTech only in case of exceptional profile.
+Skills
+Good coding ability
+Bond Details
+No Bond
+
+---
+
+DETAILED JOB DESCRIPTION
+As a Quantum Research Engineer, you will be working on the ongoing Quantum Information Sciences and Quantum Machine Learning projects.
+As a deep tech startup, QAIG Pvt Ltd has a portfolio of IPs driven by fundamental research, which are being converted to products through innovation. As a Quantum Research Engineer, you'll set up tests and deploy promising ideas quickly and broadly, managing deadlines and deliverables while applying the latest theories to develop improved products. From creating experiments and prototyping implementations to designing new architectures, you will work on real-world challenges that span the breadth of Quantum Information Science along with Machine and Deep Learning, Data Mining and hardware/software performance analysis.
+
+================================================================================

@@ -1,0 +1,154 @@
+================================================================================
+JOB: Astrome - C++ Software Developer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/6523616e-4883-4717-a096-16cb789bf0ab
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Astrome
+Job Domain
+Wireless communication
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bangalore
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://astrome.co
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+10,00,000
+First Year Annual Overall CTC
+12,00,000
+First Year Monthly Salary
+80,000
+First Year Overall CTC - Detailed Breakup
+Components Monthly
+Basic 41700
+HRA 16700
+Spl 18140
+Food_Allow 3000
+Tele_Allow 1000
+Internet_Allow 1000
+Gross 81540
+
+Empr_PF 1800
+Fixed_Cost 83340
+
+
+Fixed_Cost Annual 1000080
+
+Variable Pay 100000
+
+ESOP 100000
+
+Total CTC 1200080
+Second Year Approx. Annual Base CTC
+12,00,000
+Second Year Approx. Annual Overall CTC
+14,00,000
+Second Year Approx. Monthly Salary
+1,00,000
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+13-Nov-25 13:25:20
+Application Deadline
+15-Nov-25 08:00:24
+Time Left
+Closed
+Application Current State
+Technical Interview-C++ Software Developer
+Shortlist Published At
+Stage 2(Technical Interview-C++ Software Developer) - 29 Dec 2025 18:39:43
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+PhD (Engineering)
+Discipline
+M.Engg in Semiconductor Technology
+M.Tech (Research) Aerospace Engineering
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Electronic Systems Engineering
+M.Tech Centre for Nano Science and Engineering
+MS (Research) in Mathematics
+PhD Aerospace Engineering
+PhD Computational and Data Sciences
+PhD Computer Science and Automation
+PhD Electronic Systems Engineering
+M.Tech Signal Processing
+M.Tech Artificial Intelligence
+M.Tech Electronics & Communication Engineering
+M.Tech Semiconductor Technology
+Eligibility
+should be 2026 pass out
+Skills
+Refer the JD
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+C++ Software Developer
+
+---
+
+DETAILED JOB DESCRIPTION
+Description
+Do you like tinkering and programming hardware? Do you feel that urge to see things working together as a system? We have deeply engaging embedded systems requirements which are sure to take you down the rabbit hole. Interested?
+
+
+Experience in abstraction and algorithmic thinking.
+Ninja of debugging and logical reasoning.
+Design, develop and implement program and process improvements.
+Requirements
+
+
+Job Requirement:
+Bachelor's in ECE,/EE
+Strong knowledge in C++ programming (not just C)
+Hands on experience in Linux
+Hands on experience in an embedded device
+Desired:
+
+
+Hands-on experience with network/wireless product
+Hands-on experience in Python
+Hands-on experience in I2C, SPI, UART and such serial communication protocols
+Hands-on experience in device drivers and board bring-up in Linux and FreeRTOS.
+Experience in memory mapped devices in Linux and RTOS environments.
+Experience in PHY/MAC layer drivers for Linux.
+Experience in automated testing.
+
+================================================================================

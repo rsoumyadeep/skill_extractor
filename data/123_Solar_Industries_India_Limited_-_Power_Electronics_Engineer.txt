@@ -1,0 +1,122 @@
+================================================================================
+JOB: Solar Industries India Limited -  Power Electronics Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/050f28a7-a230-4e7c-a935-65b9f7b151db
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Solar Industries India Limited
+Job Domain
+Research & Development (R&D)
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Nagpur
+Industry
+Aerospace and Defense
+Industry Sector
+Public
+Website URL
+https://solargroup.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+4,70,000 - 6,25,000
+First Year Annual Overall CTC
+14,00,000 - 18,50,000
+First Year Monthly Salary
+98,000 - 1,30,000
+First Year Overall CTC - Detailed Breakup
+Gross Salary - 98,000 - 1,30,000
+Annual Retention Bonus - 1,17,000 - 1,56,000
+Annual CTC - 14,00,000 - 18,50,000
+
+Note: The highest CTC structure will be considered exclusively for Dual Degree (Integrated) courses.
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+11-Dec-25 18:30:00
+Application Deadline
+13-Dec-25 18:30:00
+Time Left
+Closed
+Application Current State
+HR Interview- Power Electronics Engineer
+Shortlist Published At
+Stage 2(Technical Interview- Power Electronics Engineer) - 29 Dec 2025 18:12:22Stage 3(HR Interview- Power Electronics Engineer) - 29 Dec 2025 18:13:16Stage 3(HR Interview- Power Electronics Engineer) - 29 Dec 2025 18:13:16
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+All
+Discipline
+All
+Eligibility
+Bachelor’s/master's degree in Power Electronics.
+Strong knowledge of Power Distribution systems and design.
+Familiarity with Electrical Integration, particularly in complex systems.
+Understanding EMI/EMC in electrical systems and familiarity with Military standards and
+regulations in power systems is desirable.
+Strong analytical and troubleshooting skills to identify and resolve electrical system
+issues.
+Skills
+JD Attached
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Power Electronics Engineer
+
+---
+
+DETAILED JOB DESCRIPTION
+ Design, develop, and manage the power distribution system ensuring reliable power
+supply to all subsystems.
+ Integrate electrical systems to ensure seamless functionality, including power
+electronics, power converters, and power management systems.
+ Ensure the integration of efficient power distribution systems for optimal UAV
+performance.
+ Handle electrical integration, ensuring that all components such as alternators, rectifiers,
+inverters and other electrical and electronic systems work efficiently and without
+interference.
+ Develop strategies for energy efficiency and battery management systems.
+ Monitor and improve power distribution performance over time, identifying and
+resolving issues related to power loss, efficiency, and integration.
+ Collaborate with cross-functional teams to define and implement electrical system
+requirements.
+ Perform tests to evaluate the performance of power systems, identifying potential issues
+and ensuring compliance with electrical standards.
+Prepare and maintain technical documentation related to electrical designs, system
+specifications, and testing results.
+
+================================================================================

@@ -1,0 +1,243 @@
+================================================================================
+JOB #304: Meesho - Machine Learning Engineer - I
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/31b9bf8d-98b1-49f6-a60f-e6fda6d2365c
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Meesho
+Job Domain
+Data Science
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Internet and E-commerce
+Industry Sector
+Private
+Website URL
+https://meesho.io
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+24,00,000
+First Year Annual Overall CTC
+60,00,000
+First Year Monthly Salary
+2,00,000
+First Year Overall CTC - Detailed Breakup
+DS 1 | Fixed Cash: 2,400,000 | JB1: 750,000 | JB2: 850,000 | JB3: 950,000 | JB4: 1,050,000 | Total Offer (INR): 6,000,000 |
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Oct-25 20:19:29
+Application Deadline
+28-Oct-25 06:00:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Machine Learning Engineer - I
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Engg
+M.Mgt
+M.Tech
+M.Tech (Research)
+PhD (Engineering)
+Discipline
+B.Tech in Mathematics and Computing
+M.Engg in Semiconductor Technology
+M.Tech (Research) Aerospace Engineering
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech Aerospace Engineering
+M.Tech Civil Engineering
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Department of Bioengineering
+M.Tech Electrical Engineering
+M.Tech Mechanical Engineering
+PhD Aerospace Engineering
+PhD Civil Engineering
+PhD Electrical Communication Engineering
+M.Tech Signal Processing
+M.Tech Smart Manufacturing
+M.Tech Artificial Intelligence
+M.Tech Electronics & Communication Engineering
+M.Tech Semiconductor Technology
+M.Tech Mobility Engineering
+M Des Product Design
+Development and Management
+Master of Business Analytics & Technology Management
+Eligibility
+What you will need
+● Continuously optimize system performance and resource utilization.
+● Bachelor’s degree in Computer Science, Engineering, Mathematics, Statistics, or
+a related field.
+● Proficiency in programming languages such as Python, Java, or Go.
+● Experience with machine learning frameworks like TensorFlow, PyTorch, or Keras.
+● Knowledge of big data technologies such as Hadoop, Spark, or Dask.
+● Familiarity with data streaming tools like Apache Kafka, Apache Flink, or Apache
+Storm.
+● Experience with real-time ML systems.
+● Strong problem-solving abilities and attention to detail.
+● Excellent communication and collaboration skills.
+● Familiarity with cloud platforms (GCP) is a plus
+Skills
+What you will need
+● Continuously optimize system performance and resource utilization.
+● Bachelor’s degree in Computer Science, Engineering, Mathematics, Statistics, or
+a related field.
+● Proficiency in programming languages such as Python, Java, or Go.
+●
+Bond Details
+na
+
+---
+
+DETAILED JOB DESCRIPTION
+About the Team
+It’s our way, or the AI way😜
+Granted, our jokes can be a little cheesy. But we are also definitely speeding on a highway to
+enable 100 million small businesses to succeed online. We aim to do this by building intelligent
+systems for millions of our users looking at a thousand different categories of products. We’ve
+barely scratched the surface, and have amazing challenges in charting the future of commerce
+for Bharat.
+Our typical day involves dealing with fraud detection, inventory optimisation, and platform
+vernacularisation.
+As Machine Learning Engineer, you will navigate uncharted territories with us, discovering new
+paths to creating solutions for our users.🔍You will be at the forefront of interesting challenges
+and solve unique customer problems in an untapped market.
+But wait – there’s more to us. Our team is huge on having a well-rounded personal and
+professional life. When we aren't nose-deep in data, you will most likely find us belting
+“Summer of 69” at the nearest Karaoke bar, or debating who the best Spider-Man is: Maguire,
+Garfield, or Holland? You tell us ☺
+About the Role
+Love playing with codes? Emerging technologies get you all excited? Then you will fit right in
+with our Machine Learning team.
+We are seeking a passionate and skilled Machine Learning Engineer with 1-2 years of experience
+to join our team. The ideal candidate will have a strong background in real-time serving, deep
+learning inference, big data handling, and data streaming pipelines. You will work closely with
+data scientists, software engineers, and other stakeholders to deploy and manage machine
+learning models in production.
+What you will do
+● Design, implement, and optimize real-time feature and inference serving systems.
+● Ensure low-latency, high-availability, scalable solutions for feature extraction, serving,
+and model deployment.
+● Deploy and optimize deep learning models for real-time and batch inference.
+● Work with frameworks such as TensorFlow, PyTorch, and ONNX for efficient model
+deployment.
+● Process and manage large-scale datasets to support machine learning workflows via
+frameworks such as Apache Spark.
+● Develop and maintain data pipelines for efficient data ingestion, transformation, and
+storage.
+● Build and maintain robust data streaming pipelines using tools like Apache Kafka,
+Apache Flink, or Apache Spark.
+● Enable real-time data processing and analytics to support dynamic and scalable machine
+learning systems.
+● Collaborate with data scientists to transition machine learning models from
+development to production.
+● Work with software engineers to integrate machine learning solutions into existing
+systems and applications.
+● Monitor model performance and ensure the reliability and scalability of machine
+learning systems.
+● Continuously optimize system performance and resource utilization.
+What you will need
+● Continuously optimize system performance and resource utilization.
+● Bachelor’s degree in Computer Science, Engineering, Mathematics, Statistics, or
+a related field.
+● Proficiency in programming languages such as Python, Java, or Go.
+● Experience with machine learning frameworks like TensorFlow, PyTorch, or Keras.
+● Knowledge of big data technologies such as Hadoop, Spark, or Dask.
+● Familiarity with data streaming tools like Apache Kafka, Apache Flink, or Apache
+Storm.
+● Experience with real-time ML systems.
+● Strong problem-solving abilities and attention to detail.
+● Excellent communication and collaboration skills.
+● Familiarity with cloud platforms (GCP) is a plus
+About Meesho
+Meesho is India’s fastest-growing e-commerce company. We started in 2015 with the idea of
+helping mom & pop stores to sell online. Today, 5% of Indian households shop with us on any
+given day.We’re democratizing internet commerce by offering a 0% commission model for
+sellers on our platform— a first for India. We aim to become the e-commerce destination for
+Bharat.We’re currently valued at $4.9 billion with marquee investors supporting our vision.
+Some ofthem include Sequoia Capital, Softbank, Fidelity, Proses Ventures, Facebook, and
+ElevationCapital. We were also featured in Y Combinator’s 2021 Top Companies List and were
+the only Indian startup to make it to Fast Company’s The World’s 50 Most Innovative Companies
+in 2020. We ranked 6th in Linkedin’s Top Startups List 2021. Our strongest asset is our people.
+We have gender-neutral and inclusive policies to promote our people-first culture.
+Our Mission
+Enable 100M small businesses in India to succeed online
+Our Vision
+Democratize internet commerce for everyone
+Our Mantras
+● User First
+● Think 10X, Think Long-Term
+● Problem-first Mindset
+● Hire & Grow Exceptional Talent
+● People-centric Workplace
+● Company > Team > Individual
+● Lightspeed
+● Standup and speak your mind
+● Extreme Ownership
+● Growth Mindset
+● Bold Experimentation
+Our tech blog: https://www.meesho.io/blog
+Some of our Senior Leaders & Engineers
+1. Sanjeev Barnwal, CTO
+2. Divyesh Shah, VP
+3. Debdoot Mukherjee, VP
+4. Kiran Kumar Katreddi ,VP
+5. Ravindra Yadav, Sr Director
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Have you undertaken any internship earlier that is relevant to the Machine Learning Engineer role? (Multiple Choice)
+
+Q2. If yes, please mention the name of the company where you completed the internship; If No, Please Mention 'NA' (Text)
+
+Q3. If Yes, Please Mention the number of months where you completed the internship; If No, Please Mention 'NA' (Text)
+
+Q4. If Yes, Please provide a brief description of your internship; If No, Please Mention 'NA' (Text)
+
+Q5. If you have undertaken any additional projects relevant to the Machine Learning Engineer role, please include them.; If No, Please Mention 'NA' (Text)
+
+================================================================================

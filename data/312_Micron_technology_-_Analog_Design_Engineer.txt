@@ -1,0 +1,193 @@
+================================================================================
+JOB #312: Micron technology - Analog Design Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/101fcb87-ec74-4c17-b6fd-0177f5e53a6b
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Micron technology
+Job Domain
+Engineering
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Hyderabad/Bengaluru
+Industry
+Semiconductor
+Industry Sector
+Private
+Website URL
+https://www.micron.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+1,850,000 INR
+First Year Annual Overall CTC
+2,746,471 INR
+First Year Monthly Salary
+154,160 (eligible taxes applicable)
+First Year Overall CTC - Detailed Breakup
+Basic Salary- INR 925,000
+House Rent Allowance - INR 370,000
+Special Allowance- INR 555,000
+Gross Salary- INR 1,850,000
+
+Variable Components:
+Gratuity- INR 44,471
+Discretionary Incentive Target*- INR 185,000
+Sign on bonus (One time)- INR 300,000
+Relocation Lump Sum Allowance** (One time)- INR 200,000
+Flexi Benefit- INR 56,000
+Provident Fund - INR 111,000
+CTC- INR 2,746,471
+Allocated $5000 RSU- Vesting period 4 years
+* You will be entitled to participate in Micron’s discretionary incentive pay plan as applicable to your position from time to time.
+** This is included as part of our one-time bonus and is subject to the candidate meeting the eligibility requirements.
+Second Year Approx. Annual Base CTC
+1,850,000 INR
+Second Year Approx. Annual Overall CTC
+2,246,471 INR
+Second Year Approx. Monthly Salary
+154,160 (eligible taxes applicable)
+Second Year Approx. Overall CTC - Detailed Breakup
+Basic Salary- INR 925,000
+House Rent Allowance - INR 370,000
+Special Allowance- INR 555,000
+Gross Salary- INR 1,850,000
+
+Variable Components:
+Gratuity- INR 44,471
+Discretionary Incentive Target*- INR 185,000
+Flexi Benefit- INR 56,000
+Provident Fund- INR 111,000
+CTC- INR 2,246,471
+* You will be entitled to participate in Micron’s discretionary incentive pay plan as applicable to your position from time to time.
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Oct-25 16:44:04
+Application Deadline
+28-Oct-25 06:00:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Analog Design Engineer
+Shortlist Published At
+Stage 2(Online Test-Analog Design Engineer) - 24 Dec 2025 15:03:44Stage 3(Resume Shortlisting-Analog Design Engineer) - 24 Dec 2025 15:16:18
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Resume Shortlisting
+Technical Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Engg
+M.Tech
+M.Tech (Research)
+MS (Research)
+Discipline
+M.Engg in Semiconductor Technology
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech in Instrumentation Systems
+M.Tech Electronics & Communication Engineering
+M.Tech Semiconductor Technology
+M.Tech Microelectronics & VLSI Design
+M.Tech Electronic Product Design
+M.Tech Communication Networks
+M.Tech Electronics Systems Engineering
+Eligibility
+M.Tech/ M.S (Research) in Electronics Engineering or related engineering field required
+CGPA requirements = 7.0 CGPA & Above
+Skills
+Analog Circuit Design: CMOS amplifiers, comparators, bandgap references, V2I converters, LDOs, charge pumps, oscillators, DLLs, IO circuits (DDR/LPDDR), process and temperature sensors.
+Clock & Datapath Design
+Custom Digital Circuit Design & Validation
+Parasitic Modeling and reticle experiment support.
+EM/IR Simulation and layout optimization.
+ERC Checks and verification processes using industry-standard simulators.
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+HIG Analog Design Engineering
+
+---
+
+DETAILED JOB DESCRIPTION
+About Micron: We are an industry leader in innovative memory and storage solutions transforming how the world uses information to enrich life for all. With a relentless focus on our customers, technology leadership, and manufacturing and operational excellence, Micron delivers a rich portfolio of high-performance DRAM, NAND and NOR memory and storage products through our Micron® Hand Crucial® brands. Every day, the innovations that our people create fuel the data economy, enabling advances in artificial intelligence (AI) and compute-intensive applications that unleash opportunities — from the data center to the intelligent edge and across the client and mobile user experience. 
+At Micron India, you will be a part of one of the fastest ramps in Indian semiconductor history. We are ranked among the Top 50 organizations for India's Best Workplaces in Manufacturing 2025 rankings by Great Place to Work Institute. In the last six years, we have built an operations footprint with 20 centres of excellence and grown to over 4000 team members. We nurture a culture that is fair, fearless and fun that works to enhance personal and professional development at every level.  
+Culture and Values at Micron: As a leader in memory solutions our team members, partners, customers, and leadership work closely together to deliver setting a high bar for ourselves and our industry. We believe transformation always starts from within and our core values are driven by the following 5 pillars:  
+People - We care about each other. 
+Innovation - We develop solutions that shape the world's future. 
+Tenacity - Nothing shakes our resolve. 
+Collaboration - We work as one team. 
+Customer Focus - We win by knowing our customers
+ 
+About profile – HBM (Analog Design):
+As an Analog Mixed Engineer at Micron Technology, Inc., you will be responsible for designing and analyzing digital and analog circuits used in the development of memory products. We are engaged in developing groundbreaking silicon-to-systems solutions – right from technology development and advanced memory designs to product development, systems design and validation resulting in world class memory solutions. In this position, you will collaborate with Micron’s various design and verification teams all over the world and support the efforts of groups such as Product Engineering, Test, Probe, Process Integration, Assembly and Marketing to proactively design products that optimize all manufacturing functions and assure the best cost, quality, reliability, time-to-market, and customer satisfaction.
+
+
+Roles & responsibilities can include but are not limited to:
+Design, implementation, and improvement of Complex Analog Circuits such as CMOS Amplifiers, Comparators, Bandgap references, V2I converters, LDOs, charge pumps, Oscillators, DLL, IO circuits (DDR/LPDDR), Process, and temperature sensors in advanced semiconductor process nodes for advanced DRAM products
+Integration of modules with Power delivery network and propose design solution for optimum performance
+Validate & optimize design for reliability (Device stress, Aging effect)
+Clock & Datapath design
+EM/IR simulation, optimize layout to achieve best circuit performance
+Working with Marketing, Probe, Assembly, Test, Process Integration, and Product Engineering groups to ensure accurate manufacturability of product Proactively solicit guidance from Standards, CAD, modeling, and verification groups to improve the design quality
+Driving innovation into the future Memory generations within a dynamic work environment
+Performs semiconductor design engineering assignments including engineering and designing chip layout circuits, circuit checking, documenting specifications, modifying, and evaluating semiconductor devices and components. Reviews product requirements and logic diagrams for device definition. Typically responsible for projects, or portions of projects, to design, fabricate, modify, and evaluate semiconductor devices and components.
+Clear understanding of semiconductor device operation.
+Basic knowledge of Single-stage, Two-stage Amplifier design methodologies & Compensation techniques.
+Basic understanding of feedback mechanisms.
+Sounds understanding of R/L/C circuits & application of KVL, KCL etc EM/IR simulation, optimize layout to achieve best circuit performance
+ERC check
+Custom digital circuit design & validation
+Parasitic modeling and assisting in design validation, reticle experiments and required tape-out revisions
+Overseeing and managing the layout process including floor-planning, placement, and routing
+Performing verification processes with modeling and simulation using industry standard simulators
+Contributing to cross group communication to work towards standardization and group success
+
+
+Education Requirement & eligibility:
+M.Tech/ M.S (Research) in Electronics Engineering or related engineering field required
+CGPA requirements = 7.0 CGPA & Above
+
+
+Location:
+Hyderabad/ Bengaluru
+
+
+Micron by Numbers:  
+$25.11B FY24 annual revenue 
+170 on the 2025 Fortune 500 
+59,000 patents granted and growing 
+30+ major cities worldwide with Micron offices 
+11 manufacturing sites* and 12 customer labs 
+21 design center locations 
+~ 48,000 team members 
+Official Website: http://www.micron.com
+
+================================================================================

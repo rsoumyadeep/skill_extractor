@@ -1,0 +1,116 @@
+================================================================================
+JOB: Collins Aerospace - Post Graduate Engineer Trainee
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/ae28b0a4-40d4-463b-927d-4e96ea3e004d
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Collins Aerospace
+Job Domain
+Aerospace
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore/Hyderabad
+Industry
+Aerospace and Defense
+Industry Sector
+Private
+Website URL
+https://www.collinsaerospace.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+00,000
+First Year Annual Overall CTC
+00,000
+First Year Monthly Salary
+0,00,000
+First Year Overall CTC - Detailed Breakup
+PG - 1300000 + 4JB
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Nov-25 13:21:47
+Application Deadline
+26-Nov-25 14:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Post Graduate Engineer Trainee
+Shortlist Published At
+Stage 2(Online Test-Post Graduate Engineer Trainee) - 26 Dec 2025 16:21:38Stage 3(Technical Interview-Post Graduate Engineer Trainee) - 26 Dec 2025 16:26:38
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+Discipline
+M.Tech (Research) Aerospace Engineering
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+Eligibility
+7.0 with no backlogs and only Indian national only
+Skills
+• Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit learn, Tensorflow)
+• Well versed with PHM (Prognostic Health Monitoring) concepts of feature engineering, anomaly detection, model performance metrics, signal processing, statistical analysis
+• Knowledge on Physics based analytics & physics informed Machine Learning approaches
+• Solid foundation in machine learning algorithms (regression, classification, anomaly detection, time-series forecasting).
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+Skill sets:
+• Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit learn, Tensorflow)
+• Well versed with PHM (Prognostic Health Monitoring) concepts of feature engineering, anomaly detection, model performance metrics, signal processing, statistical analysis
+• Knowledge on Physics based analytics & physics informed Machine Learning approaches
+• Solid foundation in machine learning algorithms (regression, classification, anomaly detection, time-series forecasting).
+Job Description:
+• Develop physics based analytics & physics informed machine learning–based analytics for sensory data from aircraft systems (e.g., engines, actuators, fuel and air conditioning systems).
+• Work closely with SMEs, design engineers, and PHM teams to understand the physical behavior of systems and translate it into analytical models.
+• Analyze and process large-scale time-series data using Databricks, PySpark, and distributed computing frameworks.
+• Develop fault detection, degradation tracking, and anomaly detection algorithms using statistical and ML methods.
+• Integrate physics-based features (derived from thermodynamics, fluid mechanics, or system modeling) with ML models for improved interpretability and accuracy.
+• Perform feature engineering, dimensionality reduction, and signal fusion across multiple sensors and systems.
+• Validate and verify analytics using test data and SME feedback, ensuring physical consistency and robustness.
+• Collaborate in the development of digital twins, prognostics and health management (PHM) models, and predictive maintenance frameworks.
+Other Preferred skill sets that are nice to have:
+• Experience developing physics-informed neural networks (PINNs) or hybrid physics + ML models.
+• Knowledge of prognostics and health management (PHM), RUL (Remaining Useful Life) estimation, and system-level health modeling.
+• Familiarity with simulation tools (MATLAB/Simulink, Modelica, NPSS) for validation and model correlation.
+• Experience with digital twin frameworks or model-based system engineering (MBSE) environments.
+• Exposure to cloud-based analytics, CI/CD pipelines, and MLflow for model management.
+
+================================================================================

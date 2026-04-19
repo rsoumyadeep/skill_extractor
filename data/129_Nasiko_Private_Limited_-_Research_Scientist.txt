@@ -1,0 +1,119 @@
+================================================================================
+JOB: Nasiko Private Limited - Research Scientist
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/4a048a24-a8fa-4ef4-b9ac-f7481bc5d962
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Nasiko Private Limited
+Job Domain
+AI
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bangalore
+Industry
+Engineering and Technology
+Industry Sector
+Private
+Website URL
+https://www.nasiko.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+15,00,000
+First Year Annual Overall CTC
+20,00,000
+First Year Monthly Salary
+1,66,667
+First Year Overall CTC - Detailed Breakup
+Basic - 15L, HRA - 4L, Special Allowance - 1L
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+11-Dec-25 00:00:00
+Application Deadline
+12-Dec-25 08:00:50
+Time Left
+Closed
+Application Current State
+Technical Interview-Research Scientist
+Shortlist Published At
+Stage 2(Online Test-Research Scientist) - 12 Jan 2026 16:46:57Stage 3(Technical Interview-Research Scientist) - 12 Jan 2026 16:51:27
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+MSc
+Discipline
+B.Tech in Mathematics and Computing
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+Eligibility
+7 CGPA upwards, no backlogs
+Skills
+Machine learning, deep learning, reinforcement learning, or planning algorithms,
+Graph-based learning and relational reasoning,
+Multi-agent systems and coordination,
+Optimization and distributed algorithms,
+Demonstrated track record of high-quality research,
+Proficiency in Python and deep learning frameworks (PyTorch, JAX, etc.),
+Strong systems-thinking ability with a balance of theoretical depth and practical implementation skills,
+Excellent problem-solving, communication, and collaboration abilities
+Bond Details
+-
+
+---
+
+DETAILED JOB DESCRIPTION
+As a Research Scientist (Core AI) at Nasiko, you will shape the theoretical and architectural foundation of how autonomous agents think, reason, and coordinate across distributed environments.
+
+
+You will:
+Advance multi-agent intelligence – Design algorithms and models that enable autonomous agents to communicate, plan, and collaborate dynamically in open, decentralized systems
+Develop scalable coordination frameworks – Create architectures for decentralized goal alignment, conflict resolution, negotiation, and consensus in large-scale, heterogeneous agent ecosystems
+Enable interoperability and discovery – Design mechanisms that allow agents, services, and infrastructure components to discover each other, share capabilities, and coordinate without centralized control
+You'll work closely with platform and infrastructure engineers to translate research insights into production-grade capabilities that power the Nasiko agent layer – bridging the gap between cutting-edge theory and real-world distributed AI systems.
+
+
+Key Responsibilities
+Conduct original research in multi-agent systems, autonomous coordination, collective intelligence, and learning in distributed settings
+Design and prototype reasoning, communication, and negotiation frameworks for large-scale agent ecosystems
+Develop models, protocols, and architectures that enhance agent interoperability, verifiability, and adaptivity
+Collaborate with engineering teams to operationalize research outputs, integrating them into Nasiko's core platform
+Publish high-quality research and contribute to shaping industry standards for AI coordination
+
+================================================================================

@@ -1,0 +1,142 @@
+================================================================================
+JOB: Bayer - Engineering Trainee
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/b26abc72-3114-46a6-bf14-5f5a8ec752ee
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Bayer
+Job Domain
+Data Science & Technology
+Job Type
+Full Time Placement
+Job Mode
+Virtual
+Locations
+Bangalore
+Industry
+Pharmaceuticals
+Industry Sector
+Private
+Website URL
+https://www.bayer.in/en/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+15,00,000
+First Year Annual Overall CTC
+16,78,700
+First Year Monthly Salary
+1,25,000
+First Year Overall CTC - Detailed Breakup
+Basic Salary 62,543.00
+House Rent Allowance (HRA) 57,133.00
+Leave Travel Assistance 5,210.00
+Education Allowance 200.00
+Car Allowance 0.00
+Petrol Reimbursement 0.00
+GROSS SALARY PER MONTH 1,25,086.00
+GROSS SALARY PER ANNUM 15,01,032.00
+RETIRALS & INSURANCES
+Provident Fund 7,505.00
+Insurance Premium 4,300.00
+Gratuity 3,007.00
+RETIRALS & INSURANCE PER MONTH 14,812.00
+RETIRALS & INSURANCE PER ANNUM 1,77,744.00
+COST TO COMPANY PER ANNUM    16,78,776.00
+STI at target 1,50,103.00
+TCTC (Annual) including Variable Pay 18,28,879.00
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+2
+Application Start Time
+04-Feb-26 13:15:40
+Application Deadline
+09-Feb-26 13:22:00
+Time Left
+Closed
+Application Current State
+Online Test-Engineering Trainee
+Shortlist Published At
+Stage 0(Online Test-Engineering Trainee) - 16 Feb 2026 16:51:40
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+PhD (Engineering)
+PhD (Science)
+PhD (Integrated)
+Discipline
+All
+Eligibility
+PhD students
+Skills
+Data Science, Data Engineering, Statistics, Mathematics, Physics, AI
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+Job Title
+Research Scientist / Data Scientist (PhD – Data Science, AI & Advanced Analytics)
+________________________________________
+Role Purpose
+We are seeking a highly motivated PhD-level Data Scientist / Research Scientist to drive advanced analytics, machine learning, and data-driven research initiatives. The role focuses on translating complex data and research outcomes into scalable, real-world solutions that enable business and scientific impact.
+________________________________________
+Key Responsibilities
+• Lead applied research using advanced statistical, ML, and AI techniques
+• Design, develop, and validate predictive, prescriptive, and optimization models
+• Analyze large, complex, structured and unstructured datasets
+• Translate research findings into production-ready models and insights
+• Collaborate with cross-functional teams (Product, Engineering, Business, R&D)
+• Publish or present research outcomes (internal / external, where applicable)
+• Stay current with emerging trends in AI, ML, GenAI, and data science research
+________________________________________
+Required Qualifications
+• PhD in Data Science, Computer Science, Statistics, Mathematics, Engineering, or related field
+• Strong foundation in machine learning, statistical modeling, and data analysis
+• Hands-on experience with Python/R and ML libraries (e.g., scikit-learn, PyTorch, TensorFlow)
+• Experience working with large-scale datasets and cloud-based data platforms
+• Ability to clearly communicate complex concepts to non-technical stakeholders
+________________________________________
+Preferred Qualifications
+• Postdoctoral or industry research experience
+• Experience with Deep Learning, NLP, Computer Vision, or Generative AI
+• Exposure to MLOps, model deployment, and scalable architectures
+• Publications in reputed journals or conferences
+• Experience in regulated or research-intensive industries (Life Sciences, Healthcare, Finance, etc.)
+________________________________________
+Key Skills & Competencies
+• Advanced analytical and problem-solving skills
+• Strong research mindset with business orientation
+• Collaboration and stakeholder management
+• Scientific rigor combined with practical execution
+• Curiosity, learning agility, and innovation mindset
+
+================================================================================

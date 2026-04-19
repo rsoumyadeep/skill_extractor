@@ -1,0 +1,143 @@
+================================================================================
+JOB: Wipro - Project Engineer-Quantum Security Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/9ec24461-be68-468e-a537-42305f0d89ab
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Wipro
+Job Domain
+IT Services
+Job Type
+Full Time Placement
+Job Mode
+Hybrid
+Locations
+Bangalore
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://www.wipro.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+17,04,320
+First Year Annual Overall CTC
+20,00,000
+First Year Monthly Salary
+1,66,667
+First Year Overall CTC - Detailed Breakup
+Components Compensation Per annum
+Basic 800000
+HRA 400000
+Statutory Bonus 42000
+WBP 306800
+Additional Allowance 155520
+Provident Fund (Employer) 96000
+Gratuity 42480
+MAS 7200
+Target Variable Pay 150000
+Total CTC 2000000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+12-Feb-26 16:10:56
+Application Deadline
+15-Feb-26 22:00:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Project Engineer-Quantum Security Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Engg
+M.Tech
+M.Tech (Research)
+MS (Research)
+PhD (Engineering)
+PhD (Science)
+PhD (Integrated)
+MS
+Discipline
+All
+Eligibility
+60% in 10th 12th UG and PG
+BE, B.Tech,ME,M.Tech , Dual , Integrated,M.S, Ph.D
+One active backlog during assessment stage, should clear all backlogs within the degree end date.
+Gap not more than 3 years
+
+Skills
+Required Qualifications & Skills
+• Strong coding skills (Python, C++, or similar).
+• Familiarity with AI/ML frameworks and MLOps tools (TensorFlow Extended, Hugging Face Hub, Azure ML).
+• Understanding of cybersecurity principles and tools (OWASP, Burp Suite, Metasploit).
+• Knowledge of quantum-safe cryptography and post-quantum security standards (CRYSTALS-Kyber, NIST PQC).
+• Ability to work with automation and containerization tools (Docker, Kubernetes) and monitoring dashboards (Grafana, Prometheus).
+• Comfort with adversarial testing, vulnerability analysis, and secure API practices.
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+Job Title: Quantum Security Engineer
+Position Overview
+This role sits at the intersection of AI safety, cybersecurity, and research, offering hands-on experience in evaluating and securing advanced AI systems. You’ll experiment, prototype, and push boundaries while learning from industry mentors. The focus is on building defenses, analyzing vulnerabilities, and contributing to the development of safe and ethical AI solutions.
+Key Responsibilities
+• Run AI safety evaluations, adversarial testing, and red-teaming on LLMs and multimodal AI systems.
+• Build tools and defenses against prompt injections, hallucinations, and unsafe model behaviors.
+• Prototype quantum-safe cryptography and post-quantum security solutions for next-generation systems.
+• Analyze vulnerabilities across AI pipelines—from model training and data ingestion to API access and deployment.
+• Collaborate with cybersecurity and privacy teams to validate model reliability, fairness, and privacy guarantees.
+• Develop automation and dashboards to monitor model performance, drift, and security health in real time.
+• Research emerging AI-driven cyber threats and publish internal insights or contribute to open research forums.
+• Participate in capture-the-flag (CTF) inspired AI red teams and safety simulation hackathons.
+Required Qualifications & Skills
+• Strong coding skills (Python, C++, or similar).
+• Familiarity with AI/ML frameworks and MLOps tools (TensorFlow Extended, Hugging Face Hub, Azure ML).
+• Understanding of cybersecurity principles and tools (OWASP, Burp Suite, Metasploit).
+• Knowledge of quantum-safe cryptography and post-quantum security standards (CRYSTALS-Kyber, NIST PQC).
+• Ability to work with automation and containerization tools (Docker, Kubernetes) and monitoring dashboards (Grafana, Prometheus).
+• Comfort with adversarial testing, vulnerability analysis, and secure API practices.
+Preferred Attributes
+• Curiosity about AI ethics and security challenges.
+• Strong problem-solving skills and willingness to experiment in uncertain environments.
+• Passion for learning and contributing to cutting-edge research.
+• Collaborative mindset and ability to thrive in team-based hackathons or red-team exercises.
+• Interest in publishing research or contributing to open-source security tools
+
+================================================================================

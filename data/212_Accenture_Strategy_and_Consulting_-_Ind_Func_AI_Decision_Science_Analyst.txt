@@ -1,0 +1,173 @@
+================================================================================
+JOB: Accenture Strategy and Consulting - Ind & Func AI Decision Science Analyst
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/9dc0986f-44dc-4be4-bb2d-afb1f7841a66
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Accenture Strategy and Consulting
+Job Domain
+Data & AI
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Gurgaon, Mumbai, Bangalore
+Industry
+Consulting Services
+Industry Sector
+Private
+Website URL
+https://www.accenture.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+0
+First Year Annual Overall CTC
+21,36,000
+First Year Monthly Salary
+1,35,000/Month
+First Year Overall CTC - Detailed Breakup
+Fix Pay JB Variable Pay CTC (INR)
+16,00,000 2,00,000 3,36,000 21,36,000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+17-Nov-25 10:40:32
+Application Deadline
+18-Nov-25 16:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Ind & Func AI Decision Science Analyst
+Shortlist Published At
+Stage 2(Online Test-Ind & Func AI Decision Science Analyst) - 26 Dec 2025 14:38:27Stage 3(Technical Interview-Ind & Func AI Decision Science Analyst) - 26 Dec 2025 14:41:24
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Mgt
+M.Tech
+M.Tech (Research)
+MS (Research)
+MSc
+Discipline
+M.Tech (Research) Civil Engineering
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Mathematics
+Eligibility
+Requirements:
+• Master’s degree in Statistics or Quantitative Science or MBA
+• Should have done forecasting/modeling, data analysis, used regression/optimization models and techniques.
+Experience in machine learning osure to one or more of Data science capabilities; preferably python. Others are -
+R, SAS
+• Needs to have data management capabilities, with skills in SQL, Spark and data visualization capabilities in
+Tableau/power BI
+• Strong ability to process and extract strategic insights from large data sets
+• Exposure to computer programming in some form.
+• Good communication skills
+• Open to extensive travel (upto 2 months at a stretch)
+• Advanced Excel and PowerPoint skills
+Skills
+Requirements:
+• Master’s degree in Statistics or Quantitative Science or MBA
+• Should have done forecasting/modeling, data analysis, used regression/optimization models and techniques.
+Experience in machine learning osure to one or more of Data science capabilities; preferably python. Others are -
+R, SAS
+• Needs to have data management capabilities, with skills in SQL, Spark and data visualization capabilities in
+Tableau/power BI
+• Strong ability to process and extract strategic insights from large data sets
+• Exposure to computer programming in some form.
+• Good communication skills
+• Open to extensive travel (upto 2 months at a stretch)
+• Advanced Excel and PowerPoint skills
+--------------------------------------------------------------------------------------------------------
+External Email
+Hi Team,
+Sharing the registration link below, feel free to contact me for any queries.
+Registration Link : Accenture Registration
+Please ask all interested candidates to register on the link.
+Every candidate needs to upload their PAN Card.
+All candidates aspiring to participate in Accenture’s recruitment and selection process will need to have :
+· Adult PAN card or e-PAN card at the time of their registration with us
+· Minor PAN card will not be accepted
+· All PAN cards must be signed.
+· Adult PAN cards with childhood photograph will not be accepted
+· Adult PAN cards without candidate’s last name will not be accepted
+· Adult PAN cards without candidate’s legal guardian or father name will not be accepted
+Please ask the candidates to register by 18th Nov 12 PM & update us once all candidates have registered.
+Once the registrations are completed, you are requested to share the student profile sheet and applicants CVs in a zipped folder with their ‘Full Name and Campus’ as the file name eg. “Rahul Sharma_Collegename”.
+If there are any PWD applicants, please mention those in a separate column in the profile sheet and share their names separately in the mail as well whenever you send the applications.
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Data & Science - PG JD
+
+---
+
+DETAILED JOB DESCRIPTION
+Detailed JD Attached With Email
+
+
+Position Summary
+Primary responsibility is to deliver analytics-based solutions.
+Duties and Responsibilities:
+• Develop analytics solutions to support business analytics such as marketing analytics, customer segmentation,
+acquisition, business operations, retention and forecasting.
+• Develop statistical testing programs to measure and improve on-going performance.
+• Apply appropriate techniques, such as exploratory data analysis, regression analysis, bootstrapping, decision trees,
+cluster analysis, choice modeling, survival analysis etc.
+
+---
+
+ADDITIONAL DETAILS
+Requirements:
+• Master’s degree in Statistics or Quantitative Science or MBA
+• Should have done forecasting/modeling, data analysis, used regression/optimization models and techniques.
+Experience in machine learning osure to one or more of Data science capabilities; preferably python. Others are -
+R, SAS
+• Needs to have data management capabilities, with skills in SQL, Spark and data visualization capabilities in
+Tableau/power BI
+• Strong ability to process and extract strategic insights from large data sets
+• Exposure to computer programming in some form.
+• Good communication skills
+• Open to extensive travel (upto 2 months at a stretch)
+• Advanced Excel and PowerPoint skills
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Completed Registering on : https://indiacampus.accenture.com/register/accenture/bsclnew/apply/?event=1137445 (Multiple Choice)
+
+================================================================================

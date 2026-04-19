@@ -1,0 +1,143 @@
+================================================================================
+JOB: PayU Payments - Associate Business Analyst
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/4f1ce5a1-1806-4f3c-adbb-598e674eca5e
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+PayU Payments
+Job Domain
+FinTech / Payments
+Job Type
+Full Time Placement
+Job Mode
+Hybrid
+Locations
+Bangalore, Gurgaon, Mumbai
+Industry
+Financial Services
+Industry Sector
+Private
+Website URL
+https://payu.in/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+18,00,000
+First Year Annual Overall CTC
+19,80,000
+First Year Monthly Salary
+1,50,000
+First Year Overall CTC - Detailed Breakup
+Pay Elements Proposed CTC
+(all numbers in INR)
+Fixed base pay 1,800,000
+Variable % 10%
+Total Cash including variable 1,980,000
+Joining Bonus 200,000
+Annual LTI - SAR at FMV 270000
+Total Compensation 2,450,000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Nov-25 23:00:58
+Application Deadline
+27-Nov-25 11:00:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Associate Business Analyst
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+BS (Research)
+M.Engg
+M.Tech
+M.Tech (Research)
+MS (Research)
+Discipline
+All
+Eligibility
+Please refer the JD
+Skills
+Please refer the JD
+Bond Details
+No Bond
+
+---
+
+JD ATTACHMENTS
+
+---
+
+DETAILED JOB DESCRIPTION
+Associate Business Analyst
+Gurugram / Bangalore / Mumbai
+About the Role
+Utilizes data and analytics to inform business decisions.
+Responsibilities:
+• Perform diagnostic and predictive analytics to help create a merchant, customer and transaction monitoring strategy considering, among others, macroeconomic environment, industry and micro-industry concentrations, behavioural patterns, product usage, risk appetite, geography, seasoning, term, credit performance, etc. 
+• Design differential evaluation framework for early as well as steady state fraud detection
+ • Influence, monitor, and assess impacts to PayU’s merchant portfolio as a result of risk policy, fraud detection, and portfolio monitoring and collections 
+• Interface with Product, Data Science, and Operations teams to set joint goals and track operations performance, providing an actionable feedback loop 
+• Perform detailed analysis and interpret information to make recommendations to Senior Management on critical gaps and implementation of appropriate controls
+Requirements:
+• A degree in Statistics, Computer Science, Mathematics or other similar quantitative field from a premier institute 
+• Good experience in deriving insights and/or building machine learning in R/Python and SQL 
+• Should have technical & project execution experience 
+• Excellent communication and stakeholder management skills and demonstrated focus for client / customer satisfaction
+ • Strong problem-solving skills with the ability to understand and execute complex analysis
+ • Detail oriented with strong organizational skills. Ability to function in a high volume setting with tight deadlines 
+• High-energy individual with a go-getter instinct and positive attitude.
+What we offer?
+• A positive, get-things-done workplace
+• A dynamic, constantly evolving space (change is par for the course – important you are comfortable with this).
+• An inclusive environment that ensures we listen to a diverse range of voices when making decisions.
+• Ability to learn cutting edge concepts and innovation in an agile start-up environment with a global scale.
+• Access to 5000+ training courses accessible anytime/anywhere to support your growth and development (Corporate with top learning partners like Harvard, Coursera, Udacity).
+About us:
+PayU, one of India's leading digital financial services providers with Prosus as an investor, operates businesses that are regulated by the Reserve Bank of India and offers advanced solutions to meet the digital payment requirements of the Indian market. PayU India companies aim to create a full-stack digital financial services platform to serve all (tapped and untapped) financial needs of customers through technology solutions.
+PayU provide payment gateway solutions to online businesses through its cutting-edge and award-winning technology and has empowered 5 lakhs+ businesses, including India’s leading enterprises, e-commerce giants and SMBs. It enables businesses to collect digital payments across 150+ online payment methods such as Credit Cards, Debit Cards, Net Banking, EMIs, pay-later, QR, UPI, Wallets, and more. It’s a preferred partner in the affordability ecosystem, offering the maximum coverage of issuers and easy-to-implement integrations across card-based EMIs, pay-later options and new-age cardless EMIs. PayU offers e-commerce brands best-in-industry success rates while ensuring a seamless checkout experience.
+Our Commitment to Building A Diverse and Inclusive Workforce
+As a global and multi-cultural organization with varied ethnicities thriving across locations, we realize that our responsibility towards fulfilling the D&I commitment is huge. Therefore, we continuously strive to create a diverse, inclusive, and safe environment, for all our people, communities, and customers. Our leaders are committed to create an inclusive work culture which enables transparency, flexibility, and unbiased attention to every PayUneer so they can succeed, irrespective of gender, color, or personal faith. An environment where every person feels they belong, that they are listened to, and where they are empowered to speak up. At PayU we have zero tolerance towards any form of prejudice whether a specific race, ethnicity, or of persons with disabilities, or the LGBTQ communities.
+
+---
+
+ADDITIONAL DETAILS
+About us:
+PayU, one of India's leading digital financial services providers with Prosus as an investor, operates businesses that are regulated by the Reserve Bank of India and offers advanced solutions to meet the digital payment requirements of the Indian market. PayU India companies aim to create a full-stack digital financial services platform to serve all (tapped and untapped) financial needs of customers through technology solutions.
+PayU provide payment gateway solutions to online businesses through its cutting-edge and award-winning technology and has empowered 5 lakhs+ businesses, including India’s leading enterprises, e-commerce giants and SMBs. It enables businesses to collect digital payments across 150+ online payment methods such as Credit Cards, Debit Cards, Net Banking, EMIs, pay-later, QR, UPI, Wallets, and more. It’s a preferred partner in the affordability ecosystem, offering the maximum coverage of issuers and easy-to-implement integrations across card-based EMIs, pay-later options and new-age cardless EMIs. PayU offers e-commerce brands best-in-industry success rates while ensuring a seamless checkout experience.
+
+================================================================================

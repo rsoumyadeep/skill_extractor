@@ -1,0 +1,133 @@
+================================================================================
+JOB #309: Cerebras Systems - MTS
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/d00feba4-4e71-4701-8920-b0f1ef6941cd
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Cerebras Systems
+Job Domain
+Software
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bengaluru
+Industry
+VLSI and Semiconductors
+Industry Sector
+Private
+Website URL
+https://www.cerebras.ai/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+35,00,000
+First Year Annual Overall CTC
+40,00,000
+First Year Monthly Salary
+2,91,667
+First Year Overall CTC - Detailed Breakup
+Please note
+B.Tech degree, the package is INR 30 lakh, plus an additional INR 5 lakh in RSUs (Gross CTC 35 Lakh)
+M.Tech degree, the package is INR 35 lakh, plus an additional INR 5 lakh in RSUs (Gross CTC 40 Lakh)
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Oct-25 18:55:56
+Application Deadline
+28-Oct-25 06:00:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-MTS
+Shortlist Published At
+Stage 2(Resume Shortlisting-MTS ) - 27 Dec 2025 14:09:08
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Technical Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+PhD (Engineering)
+Discipline
+B.Tech in Mathematics and Computing
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech Mathematics
+M.Tech Supercomputer Education and Research Centre
+PhD Computational and Data Sciences
+PhD Computer Science and Automation
+M.Tech Artificial Intelligence
+M.Tech Electronics & Communication Engineering
+Eligibility
+M.Tech, B.Tech and B.Tech+M.Tech Integrated Engineering, Computer Science, Mathematics or related educational background.
+CGPA-8
+No MS or M.Tech by research
+Skills
+Strong proficiency in C/C++ or Python
+Familiarity with Deep Learning model architectures
+Familiarity with TensorFlow or PyTorch internals
+Familiarity with LLVM or MLIR compiler technology
+Strong knowledge of computer science fundamentals
+Bond Details
+Not applicable
+
+---
+
+DETAILED JOB DESCRIPTION
+Cerebras is developing a radically new chip and system to dramatically accelerate deep learning applications. Our system runs
+training and inference workloads orders of magnitude faster than contemporary machines, fundamentally changing the way ML
+researchers work and pursue AI innovation.
+We are innovating at every level of the stack – from chip, to microcode, to power delivery and cooling, to new algorithms and
+network architectures at the cutting edge of ML research. Our fully-integrated system delivers unprecedented performance
+because it is built from the ground up for the deep learning workload.
+Cerebras is building a team of exceptional people to work together on big problems. Join us!
+About The Role
+As a core software developer, you will directly impact how deep learning models are executed on our hardware and be
+responsible for enabling next-generation AI applications. In this position, you will develop software for compilation,
+optimization, execution, acceleration, debugging, profiling, and/or integration of deep learning models that run on our systems.
+Responsibilities
+• Develop software in C++ or Python to optimize, compile, and/or execute Deep Learning models
+• Measure, analyze, debug, and improve the software stack that supports these models
+• Integrate and deploy successful improvements into production software releases and to customers
+Requirements
+• Strong proficiency in C/C++ or Python
+• Ability to operate at multiple levels of abstraction in a complex software system
+• Engineering, Computer Science, Mathematics or related educational background. 
+Preferred Skills
+• Familiarity with Deep Learning model architectures
+• Familiarity with TensorFlow or PyTorch internals
+• Familiarity with LLVM or MLIR compiler technology
+• Strong knowledge of computer science fundamentals (graph theory, data structures, optimization algorithms)
+
+================================================================================

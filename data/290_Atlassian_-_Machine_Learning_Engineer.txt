@@ -1,0 +1,181 @@
+================================================================================
+JOB: Atlassian - Machine Learning Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/1e009f36-319f-4691-8e84-be6cee7b1e2f
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Atlassian
+Job Domain
+Artificial Intelligence/ Machine Learning
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bengaluru/ Remote
+Industry
+Engineering and Technology
+Industry Sector
+Public
+Website URL
+https://atlassian.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+Please see below
+First Year Annual Overall CTC
+Please see below
+First Year Monthly Salary
+Please see below
+First Year Overall CTC - Detailed Breakup
+Base Pay (A) - 30,40,000 INR
+Bonus Target % - 10%
+Bonus Target Amount (B) - 3,04,000 INR
+Annual Equity (1st year) (C) - 8,90,625 INR
+
+Annual Total Target Compensation (A+B+C)= 42,34,625 INR
+
+Total Equity: $41,600 (Projected to vest quarterly over 4 years in equal tranches.)
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Oct-25 16:00:00
+Application Deadline
+28-Oct-25 08:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Machine Learning Engineer
+Shortlist Published At
+Stage 2(Online Test-Machine Learning Engineer) - 24 Nov 2025 12:04:35Stage 3(Technical Interview-Machine Learning Engineer) - 24 Nov 2025 12:16:12
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+MS (Research)
+Discipline
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Mathematics
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Mathematics
+MS (Research) in Mathematics
+M.Tech Signal Processing
+M.Tech Artificial Intelligence
+M.Tech Mobility Engineering
+M.Tech Robotics and Autonomous Systems
+M.Tech Computer Science & Engineering
+Eligibility
+- 2026 graduate
+- 6+ CGPA (or equivalent)
+- Currently pursuing a Master’s Degree - M.Tech, M.S, “B.Tech+ M.Tech Dual Degree”, “B.Tech+ M.S Dual Degree”, “BS+M.Tech Dual Degree”, “Integrated M.Tech” in Computer Science with specialisation in Artificial Intelligence, Machine Intelligence or a related field like Mathematics and Computational Science
+- No current/active backlogs
+Skills
+- Familiarity with software engineering principles around testing, code reviews & deployment with a focus on writing test-driven, modular code, with minimal bugs
+- Excellent communication skills.
+- Programming skills in Python or similar languages.
+Bond Details
+Not Applicable
+
+---
+
+JD ATTACHMENTS
+Machine Learning Engineer
+
+---
+
+DETAILED JOB DESCRIPTION
+About Atlassian
+At Atlassian, we're motivated by a common goal: to unleash the potential of every team. Our software products help teams all over the planet, and our solutions are designed for all types of work. Team collaboration through our tools makes what may be impossible alone, possible together.
+
+We believe that the unique contributions of all Atlassians create our success. To ensure that our products and culture continue to incorporate everyone's perspectives and experience, we never discriminate based on race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status. All your information will be kept confidential according to EEO guidelines.
+
+
+To learn more about our culture and hiring process, visit go.atlassian.com/crh.
+
+
+Working at Atlassian
+Atlassians have the flexibility to work where they can collaborate most effectively with their team, whether at home, one of our global offices, or both. As a distributed-first company, all interviews are conducted virtually. We hire in any country where we have a legal entity. Learn how we work at go.atlassian.com/distributed.
+
+
+Your Future Org
+At Atlassian, our machine learning teams tackle business and product challenges across the company. Collaborating with stakeholders in Growth, GTM, Product, Finance, and Sales, we deliver machine learning infrastructure and model applications. Our teams, comprised of ML engineers and system engineers, foster collaboration, knowledge sharing, and individual growth. They operate nimbly, emphasizing speed from conceptualization to initial output while maintaining a strong focus on business impact. This role offers a unique chance to work in a collaborative environment and implement cutting-edge machine learning techniques, including search/recommendation engines, GenAI applications, LLM training, and more.
+
+
+Responsibilities
+- Focus on Machine Learning applications, and a strong foundation in AI/ML, LLMs, Model optimisation and related techniques, and evaluating the models.
+- Build machine learning models and work on Generative AI projects
+- Translate business problems into technical solutions through experiments and analysis
+- Agile development mindset, appreciating the benefit of constant iteration and improvement.
+
+
+Must Have Skills
+- Familiarity with software engineering principles around testing, code reviews and deployment with a focus on writing test-driven, modular code, with minimal bugs
+- Excellent communication and collaboration skills.
+- Strong programming skills in Python or similar languages.
+
+
+Good To Have Skills
+- Experience with relevant ML frameworks such as LangChain, LangGraph, Pydantic AI, PyTorch, or TensorFlow
+- Experience with pre-training, post-training techniques, prompt engineering, few-shot learning, and evaluations.
+- Familiarity with large-scale model training and deployment.
+- Good-to-strong programming skills in Kotlin or similar languages
+- Experience in statistical data analysis to run hypothesis testing and run efficient AB tests in production systems
+- Familiarity and experience with state-of-the-art development and research, publishing, building and scaling machine learning models for high-throughput systems.
+
+
+Minimum Qualifications:
+- 2026 graduate
+- 6+ CGPA (or equivalent)
+- Currently pursuing a Master’s Degree - M.Tech, M.S, “B.Tech+ M.Tech Dual Degree”, “B.Tech+ M.S Dual Degree”, “BS+M.Tech Dual Degree”, “Integrated M.Tech” in Computer Science with specialisation in Artificial Intelligence, Machine Intelligence or a related field like Mathematics and Computational Science
+- No current/active backlogs
+
+
+Benefits and Perks:
+Atlassian offers a wide range of perks and benefits designed to support you, your family and to help you engage with your local community. Our offerings include health and well-being resources, paid volunteer days, and so much more. To learn more, Atlassian Internships: Students and New Grads | Atlassian Atlassian Benefits for Global Employees | Atlassian
+
+---
+
+ADDITIONAL DETAILS
+Machine Learning Engineer (Open for Master's Students only)
+Job posting link: https://global-invite-atlassian.icims.com/jobs/22853/job?mode=view
+
+Applying on the above link is mandatory
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Did you complete 2nd Level of Registration(https://global-invite-atlassian.icims.com/jobs/22853/job?mode=view) (Multiple Choice)
+
+================================================================================

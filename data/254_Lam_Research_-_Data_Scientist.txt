@@ -1,0 +1,121 @@
+================================================================================
+JOB: Lam Research - Data Scientist
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/bf73d21d-cffc-46ab-a71e-032b1117bc01
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Lam Research
+Job Domain
+Data Science
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+VLSI and Semiconductors
+Industry Sector
+Private
+Website URL
+https://www.lamresearch.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+18,67,800
+First Year Annual Overall CTC
+29,85,731
+First Year Monthly Salary
+Will be mentioned in the offer letter
+First Year Overall CTC - Detailed Breakup
+Base Salary 1867800
+Gratuity 40400.5
+Variable Pay (Target 10% ) 1,86,780
+Joining Bonus 4,66,950
+Stock Options 3,81,800
+Other Benefits : Fitness, Health Check Up, Internet/Broadband, Outpatient 42,000
+Total Targeted Compensation for the year 2026 29,85,731
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+3
+Application Start Time
+05-Nov-25 17:15:00
+Application Deadline
+07-Nov-25 08:00:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Data Scientist
+Shortlist Published At
+Stage 0(Resume Shortlisting-Data Scientist) - 28 Dec 2025 18:58:45Stage 2(Online Test-Data Scientist) - 28 Dec 2025 18:58:25
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+Discipline
+M.Tech (Research) Computational and Data Sciences
+Eligibility
+M.E. / M. Tech in Computer Science or Information Systems with a minimum 65% aggregate
+• Graduating in 2026 without any backlogs.
+
+Skills
+• Engage with senior Data Scientists and Architects at Lam India to gain insights into real-world business challenges and explore how GenAI technologies can address them.
+• Participate in meetings with subject matter experts (SMEs) to understand the technical and practical aspects of proposed solutions.
+• Clarify the scope of your assignments with guidance from senior team members, and strategize your contributions based on the current business requirements.
+• Assist in drafting functional specification documents that capture business needs and outline solution frameworks.
+• Support SMEs with hands-on involvement in the technical development and implementation of GenAI-powered solutions.
+• Stay adaptable and open-minded to learning, as you may be tasked with exploring new and evolving use cases in the GenAI landscape.
+• Develop your analytical perspective by communicating technical concepts with clarity to both technical and non-technical audiences.
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+As a Data Scientist delving into GenAI-driven solutions at Lam Research, your day-to-day activities will immerse you in the heart of innovation and collaboration.
+• Engage with senior Data Scientists and Architects at Lam India to gain insights into real-world business challenges and explore how GenAI technologies can address them.
+• Participate in meetings with subject matter experts (SMEs) to understand the technical and practical aspects of proposed solutions.
+• Clarify the scope of your assignments with guidance from senior team members, and strategize your contributions based on the current business requirements.
+• Assist in drafting functional specification documents that capture business needs and outline solution frameworks.
+• Support SMEs with hands-on involvement in the technical development and implementation of GenAI-powered solutions.
+• Stay adaptable and open-minded to learning, as you may be tasked with exploring new and evolving use cases in the GenAI landscape.
+• Develop your analytical perspective by communicating technical concepts with clarity to both technical and non-technical audiences.
+You need to know:
+• Basic understanding of Data Science algorithms.
+• GenAI technologies.
+• Knowledge of LLMs, RAG, Indexing and Vector DBs.
+• Good problem solving and analytical/critical thinking skills
+• Good oral and written communication skills
+• Ability to work on multiple and often competing issues at the same time
+• Strong interpersonal skills
+• Ability to work independently or with limited direction
+
+================================================================================

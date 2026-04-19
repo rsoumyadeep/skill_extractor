@@ -1,0 +1,142 @@
+================================================================================
+JOB: InMobi Group Private Limited - ML Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/0e71bfe0-6023-4e8e-b2e5-2f88bd6089ef
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+InMobi Group Private Limited
+Job Domain
+Machine Learning
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Internet and E-commerce
+Industry Sector
+Private
+Website URL
+https://www.inmobi.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+30,00,000
+First Year Annual Overall CTC
+NA
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+Base Pay
+30,00,000/-
+Joining Bonus (Given with 1st month salary)
+4,00,000/-
+Joining Bonus (Given with 13th month salary)
+5,00,000/-
+Joining Bonus (Given with 25th month salary)
+6,00,000/-
+Stock Options
+200-500 units
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Oct-25 15:47:31
+Application Deadline
+28-Oct-25 06:00:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-ML Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+Discipline
+M.Tech (Research) Computer Science and Automation
+M.Tech Computational and Data Sciences
+M.Tech Artificial Intelligence
+Eligibility
+7 CGPA,and Above.
+Skills
+• Advanced degree in statistics, machine learning, or data analysis.
+• Experience in research-oriented data science roles.
+• Ability to collaborate effectively with cross-functional teams.
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+ML Engineer JD
+
+---
+
+DETAILED JOB DESCRIPTION
+Data Scientist I / ML Engineer I - InMobi/Glance
+Join InMobi/Glance, a leading mobile advertising and content platform, and impact millions of
+users. We're building the future of digital engagement through innovative products like Glance
+(smart lock screen content) and Roposo (live experiences platform). We offer a fast-paced,
+collaborative environment where you can make an immediate impact, using cutting-edge
+technology.
+What should you know about joining Inmobi or Glance?
+Here, we walk the talk – free yourself, dream big, and chase your passion! On joining, you’ll have
+opportunities to make an immediate impact on mission-critical projects, as you work with
+highly capable and ambitious peer groups.
+Be rewarded for your autonomy even as you collaborate. Ideate, innovate, and inspire by
+leveraging bleeding-edge tech to disrupt consumer experiences.
+While you work, we’ll take care of nourishing your body, mind, and soul. This includes daily
+meals, gym, trainings, tech tools, and regular unwind sessions. Also, feel free to bring your kids
+– even the furry ones – to the office!
+What you'll do:
+Architect and implement solutions for accelerated experimentation and model building. Design
+and implement innovative products and proof-of-concepts. Deploy data solutions and pipelines
+for efficient ML workflows. Collaborate with engineering, product, and newsroom teams to
+deliver ML/AI products. Explore and integrate new platforms, technologies, and algorithms.
+Manage project priorities, deadlines, and deliverables.
+Qualifications:
+• 1+ years in Big Data Software Development or ML Engineering role.
+• Experience managing and deploying ML models.
+• Bachelor's or Master’s in Computer Science, Mathematics, Statistics, or related field.
+• Proficiency in Python, Scala, Spark, or similar tools with data science libraries.
+• Strong background in math and statistics.
+• Linux command line proficiency.
+• Understanding of data structures and transformation methods.
+• Knowledge of ML techniques (clustering, decision trees, neural networks, etc.).
+Preferred:
+• Advanced degree in statistics, machine learning, or data analysis.
+• Experience in research-oriented data science roles.
+• Ability to collaborate effectively with cross-functional teams.
+
+================================================================================

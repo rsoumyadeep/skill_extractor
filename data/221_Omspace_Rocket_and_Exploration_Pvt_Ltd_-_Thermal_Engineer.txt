@@ -1,0 +1,146 @@
+================================================================================
+JOB: Omspace Rocket and Exploration Pvt. Ltd - Thermal Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/f7661d15-4f86-45ff-910c-b43f075f9a1a
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Omspace Rocket and Exploration Pvt. Ltd
+Job Domain
+Technical Department
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Ahmedabad , Gujarat
+Industry
+Manufacturing
+Industry Sector
+Private
+Website URL
+https://www.omspacerocket.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+10,000,00 Anually
+First Year Annual Overall CTC
+12,000,00 Anually
+First Year Monthly Salary
+70,000-80,000 per month
+First Year Overall CTC - Detailed Breakup
+1st Year Annual Base CTC: 10,000,00 Anually
+1st Year Annual Overall CTC : 12,000,00 Anually
+1st Year Monthly Salary: 70,000-80,000 per month
+Second Year Approx. Annual Base CTC
+11,000,00 Anually
+Second Year Approx. Annual Overall CTC
+13,000,00 Anually
+Second Year Approx. Monthly Salary
+85,000-95,000 per month
+Second Year Approx. Overall CTC - Detailed Breakup
+2nd Year Approx. Annual Base CTC : 11,000,00 Anually
+2nd Year Approx. Annual Overall CTC: 13,000,00 Anually
+2nd Year Approx. Monthly Salary: 85,000-95,000 per month
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+13-Nov-25 13:37:45
+Application Deadline
+15-Nov-25 20:00:52
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Thermal Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+12
+Maximum Job Experience
+24
+Programme
+B.Tech
+BS (Research)
+M.Engg
+M.Tech
+M.Tech (Research)
+MS (Research)
+PhD (Engineering)
+Discipline
+B.Tech in Mathematics and Computing
+BS (Research) in Mathematics
+BS (Research) in Physics
+M.Engg in Semiconductor Technology
+M.Tech (Research) Aerospace Engineering
+M.Tech (Research) Astronomy and Astrophysics Programme
+M.Tech (Research) Centre for Cryogenic Technology
+M.Tech (Research) Centre for High Energy Physics
+PhD Centre for Nano Science and Engineering
+PhD Electrical Engineering
+PhD Mathematics
+M.Tech Centre for NanoScience and Engineering
+M.Tech Semiconductor Technology
+M.Tech Microelectronics & VLSI Design
+M.Tech Computer Science & Engineering
+Eligibility
+Bachelor’s/Master’s in Mechanical, Aerospace, or Thermal Engineering.
+
+Skills
+1.Strong knowledge of heat transfer, thermodynamics, and fluid dynamics.
+2.Proficiency in thermal analysis tools (ANSYS or equivalent).
+3.Hands-on experience with thermal testing and validation methods.
+4.Strong analytical and problem-solving skills.
+Bond Details
+1 year of Bond.
+
+---
+
+JD ATTACHMENTS
+Thermal JD
+
+---
+
+DETAILED JOB DESCRIPTION
+Job Title: Thermal Engineer
+
+
+Job Summary
+We are seeking a Thermal Engineer for the aerospace industry. The role involves designing, analyzing, and validating thermal control systems for spacecraft systems. The candidate will work on heat transfer modeling, thermal simulations, and material selection to ensure system reliability in extreme space environments.
+
+Key Responsibilities
+Design and analyze thermal protection systems for aerospace vehicles and subsystems.
+Perform thermal modeling and simulations covering conduction, convection, and radiation.
+Conduct temperature predictions, thermal balance testing, and thermal vacuum testing.
+Collaborate with structural, propulsion, and systems teams for integrated thermal solutions.
+Select and evaluate materials, coatings, and insulation suitable for aerospace environments.
+Prepare thermal design documentation, reports, and reviews in line with aerospace standards.
+Support failure analysis, risk assessments, and mission assurance activities related to thermal performance.
+
+---
+
+ADDITIONAL DETAILS
+Preferred Skills
+1.Experience with cryogenic systems, propulsion cooling, or re-entry thermal analysis.
+2.Knowledge of multiphysics simulation tools (CFD + thermal coupling).
+3.Familiarity with space environment conditions (vacuum, radiation, extreme temperature cycles).
+4.Exposure to system-level design trade-offs involving thermal performance.
+5.Strong collaboration, documentation, and presentation abilities.
+
+================================================================================

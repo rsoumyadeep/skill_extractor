@@ -1,0 +1,175 @@
+================================================================================
+JOB: QOSMIC SATELLITE SYSTEMS PRIVATE LIMITED - Optical Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/0fb64ca6-344a-4db3-99cf-2311e6a21400
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+QOSMIC SATELLITE SYSTEMS PRIVATE LIMITED
+Job Domain
+Engineering
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bangalore
+Industry
+Space Technologies, Communication, Quantum Technologies
+Industry Sector
+Private
+Website URL
+https://qosmic.space/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+11,17,646 - 12,35,412
+First Year Annual Overall CTC
+12,00,000-20,00,000+
+First Year Monthly Salary
+82,354 - 1,02,942
+First Year Overall CTC - Detailed Breakup
+Basic Salary - 5,65,000 - 7,06,000 (yearly)
+HRA - 2,58,824 - 3,23,529 (yearly)
+PF - 1,41,176 - 1,76,471 (yearly)
+Other allowance - 23,529 - 29,412 (yearly)
+Variable Pay (Performance-based) - 2,11,471 - 2,64,588 (yearly)
+ESOP: 1-1.5x of Annual Pay
+PhD and postdoc holders will have a higher pay band based on their experience and expertise
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Nov-25 10:05:07
+Application Deadline
+05-Dec-25 10:00:34
+Time Left
+Closed
+Application Current State
+Technical Interview-Optical Engineer
+Shortlist Published At
+Stage 2(Assignment-Optical Engineer) - 26 Dec 2025 14:47:30Stage 3(Technical Interview-Optical Engineer) - 26 Dec 2025 14:48:04
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Assignment
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Engg
+M.Tech
+M.Tech (Research)
+MS (Research)
+MSc
+PhD (Engineering)
+PhD (Science)
+Post Doc
+PhD (Integrated)
+Discipline
+M.Tech (Research) Aerospace Engineering
+M.Tech (Research) Astronomy and Astrophysics Programme
+M.Tech (Research) Centre for Nano Science and Engineering
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech (Research) Instrumentation and Applied Physics
+M.Tech (Research) Physics
+M.Tech Aerospace Engineering
+M.Tech Astronomy and Astrophysics Programme
+M.Tech Centre for High Energy Physics
+M.Tech Centre for Nano Science and Engineering
+M.Tech Centre of Excellence in Advanced Mechanics of Materials
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech in Instrumentation Systems
+M.Tech Mechanical Engineering
+M.Tech Physics
+M.Tech Quantum Technology Initiative
+MS (Research) in Physics
+PhD Aerospace Engineering
+PhD Astronomy and Astrophysics Programme
+PhD Centre for High Energy Physics
+PhD Centre for Nano Science and Engineering
+PhD Electrical Communication Engineering
+PhD Electrical Engineering
+PhD Electronic Systems Engineering
+PhD Instrumentation and Applied Physics
+PhD Physics
+M.Tech Signal Processing
+M.Tech Smart Manufacturing
+M.Tech Electronics & Communication Engineering
+M.Tech Centre for NanoScience and Engineering
+M.Tech Microelectronics & VLSI Design
+M.Tech Electronic Product Design
+M.Tech Communication Networks
+M.Tech Electronics Systems Engineering
+M.Tech (Research) Mechanical Engineering
+Eligibility
+Postgraduate degree (M.Sc/M.Tech/PhD) in Optics, Photonics, Physics, Electrical Engineering, or related field
+Skills
+• Strong hands-on experience with optical systems and optical bench setups
+• Practical experience handling lasers, detectors, optical alignment tools, and precision mounts
+• Proficiency with optical measurement equipment and characterisation techniques
+• Ability to perform microradian-level optical alignments
+• Understanding of laser safety protocols and procedures
+• Experience working collaboratively with electronics and mechanical engineers
+• Self-motivated with the ability to own subsystems end-to-end
+Preferred
+• Experience with FSO communication, satellite systems, or ground stations
+• Familiarity with optical design software (Zemax, CODE V, etc.)
+• Knowledge of atmospheric turbulence effects and compensation techniques
+• Experience with PAT (Pointing, Acquisition & Tracking) systems
+• Programming skills in Python/MATLAB for automation and data analysis
+• Exposure to high-speed optical modulation or FPGA-based signal processing
+Bond Details
+No bond
+
+---
+
+JD ATTACHMENTS
+Optical Engineer JD
+
+---
+
+DETAILED JOB DESCRIPTION
+Join us in developing cutting-edge optical communication systems for space applications. You will work hands-on with lasers, telescopes, detectors, and precision alignment systems across various projects, including optical ground stations, satellite terminals, and emerging optical communication technologies. Your work will bridge laboratory prototypes and field-deployable hardware for terrestrial and space-based platforms.
+
+---
+
+ADDITIONAL DETAILS
+What You'll Do
+
+
+• Build, test and deploy free-space optical links (targeting 1-20 km ranges)
+• Handle lasers, beam expanders, telescopes, filters and detectors with safe and precise procedures
+• Perform microradian-level optical alignments for long-distance communication links
+• Integrate and interface different optical subsystems
+• Assemble and integrate optical systems with electronics and mechatronics teams
+• Carry out tests and experiments to validate the performance of optical systems
+• Support field experiments, PAT (Pointing, Acquisition & Tracking) alignment and on-site troubleshooting
+• Characterise lasers, photodetectors, and complete link performance
+• Document test procedures, experimental results and system specifications
+
+================================================================================

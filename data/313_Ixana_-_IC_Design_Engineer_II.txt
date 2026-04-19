@@ -1,0 +1,153 @@
+================================================================================
+JOB: Ixana - IC Design Engineer II
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/3ab61ca2-9849-49bd-91b2-cf85f3ab29d2
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Ixana
+Job Domain
+Technology
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+VLSI and Semiconductors
+Industry Sector
+Private
+Website URL
+http://www.ixana.ai
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+20,00,000
+First Year Annual Overall CTC
+40,57,000
+First Year Monthly Salary
+1,66,666.66
+First Year Overall CTC - Detailed Breakup
+Base : 20LPA
+Benefits : 4.8LPA
+Stocks : Upto 10L
+Joining Bonus : Upto 5L
+Total CTC : 40L
+Second Year Approx. Annual Base CTC
+22,00,000
+Second Year Approx. Annual Overall CTC
+42,57,000
+Second Year Approx. Monthly Salary
+1,83,333.33
+Second Year Approx. Overall CTC - Detailed Breakup
+ase : 22LPA
+Benefits : 4.8LPA
+Bonus : Variable Performance Based
+Stocks : Variable
+Total CTC : 42L
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Oct-25 19:00:00
+Application Deadline
+28-Oct-25 06:00:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-IC Design Engineer II
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+MS (Research)
+MSc
+PhD (Engineering)
+PhD (Science)
+PhD (Integrated)
+Discipline
+M.Engg in Semiconductor Technology
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech in Instrumentation Systems
+PhD Electrical Communication Engineering
+M.Tech Smart Manufacturing
+M.Tech Electronics & Communication Engineering
+M.Tech Semiconductor Technology
+M.Tech Mobility Engineering
+M.Tech Microelectronics & VLSI Design
+M.Tech Electronic Product Design
+Eligibility
+CGPA 8.0 and above
+Skills
+Preferred Qualifications and Skills:
+Experience using Circuit Testing equipment (e.g., Oscilloscope, Signal generators, DC sources)
+Knowledge of Circuit Design software tools (e.g., Advanced Design System (ADS), LT Spice etc.)
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+Minimum Qualifications and Skills:
+
+
+Strong background in analog-mixed circuit design and circuit analysis, especially in wireless communications
+
+
+Working knowledge of integration of analog IPs into SOCs, including verification
+
+
+Experience recruiting and mentoring junior and experienced engineers
+
+
+Broad technical knowledge with the ability to learn quickly.
+
+
+Preferred Qualifications and Skills:
+
+
+Experience using Circuit Testing equipment (e.g., Oscilloscope, Signal generators, DC sources)
+
+
+Knowledge of Circuit Design software tools (e.g., Advanced Design System (ADS), LT Spice etc.)
+
+
+Excellent board-level and firmware debug skills
+
+
+Experience using PCB design software (Eagle, Altium Designer, OrCAD)
+
+
+Knowledge of test automation, using scripting languages (e.g., Python and LabVIEW)
+
+
+Knowledge of different wireless communication circuits is a plus
+
+
+Outstanding communication and documentation skills
+
+================================================================================

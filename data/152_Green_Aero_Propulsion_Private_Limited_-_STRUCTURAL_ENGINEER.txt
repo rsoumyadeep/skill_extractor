@@ -1,0 +1,131 @@
+================================================================================
+JOB: Green Aero Propulsion Private Limited - STRUCTURAL ENGINEER
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/5165dfc3-b837-4d07-b7aa-c04e5217b260
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Green Aero Propulsion Private Limited
+Job Domain
+Aerospace
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bengaluru, Karnataka
+Industry
+Aerospace and Defense
+Industry Sector
+Private
+Website URL
+https://www.greenaero.in/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+6 - 10 LPA (subject to performance in the interview)
+First Year Annual Overall CTC
+12+ LPA (subject to performance in the interview)
+First Year Monthly Salary
+1,00,000 /Month (subject to performance in the interview)
+First Year Overall CTC - Detailed Breakup
+12+ LPA (subject to performance in the interview)
+Second Year Approx. Annual Base CTC
+NA
+Second Year Approx. Annual Overall CTC
+NA
+Second Year Approx. Monthly Salary
+NA
+Second Year Approx. Overall CTC - Detailed Breakup
+NA
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+01-Dec-25 12:15:57
+Application Deadline
+05-Dec-25 15:34:07
+Time Left
+Closed
+Application Current State
+Online Test-STRUCTURAL ENGINEER
+Shortlist Published At
+Stage 0(Resume Shortlisting-STRUCTURAL ENGINEER) - 01 Dec 2025 12:11:36
+
+---
+
+APPLICATION STAGES
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+All
+Discipline
+All
+Eligibility
+As mentioned in the job description
+Skills
+As mentioned in the job description
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+STRUCTURAL ENGINEER
+
+---
+
+DETAILED JOB DESCRIPTION
+STRUCTURAL ENGINEER
+
+
+Job Location: Bengaluru, Karnataka
+
+
+About Us:
+We are a fast-growing deep-tech aerospace company building the world’s most advanced aero engines for both military and civilian applications. Our current focus includes jet fuel-based propulsion systems for military UAVs, as well as pioneering green hydrogen–powered aero engine R&D for future aviation. Our team culture revolves around first-principles thinking, scientific rigor, and rapid innovation, and we are looking for engineers who are open-minded, technically curious, and ready to solve some of the toughest challenges in aerospace propulsion.
+
+
+Responsibilities:
+• Perform structural analysis of composite structures and rapid design iterations for high-speed airframes. Demonstrate clear understanding of aircraft design concepts and structural analysis especially for high speed military applications
+• Calculate aerodynamic stresses as a function of aircraft manoeuvres
+• Perform calculations of aero-structure interaction loads, static and dynamic loads, stresses and fatigue using analytical methods as well as detailed FEA models. Implement efficient optimization workflows for rapid design iterations.
+• Collaborate with other team members and account for interdependencies of different components on airframe integration and resulting performance and impact on weight.
+• Determine dynamic properties of composite structures to estimate damaging modes of operations. Carry out modal analysis and evaluate aerodynamic flutter at high speed conditions.
+• Assist in designing vibration experiments, analysing data. Coordinate with manufacturing team with aspects related to composites manufacturing
+
+
+Qualifications:
+• Understanding of basic principles of composite structures
+• Understanding of aircraft design, aero structures and aerodynamic load calculations
+• Bachelor's degree/MS in aerospace or mechanical engineering; master's preferred.
+• Relevant, hands-on experience in structural design and analysis in composite structures
+• Understanding of aerodynamics and its impact of aero structural stresses
+• Proficiency in structural analysis software (e.g., ANSYS, Abaqus) for FEA analysis
+• Proficiency in first principles based analytical calculations and modelling
+• Basic understanding of optimization algorithms
+• Basic understanding of manufacturing methods for composite structures
+
+
+What will you gain from this job:
+• End-to-end exposure to real-world jet engine development, including control systems, hardware realization, and flight testing.
+• Mentorship from experienced aerospace engineers and hands-on work with cutting-edge propulsion technologies.
+• Opportunity to work on advanced aerospace R&D in high-speed transonic regimes, using both scientific and practical engineering approaches.
+• A strong stepping stone toward advanced careers in propulsion, flight control, embedded systems, or aerospace research.
+• Professional work environment with a five-day work week, standard benefits, and collaboration on world-class projects.
+
+================================================================================

@@ -1,0 +1,133 @@
+================================================================================
+JOB: Observe.AI Networks Private Limited (formerly Razorsharp Technologies Private Limited) - Machine Learning Engineer, NLP
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/f084cea2-333a-4a54-93b6-a3a3e0bb2365
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Observe.AI Networks Private Limited (formerly Razorsharp Technologies Private Limited)
+Job Domain
+Technical
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bengaluru
+Industry
+Engineering and Technology
+Industry Sector
+Private
+Website URL
+https://www.observe.ai
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+38,00,000
+First Year Annual Overall CTC
+5,00,000
+First Year Monthly Salary
+3,16,666
+First Year Overall CTC - Detailed Breakup
+Overall Annual CTC
+a. Annual Fixed Pay: 38 Lakhs
+b. One Time Joining Bonus paid with the 1st month salary: 5 Lakhs
+c. Stock Component: 2500 units spread over 4 years payment timelines
++ Medical Insurance Benefit
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+The 2nd year Annual CTC is dependant on the % hike in the 1st year
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Oct-25 15:59:32
+Application Deadline
+28-Oct-25 06:00:00
+Time Left
+Closed
+Application Current State
+HR Interview-Machine Learning Engineer, NLP
+Shortlist Published At
+Stage 2(Resume Shortlisting-Machine Learning Engineer, NLP ) - 24 Dec 2025 10:09:05Stage 4(HR Interview-Machine Learning Engineer, NLP ) - 30 Dec 2025 10:47:30
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+MS (Research)
+Discipline
+M.Tech (Research) Computational and Data Sciences
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Signal Processing
+Eligibility
+We are looking at the following degrees
+M Tech and M S Research
+Skills
+Bachelors or Masters degree
+Strong working knowledge of Machine learning/Deep learning techniques and Natural language processing/ Speech processing
+Understanding ML solutions and pipelines
+Programming experience in Python, Shell scripting and C/Java
+Understanding of big data and distributed computing technologies such as: Hadoop, MapReduce, Spark, and Storm
+Bond Details
+The Company does not have hiring bond
+
+---
+
+JD ATTACHMENTS
+
+---
+
+DETAILED JOB DESCRIPTION
+The Opportunity
+
+
+We are seeking Machine Learning Engineers at Observe AI. In this role, we are looking for talented and self-driven individuals to join a high-impact team at the core of Observe.AI's mission to build the next generation voice AI products for Contact Center. This is a highly challenging role that will require implementation of state-of-the-art Machine learning (ML) and Deep learning algorithms to build a never-before-seen machine intelligence product. The role will involve building ML pipelines from scratch, architecting and implementing low latency systems at scale.
+
+
+What you’ll do day to day as a Machine Learning Engineer
+
+
+Work with large data-sets and build a ML pipeline to process and train the data
+Run ML experiments scientifically and analyze the results
+Optimize ML solutions for performance and scale
+Deploy solutions into production and maintain several models for fast experiments
+Simply, own a module end-to-end and show us your data skills
+Keep up-to-date with latest ML and deep learning literature to implement latest techniques into Observe.AI Voice and NLP platform
+
+
+What you’ll bring to this role
+
+
+Bachelors or Masters degree
+Strong working knowledge of Machine learning/Deep learning techniques and Natural language processing/ Speech processing
+Understanding ML solutions and pipelines
+Programming experience in Python, Shell scripting and C/Java
+Understanding of big data and distributed computing technologies such as: Hadoop, MapReduce, Spark, and Storm
+
+================================================================================

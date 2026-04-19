@@ -1,0 +1,133 @@
+================================================================================
+JOB: Havells India Limited - PGET/Research Engineer-Power Electronics
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/ee310db2-abe7-43a1-a69b-4ebf30a9c6e3
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Havells India Limited
+Job Domain
+Power Electronics
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Consumer Electronics
+Industry Sector
+Public
+Website URL
+https://www.havells.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+16,00,000
+First Year Annual Overall CTC
+16,00,000
+First Year Monthly Salary
+0
+First Year Overall CTC - Detailed Breakup
+1) M tech Branch:-Total CTC : 16,00,000.00, Joining Bonus: 1Lakh, 1st Year Retention Bonus: 1 Laksh, 2nd Year Retention Bonus: 1Lakh
+
+2)PhD :-Total CTC : Total CTC : 17,00,000.00, Joining Bonus: 1Lakh, 1st Year Retention Bonus: 1 Laksh, 2nd Year Retention Bonus: 1Lakh
+
+Important Note: All the Bonuses having the claw back clause of 1 year from the date of payment.
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+14-Nov-25 02:00:00
+Application Deadline
+02-Dec-25 08:00:39
+Time Left
+Closed
+Application Current State
+Technical Interview-PGET/Research Engineer-Power Electronics
+Shortlist Published At
+Stage 2(Resume Shortlisting-PGET/Research Engineer-Power Electronics) - 26 Dec 2025 13:04:13Stage 3(Online Test-PGET/Research Engineer-Power Electronics) - 26 Dec 2025 13:04:30Stage 4(Pen & Paper Test-PGET/Research Engineer-Power Electronics) - 26 Dec 2025 13:04:46Stage 5(Assignment-PGET/Research Engineer-Power Electronics) - 26 Dec 2025 13:05:11Stage 6(Technical Interview-PGET/Research Engineer-Power Electronics) - 26 Dec 2025 13:21:46
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Online Test
+Pen & Paper Test
+Assignment
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+MS (Research)
+PhD (Engineering)
+PhD (Integrated)
+Discipline
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+PhD Electrical Communication Engineering
+PhD Electrical Engineering
+PhD Electronic Systems Engineering
+M.Tech Electronic Product Design
+M.Tech Electronics Systems Engineering
+Eligibility
+Minimum 60% throughout their academic from 10th Std to highest degree. No backlogs are not allowed
+Skills
+Please refer JD for more information
+Bond Details
+Not Applicable
+
+---
+
+DETAILED JOB DESCRIPTION
+Job Summary:  
+We are seeking a talented Electronics Hardware Design Engineer to join our dynamic engineering team. The ideal candidate will have a strong background in electronics circuit and power Converter design, experience with circuitry and PCB layout, and a passion for innovation. As a Power Electronics Hardware Design Engineer, you will play a critical role in developing cutting-edge electronic products that meet our customers' needs and industry standards. 
+ 
+Educational Qualifications and Key Skills: 
+Master's (M.E./MTech.) or Ph.D. degree in Electrical Engineering or Electronics Engineering discipline
+Excellent problem-solving skills and the ability to work both independently and collaboratively in a team environment
+Strong understanding of analog, digital electronics, signal processing, and microcontroller-based systems
+Strong communication skills to convey complex technical concepts to both technical and non-technical stakeholders 
+Attention to detail and a passion for producing high-quality, reliable electronic products
+Experience with testing and debugging electronic circuits using lab equipment (oscilloscopes, power supplies, Power analyzers, etc.). 
+Experience with embedded systems, firmware development (a plus). 
+Familiarity with simulation tools (e.g., PSPICE, MATLAB) and analysis techniques for electronics design. 
+Knowledge of PCB layout design and manufacturing processes, assembly, and fabrication techniques. 
+ 
+ Job Responsibilities, but not limited to: 
+Design and develop analog, digital and power electronic circuits for various applications, such as Motor drive Controller, LLC, PFC, Bi-directional Converters. Grid Tie Inverters etc. 
+Conducting design simulations and analyses to optimize circuit performance and ensure compliance with industry standards. 
+Ensuring system performance, reliability, and manufacturability while system design. 
+Create schematic diagrams and guide the PCB layout design team, considering factors such as thermal management, and EMI/EMC compliance. 
+Collaborate with cross-functional teams including software engineers, mechanical engineers, and product managers to define hardware requirements and specifications. 
+Built Prototype and test electronic circuits, identify and troubleshoot issues, and implement necessary design improvements. 
+Research and develop various Power converter topologies, select appropriate components, including microcontrollers, sensors, connectors, and other electronic parts, considering cost, availability, and performance. 
+Perform design validation and verification tests to ensure products meet design specifications and regulatory requirements. 
+Stay updated on industry trends, emerging technologies, and best practices in electronics design using GaN, SiC devices.
+
+================================================================================

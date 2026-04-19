@@ -1,0 +1,108 @@
+================================================================================
+JOB: Newtrace Private Limited -  Material Informatics Intern: AI/ML-Driven Material Discovery
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/26f67884-b4dc-4753-91a4-6ee7e698da88
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Newtrace Private Limited
+Job Domain
+Computational Materials Science / Electrochemistry
+Job Type
+Other Internship
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Renewable Energy
+Industry Sector
+Private
+Website URL
+https://www.newtrace.io/
+Is PPO
+Yes
+Is Internship Open for International Students
+Yes
+Internship Duration
+2026-07 to 2026-12 (6 months)
+
+---
+
+STIPEND / SALARY DETAILS
+Stipend Details
+Average Stipend - 70000
+Maximum Stipend - 250000
+Minimum Stipend-50,000
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+03-Mar-26 16:35:00
+Application Deadline
+05-Mar-26 10:00:01
+Time Left
+Closed
+Application Current State
+Resume Shortlisting- Material Informatics Intern: AI/ML-Driven Material Discovery
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+Discipline
+M.Tech Materials Engineering
+Eligibility
+Eligibility Criteria(If Any): · Eligibility Criteria: Currently pursuing M.Tech in Materials Engineering.
+
+· Required Coursework: Principles of Electrochemistry & Corrosion, Material Informatics, Modeling and Simulation of Materials, and Process Modeling & Manufacturing.
+Skills
+9. Skill set : · Technical Skill Set:
+· Material Informatics: Proficiency in open-source informatics tools such as Pymatgen and experience navigating open-source databases like The Materials Project.
+· Computational: Python, Matlab, AI/ML frameworks, DFT, and Molecular Modeling (Materials Studio),
+· Experimental/Analytical: SEM, XRF, ICP, Cyclic Voltammetry
+· Fabrication: Expertise in Electroplating and Electrode Design.
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+JD
+
+---
+
+DETAILED INTERNSHIP DESCRIPTION
+Detailed Internship Description: The primary focus of this role is the discovery of novel materials for alkaline electrolyzer catalysts using a combination of high-throughput computational screening and experimental validation.
+
+
+Key Responsibilities:
+· Novel Material Discovery: Implement Material Informatics workflows to identify and screen potential catalyst candidates from vast chemical spaces.
+· Modeling & Simulation: Utilize AI/ML-driven field modeling for Mass Transport and Electrochemical Reaction Kinetics alongside Density Functional Theory (DFT) simulations to predict the activity and electrochemical stability of new compounds.
+· Informatics Pipelines: Use open-source tools to query and manipulate data from global repositories to accelerate the discovery phase.
+· Experimental Feedback Loop: Integrate analytical data from Microscopy (SEM), XRF, and ICP into the AI/ML model to refine predictions and provide fine diagnostics for material performance.
+· Stability Prediction: Develop AI/ML models to predict the long-term degradation and overpotential evolution of novel electrode materials based on Cyclic Voltammetry data.
+6. Monthly Stipend: Open to discuss
+Note:-
+            The minimum stipend will be ₹50,000 per month, which may increase based on the student’s performance.
+       The PPO will be offered based on the student’s performance.
+       The internship duration will be from July 2026 to December 2026.
+
+================================================================================

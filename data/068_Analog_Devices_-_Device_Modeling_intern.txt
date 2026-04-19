@@ -1,0 +1,112 @@
+================================================================================
+JOB: Analog Devices - Device Modeling intern
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/83b2fa81-eb96-4c10-a02f-9dfe5ebb62a6
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Analog Devices
+Job Domain
+Internship/Co-Op
+Job Type
+Other Internship
+Job Mode
+-
+Locations
+Internship/Co-Op
+Industry
+VLSI and Semiconductors
+Industry Sector
+Private
+Website URL
+https://www.analog.com/en/index.html
+Is PPO
+Maybe
+Is Internship Open for International Students
+No
+Internship Duration
+2026-07 to 2026-12 (6 months)
+
+---
+
+STIPEND / SALARY DETAILS
+Stipend Details
+75000+1700 Food Coupon
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+02-Feb-26 16:30:09
+Application Deadline
+03-Feb-26 15:26:19
+Time Left
+Closed
+Application Current State
+Assignment-Device Modeling intern
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Assignment
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+PhD (Engineering)
+Discipline
+PhD Electrical Communication Engineering
+PhD Electrical Engineering
+PhD Electronic Systems Engineering
+PhD Physics
+Eligibility
+Pursuing a PhD in the field of semiconductor Device physics Characterization and Modelling
+Skills
+Minimum Qualifications
+- M.Tech/ME degree emphasizing semiconductor devices, device models, and/or circuit design.
+- Pursuing a Ph.D. in the field of Semiconductor Device Physics, Characterization, and Modeling
+- Strong analytical skills, execution mindset, and sense of urgency
+Preferred Qualifications
+- Familiar with semiconductor device characterization
+- Knows Python, Verilog-A Programming
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Device Modeling intern
+
+---
+
+DETAILED INTERNSHIP DESCRIPTION
+What is the title of your internship? Device Modeling Intern
+The Internship program at ADI provides young professionals with the opportunity to gain professional experience within an innovative and global company. ADI’s long-term goal is to convert an intern into a full-time employee. The University Relations Team continually strives to accomplish this goal year-after-year by establishing a well-equipped program (virtual and in person) that focuses on growth, company culture, and mentorship, coupled with a collaborative work environment and passion for innovation. On average, each year, ADI converts roughly 70%-80% of their interns into full time hires!
+ADI provides a high-quality internship program for which the company has consistently been known. These events involve cross-collaboration with peers, including executive speakers, lab tours, development events, social events, and community service opportunities. Our Intern Program provides an opportunity for interns to collaborate and learn, drive results, and grow their professional network. Apply now for the opportunity to start your career and help innovate ahead of what’s possible!
+The device modeling team is seeking a motivated, experienced device modeling intern to provide support to our Corporate Engineering Division located at ADI’s Bangalore, India. Our team has about 18 members in different ADI locations. We are talented engineers from diverse cultural backgrounds. Device modeling team is the bridge between the process team and circuit designers. We make career growth from both sides in ADI.
+Responsibilities include, but are not limited to:
+- Develop semiconductor device compact models for the SPICE simulator.
+- Correlate the device compact model with measurement data.
+- Resolve convergence issues during circuit simulation.
+- Develop programming scripts to automate the extraction and report generation process.
+- Make a comprehensive report to summarize his/her work.
+Minimum Qualifications
+- M.Tech/ME degree emphasizing semiconductor devices, device models, and/or circuit design.
+- Pursuing a Ph.D. in the field of Semiconductor Device Physics, Characterization, and Modeling
+- Strong analytical skills, execution mindset, and sense of urgency
+Preferred Qualifications
+- Familiar with semiconductor device characterization
+- Knows Python, Verilog-A Programming
+
+================================================================================

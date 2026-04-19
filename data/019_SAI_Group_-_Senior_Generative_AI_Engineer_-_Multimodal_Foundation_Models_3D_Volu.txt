@@ -1,0 +1,147 @@
+================================================================================
+JOB: SAI Group - Senior Generative AI Engineer - Multimodal Foundation Models (3D Volumes + Language)
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/ded71d1a-0e0f-4eb7-a3be-4f8861411f38
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+SAI Group
+Job Domain
+Development
+Job Type
+Full Time Placement
+Job Mode
+Hybrid
+Locations
+Bengaluru
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://saigroup.ai/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+25,00,000
+First Year Annual Overall CTC
+30,00,000
+First Year Monthly Salary
+1,50,000
+First Year Overall CTC - Detailed Breakup
+The compensation range is between 20 to 35 lakhs depending on the experience and expertise the candidates comes with.
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+2
+Application Start Time
+12-Feb-26 16:25:00
+Application Deadline
+04-Mar-26 15:00:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Senior Generative AI Engineer - Multimodal Foundation Models (3D Volumes + Language)
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Assignment
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech (Research)
+MS (Research)
+PhD (Engineering)
+Post Doc
+Discipline
+PhD Computational and Data Sciences
+M.Tech Artificial Intelligence
+Eligibility
+This role is ideal for researchers who have contributed to multimodal alignment, cross-lingual VLMs, document understanding, or Indian-language foundation models, and are excited to bring those innovations into 3D reasoning and semantic grounding.
+Skills
+Strong skills in PyTorch/JAX, huggingface ecosystems, and large-scale training.
+Experience with (or desire to learn) 3D data representations: voxels, meshes, NeRFs, point clouds, medical imaging, or multi-view embeddings.
+Ability to build and articulate research hypotheses, run ablations, and produce clear publications.
+Passion for pushing India’s leadership in foundation model research.
+Bond Details
+None
+
+---
+
+DETAILED JOB DESCRIPTION
+About the Role:
+
+
+We are building the next generation of multimodal foundation models that unify 3D volumetric data and natural language understanding. Our work extends beyond traditional 2D vision–language models (e.g., CLIP, LLaVA, SigLIP, Chitrarth, Patram) into models that can reason over, align, and generate insights from complex 3D structures, including scientific, medical, geospatial, and industrial volumes.
+
+
+This role is ideal for researchers who have contributed to multimodal alignment, cross-lingual VLMs, document understanding, or Indian-language foundation models, and are excited to bring those innovations into 3D reasoning and semantic grounding.
+
+
+You will help define a new class of models at the frontier of AI. 
+
+
+What You Will Work On - 
+
+
+Design and train 3D–text foundation models capable of interpreting MRI/CT/voxel grids, LiDAR cubes, or multi-view 3D data paired with textual descriptions.
+Extend concepts from CLIP-style contrastive learning, vision encoders, multilingual encoders, and instruction tuning to volumetric domains.
+Develop architectures that align 3D latent representations with language embeddings from multilingual LLMs.
+Create novel multimodal datasets, including synthetic 3D volumes, annotated natural-language corpora, and domain-specific ontologies.
+Publish at top venues (NeurIPS, ICML, CVPR, EMNLP, ACL) and collaborate with universities and research partners.
+Push the frontier on cross-lingual multimodal grounding, making 3D understanding accessible across India’s linguistic diversity.
+Work with product teams to translate foundational breakthroughs into real-world applications in healthcare, robotics, manufacturing, and scientific discovery.
+
+
+Why This Role Appeals to Multimodal + CLIP Authors
+
+
+Opportunity to extend 2D multimodal learning to 3D, a wide-open research space.
+Freedom to experiment with contrastive learning, cross-modal retrieval, tokenization strategies for volumes, and multilingual conditioning.
+Work with a team that values publication, benchmark building, and open science, similar to CM-CLIP, Chitrarth, or Patram ecosystems.
+Direct impact on creating the first India-built 3D multimodal foundation model.
+Access to high-compute clusters (A100/H100), data partnerships, and funding for ambitious long-horizon research.
+ 
+What We’re Looking For
+
+
+Research experience in multimodal learning, transformers, contrastive vision–language models, or LLM fine-tuning.
+Demonstrated contributions to CLIP-like, VLM, document understanding, Indian-language foundation models, or multilingual NLP.
+Strong skills in PyTorch/JAX, huggingface ecosystems, and large-scale training.
+Experience with (or desire to learn) 3D data representations: voxels, meshes, NeRFs, point clouds, medical imaging, or multi-view embeddings.
+Ability to build and articulate research hypotheses, run ablations, and produce clear publications.
+Passion for pushing India’s leadership in foundation model research.
+ 
+Nice to Have
+
+
+Background in 3D geometry, 3D CNNs, diffusion models, or implicit neural representations.
+Experience with Indian languages, code-mixed data, or multilingual VLMs.
+Prior work with weakly supervised or noisy multimodal datasets.
+Contributions to open-source multimodal libraries or benchmarks.
+
+================================================================================

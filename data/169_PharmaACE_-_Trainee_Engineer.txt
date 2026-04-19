@@ -1,0 +1,149 @@
+================================================================================
+JOB: PharmaACE - Trainee Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/46e09013-7f06-45e3-873b-dc5403176556
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+PharmaACE
+Job Domain
+Technology
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Pune
+Industry
+Consulting Services
+Industry Sector
+Private
+Website URL
+https://pharmaace.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+8,50,000
+First Year Annual Overall CTC
+13,71,000
+First Year Monthly Salary
+90,000-1,00,000
+First Year Overall CTC - Detailed Breakup
+Designation Consultant
+Gross 850,000
+Performance Bonus 55,000
+Retention Bonus 400,000
+Gratuity 51,000
+Mediclaim 15,000
+TOTAL 1,371,000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+28-Nov-25 22:00:57
+Application Deadline
+29-Nov-25 22:00:04
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Trainee Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Pre Placement Talk (ppt)
+Group Discussion
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+Discipline
+B.Tech in Mathematics and Computing
+Eligibility
+No Active Backlogs
+Skills
+Experience/Specialization in AI
+Bond Details
+Retention Bonus: The applicable Retention Bonus for each year, as outlined initially by the Offer Letter and in years 2 & 3 by the Appraisal letters, will be paid on a monthly basis in that year. If the employee resigns or gets terminated from the organization before 3rd year of their employment starting from the date of their confirmation, he/she will have to settle the Retention Bonus received until then.
+
+---
+
+DETAILED JOB DESCRIPTION
+PharmaACE is a fast-growing global Healthcare Consulting, Analytics, and Software product development firm that is revolutionizing the Pharma Lifesciences landscape. We specialize in delivering cutting-edge Generative AI and Agentic AI solutions that empower organizations to make smarter, faster, and more impactful decisions across the pharmaceutical value chain. With a strong and expanding presence in the United States, Canada, Europe, and India, PharmaACE serves adverse range of Pharma clients—from top-tier multinational to agile, innovation-driven life sciences startups. Our mission is to create Data-driven, AI-enabled products and solutions that drive measurable business outcomes and improve patient care globally.
+
+
+Purpose of Role
+We are seeking passionate AI Trainee Engineers (Frontend / Backend) eager to dive deep into AI-driven solution and product development. This role goes far beyond traditional coding — it’s a rare opportunity to work hands-on with real-world Gen AI / Agentic AI systems, exploring advanced LLMs, NLP pipelines, and RAG architectures for solving complex healthcare analytics problems. You will work with senior AI engineers and researchers to develop real-world NLP systems for enterprise use cases tailored to the Pharmaceutical
+Industry.
+
+
+Responsibilities
+• Experience in using different open-source libraries Pandas, Tensorflow, PyTorch. Research and experiment with cutting-edge GenAI and Agentic AI models for real-world use cases
+• Collaborate in building scalable AI-based applications — from intuitive frontends to efficient backends
+• Work on data extraction, NER, text summarization, and semantic search problems using advanced
+NLP tools
+• Integrate LLMs (OpenAI, Gemini, Cohere, DeepSeek, etc.) into custom applications for Chatbots, Question Answering, and Document Understanding
+• Apply prompt engineering, embedding techniques, and RAG strategies for building intelligent AI
+agents
+• Clean and structure unstructured text data from varied sources like PDFs, PPTs, and web pages using tools like PyMuPDF, PDFMiner, Tesseract, BeautifulSoup, Selenium, etc
+• Contribute to the AI infrastructure stack involving vector databases (Pinecone, FAISS, ChromaDB),
+transformer models (BERT, T5, RoBERTa), and backend APIs
+
+
+Required Skills & Technologies
+Strong fundamentals in Python and libraries like:
+Pandas, Tensorflow, PyTorch, Transformers, Keras, PDFPlumber, PyPDF2, Selenium, BeautifulSoup,
+Python-pptx, Tesseract, etc.
+Experience/knowledge of:
+o NER, Text Cleaning, Summarization, QA, Topic Modeling
+o Transformers & Fine-tuning LLMs
+o RAG (Retrieval Augmented Generation)
+o Prompt Engineering for LLMs
+o Vector stores: Pinecone, FAISS, ChromaDB
+
+
+Understanding of frontend/backend development and willingness to work in full-stack setups
+
+
+Qualifications Required
+• Degree: BE/BTech/MTech/MCA in Computer Science, Data Science, or related fields.
+• Freshers (0–3 years) from CDAC (DAI, DBDA, DAC) or equivalent AI/ML-focused certifications encouraged to apply
+• Strong analytical mindset and willingness to work on real AI problems in the healthcare domain
+• Bonus: Exposure to Pharma/Life Sciences/Clinical or RWE data
+
+
+Why Join PharmaACE?
+• Your gateway to the practical world of AI
+• Hands-on experience in Python using different embedding techniques
+• Experience/Knowledge of Pharma/Life sciences/Healthcare data will be an added advantage
+• Be part of a global AI team shaping the next generation of healthcare solutions
+• Get mentored by industry experts in LLMs, NLP, and Generative AI
+• Work on impactful AI use cases across US & Global Pharma clients
+• Build real-world Agentic AI applications — not just PoCs
+
+================================================================================

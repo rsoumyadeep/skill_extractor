@@ -1,0 +1,220 @@
+================================================================================
+JOB: LTIMindtree - Research Engineer (Applied AI - LTIMindtree Research)
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/e15e66c8-66a2-4c86-a4b3-fe57a909177a
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+LTIMindtree
+Job Domain
+IT Services & Consulting
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bengaluru
+Industry
+Information Technology (IT)
+Industry Sector
+Public
+Website URL
+https://www.ltimindtree.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+B.E - 12,00,000, M. TECH – 12,50,000
+First Year Annual Overall CTC
+B.E - 12,50,000, M. TECH – 13,00,000
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+NA
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+09-Dec-25 12:55:00
+Application Deadline
+10-Dec-25 16:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Research Engineer (Applied AI - LTIMindtree Research)
+Shortlist Published At
+Stage 2(Technical Interview-Research Engineer (Applied AI - LTIMindtree Research) ) - 23 Feb 2026 16:49:03
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+All
+Discipline
+All
+Eligibility
+Year of passing 2026 Pass out Batch
+Nature of Course All Full-Time Courses Only
+Qualification/ Course B.E./B.Tech, M.E/M.Tech, BS/MS/BS-MS, Phd
+Academic Gap Not more than 2 years academic gap allowed. (SSC/HSC/Diploma/UG/PG)
+SSC, HSC Diploma (if
+applicable),
+Graduation
+Percentage/CGPA
+Consistent academic records of 60% above OR Equivalent CGPA in 10th, 12th, Diploma (as
+applicable), UG and PG courses (aggregate of all semesters & subjects)
+Appropriate CGPA to percentage conversion to be considered as per the respective university
+norms. The scores of the Main or improvement exam would be considered as final.
+For candidates who have pursued both HSC and Diploma, marks scored in the Diploma course will
+be considered.
+ATKTs/Backlogs/
+Reattempts/Arrears
+Initial results (% scores) declared would be considered for students awaiting re-evaluation results.
+At the time of recruitment process, there must be no standing arrears in current education
+Experience Freshers
+Citizenship Should be an Indian National
+Your College/Institution
+Must be UGC / AICTE / State Board Approved ONLY
+Pre-Employment
+Verification Not been involved in any court proceedings and/or convicted for any offence
+Self-Declaration:
+1. I hereby declare that I meet ALL the eligibility criteria exactly as stated above.
+2. I am aware that I may be subjected to immediate action by the company at any time during or after the
+Interview/Selection/Joining if found hiding any information/producing incorrect information or not meeting all the
+criteria mentioned above.
+3. As a future IT professional, I am flexible towards working from any of LTIMindtree’s development centers across the
+country, flexible work durations/time, training and working in multiple emerging skills & domain.
+4. I confirm that I have NOT appeared for any LTIMindtree interview process anywhere in the past 6 months. (If found
+so, LTIMindtree may take immediate action and cancel the candidature at ANY stage)
+Skills
+Required Skills & Competencies
+Math-related skills:
+1. Strong Linear Algebra
+2. Probability, Statistics (including Bayesian techniques)
+3. Exposure to Differential Equations preferred (ODE, PDE)
+4. Exposure to Combinatorial Optimization (optional)
+5. Exposure to Information Theory, Vector Calculus, Differential Geometry basics (optional)
+7. Numerical Methods for CFD / PDEs (optional)
+Computer Science skills:
+1. Data structure and Algorithms
+2. Programming language - Python.
+3. Graphs and Algorithms on Graph
+Core AI skills:
+1. Deep Learning Expertise: Strong theoretical and practical understanding of modern neural network
+architectures, including Transformers, Attention techniques, Convolutional Neural Networks (CNNs), Recurrent
+Neural Networks (RNNs / LSTM) etc. Hands-on exposure to training and evaluation of AI models is required.
+2. Hands-on exposure to DL frameworks: Pytorch (Preferred)/Jax/Tensorflow. Exposure to scaling to multi-GPU
+and usage of tools like DeepSpeed, FSDP etc is preferable.
+3. Generative AI: Hands-on experience with generative models like GANS, VAEs and contemporary Generative
+AI models, specifically Diffusion Models, Flow-Matching, multi-modal models and advanced techniques in
+LLMs. In-depth understanding of the internals of transformer architectures, attention mechanism required.
+4. Reinforcement Learning: Understanding of Deep Reinforcement Learning (DRL) fundamentals with RL-based
+project exposure and familiarity of common RL algorithms (Policy Gradient, DQN, GRPO variants etc). Should
+have the ability to formulate real-world business scenarios in terms of MDP.
+5. Agentic AI: Familiarity with the concepts and implementation of AI Agents, memory, planning, intelligent
+function calling, and reasoning in autonomous systems. Ability to understand and adapt latest research
+advances in the field for use cases like complex task automation.
+6. Working knowledge of Geometric Deep Learning, GNNs. Exposure to working on protein, molecular, and
+point cloud data would be a plus.
+7. Working knowledge of representation learning models like deep latent models, contrastive learning
+techniques etc
+8. Programming Proficiency: Expertise in one or more major deep learning frameworks such as PyTorch
+(preferred), JAX, TensorFlow. Strong coding skills in Python. Exposure to data engineering, model training on
+multiple GPUs would be preferable.
+Project / Internship experience in ML/DL, demonstrating any of the above skills, is preferable.
+Life Sciences Domain + AI Skills (Optional):
+Along with AI technical skills, the candidate should have exposure to life sciences and structural biology.
+Exposure to AI based protein folding models, BIO-LLMs and tools like RFDiffusion, AlphaFold, EVO2 would be a
+plus. Exposure to working with multi-omics data and biological data (e.g., PDB, UniProt, genomics/sequencing
+data).
+AI for Simulations (PDE / CFD) & Materials Design (Optional):
+For simulation the candidate should have strong foundational understanding of Partial Differential Equations
+(PDEs), and exposure to fluid dynamics, CFD/FEA.
+AI skills would include exposure to SciML, including familiarity with techniques like PINNs, Neural Operators
+variants, Geometric Deep learning, GNNs, Diffusion models etc. For Materials design, along with AI familiarity with foundations in material structure-property relationships,
+electronic structure basics, DFT, Molecular Dynamics (MD) & Monte Carlo Methods is required.
+Other skills: - Clear communication and ability to articulate complex technical work clearly. - The candidate should have the ability to read research literature, critically assess, and form a point of
+view. - The candidate should have the ability to implement/adapt techniques in research paper for the given
+problem.
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+
+---
+
+DETAILED JOB DESCRIPTION
+As a Research Engineer(Applied AI) for LTIMindtree Research, you will be working on the application of
+cutting-edge AI (deep learning, reinforcement learning, generative AI) to solve challenging problems in
+domains like life sciences, defense, automotive, energy, finance, etc.
+The role involves doing applied research, and you will be instrumental in transforming state-of-the-art AI
+research into scalable, real-world solutions.
+Candidates should have strong foundational skills in computer science, algorithms and mathematics as
+required for deep learning, reinforcement learning, as well as hands-on exposure to leading deep learning
+frameworks.
+Candidates pursuing MTech-AI, MTech-CS, MTech (Computational Data Sciences) are well aligned for this
+position.
+©LTIMindtree | Privileged and Confidential 2025
+2
+Candidates from Physics, Applied Mathematics or other departments interested in working in AI / Deep
+learning can also apply if they have adequate programming experience and some AI exposure.
+
+---
+
+ADDITIONAL DETAILS
+This role is for industry-focused applied research and. involves hands-on development of proof-of-concepts /
+solutions using AI and related technologies.
+The successful candidate: - - - - -
+Will be part of LTIMindtree Research group, and will focus on researching and developing AI powered
+applications and solutions for various industries
+Work with business units to identify, prioritize suitable use cases and work towards their
+implementation leveraging latest AI developments
+Implement / reproduce / adapt recent research papers.
+Develop proofs-of-concept, leading ultimately to commercially viable products and services
+Interface with academia and ecosystem partners as required
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Mention your personal email i'd (Text)
+
+Q2. Mention Your Father's Name (Text)
+
+Q3. Date of Birth (Text)
+
+Q4. Gender (Text)
+
+Q5. Nationality (Text)
+
+Q6. Any Standing Arrears. (Multiple Choice)
+
+Q7. Permanent Residence City (Text)
+
+Q8. Permanent Residence State. (Text)
+
+================================================================================

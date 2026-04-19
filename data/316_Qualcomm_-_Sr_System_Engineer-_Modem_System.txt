@@ -1,0 +1,130 @@
+================================================================================
+JOB: Qualcomm - Sr System Engineer- Modem System
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/4e6784d0-84db-4848-abbd-a90f951a01b3
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Qualcomm
+Job Domain
+Engineering
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Hyderabad / Bangalore / Chennai / Noida
+
+Industry
+Semiconductor and Telecommunications
+Industry Sector
+Private
+Website URL
+https://www.qualcomm.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+26,08,000
+First Year Annual Overall CTC
+PFB
+First Year Monthly Salary
+2,17,334
+First Year Overall CTC - Detailed Breakup
+Compensation For PhD Students: Sr Engineer ( R&D)
+
+Component Amount
+Total Gross Pay INR 26.08 L
+Retirals (PF and Gratuity) INR 1.51 L
+Performance Bonus* INR 2.20 L
+Joining Bonus ( Paid within 60 days ) INR 9.60 L
+Relocation Bonus ( Paid within 60 days ) INR 0.50 L
+RSU - Restricted Stock Value Awards (Vesting in 3 years )** INR 24.00 L ($ 30,000)
+Retention Bonus (Paid after 12 months ) INR 5.00 L
+* Performance bonus % may vary based on individual & Organization Performance | **RSU -33% vesting every year
+Additional Benefits: Relocation Assistance, Insurance, Transport. RSU $1=INR 83
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Oct-25 19:20:34
+Application Deadline
+28-Oct-25 06:00:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Sr System Engineer- Modem System
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+MS (Research)
+PhD (Engineering)
+Discipline
+All
+Eligibility
+CGPA 7 and above
+70% and above in 10th,12th and undergrad
+
+Skills
+Skillset: PHY and MAC Layers • Information theory, Coding theory, Adaptive filtering, Signal Detection and Estimation, Digital Communications • Familiarity with 3GPP/3GPP2 standards. • Modem algorithms design, including channel and interference estimation,
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+Job Description
+PHY and MAC Layers
+• Information theory, Coding theory, Adaptive filtering, Signal
+Detection and Estimation, Digital Communications
+• Familiarity with 3GPP/3GPP2 standards.
+• Modem algorithms design, including channel and interference
+estimation, advanced receivers, decoders, tracking loops,
+techniques to mitigate RF impairments/distortions
+• Interference and mobility management in radio access networks,
+interference cancellation, equalization, multi-user detection
+• Mobile broadband, IoE, Mission Critical, Vehicular
+Communications, eMBB, massive IoT
+• OFDMA and CDMA based FDD/TDD licensed/unlicensed
+systems
+• RLC, PDCP, RRC, S1, X2, IP, UDP, TCP, HTTP protocols
+• Radio access and core network design
+• Programming skills in C/C++/MATLAB
+• Familiarity with UNIX/Win/Linux computing platform
+
+
+Privacy Policy
+Your personal data will be processed according to Qualcomm's privacy policy which can be found at https://www.qualcomm.com/site/privacy
+
+================================================================================

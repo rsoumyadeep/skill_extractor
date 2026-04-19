@@ -1,0 +1,279 @@
+================================================================================
+JOB: Samsung Electronics - Research Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/b235b8fb-9eef-4971-bfbf-9bc28986d032
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Samsung Electronics
+Job Domain
+Research
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+South Korea
+Industry
+Consumer Electronics
+Industry Sector
+Private
+Website URL
+https://www.samsung.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+48,00,000
+First Year Annual Overall CTC
+upto 7700000
+First Year Monthly Salary
+0,000
+First Year Overall CTC - Detailed Breakup
+Total CTC: Upto 7700000 /-
+Base Salary: 4800000 /-
+Variable Bonus: Upto 2900000 /-
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+04-Nov-25 12:54:00
+Application Deadline
+12-Nov-25 10:10:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Research Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+PhD (Engineering)
+PhD (Science)
+PhD (Integrated)
+Discipline
+PhD Axis Bank Centre for Mathematics and Computing
+PhD Centre for Nano Science and Engineering
+PhD Centre of Excellence in Advanced Mechanics of Materials
+PhD Computational and Data Sciences
+PhD Computer Science and Automation
+PhD Electrical Communication Engineering
+PhD Electrical Engineering
+PhD Electronic Systems Engineering
+PhD Instrumentation and Applied Physics
+PhD Interdisciplinary mathematical sciences
+PhD Materials Engineering
+PhD Materials Research Centre
+PhD Mathematics
+PhD Mechanical Engineering
+PhD Physics
+PhD Robert Bosch Centre for Cyber Physical Systems
+PhD Solid State and Structural Chemistry Unit
+PhD Supercomputer Education and Research Centre
+Eligibility
+Software Roles: Skilled in competitive programming with C, C++, Java & Python (Any 1)
+
+Non Software Roles: Domain experts as per Roles / JD's
+Skills
+CSE, Mathematics, AI, Electrical, Mechanical, Material, Communication or Similar
+Bond Details
+Not Applicable
+
+---
+
+DETAILED JOB DESCRIPTION
+1. Software Role
+
+
+Picture Quality Algorithm Development with AI
+Summary:
+ Developing AI-based algorithms for video content creation.
+ Developing AI-based algorithms for video quality enhancement.
+ Understanding of video signal processing for algorithm development.
+AI Vision Core
+Summary:
+ AI-based video understanding & processing SW Development
+ Developing AI-based video recognition & Processing interaction technologies to enhance the consumer value of visual display devices
+Generative AI
+Summary:
+ High understanding of Transformer models & Architecture Design
+ Understanding of Diffusion & GAN models
+ Ability to use Stable Diffusion's Refiner & ControlNet
+ Understanding of LLMs & ability to implement Langchain/LlamaIndex
+ Ability to implement fine-tuning & provide factual data features such as LoRA/RAG (preferred)
+Sound/Audio (Acoustic Module Design)
+Summary:
+ To explore & implement next-gen audio form factors & innovative audio technologies for TV & Sound Bar products.
+ As a researcher with a Ph.D. in the field of acoustics, you will identify key technologies for future products, such as acoustic metamaterials and AI-based audio optimization & connect them to actual products to enhance our sound competitiveness
+Speech AI
+Summary:
+ Voice, audio recognition/processing engine & application SW development
+ Development of voice & audio recognition/processing engine & application SW for user-friendly & proactive voice interaction between users & devices
+Network  - Artificial Intelligence
+Summary:
+ LLM fine-tuning & generative AI model development
+ AI agent design & NLP technologies
+ ETL processes, data pipeline development, & database design (SQL/NoSQL)
+ Expertise in Cloud platforms (AWS, GCP)
+ Programming Languages / Tools - Python, Langchain, transformers, and other AI tools
+vRan Software Engineer
+Summary:
+ Focuses on the development & optimization of key L1 channel functions, scheduler design, & performance enhancements for virtualized RAN (vRAN) solutions.
+
+
+2. Non-Software Role:
+
+
+a. Power Solution Group
+1. Power Management IC Designer
+Summary:
+Smartphone Power Management IC Design Review and Development Tasks
+• Power IC Design Review
+• IC Define, Architecture Development
+• IC Application, ATE, Process Review
+2. Fuel Gauge Engineer
+Summary:
+• Fuel Gauge Expert for Smartphone Battery Gauging Accuracy, SOH, and Diagnostic Algorithm Development
+b. Camera Group
+1. Sensor Engineer
+Summary:
+• Design, develop, & optimize advanced image sensors for applications in smartphone, Notebook, tablet, & AR/VR imaging systems
+• Collaborate with cross-functional teams to integrate sensors into products & explore new technologies for improved performance
+• Researching materials, optimizing sensor functionality, & troubleshooting performance issues.
+• Expertise in CMOS/CCD technology & semiconductor processes, proficiency in image processing algorithms
+2. Optical Engineer
+Summary:
+• An optical engineer specializing in camera lens design and flare analysis - Responsible for designing camera lenses and mitigating unwanted light effects like flare for applications in smartphone, Notebook, tablet, and AR/VR imaging systems.
+• Using lens design, flare analysis simulation, & performing experiments to ensure optical image quality & minimize flare.
+• Stay updated on industry trends & contribute to technical documentation & patent applications
+c. Battery Group
+1. BMS Engineer
+Summary:
+• Develops algorithms & control logic for the Battery Management System (BMS) to ensure efficient battery performance, safety & reliability
+• Designs & implements firmware for battery fuel gauges, delivering precise battery information to enhance user experience
+• Leverages AI-driven techniques for real-time battery status estimation, diagnosis & prediction
+• Collaborates with suppliers, cross-functional teams, & management to integrate these technologies into innovative battery packs, ensuring their reliability & efficiency across diverse applications
+2. Battery Cell Engineer
+Summary:
+• Leads engineering qualification efforts for new lithium rechargeable cell designs from concept to completion & mass production
+• Using quality tools, resolves process capabilities, summaries design qualification data & determines acceptability for production ramp
+• Works with suppliers, CFT's & management to ensure that new product designs are developed on time with high quality
+ 
+d. Smartphone R&D Group
+1. Digital / RF / Wireless Charging System, Power & Thermal Design
+Summary:
+• Development of Digital & RF System
+• Development of Wireless Charging System
+• Development of Power Management & Thermal Design
+e. Hardware Engineering (CAE) Group
+1. Magnetic Material Properties Expert
+Summary:
+• Conduct in-depth research & analysis of magnetic materials and their properties.
+• Develop & optimize magnetic components for applications such as transformers, inductors & sensors
+• Collaborate with engineering teams to integrate magnetic solutions into electronic systems
+2. AI-Based Circuit Design & Optimization with EMC & ESD
+Summary:
+• Electro-Magnetic Compatibility (EMC) & Electro Static Discharge (ESD) Expert with Coding and AI
+3. AI-Based Circuit Design & Optimization with SI & PI
+Summary:
+• Signal Integrity (SI) & Power Integrity (PI) Expert with Coding and AI
+4. Mechanical Simulation (MCAE) Expert with Coding & AI
+Summary:
+• Mechanical Simulation (MCAE) Expert with Coding and AI
+• Contributing to Structural Robustness and New Form-factor Development of the Mobile Product
+• AI based fast & accurate MCAE
+• AI based automation MCAD design
+5. Piezoelectric Analysis (Vibration Analysis) Expert
+Summary:
+• Conduct detailed analysis of piezoelectric materials & devices, focusing on their vibration characteristics
+• Develop & optimize piezoelectric components for applications (sensors, actuators & energy harvesters)
+• Collaborate with CFT’s to integrate piezoelectric solutions into electronic & mechanical systems
+6. Waterproof Simulation & Analysis Expert
+Summary:
+• Optimization of the Waterproof related Design.
+• Analysis of Waterproof Issues
+• Predicting Waterproof Performance Based on Simulation
+f. Advanced Mechanical R&D Group
+1. Mechanical Design Tool Optimization Engineer
+Summary:
+Mechanical structure developing of mobile device
+• Advanced mechanical development work system using AI
+• Discover & design for new mechanical structures
+• Optimization of mechanical design tool S/W using AI
+• Discovering items that can be integrated with AI in the mechanical design system
+• Introducing, operating, expanding & Optimizing AI application in mechanical design systems
+ 
+g. AP Solution (AP Architecture / HW) Group
+1. Digital IP/Logic Design
+Summary:
+Developing & Integrating Custom HW IPs in APs
+• HW Engineer - NPU, Co-processor / Function acceleration HW IP design, and AP integration
+o RTL (Verilog)/ HLS (High Level Synthesis) design, Synthesis, Power estimation/optimization
+o Verification (Simulation/FPGA level test), Timing analysis
+o HW IP Commercialization & Bring-up
+• Co-processor architecture design
+o AI model analysis & design
+o NPU architecture design
+o Computer architecture
+• SW Engineer - Algorithm development / C modeling / Architecture
+o Image and signal processing algorithm
+o C modeling for HW IP design
+2. AP (NPU/CPU/GPU) Architecture Researcher
+Summary:
+• NPU/CPU/GPU architecture researcher on mobile AP/SoC
+• Advanced NPU architecture & AI Model optimization researcher
+o AP Architecture Design & Optimization
+ Derives system requirements for MX products (Smartphones, Tablets, Watches & XRs)
+o AP Modeling & Simulator Development
+ Develops an in-house design space exploration simulator
+ IP-level(CPU, GPU, NPU) performance modeling, System-level & Thermal Modeling for AP
+o NPU Architecture & AI-model optimization
+ Research on optimal NPU architecture design and improvement for mobile products.
+ Research on state-of-the-art LLM / LVM optimization techniques
+ Bottleneck analysis and architecture improvement of AI model
+3. System Analysis Engineer
+Summary:
+• Responsible for looking for what should be or can be improved to serve a better UX(User eXperience) & Enhance system performance from the viewpoint of SW & HW
+o Deep-dive analysis on all kinds of benchmarks (Geekbench, Antutu, Speedometer etc.)
+o Looking into system behavior from micro-architectural perspectives in terms of CPU pipeline, branch predictor, cache, TLB & Interconnect under the running environment of real world applications
+4. System Low Power / System Analysis / DRAM Engineer
+Summary:
+• Analyzing various user scenarios for mobile products to derive optimal solutions that can improve user experience & explore solutions for next-generation AP/DRAM performance improvement
+o System Low Power Engineer
+ Research on low power system designs for improving performance, power Consumption and sustainability of mobile devices
+o System Analysis Engineer
+ Performance and Quality Level Prediction Model Development
+ AP/Memory Quality Problem Analysis
+o DRAM Engineer
+ Establishment of a roadmap for new technology introduction (i.e., LLW)
+ Review and verification of high-speed I/O designs for mobile DRAMs
+ Quality management of DRAM
+
+================================================================================

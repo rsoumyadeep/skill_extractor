@@ -1,0 +1,163 @@
+================================================================================
+JOB: IndiaMART InterMESH Ltd. - System Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/c65be551-9fcb-479e-9601-8c41553fd37f
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+IndiaMART InterMESH Ltd.
+Job Domain
+Software Development
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Noida
+Industry
+Internet and E-commerce
+Industry Sector
+Private
+Website URL
+https://corporate.indiamart.com/about-us/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+15L
+First Year Annual Overall CTC
+15L
+First Year Monthly Salary
+1.25L
+First Year Overall CTC - Detailed Breakup
+15L
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+12-Feb-26 14:43:47
+Application Deadline
+14-Feb-26 14:41:01
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-System Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+Discipline
+B.Tech in Mathematics and Computing
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Artificial Intelligence
+Eligibility
+● B. Tech/ B.E. (CS/ IT/AI/ML) & M. Tech (CS/IT/AI/ML)
+● Familiarity with basic ML libraries
+10th & 12th %: Atleast one >= 90%. Other >=85%.;
+Grad. (>=60%) + PG(>=60%)
+Skills
+● Exposure to Cloud platforms (AWS / GCP / Azure)
+● Familiarity with Docker, Kubernetes, CI/CD pipelines
+● Basic understanding of System Design concepts
+● Exposure to AI-enabled systems, LLMs, or data-driven applications
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+System Engineer
+
+---
+
+DETAILED JOB DESCRIPTION
+Filling out this form is mandatory. Failure to do so will result in missing the application registration (https://docs.google.com/forms/d/e/1FAIpQLScSCV-01X7JdCvE1nu_ymS8YZ5oq49LdZ-JusO_ahWcEy8VGA/viewform)
+About us
+IndiaMart - A One-Stop Shop solution for all Businesses, IndiaMart is a 29-
+year-old organization. It is India’s Largest B2B Marketplace and a one-stop
+expert solution for all business needs, empowering 82 lakh suppliers by
+connecting them with ~20.6 crore buyers across the nation.
+In this Era of the E-Commerce Industry and Digitalization, We are the only
+market leaders having 60% market share in the B2B e-commerce industry.
+Why IndiaMart
+At IndiaMART, you don't just build a career — you grow, thrive, and
+become part of something bigger.
+ç Growth Opportunities at IndiaMart - Our people are our greatest
+strength — the true superheroes behind our success. We are committed to
+empowering every IndiaMARTian with continuous learning, career
+advancement, and personal development opportunities that fuel both
+individual and organizational growth.
+Ø,ˇC‘, iLEAD (Leadership Experience s Development Program
+3 Year program aimed at preparing new joiners for leadership positions in
+their respective area of expertise. Members in this program will get a 10%
+bonus raise (over C above Annual Appraisal) once each of their joining
+anniversaries occurs while they are enrolled in this program. This program
+will offer a variety of learning experiences tailored to the individual’s needs
+an organizational goal.
+ILEAP Policy - Learn - Grow - Get Rewarded. At IndiaMART, employees
+can enroll in educational programs of their choice and get reimbursed upon
+successful completion. We also sponsor learning at top institutes like IIM
+Ahmedabad and FMS to sharpen skills and accelerate growth.
+
+---
+
+ADDITIONAL DETAILS
+About the role
+We are looking for motivated System Engineers to work on scalable
+systems, backend platforms, and cloud-native services that support
+millions of users.
+The role offers exposure to modern system design, DevOps practices,
+and AI-enabled solutions, solving real-world business problems on a
+scale.
+You'll Learn and Contribute To:
+● Participate in all phases of the Software Development Life Cycle (SDLC)
+● Design, develop, test, deploy, and maintain backend and system components
+● Collaborate with cross-functional teams (Product, QA, DevOps, Business)
+● Monitor, troubleshoot, and improve system performance and reliability
+● Contribute to automation, scalability, and security initiatives
+● Support and integrate AI-driven features and intelligent workflows
+● Follow engineering best practices including code reviews and documentation
+Key Technical & Functional Skills:
+● Strong programming fundamentals (Python / Java / Go / C++)
+● Solid understanding of Data Structures, Algorithms, and OOP concepts
+● Good understanding of Linux/Unix systems
+● Knowledge of Databases (SQL / NoSQL)
+● Awareness of AI / Machine Learning fundamentals
+● Comfort with ambiguity and fast-paced learning
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Filling out this form is mandatory. Failure to do so will result in missing the application registration (https://docs.google.com/forms/d/e/1FAIpQLScSCV-01X7JdCvE1nu_ymS8YZ5oq49LdZ-JusO_ahWcEy8VGA/viewform) (Text)
+
+================================================================================

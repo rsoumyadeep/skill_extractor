@@ -1,0 +1,128 @@
+================================================================================
+JOB: Airbus - Associate Engineer - Flight Physics Capabilities
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/49116b5a-0615-49cf-b0a8-6e6868000bd9
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Airbus
+Job Domain
+Technical
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Aerospace and Defense
+Industry Sector
+Private
+Website URL
+https://www.airbus.com/en/about-us/our-worldwide-presence/airbus-in-asia-pacific/airbus-in-india
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+11,00,000 LPA
+First Year Annual Overall CTC
+11,00,000 LPA
+First Year Monthly Salary
+91,666 [Approximate as it includes Variable pay]
+First Year Overall CTC - Detailed Breakup
+11,00,000 LPA
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+04-Nov-25 11:20:00
+Application Deadline
+06-Nov-25 17:00:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Associate Engineer - Flight Physics Capabilities
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+Discipline
+M.Tech Aerospace Engineering
+M.Tech Civil Engineering
+M.Tech Mechanical Engineering
+Eligibility
+M.Tech in Aerospace / Mechanical / Civil Engineering
+
+Skills
+Analytical, creative, and open to learn new technologies
+Behavioural Modelling & Simulation and familiarity with requirements specifications
+Geometric modelling, Analytical Geometry, Linear Algebra
+Automation of workflows, Python
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+
+---
+
+DETAILED JOB DESCRIPTION
+Qualification: M.Tech in Aerospace / Mechanical / Civil Engineering
+
+Translate capability needs of Flight Physics into method and tool specifications.
+Design, develop, and validate Flight Physics methods and tools.
+Ensure methods development for Flight physics and the multidisciplinary integration of these capabilities to meet technical and user requirements.
+
+Your main tasks and responsibilities:
+Analyze the business context, design and document the solution, present that solution to stakeholders and support the project team with its implementation.
+Ensure strategic alignment of software development activities in terms of process management, methodology, rules and tools (tool chain).
+Conduct feasibility studies in complex, heterogeneous project environments
+Work closely in a cross functional team, collaborate and foster team spirit
+
+Your boarding pass:
+Analytical, creative, and open to learn new technologies
+Experience in Behavioural Modelling & Simulation and familiarity with requirements specifications
+Experience with Geometric modelling, Analytical Geometry, Linear Algebra
+Experience with automation of workflows
+Previous experience with Python
+Ability to learn fast, comfortable working in full autonomy
+Fluent in English
+
+Nice to have:
+Previous experience with languages, such as C++, Java (eclipse RCP), Javascript, etc.
+SAFe, Agile ways of working
+Experience with high performance computing, remote desktops and job batching
+Experience with Cloud-based programming
+programming on CATIA or working with geometries
+
+================================================================================

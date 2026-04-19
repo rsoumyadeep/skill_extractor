@@ -1,0 +1,184 @@
+================================================================================
+JOB: ConnectSecure - Software Engineer-(CyberSecurity and Emerging Tech)
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/ecf1d519-8ddd-4e7a-bdc0-699bff3ebf08
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+ConnectSecure
+Job Domain
+CyberSecurity and Emerging Technologies
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Engineering and Technology
+Industry Sector
+Private
+Website URL
+https://connectsecure.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+4,80,000
+First Year Annual Overall CTC
+12,00,000
+First Year Monthly Salary
+1,00,000
+First Year Overall CTC - Detailed Breakup
+Refer letter for better format
+Internship will be 20000 INR per month
+Full time offer details attached
+SALARY (CTC) / PM 116,667
+Salary (CTC) / PA 14,00,000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+Based on Perfomance
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+04-Dec-25 16:17:01
+Application Deadline
+10-Dec-25 10:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Software Engineer-(CyberSecurity and Emerging Tech)
+Shortlist Published At
+Stage 2(Resume Shortlisting-Software Engineer-(CyberSecurity and Emerging Tech)) - 26 Dec 2025 11:38:48Stage 3(Assignment-Software Engineer-(CyberSecurity and Emerging Tech)) - 26 Dec 2025 11:39:14Stage 4(Technical Interview-Software Engineer-(CyberSecurity and Emerging Tech)) - 26 Dec 2025 11:39:33
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Assignment
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Engg
+M.Mgt
+M.Tech
+M.Tech (Research)
+MS (Research)
+PhD (Engineering)
+Post Doc
+M.Des
+PhD (Integrated)
+Discipline
+M.Engg in Semiconductor Technology
+M.Tech (Research) Aerospace Engineering
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Department of Design and Manufacturing
+M.Tech (Research) Electronic Systems Engineering
+M.Tech (Research) Robert Bosch Centre for Cyber Physical Systems
+M.Tech Axis Bank Centre for Mathematics and Computing
+M.Tech Department of Design and Manufacturing
+M.Tech Electronic Systems Engineering
+M.Tech Quantum Technology Initiative
+M.Tech Robert Bosch Centre for Cyber Physical Systems
+PhD Axis Bank Centre for Mathematics and Computing
+PhD Computer Science and Automation
+PhD Department of Design and Manufacturing
+PhD Robert Bosch Centre for Cyber Physical Systems
+M.Tech Artificial Intelligence
+M.Tech Electronics & Communication Engineering
+M.Tech Semiconductor Technology
+M Des Product Design
+Development and Management
+Master of Business Analytics & Technology Management
+Eligibility
+CGPA >6.5
+Skills
+Strong Fundamentals in Computer Science
+Bond Details
+None
+
+---
+
+JD ATTACHMENTS
+JD Emerging Tech
+
+---
+
+JOB OFFER LETTER SAMPLE COPY
+Internship Letter
+
+---
+
+DETAILED JOB DESCRIPTION
+Software engineer
+We are seeking a highly motivated and detail-oriented Software Engineer to join our dynamic team. In this role, you will be responsible for building, maintaining, and monitoring high-performance systems that support our cutting-edge projects. We prioritize applicants with experience in working with GPUs, Vector Databases, and Retrieval-Augmented Generation (RAG) systems. Key areas of focus include threat detection, compliance, system hardening, and automation of security protocols
+
+
+Key Responsibilities:
+Design, Development, and Maintenance:
+● Assist in designing, developing, and maintaining high-performance systems, with a focus on managed services.
+● Work on both front-end and back-end development, utilizing Python for back-end and React for front-end.
+● Help monitor and optimize system performance, security, and scalability.
+Front-End Development:
+● Support the design and development of responsive, visually appealing user interfaces using React.
+● Assist in optimizing applications for maximum speed and scalability.
+● Collaborate with UX/UI designers to translate designs and wireframes into high-quality code.
+Back-End Development:
+● Develop and maintain back-end components using Python under the guidance of senior engineers.
+● Assist in creating and maintaining APIs to ensure a seamless flow of data between the server and users.
+● Contribute to server-side security and data protection.
+Database Management:
+● Learn to design and manage database schemas using PostgreSQL.
+● Assist in implementing data storage solutions and optimizing database performance.
+● Exposure to Vector Databases and GPU-accelerated workloads is a plus.
+Adapter Development:
+● Participate in creating adapters that enable AI systems to connect to various data sources efficiently.
+Testing and Maintenance:
+● Contribute to developing and maintaining unit and end-to-end tests to ensure code integrity and application quality.
+● Assist in regularly updating applications to improve performance and address security vulnerabilities.
+Collaboration and Project Management:
+● Work closely with project managers and cross-functional teams to understand requirements and deliver software solutions that meet business goals.
+● Participate in code reviews and share knowledge with team members to enhance software quality and effectiveness.
+Technical Skills Required:
+● Basic understanding of client-side scripting and JavaScript frameworks, particularly React.
+● Foundational knowledge of Python for server-side programming.
+● Familiarity with PostgreSQL and a basic understanding of NoSQL databases.
+● Exposure to development tools such as Babel, Webpack, and NPM.
+● Familiarity with version control tools, particularly Git.
+
+
+Qualifications:
+● Strong willingness to learn and adapt to new technologies and methodologies.
+● Good organizational and communication skills.
+
+---
+
+ADDITIONAL DETAILS
+For engineers who have strong product design experience or preference for design or data analysis please specify in resume
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Please give details of any projects related to the domain mentioned (Document)
+
+================================================================================

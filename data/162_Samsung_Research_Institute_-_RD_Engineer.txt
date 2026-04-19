@@ -1,0 +1,127 @@
+================================================================================
+JOB: Samsung Research Institute - R&D Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/afaffc43-a86e-45f9-9c76-c84a58cdbdae
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Samsung Research Institute
+Job Domain
+Engineering
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Noida
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://research.samsung.com/sri-n
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+13,67,144
+First Year Annual Overall CTC
+18,50,000
+First Year Monthly Salary
+1,13,928
+First Year Overall CTC - Detailed Breakup
+NA
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+28-Nov-25 16:10:00
+Application Deadline
+02-Dec-25 15:00:00
+Time Left
+Closed
+Application Current State
+HR Interview-R&D Engineer
+Shortlist Published At
+Stage 2(Pen & Paper Test-R&D Engineer) - 24 Dec 2025 11:38:24Stage 4(HR Interview-R&D Engineer) - 24 Dec 2025 11:39:18
+
+---
+
+APPLICATION STAGES
+Online Test
+Pen & Paper Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+Discipline
+M.Tech Computational and Data Sciences
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech in Instrumentation Systems
+M.Tech Quantum Technology Initiative
+M.Tech Signal Processing
+M.Tech Artificial Intelligence
+M.Tech Semiconductor Technology
+M.Tech Microelectronics & VLSI Design
+M.Tech Robotics and Autonomous Systems
+M.Tech Computer Science & Engineering
+M.Tech Communication Networks
+Eligibility
+a) 2026 Graduate/ Post-Graduate
+b) BE / B.Tech / Dual Degree / M.Tech.- Comp. Sc. / CS allied branches, IT, SE or Electrical/ E&C / Electronics, Inst. &
+Control.
+c) 75% or 7.5 CGPA and above - Graduation onwards.
+d) Should not have scored less than 70% or 7 CGPA in Std. Xth / XIIth / Diploma.
+
+Skills
+Proficiency in C/C++, C# and Java
+• Knowledge of agile or iterative software development life cycle
+• Familiarity with Android development
+• Design and problem solving skills
+• Strong understanding of object-oriented software development
+• Strong written and verbal communication skills
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+
+---
+
+JOB OFFER LETTER SAMPLE COPY
+
+---
+
+DETAILED JOB DESCRIPTION
+Roles & Responsibilities:
+• Standardize the software development process to meet the delivery, quality and cost of software.
+• Monitor quality of software development outcomes and continue to improve the process.
+• Understand and apply software process within the organization.
+• Understand different development methodologies and apply to projects.
+• Participate in process tailoring, review and inspection activities of software development tasks.
+• Collect data required to measure software indicators.
+
+================================================================================

@@ -1,0 +1,126 @@
+================================================================================
+JOB: AlgoBotix Private Limited - Embedded C/C++ Engineer (STM32 Firmware)
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/213b7655-4a74-4311-8b0a-26b24547ef39
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+AlgoBotix Private Limited
+Job Domain
+Embedded C/C++ Engineer (STM32 Firmware)
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Drones Automation
+Industry Sector
+Private
+Website URL
+https://www.algobotix.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+NA
+First Year Annual Overall CTC
+NA
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+Annual CTC: 6,00,000
+
+1st year Annual Overall CTC: 6,00,000 /-
+
+1st year Annual Overall CTC detailed break up : Basic Salary - 6,00,000
+
+1st year approx. Monthly salary : 50,000 /-
+
+2nd Year approx. Annual Base CTC : 7,20,000 /-
+
+2nd Year approx. Annual Overall CTC : Basic Salary – 7,20,000 /-
+
+2nd Year approx. Annual Overall CTC detailed break up : Basic Salary - 7,20,000
+
+2nd Year approx. Annual Overall CTC detailed break up : Basic Salary - 7,20,000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+19-Feb-26 12:08:28
+Application Deadline
+22-Feb-26 20:00:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Embedded C/C++ Engineer (STM32 Firmware)
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+M.Tech (Research)
+Discipline
+M.Tech Computer Science and Engineering
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech in Instrumentation Systems
+M.Tech Signal Processing
+M.Tech Semiconductor Technology
+M.Tech Microelectronics & VLSI Design
+M.Tech Electronic Product Design
+M.Tech Robotics and Autonomous Systems
+M.Tech Communication Networks
+Eligibility
+
+Final-year students or graduates in Computer Science, Electronics, Electrical, or related fields with strong C++ (C++11+) fundamentals and understanding of networking and multithreading. Passionate individuals eager to build real-time, mission-critical software systems for UAVs and autonomous platforms are encouraged to apply
+
+Skills
+. Skill set :
+• Develop firmware for STM32 microcontrollers using C and C++
+• Implement MAVLink communication on embedded platforms
+• Work with low-level interfaces such as UART, SPI, I2C, and CAN
+• Design real-time systems using RTOS or bare-metal approaches
+• Debug and test firmware using SWD, JTAG, and hardware tools
+• Use Python for testing, scripting, automation, and tooling
+• Perform hands-on hardware interaction, including reading schematics, basic circuit design understanding, and prototyping
+• Participate in electrical circuit assembly, including soldering and basic hardware verification
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+Detailed Job Description: We are seeking a skilled C++ Application Developer to design and develop a high-performance Ground Control Station (GCS) for unmanned systems. The role involves building real-time mission-critical software that enables reliable command, control, telemetry, and monitoring of UAVs and autonomous platforms. The candidate will work closely with embedded, avionics, networking, and systems teams to deliver a robust and scalable GCS solution.
+
+================================================================================

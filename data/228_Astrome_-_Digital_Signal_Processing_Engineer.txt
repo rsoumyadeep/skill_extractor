@@ -1,0 +1,177 @@
+================================================================================
+JOB: Astrome - Digital Signal Processing Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/82b27425-4cc8-4bf2-ad28-7364dbe9d03b
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Astrome
+Job Domain
+Wireless communication
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bangalore
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://astrome.co
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+10,00,000
+First Year Annual Overall CTC
+12,00,000
+First Year Monthly Salary
+80,000
+First Year Overall CTC - Detailed Breakup
+Components Monthly
+Basic 41700
+HRA 16700
+Spl 18140
+Food_Allow 3000
+Tele_Allow 1000
+Internet_Allow 1000
+Gross 81540
+
+Empr_PF 1800
+Fixed_Cost 83340
+
+
+Fixed_Cost Annual 1000080
+
+Variable Pay 100000
+
+ESOP 100000
+
+Total CTC 1200080
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+Components Monthly
+Basic 41700
+HRA 16700
+Spl 18140
+Food_Allow 3000
+Tele_Allow 1000
+Internet_Allow 1000
+Gross 81540
+
+Empr_PF 1800
+Fixed_Cost 83340
+
+
+Fixed_Cost Annual 1000080
+
+Variable Pay 100000
+
+ESOP 100000
+
+Total CTC 1200080
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+13-Nov-25 13:26:02
+Application Deadline
+15-Nov-25 08:00:00
+Time Left
+Closed
+Application Current State
+HR Interview-Digital Signal Processing Engineer
+Shortlist Published At
+Stage 2(Technical Interview-Digital Signal Processing Engineer) - 29 Dec 2025 18:36:33Stage 3(HR Interview-Digital Signal Processing Engineer) - 29 Dec 2025 18:37:06Stage 3(HR Interview-Digital Signal Processing Engineer) - 29 Dec 2025 18:37:06
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+All
+Discipline
+M.Engg in Semiconductor Technology
+M.Tech (Research) Aerospace Engineering
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Electronic Systems Engineering
+M.Tech (Research) Mathematics
+M.Tech Aerospace Engineering
+M.Tech Centre for Nano Science and Engineering
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Electronic Systems Engineering
+M.Tech Mathematics
+PhD Aerospace Engineering
+PhD Centre for Nano Science and Engineering
+PhD Computational and Data Sciences
+PhD Computer Science and Automation
+M.Tech Signal Processing
+M.Tech Electronics & Communication Engineering
+M.Tech Semiconductor Technology
+M Des Product Design
+Development and Management
+M.Tech Computer Science & Engineering
+M.Tech Communication Networks
+M.Tech Electronics Systems Engineering
+Eligibility
+Pass out in Year 2026
+Skills
+Refer the JD
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+
+---
+
+DETAILED JOB DESCRIPTION
+Digital Signal Processing Engineer
+
+
+Description
+We take great pride in developing cutting-edge millimeter wave wireless systems ground up, to solve problems in the rural and urban telecom infrastructure. To this end, we are looking for strongly motivated candidates who have hands-on experience in developing baseband algorithms for wireless communication. The work will involve the following:
+As a developer, you will need to design, develop, test, debug, update and maintain algorithms related to digital signal processing.
+Design the overall baseband processing algorithm stack in Python and C++ which can deliver on performance parameters like efficiency, latency, throughput etc.
+Optimize the implementation to minimize resource consumption
+Develop novel algorithms and techniques that can provide an edge over the industry standard
+Design the baseband stack so that it can be converted to RTL with minimum effort
+
+
+Requirements
+Be capable of understanding the latest technologies and go beyond the standards.
+Understanding of communications protocol stacks like 3GPP, DVBS2, DVBS2-X
+Track record of developing novel DSP algorithms, including filter design and Fourier transforms.
+A willingness and ability to get down to the hardware-level debugging as needed
+Understanding of FPGA debugging, timing analysis, and logic optimization principles
+Have an understanding of DSP algorithms like APSK, LDPC, OFDMA
+Have expertise in Multi-Rate Systems, Feedback Control Systems, Estimation and Detection
+Have knowledge of DSP algorithm implementation on FPGA using System Verilog
+Design and develop advanced DSP algorithms for communication systems, focusing on modulation, demodulation, channel estimation, and error correction
+Be an expert in digital signal processing techniques such as fast Fourier transform, and have a good handle on linear algebra and complex algebra
+
+================================================================================

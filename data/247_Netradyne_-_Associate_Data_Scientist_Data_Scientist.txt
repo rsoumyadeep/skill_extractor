@@ -1,0 +1,151 @@
+================================================================================
+JOB: Netradyne - Associate Data Scientist / Data Scientist
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/d173adc8-cfad-4c68-8439-db8e9aed5fab
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Netradyne
+Job Domain
+Information Technology (IT)
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Whitefield, Bangalore
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://www.netradyne.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+Please find 1st Year Overall CTC - Detailed Breakup
+First Year Annual Overall CTC
+Please find 1st Year Overall CTC - Detailed Breakup
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+Annual CTC:
+
+a. M.Tech - 24 LPA (18 Base + 3 JB + 2 DB) – Deferred Bonus comes with a claw back period of 24 months.
+
+
+b. B.TECH CTC: 22 LPA (16 Base + 3 JB + 3DB) -– Deferred Bonus comes with a claw back period of 24 months.
+Second Year Approx. Annual Base CTC
+NA
+Second Year Approx. Annual Overall CTC
+NA
+Second Year Approx. Monthly Salary
+NA
+Second Year Approx. Overall CTC - Detailed Breakup
+NA
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+05-Nov-25 18:30:38
+Application Deadline
+07-Nov-25 11:15:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Associate Data Scientist / Data Scientist
+Shortlist Published At
+Stage 2(Resume Shortlisting-Associate Data Scientist / Data Scientist) - 28 Dec 2025 20:41:14
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+BS (Research)
+M.Mgt
+M.Tech
+MS (Research)
+M.Des
+Discipline
+All
+Eligibility
+JDs are attached for reference
+Skills
+JDs are attached for reference
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Associate Data Scientist / Data Scientist
+
+---
+
+DETAILED JOB DESCRIPTION
+Job Title: Associate Data Scientist / Data Scientist
+Company: Netradyne Technology India
+Location: Whitefield, Bangalore
+Employment Type: Full-time
+Work Model: On-site
+Shift: General Shift (5 days a week)
+About Netradyne: Netradyne is a cutting-edge technology company revolutionizing the transportation industry with its advanced AI-powered solutions. We specialize in developing innovative products and services that enhance fleet safety, efficiency, and performance. With a focus on data-driven insights and real-time analytics, Netradyne is at the forefront of shaping the future of transportation.
+Job Overview: As an Associate Data Scientist or Data Scientist at Netradyne, You will perform analyses, build models, and design/conduct experiments to improve road safety and reduce accidents
+Key Responsibilities:
+• Design, develop and evaluate statistical, machine learning and generative AI / LLM models to understand driving risk, driver coaching and actionable insights.
+• Build machine learning models and design product features to improve scores, compliance, and other key metrics.
+• Develop, deploy and improve machine learning models in end-to-end ML pipeline for key features such as accident prediction.
+• Design efficient architecture for real-time edge computing.
+• Conduct statistical experiments, A/B Testing, and data-driven metrics to guide product ROI features.
+• Work with the data engineering/ cloud team/ product team to productize data science features or microservices.
+Mandatory Skills:
+• B. Tech/M. Tech/PhD in Computer Science, Electrical Engineering, or other Quantitative Fields.
+• Strong knowledge of statistics, probability, ML, and estimation theory.
+• Good understanding of data-structures and algorithms.
+• Experience with deriving useful insights from large and complex datasets.
+• Experience with Mathematical/Statistical modeling, data visualization, and storytelling.
+• Strong ability to communicate highly technical results to a diverse audience.
+• Ability to develop quick proof of concept solutions in a fast-paced startup environment.
+• Good hands-on experience of coding – Python (required), C/C++, R, etc.
+• Experience working with databases – Postgres, MongoDB, etc.
+Preferred Skills:
+• Experience with prompt engineering and Generative AI foundation models is a plus.
+• Experience working with time-series, rare-event detection and data from GPS/IMU sensors would be useful.
+• Experience with data visualization tools like Tableau, Plotly-Dash is a plus.
+• Experience with Big data tools like Hadoop, Spark, Mongo DB
+• Fundamental understanding of deep learning and/or computer vision algorithms.
+• Exposure to accelerating algorithms for GPUs, such as with CUDA, is a plus.
+• Publications in CVPR, NIPS, ICLR, ICCV and IEEE journals is a plus..
+  Interview Process
+• 1st round: statistics, probability, ML, and estimation theory, Python, Aptitude, Puzzles, Algorithms, System level understanding, Deep diving into final year project
+• 2nd round: Test on statistics, probability, and ML and CV concepts.
+• HR round: Cultural Assessment
+Equal Opportunity Employer Statement: Netradyne is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+Additional Information: This position is based out in HM Tech Park, Whitefield Bangalore with potential for work flexibility.
+Contact Information: For inquiries, please contact Recruiter at 9008760705/9047477352 or dakshita.liston@netradyne.com/prasanth.bheeman.c@netradyne.com.
+Follow us on LinkedIn: For more information on our work culture, follow us on (1)Netradyne: My Company | LinkedIn
+
+---
+
+ADDITIONAL DETAILS
+NA
+
+================================================================================

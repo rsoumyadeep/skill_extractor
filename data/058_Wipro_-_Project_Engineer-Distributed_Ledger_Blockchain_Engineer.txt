@@ -1,0 +1,143 @@
+================================================================================
+JOB: Wipro - Project Engineer-Distributed Ledger & Blockchain Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/624bc1cc-9c2d-4d3f-b2f1-0bd9f23b06fe
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Wipro
+Job Domain
+IT Services
+Job Type
+Full Time Placement
+Job Mode
+Hybrid
+Locations
+Bangalore
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://www.wipro.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+17,04,320
+First Year Annual Overall CTC
+20,00,000
+First Year Monthly Salary
+1,66,667
+First Year Overall CTC - Detailed Breakup
+Components Compensation Per annum
+Basic 800000
+HRA 400000
+Statutory Bonus 42000
+WBP 306800
+Additional Allowance 155520
+Provident Fund (Employer) 96000
+Gratuity 42480
+MAS 7200
+Target Variable Pay 150000
+Total CTC 2000000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+12-Feb-26 16:08:13
+Application Deadline
+15-Feb-26 22:00:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Project Engineer-Distributed Ledger & Blockchain Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Engg
+M.Tech
+M.Tech (Research)
+MS (Research)
+PhD (Engineering)
+PhD (Science)
+PhD (Integrated)
+MS
+Discipline
+All
+Eligibility
+60% in 10th 12th UG and PG
+BE, B.Tech,ME,M.Tech , Dual , Integrated,M.S, Ph.D
+One active backlog during assessment stage, should clear all backlogs within the degree end date.
+Gap not more than 3 years
+
+Skills
+Required Qualifications & Skills
+• Strong understanding of computer science fundamentals, distributed systems, or cryptography.
+• Proficiency in programming languages such as Solidity, Go, Rust, TypeScript, or Python.
+• Familiarity with blockchain frameworks (Ethereum, Hyperledger Fabric, Polygon, Solana, Avalanche).
+• Knowledge of consensus tools (Tendermint, Raft, HotStuff) and smart contract development tools (Truffle, Hardhat, Remix).
+• Ability to work with data and analytics tools like IPFS, The Graph, Prometheus, and Grafana.
+• Understanding of security and cryptographic concepts (zk-SNARKs, elliptic curve cryptography).
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+Job Title: Distributed Ledger & Blockchain Engineer
+Position Overview
+The world is moving beyond Web2, and decentralized systems now power the next era of trust and transparency. As a Distributed Ledger & Blockchain Engineer, you will design and build smart contracts, prototypes, and scalable consensus systems that redefine secure information exchange at a global scale.
+Key Responsibilities
+• Design and prototype distributed ledger architectures for secure data exchange and transaction traceability.
+• Develop smart contracts and decentralized applications (dApps) using Ethereum, Hyperledger, or Solana ecosystems.
+• Implement cryptographic primitives such as zero-knowledge proofs, Merkle trees, and hash-based consensus mechanisms.
+• Build interoperability bridges and APIs between blockchain networks and enterprise systems.
+• Create scripts and monitoring tools for node performance, consensus stability, and chain analytics.
+• Research and test scalable consensus protocols (PoS, BFT, DAGs) for performance and resilience.
+• Collaborate with cybersecurity teams to audit contract logic, prevent exploits, and ensure transaction integrity.
+• Experiment with tokenization, verifiable credentials, identity solutions, and supply chain traceability models.
+Required Qualifications & Skills
+• Strong understanding of computer science fundamentals, distributed systems, or cryptography.
+• Proficiency in programming languages such as Solidity, Go, Rust, TypeScript, or Python.
+• Familiarity with blockchain frameworks (Ethereum, Hyperledger Fabric, Polygon, Solana, Avalanche).
+• Knowledge of consensus tools (Tendermint, Raft, HotStuff) and smart contract development tools (Truffle, Hardhat, Remix).
+• Ability to work with data and analytics tools like IPFS, The Graph, Prometheus, and Grafana.
+• Understanding of security and cryptographic concepts (zk-SNARKs, elliptic curve cryptography).
+Preferred Attributes
+• Innovative mindset with a passion for decentralized technologies.
+• Strong problem-solving skills and willingness to experiment.
+• Ability to work independently and collaboratively in a research-driven environment.
+• Interest in open-source contributions and emerging blockchain trends.
+Commitment to building secure, transparent, and fair digital ecosystems.
+
+================================================================================

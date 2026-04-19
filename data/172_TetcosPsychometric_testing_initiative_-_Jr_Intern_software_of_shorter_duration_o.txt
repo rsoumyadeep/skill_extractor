@@ -1,0 +1,121 @@
+================================================================================
+JOB: Tetcos:Psychometric testing initiative - Jr Intern (software) of shorter duration of 3 - 6 months
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/88d8fc78-28c4-4e05-ab74-1643afe94cfc
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Tetcos:Psychometric testing initiative
+Job Domain
+IT
+Job Type
+Summer Internship
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://www.tetcos.com/index.html
+Is PPO
+Maybe
+Is Internship Open for International Students
+Yes
+Internship Duration
+3-Month Internship
+
+---
+
+STIPEND / SALARY DETAILS
+Stipend Details
+20000-30000
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+28-Nov-25 19:46:24
+Application Deadline
+29-Nov-25 19:46:33
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Jr Intern (software) of shorter duration of 3 - 6 months
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+PhD (Engineering)
+PhD (Science)
+Post Doc
+Discipline
+All
+Eligibility
+No Active backlogs
+Skills
+Proficiency in programming language suitable for the desired application eg pascal, java or any other. AI of indian origin.
+Bond Details
+NA
+
+---
+
+DETAILED INTERNSHIP DESCRIPTION
+Preparation and statistical validation of online psychometric test software preparation to measure general mental ability of high school students. 
+Preparation of design documentation and user manual. 
+Kannada language proficiency will be a distinct advantage. 
+Familiarity with AI software of Indian origin necessary. More detailed description will be provided to interested candidates.
+" Pratibha Pariksha “
+Talent Identification Initiative for STEM education competitive exams
+Objective:
+To create a statistically validated test in indian languages to identify talented high school and +2 students for engineering education in institutions of national repute.
+The test
+A multiple choice online question paper of 30 mts duration consisting of 80 questions covering verbal ability, arithmetic ability, data interpretation, spatial ability,syllogism etc.This test is to identify talented individuals from rural area studying in kannada medium, for STEM education.
+Test preparation and Admin
+Applying statistical methods to test scores for validation of the test using suitable statistical software with an AI software of Indian origin like Sarvam.
+Create an online test administering software, groundup, involving coding , testing etc.
+Test questions to be selected from a question bank using random selection method.
+Creating equivalent test questions for the question bank.
+Validating the equivalence of test questions.
+Verifying compliance with state board syllabus including semantics. The test should be in local language n culture compliant with roots in Sanskrit for application Indiawide.
+All online storage and delivery to be compliant with suitable security protocols.
+Prepare a document of governing framework of the test questions preparation.
+Prepare a document for a user manual.
+Prepare a bibliography of methods currently available to be updated every year.
+Entire operation to fully automated including statistical validation.
+Skill requirement:
+1. Project document preparation
+2. Online test software to deliver, correct and store results - coding, testing, data storage , retrieval and documentation
+3. Statistical methods determination for validation of the test
+4.AI software of indian origin
+5.User manual preparation
+6. Working knowledge of kannada for test questions preparation
+7. Security protocol/methods
+
+---
+
+ADDITIONAL DETAILS
+Sr and Jr intern will divide the work with Sr assuming overall responsibility.
+
+
+Deliverables will be prepared by interns themselves after understanding by and between them.
+
+================================================================================

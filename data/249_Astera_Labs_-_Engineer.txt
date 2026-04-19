@@ -1,0 +1,149 @@
+================================================================================
+JOB: Astera Labs - Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/f66bd319-f7c9-4a18-9134-36981c3c778c
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Astera Labs
+Job Domain
+Engineering
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+VLSI and Semiconductors
+Industry Sector
+Private
+Website URL
+https://www.asteralabs.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+₹ 20,00,000
+First Year Annual Overall CTC
+₹ 42,28,077
+First Year Monthly Salary
+1,86,667
+First Year Overall CTC - Detailed Breakup
+The comp is different for Bachelors and master's students, I have attached a file for the detailed compensation.
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+05-Nov-25 15:25:00
+Application Deadline
+07-Nov-25 08:00:00
+Time Left
+Closed
+Application Current State
+Online Test-Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Engg
+M.Tech
+M.Tech (Research)
+MS (Research)
+Discipline
+B.Tech in Mathematics and Computing
+M.Engg in Semiconductor Technology
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech (Research) Instrumentation and Applied Physics
+M.Tech (Research) Mathematics
+M.Tech (Research) Physics
+M.Tech Computer Science and Engineering
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech in Instrumentation Systems
+M.Tech Mathematics
+M.Tech Physics
+M.Tech Signal Processing
+M.Tech Electronics & Communication Engineering
+M.Tech Semiconductor Technology
+M.Tech Microelectronics & VLSI Design
+M.Tech Electronic Product Design
+M.Tech Computer Science & Engineering
+M.Tech Communication Networks
+M.Tech Electronics Systems Engineering
+Eligibility
+anyone who has 8 CGPA and above.
+Skills
+Strong fundamentals in Digital Electronics and VLSI design
+Good understanding of computer architecture.
+Proficiency in HDL languages: Verilog and/or VHDL
+Knowledge of scripting languages: Python, Perl, or TCL for automation
+Familiarity with EDA tools (Cadence, Synopsys, or Mentor Graphics)
+Analytical and problem-solving skills
+Good communication and teamwork
+Passion for semiconductor design and innovation
+Bond Details
+There is no bond.
+
+---
+
+JOB OFFER LETTER SAMPLE COPY
+Compensation Details
+
+---
+
+DETAILED JOB DESCRIPTION
+As a new college graduate, you will be joining a team dedicated to developing state-of-the-art SoCs that enable next-generation connectivity solutions for future data centers. This role offers the opportunity to gain hands-on experience across multiple domains of chip design and verification, including:
+ 
+**Design:**
+Contribute to RTL development and perform RTL quality checks. Collaborate closely with Design Verification (DV), Design-for-Test (DFT), and Physical Design (PD) teams to ensure robust and efficient design implementation.
+ 
+**Design Verification (DV):**
+Develop and enhance design verification infrastructure, drive metric-based verification closure, and validate customer and system use cases. Work on various verification flows, including RTL, low-power, gate-level simulation (GLS), and emulation environments.
+ 
+**Design-for-Test (DFT):**
+Design and verify test structures to achieve target coverage and fault grading. Support silicon bring-up activities and assist in debugging and validating test vectors to ensure production readiness.
+ 
+**Physical Design (PD):**
+Engage in physical design activities such as floorplanning, placement, routing, clock tree synthesis (CTS), static timing analysis (STA), and physical verification. Perform power and reliability checks to ensure design quality and manufacturability.
+ 
+This position provides an excellent opportunity to develop a strong foundation in SoC development, working alongside industry experts on cutting-edge connectivity technologies that power tomorrow’s data centers.
+
+
+We are looking for passionate and motivated New College Graduates (NCGs) to join our VLSI Design team. Depending on your technical strengths, past academic work, and interests, you will be assigned to one of the following domains: RTL Design, Design Verification, Physical Design, or DFT (Design for Test).
+
+---
+
+ADDITIONAL DETAILS
+The student will undergo an interview, and at the end of the process, they will be informed of the team they have been selected for. The allocation will be based on their past experience, areas of interest, and the interview panel’s feedback.
+
+================================================================================

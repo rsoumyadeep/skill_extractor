@@ -1,0 +1,129 @@
+================================================================================
+JOB: Qualcomm - Systems Engineer- ML system
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/1923814c-52b6-4415-9eaf-1bda671c9700
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Qualcomm
+Job Domain
+Engineering
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Hyderabad / Bangalore / Chennai / Noida
+Industry
+Semiconductor and Telecommunications
+Industry Sector
+Private
+Website URL
+https://www.qualcomm.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+19,50,000
+First Year Annual Overall CTC
+Refer to breakup
+First Year Monthly Salary
+1,62,500
+First Year Overall CTC - Detailed Breakup
+Compensation For DD ,M.Tech , MS Research Students : System profiles( R&D)
+Details Amount
+Total Gross Pay INR 19.5 L
+Retirals (PF and Gratuity) INR 1.31 L
+Performance Bonus* INR 1.90 L
+Joining Bonus ( Paid within 60 days ) INR 9.60 L
+Relocation Bonus ( Paid within 60 days ) INR 0.50 L
+RSU - Restricted Stock Value Awards (Vesting in 3 years )** INR 13.20 L ( $ 16000)
+Retention Bonus (Paid after 12 months ) INR 5.00 L
+* Performance bonus % may vary based on individual & Organization Performance | **RSU -33% vesting every year
+Additional Benefits: Relocation Assistance, Insurance, Transport. RSU $1=INR 83
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Oct-25 19:28:25
+Application Deadline
+28-Oct-25 06:00:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Systems Engineer- ML system
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+MS (Research)
+PhD (Engineering)
+Discipline
+All
+Eligibility
+CGPA 7 and above
+70% and above in 10th,12th and undergrad
+Skills
+Preferred skillset: • Experience in machine learning frameworks such as MxNet/NNVM/TVM, Tensorflow, Caffe OR experience in compilers with an interest in machine learning • Deep knowledge of software engineering
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Systems Engineer- ML system
+
+---
+
+DETAILED JOB DESCRIPTION
+AI/ML Engineer
+Interested in accelerating machine learning and artificial intelligence on mobile devices for millions of
+users. Come join our team. We are building software platforms that enable users of Qualcomm’s silicon
+to construct optimized neural networks and machine learning algorithms. We are looking for software
+engineers with a machine learning or compiler background who will help us build these software
+platforms. In this role, you will construct and tune machine learning frameworks, build compilers and
+tools, and collaborate with Qualcomm hardware and software engineers to enable efficient usage of
+Qualcomm’s silicon for machine learning applications.
+Minimum qualifications:
+• Master’s degree in computer science, ML, AI, Data science or related field.
+• Programming in C/C++
+Preferred skillset:
+• Experience in machine learning frameworks such as MxNet/NNVM/TVM, Tensorflow, Caffe
+OR experience in compilers with an interest in machine learning
+• Deep knowledge of software engineering
+
+
+Privacy Policy Your personal data will be processed according to Qualcomm's privacy policy which can be
+found at https://www.qualcomm.com/site/privacy
+
+================================================================================

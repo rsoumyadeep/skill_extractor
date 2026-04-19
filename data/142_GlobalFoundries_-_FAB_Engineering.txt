@@ -1,0 +1,150 @@
+================================================================================
+JOB: GlobalFoundries - FAB Engineering
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/ac613382-1141-401e-8cd3-22d5aa01b5d1
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+GlobalFoundries
+Job Domain
+Semiconductor
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+VLSI and Semiconductors
+Industry Sector
+Public
+Website URL
+https://www.gf.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+1600000 (Masters) - 2200000 (PhD)
+First Year Annual Overall CTC
+1874000 (Masters) - 2564000 (PhD)
+First Year Monthly Salary
+133334 (Masters)- 183334(PhD)
+First Year Overall CTC - Detailed Breakup
+Base Pay +Statutory Bonus +Variable Pay
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+02-Dec-25 10:45:00
+Application Deadline
+11-Dec-25 10:00:00
+Time Left
+Closed
+Application Current State
+Online Test-FAB Engineering
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Engg
+M.Tech
+MS (Research)
+PhD (Engineering)
+PhD (Science)
+PhD (Integrated)
+Discipline
+M.Engg in Semiconductor Technology
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+MS (Research) in Materials Sciences
+PhD Electrical Engineering
+PhD Electronic Systems Engineering
+M.Tech Semiconductor Technology
+M.Tech Microelectronics & VLSI Design
+M.Tech Electronics Systems Engineering
+Eligibility
+Masters / PhD in Microelectronics or related Fields
+Skills
+Masters / PhD in Microelectronics or related Fields
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+FAB Engineering
+
+---
+
+DETAILED JOB DESCRIPTION
+Title: Integration & Yield Engineer focused on Process Integration, Electrical Characterization, Yield Analysis and Fab Operations Support.
+
+
+About GlobalFoundries
+GlobalFoundries is a leading full-service semiconductor foundry providing a unique combination of design, development, and fabrication services to some of the world’s most inspired technology companies. With a global manufacturing footprint spanning three continents, GlobalFoundries makes possible the technologies and systems that transform industries and give customers the power to shape their markets. For more information, visit www.gf.com.
+
+
+Introduction:
+This position is for Integration & Yield Engineer in GLOBALFOUNDRIES' India center at Bangalore, supporting 200 and 300mm wafer fabs in US, Singapore, and Germany. The candidate will be responsible for electrical characterization, yield analysis, and production lots disposition to drive product yield, line yield and manufacturing operations.
+
+
+Your Job
+• Production Sustaining: Monitoring electrical performance tends, disposition of holds at electrical and sort test, support general/urgent fab operational issues, scrap investigation, analysis for process change review boards
+• Candidate will drive yield enhancement for multiple products by analyzing failing electrical parameters and rapidly data mining to investigate root causes and containing excursions and protecting supply
+• Develop and improve yield characterization and data analysis methodologies to rapidly determine yield limiters, correlation to in-line defectivity and metrology, and electrical parametric signals
+• Support process module engineering activities through electrical test, inline metrology, and yield analysis to improve cost, cycle-time, and manufacturing robustness
+• Clear reporting and communication of issues to home teams on a daily basis
+• Must be flexible in job assignment and ready to work on weekend shifts on a rotational basis as required by the business
+
+
+Required Qualifications
+• Education: MS/MTech is preferred Specialization on Microelectronics/VLSI or related fields
+• A strong working knowledge of Statistical Process Control (SPC), Structured Problem Solving (SPS) skills and Failure Mode & Effect Analytical (FMEA) methods would be essential
+• Good understanding of semiconductor process technology and devices
+• Strong interpersonal skills and ability to work effectively within a globally matrixed team or environment
+• Organized, proactive, excellent analytical skills, on-time delivery of work assigned, and good verbal and written communication
+• Good knowledge of MS Office (Word, Excel and PowerPoint)
+• Scripting and coding skills (especially R and Python) are desirable
+
+
+GlobalFoundries is an equal opportunity employer, cultivating a diverse and inclusive workforce. We believe having a multicultural workplace enhances productivity, efficiency and innovation whilst our employees feel truly respected, valued and heard.
+As an affirmative employer, all qualified applicants are considered for employment regardless of age, ethnicity, marital status, citizenship, race, religion, political affiliation, gender, sexual orientation and medical and/or physical abilities.
+All offers of employment with GlobalFoundries are conditioned upon the successful completion of background checks, medical screenings as applicable and subject to the respective local laws and regulations.
+To ensure that we maintain a safe and healthy workplace for our GlobalFoundries employees, please note that offered candidates who have applied for jobs in India will have to be fully vaccinated prior to their targeted start date. For new hires, the appointment is contingent upon the provision of a copy of their COVID-19 vaccination document, subject to any written request for medical or religious accommodation.
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Are you available for a 6 Months Internship ? (Multiple Choice)
+
+Q2. In 2026 from which month you are available for 6 Months Internship? (Multiple Choice)
+
+================================================================================

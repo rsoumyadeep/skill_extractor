@@ -1,0 +1,129 @@
+================================================================================
+JOB: Airbus - Associate Engineer - Mass Properties
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/5a125aac-95ac-48c2-afab-e25749877296
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Airbus
+Job Domain
+Technical
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Aerospace and Defense
+Industry Sector
+Private
+Website URL
+https://www.airbus.com/en/about-us/our-worldwide-presence/airbus-in-asia-pacific/airbus-in-india
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+11,00,000 LPA
+First Year Annual Overall CTC
+11,00,000 LPA
+First Year Monthly Salary
+91,666 [Approximate as it includes Variable pay]
+First Year Overall CTC - Detailed Breakup
+11,00,000 LPA
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+04-Nov-25 11:30:00
+Application Deadline
+06-Nov-25 17:00:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Associate Engineer - Mass Properties
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+Discipline
+M.Tech Aerospace Engineering
+M.Tech Mechanical Engineering
+Eligibility
+M.Tech in Aerospace / Mechanical Engineering
+
+Skills
+Technical skills
+Good logical reasoning, analytical skills,( Data Analytics preferable)
+Basic understanding of Aircraft design and sub-systems.
+Tools: Catia V5, PDM systems, Programming skills (PYTHON or MATLAB preferable)
+Soft skills: Agile and reliable,
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+
+---
+
+DETAILED JOB DESCRIPTION
+Qualification: M.Tech in Aerospace / Mechanical Engineering
+
+
+Job scope:
+To support the design and development of Overall Aircraft level target weights and to track aircraft weight and CG evolution throughout the development phase.
+Develop mass models for loads calculation, inertia models for aircraft simulation for different configurations and support special requests
+Perform weight and CG estimations to support aircraft sales campaigns
+Drive the designers, risk sharing partners of Airbus and vendors for the design with respect to weight targets.
+Prepare component weight and CG data for Weight review meetings and design progress meetings.
+Support Aircraft delivery weighing inspection, calculating delivery aircraft weight and supporting technical reports for weight and balance manual.
+Calculate weight and CG impact for Customer modifications, Service bulletins, Weight repercussions & Technical repercussions
+Alert Weight and Balance (W&B) Specialist on any important discrepancy between Estimated, Calculated, and Weighed values and verify that corrections are applied.
+Above all to drive innovation and bring new technology adaptation to aircraft design.
+
+Required Domain Expertise (skills):
+Good logical reasoning, analytical skills,( Data Analytics preferable)
+Basic understanding of Aircraft design and sub-systems.
+
+
+Tools: Catia V5, PDM systems, Programming skills (PYTHON or MATLAB preferable)
+
+
+Soft skills:
+Agile and reliable, interested in working in a transnational empowered team
+Ability to communicate effectively (oral, writing & presentation)
+Flexibility & adaptability
+Ability to accept responsibility of task
+Capacity to innovate & make proposal for improvements
+
+================================================================================

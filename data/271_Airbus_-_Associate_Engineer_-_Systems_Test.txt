@@ -1,0 +1,125 @@
+================================================================================
+JOB: Airbus - Associate Engineer - Systems & Test
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/34d32945-c1b6-4dd2-9a08-bd48b365e6d0
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Airbus
+Job Domain
+Technical
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Aerospace and Defense
+Industry Sector
+Private
+Website URL
+https://www.airbus.com/en/about-us/our-worldwide-presence/airbus-in-asia-pacific/airbus-in-india
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+11,00,000 LPA
+First Year Annual Overall CTC
+11,00,000 LPA
+First Year Monthly Salary
+91,666 [Approximately as it includes Variable pay]
+First Year Overall CTC - Detailed Breakup
+11,00,000 LPA
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+04-Nov-25 11:25:00
+Application Deadline
+06-Nov-25 17:00:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Associate Engineer - Systems & Test
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+Discipline
+M.Tech (Research) Electronic Systems Engineering
+M.Tech Electronic Product Design
+Eligibility
+M.Tech in Electronics System Engineering / Electronic Product Design
+Skills
+Technical skills required:
+Preferred Skills:
+Good programming skills (ANSI-C)
+Analytical Skills
+Additional nice to have Skills/Interests:
+Knowledge of microprocessors (x86, PowerPC etc...)
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+
+---
+
+DETAILED JOB DESCRIPTION
+Qualification: M.Tech in Electronics System Engineering / Electronic Product Design
+
+Designation: Associate Engineer/ Graduate Engineer
+Avionics Software group focuses on safety critical real time embedded software development and certification for avionics systems.
+
+
+Description:
+The jobholder would have an opportunity to work on some of the most innovative, advanced & Next Gen avionics systems like Flight Warning New Generation, Glass Cockpit Displays and R&T topics like Connected Aircraft & Disruptive cockpit.
+In the context of avionics software development, the jobholder is responsible for the development of software components for different aircraft systems.
+
+Main activities:
+The jobholder will be responsible for:
+Defining software specification
+Design and development of the software components
+Verification and Validation of the software components
+Analysis of issues raised either during testing campaigns (Lab test or Flight test) or aircraft in-service usage
+
+Technical skills required:
+Preferred Skills:
+Good programming skills (ANSI-C)
+Analytical Skills
+
+Additional nice to have Skills/Interests:
+Knowledge of microprocessors (x86, PowerPC etc...)
+
+================================================================================

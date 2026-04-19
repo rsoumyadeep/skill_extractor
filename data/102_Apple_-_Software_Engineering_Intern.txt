@@ -1,0 +1,122 @@
+================================================================================
+JOB: Apple - Software Engineering Intern
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/fafaf68f-4ec1-4516-9283-26ca302511df
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Apple
+Job Domain
+Software Engineering
+Job Type
+Other Internship
+Job Mode
+-
+Locations
+Hyderbad
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://www.apple.com/
+Is PPO
+Maybe
+Is Internship Open for International Students
+Yes
+Internship Duration
+2026-02 to 2026-07 (6 months)
+
+---
+
+STIPEND / SALARY DETAILS
+Stipend Details
+Monthly Stipend : ₹1,50,000
+Relocation Benefits : Monthly Housing Allowance of ₹ 35,100, less applicable taxes + Relocation Benefits (if applicable) + economy class, round trip flight (if applicable)
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+24-Dec-25 13:18:09
+Application Deadline
+26-Dec-25 22:17:18
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Software Engineering Intern
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+PhD (Science)
+Discipline
+PhD Computational and Data Sciences
+PhD Computer Science and Automation
+Eligibility
+NA
+Skills
+Minimum Qualifications
+• Currently pursuing a PhD in Computer Science, Software Engineering, Machine
+Learning, Data Science, or a related technical field.
+• Strong foundational knowledge in data structures, algorithms, and object-oriented
+programming.
+• Proficiency in at least one programming language commonly used in machine
+learning or backend development (e.g., Python, Java, Scala, C++).
+• Understanding of fundamental machine learning concepts and statistical methods.
+• Excellent problem-solving and analytical skills, with an ability to analyze complex
+data.
+• Experience with machine learning frameworks and libraries (e.g., TensorFlow,
+PyTorch, scikit-learn).
+• Familiarity with large-scale data processing technologies (e.g., Spark, Hadoop,
+Flink) and distributed systems.
+• Knowledge of database systems (SQL/NoSQL) and data warehousing concepts.
+• Prior coursework or projects related to advertising technology, recommender
+systems, natural language processing, or computer vision.
+• Familiarity with version control systems (e.g., Git)
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Software Engeering
+
+---
+
+DETAILED INTERNSHIP DESCRIPTION
+Description
+As a Software Engineering Intern within the Apple Ads team, you will contribute to the
+design, development, and optimization of our advertising platforms, with a particular focus
+on leveraging machine learning to enhance ad relevance, performance, and user
+experience. You will work alongside experienced engineers on challenging projects,
+gaining hands-on experience with large-scale data, machine learning models, and
+distributed systems. Responsibilities may include developing and deploying machine
+learning algorithms, analyzing data to identify insights, writing clean and efficient code for
+production systems, participating in code reviews, debugging issues, and collaborating
+with cross-functional teams to deliver high-quality, privacy-preserving advertising
+solutions
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Your are avaliable for 6month internship?? (Multiple Choice)
+
+Q2. Will you be graduating from IISc by July or August and be able to join apple organization if full offer is provided?? (Multiple Choice)
+
+================================================================================

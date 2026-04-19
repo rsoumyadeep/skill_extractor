@@ -1,0 +1,196 @@
+================================================================================
+JOB: amagi - AI Engineer, Applied Research & Development
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/e8c83127-33cb-495e-9867-93e846da3a8c
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+amagi
+Job Domain
+AI Engineer, Applied Research & Development
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bengaluru (Bannerghatta Road)
+Industry
+Media and Communications
+Industry Sector
+Public
+Website URL
+https://www.amagi.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+₹2,320,000
+First Year Annual Overall CTC
+₹2,320,000
+First Year Monthly Salary
+₹2,320,000
+First Year Overall CTC - Detailed Breakup
+Fixed Salary = ₹2,020,000 + Retention Bonus = ₹3,00,000 = 23,020,000/- Per Annum
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+05-Jan-26 18:14:34
+Application Deadline
+06-Jan-26 16:00:00
+Time Left
+Closed
+Application Current State
+HR Interview-AI Engineer, Applied Research & Development
+Shortlist Published At
+Stage 2(Resume Shortlisting-AI Engineer, Applied Research & Development) - 08 Jan 2026 11:38:09Stage 4(Assignment-AI Engineer, Applied Research & Development) - 08 Jan 2026 11:41:15Stage 6(HR Interview-AI Engineer, Applied Research & Development) - 08 Jan 2026 11:42:38
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Pen & Paper Test
+Assignment
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+BS (Research)
+M.Engg
+M.Tech
+M.Tech (Research)
+MS (Research)
+MSc
+PhD (Engineering)
+PhD (Science)
+M.Des
+Discipline
+B.Tech in Mathematics and Computing
+BS (Research) in Mathematics
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Mathematics
+M.Tech Centre for Neuroscience
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech in Instrumentation Systems
+M.Tech Mathematics
+MS (Research) in Mathematics
+PhD Computational and Data Sciences
+PhD Computer Science and Automation
+M.Tech Signal Processing
+M.Tech Artificial Intelligence
+M.Tech Electronics & Communication Engineering
+M.Tech Computer Science & Engineering
+M.Tech Computer Science and Automation
+Eligibility
+6.2 & above CGPA
+Skills
+Enclosed in the JD
+Bond Details
+No Bond
+
+---
+
+JD ATTACHMENTS
+Amagi JD
+
+---
+
+DETAILED JOB DESCRIPTION
+About the team: From your first day at Amagi, you will meet great technical minds, work on the most
+interesting problems in the video domain. We are India’s number one SaaS company . We offer you the
+opportunity to work on cutting edge technologies that shape the way viewers watch streaming TV.
+Job Profile: We are looking for an ML Engineers to work on applied R&D problems across vision, NLP,
+and agentic AI systems. This role is hands-on and deeply technical—you will design, implement, train, and
+iterate on models from first principles, and translate research ideas into robust, working systems. You will
+work closely with senior researchers and engineers on real-world, high-impact AI systems rather than toy
+problems or narrow benchmarks.
+Work Mode: In Office
+Location: Bengaluru (Bannerghatta Road)
+
+
+Key Responsibilities
+● Design and implement neural architectures from scratch for vision, NLP, or multimodal
+problems
+● Train, evaluate, and iterate on deep learning models using PyTorch
+● Build agentic systems that combine reasoning, planning, memory, and tool use
+● Develop advanced LLM-based systems, including:
+○ Sophisticated context engineering
+○ Prompt strategies beyond basic prompting (multi-stage, self-reflective, tool-augmented
+flows)
+● Work extensively in Jupyter notebooks for experimentation, analysis, and rapid prototyping
+● Conduct experiments, analyze failure modes, and improve models systematically
+● Read and implement ideas from recent research papers when needed
+● Collaborate with product and systems teams to move from prototype to usable systems
+Required Qualifications
+● Fresher/ 2–3 years of industry experience working in one or more of:Computer Vision
+(image / video)
+● NLP / Language Models
+● Multimodal or agentic AI systems
+● Strong experience building models from scratch, not just using pre-trained APIs
+● Deep hands-on expertise in:
+○ Python
+○ PyTorch
+○ Jupyter notebooks
+● Solid understanding of:Neural network architectures
+● Training dynamics, optimization, and eval\ation
+● Practical experience with LLMs beyond basic usage
+● Strong problem-solving ability and comfort with ambiguity
+● Undergraduate/ Post Graduate from B.Tech/M.Tech/PhD Research in Computer Science
+(or closely related field) from a top-tier institution
+
+
+Good to Have
+● Experience with video understanding or temporal models
+● Sufficient background to read, comprehend, and apply ideas from latest research papers in
+the AI/ML domain
+● Familiarity with research workflows and ablation-driven experimentation
+● Prior work on productionizing research prototypes
+● Comfort working in fast-moving, research-heavy environments
+
+
+
+
+What We Value
+● First-principles thinking over library-driven development
+● Depth of understanding over surface-level familiarity
+● Engineers who can reason about models, not just run them
+● Curiosity, rigor, and ownership of complex problems
+Benefits: Our benefits are designed to support not just your role, but your life beyond it. From
+comprehensive insurance coverage and inclusive leave policies to wellness programs that focus
+on mental, physical, and financial well-being, Employees also enjoy on-site meals at the office,
+creating a more comfortable and energising workday. We aim to create an environment that
+enables you to thrive.
+Amagi Culture: At Amagi, our culture is defined by the "Amagi Way"—a high-performance
+environment where Goodness Wins and collective success takes precedence over individual
+ego. We are a team of independent thinkers who think Macro, Do The Micro, combining vision
+with a relentless obsession for the technical details that power the new video economy. We
+believe that a lean group of elite talent achieves more than massive, fragmented teams, and we
+foster this by encouraging everyone to Be Vulnerable, Be You—bringing your authentic self to
+a space built on trust and transparency. We move fast, act pragmatically, and Have Fun with
+Challenges, ensuring that every innovative solution we dream up is built, delivered, and
+impactful. Joining Amagi means embracing the freedom to innovate while being part of a global
+mission rooted in integrity and transformative purpose.
+
+================================================================================

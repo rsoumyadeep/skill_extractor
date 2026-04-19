@@ -1,0 +1,176 @@
+================================================================================
+JOB: Maven Magnet - Data Scientist
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/53c098a7-9eee-46d2-9c96-c96e56ee5c3e
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Maven Magnet
+Job Domain
+Data Science and Analytics
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Mumbai, Maharashtra
+Industry
+Consulting Services
+Industry Sector
+Private
+Website URL
+https://www.mavenmagnet.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+7,20,000
+First Year Annual Overall CTC
+8,00,000
+First Year Monthly Salary
+66,667
+First Year Overall CTC - Detailed Breakup
+Basic Salary: 390,533
+House Rent Allowance: 195,267
+Medical Allowance / Reimbursement: 15,000
+Conveyance Allowance: 19,200
+Telephone Allowance/Reimbursement: 60,000
+Special Allowance: 40,000
+Fixed Annual Bonus*: 80,000
+Total Cost to Company: 800,000
+
+* Fixed annual bonus will be payable at the end of 12 months from the date of commencement of service in the organization. In order to be eligible for Annual Bonus, you need to complete 12 months of service in the organization.
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+-
+Application Deadline
+-
+Time Left
+-
+Application Current State
+PUBLISHED
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Assignment
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+BS (Research)
+M.Engg
+M.Tech
+M.Tech (Research)
+Discipline
+B.Tech in Mathematics and Computing
+BS (Research) in Mathematics
+BS (Research) in Physics
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Interdisciplinary Mathematical Sciences
+M.Tech (Research) Mathematics
+M.Tech (Research) Physics
+M.Tech Axis Bank Centre for Mathematics and Computing
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Interdisciplinary mathematical sciences
+M.Tech Mathematics
+M.Tech Physics
+MS (Research) in Mathematics
+MS (Research) in Physics
+PhD Axis Bank Centre for Mathematics and Computing
+PhD Computational and Data Sciences
+PhD Computer Science and Automation
+PhD Electrical Communication Engineering
+PhD Interdisciplinary mathematical sciences
+PhD Mathematics
+M.Tech Artificial Intelligence
+M.Tech Computer Science & Engineering
+Eligibility
+● BTech / MTech / MSc in Computer Science, Math, Physics, Engineering, Statistics, or other technical fields. Advanced degrees preferred.
+Skills
+● Experience in fine-tuning and training LLM.
+● Experience of training models for Topic Modeling, Multi-labeling data science solutions.
+● Experience in relevant programming languages (e.g. Python)
+● Experience within the Python Data Science ecosystem - NumPy, SciPy, Jupyter, etc.
+Bond Details
+None
+
+---
+
+JD ATTACHMENTS
+Data Scientist JD
+
+---
+
+JOB OFFER LETTER SAMPLE COPY
+Data Scientist Sample Offer Letter
+
+---
+
+DETAILED JOB DESCRIPTION
+Job Title: Data Scientist
+Location: Mumbai
+Type: On-site (Full Time)
+We are looking for a creative Data Scientist to join our team! An extremely important role for our success.
+As a member of the development team, your responsibilities will include transfer learning and training LLMs. Ideal candidates will have a strong data science background and can help us build/fine-tune LLMs.
+You'll have the opportunity to work with large-scale data sets and turn your insights into real products. You'll be an integral part in how we understand user behavior, identify and recommend product opportunities, which are all critical to how we can scale our ever-growing user base.
+
+
+Responsibilities:
+● Fine-tune LLM for Q&A, NLP, multi-labeling, image detection, emotion detection, etc.
+● Modifies and analyzes complex data sets using analytics techniques such as machine learning, statistical analysis, Natural Language Processing, Identifies modeling attributes and parameters. Applies algorithms to create descriptive, predictive or prescriptive models to achieve analysis and project deliverables.
+● Investigates data characteristics, complexity, quality, and meaning. Through visualizations and summarizations, defines performance, identifies trends, outliers, and drivers.
+● Prepares data for analysis, e.g. cleansing, conditioning, transforming, handling missing fields, identifying new feature variables and handling multi-variate data.
+
+
+Required Skills:
+● Experience in fine-tuning and training LLM.
+● Experience of training models for Topic Modeling, Multi-labeling data science solutions.
+● Experience in relevant programming languages (e.g. Python)
+● Experience within the Python Data Science ecosystem - NumPy, SciPy, Jupyter, etc.
+● BTech / MTech / MSc in Computer Science, Math, Physics, Engineering, Statistics, or other technical fields. Advanced degrees preferred. Provide a link to a Github that showcases your work.
+Bonus Skills:
+● Experience building deep neural networks to production.
+● Experience in Sage Maker, AWS, Google cloud
+● Experience with large volume data processing systems
+● Experience with Agile software development
+● Good knowledge of Database technologies such as SQL, PL/SQL and relational database schema design
+
+
+Why join us?
+● A team that is invested in your career growth and training
+● Competitive salary, based on experience
+● Work alongside world-class talent
+● Flexible vacation / paid time off policy
+● Personal style encouraged
+We celebrate diversity and are committed to creating an inclusive environment for
+all employees.
+
+================================================================================

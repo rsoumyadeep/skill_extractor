@@ -1,0 +1,192 @@
+================================================================================
+JOB: Evam Labs - Research Scientist
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/2b952106-48c1-48c0-a670-77b622a95522
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Evam Labs
+Job Domain
+Management
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bengaluru
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://evamlabs.ai
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+17,50,000 to 22,50,000
+First Year Annual Overall CTC
+35,00,000 to 45,00,000
+First Year Monthly Salary
+2,80,000 to 3,75,000 (income tax will be deducted as per the norm)
+First Year Overall CTC - Detailed Breakup
+Basic : 18,00,000
+HRA : 7,20,000
+Conveyance : 19,200
+Fixed Allowance : 10,17,600
+PF (employee & employer) : 43,200
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+15-Dec-25 13:30:00
+Application Deadline
+19-Dec-25 17:00:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Research Scientist
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+Assignment
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+12
+Maximum Job Experience
+96
+Programme
+B.Tech
+M.Tech
+PhD (Engineering)
+Discipline
+B.Tech in Mathematics and Computing
+BS (Research) in Mathematics
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+PhD Computational and Data Sciences
+PhD Computer Science and Automation
+PhD Electrical Engineering
+Eligibility
+● Bachelor’s degree in Computer Science, Electrical Engineering, Data Science, Artificial Intelligence/Machine Learning, or a related discipline.
+○ 6–8 years of relevant industry experience as a Data Scientist (or in closely related fi elds such as Software Engineering or Data Engineering).
+
+● Master’s degree in a related discipline.
+○ 3–5 years of relevant industry experience.
+
+● Ph.D. in a related discipline.
+○ 1–2 years of relevant industry experience.
+Skills
+● Strong understanding of the Python programming language and core scientific computing libraries such as NumPy, SciPy, and Matplotlib.
+● Proficiency in data processing and manipulation using Pandas/PySpark.
+● Strong mathematical foundations in probability, statistics, linear algebra, and optimization.
+● Solid grasp of classical machine learning algorithms, both in theory and practice, with the ability to implement and tune models using Scikit-learn, XGBoost, LightGBM, CatBoost, or similar Python packages.
+● Practical experience using large language models (LLMs) for data cleaning, enrichment, and embedding generation to support downstream models and analytics workflows.
+● Experience working in modern cloud computing environments such as AWS or Microsoft Azure for data storage, processing, and deployment.
+● End-to-end ownership of the problem you are working on.
+Bond Details
+No bond
+
+---
+
+JD ATTACHMENTS
+
+---
+
+DETAILED JOB DESCRIPTION
+About Us:
+
+The best way to predict the future is to invent it. And the best way to invent the future is to get the best minds to work on an idea whose time has come.
+
+Evam Labs (www.evamlabs.ai) is a Singapore headquartered holding company with offi ces in Bangalore and San Jose, building the next generation of high impact AI powered Enterprise Solutions. From Asia, for the World.
+
+The first two companies being built by Evam Labs are:
+● Propheus (www.propheus.com) is on a mission to build the most comprehensive knowledge representation of every place on the Planet. The company’s solutions are powering various use cases across industries such as Retail, CPG, Real Estate and Government.
+● Poiro (www.poiro.com) is building the next generation of AI Agents for Marketers to bring Brands closer to their customers.
+
+Role Overview - Research Scientist
+
+Propheus is seeking a Research Scientist to join us and make critical contributions to our research and development efforts. You will work closely with our team to build and deploy cutting-edge AI/ML models and systems that form the backbone of our product and solutions.
+
+This is a full-time onsite role at our office located in Bengaluru.
+
+Responsibilities
+
+● Research, build and advance core foundational capabilities for Propheus, including the Digital Atlas and real-world models that form the company’s core IP and power multiple applications.
+● Understand business and research goals in various sectors such as Retail, CPG, Real Estate, O2O and Telco and contribute to building data science applications such as demand forecasting, inventory optimization, product recommendations, and promotion planning
+● Build and maintain data pipelines and workflows for data ingestion, cleaning, feature engineering, model training, evaluation, and deployment.
+Work with large, messy datasets (sales, customers, products, promotions, etc.) to extract useful insights and identify patterns that improve model performance and business outcomes.
+● Research and test different models, algorithms, and architectures to quickly prototype and validate new ideas.
+● Evaluate and implement open-source tools and technologies that support data processing, modeling, and deployment, and suggest improvements where needed.
+● Document research findings, model experiments, data workfl ows, and implementation details clearly and consistently.
+● Lead and guide a team (6-8) of junior data science associates, senior data scientists, reviewing their work, providing technical direction, and ensuring project quality and timely delivery.
+● Publish research in top machine learning conferences, open-source relevant components, and build an active community around the team’s innovations.
+
+What we look for in Candidates
+
+Educational Background and Professional Experience
+
+● Bachelor’s degree in Computer Science, Electrical Engineering, Data Science, Artificial Intelligence/Machine Learning, or a related discipline.
+      ○ 6–8 years of relevant industry experience as a Data Scientist (or in closely related fi elds such as Software Engineering or Data Engineering).
+
+● Master’s degree in a related discipline.
+       ○ 3–5 years of relevant industry experience.
+
+● Ph.D. in a related discipline.
+       ○ 1–2 years of relevant industry experience.
+
+Technical Competencies
+
+● Strong understanding of the Python programming language and core scientific computing libraries such as NumPy, SciPy, and Matplotlib.
+● Proficiency in data processing and manipulation using Pandas/PySpark.
+● Strong mathematical foundations in probability, statistics, linear algebra, and optimization.
+● Solid grasp of classical machine learning algorithms, both in theory and practice, with the ability to implement and tune models using Scikit-learn, XGBoost, LightGBM, CatBoost, or similar Python packages.
+● Practical experience using large language models (LLMs) for data cleaning, enrichment, and embedding generation to support downstream models and analytics workflows.
+● Experience working in modern cloud computing environments such as AWS or Microsoft Azure for data storage, processing, and deployment.
+● End-to-end ownership of the problem you are working on.
+
+---
+
+ADDITIONAL DETAILS
+Nice to Haves
+
+● Familiarity with big data processing technologies, especially Apache Spark; experience with PySpark is highly desirable.
+● Experience working with geospatial data is highly desirable. Specifically, experience with Apache Sedona would be a plus.
+● Exposure to deep learning frameworks such as PyTorch or TensorFlow.
+● Basic understanding of linear programming for supply chain and optimization problems; experience using PuLP in Python and solvers such as Gurobi or CPLEX is a plus.
+● Experience using FastAPI (or similar frameworks) to develop and deploy backend services that support data science applications.
+● Prior experience mentoring or guiding junior team members.
+● Experience solving data science problems in the Retail or Consumer Packaged Goods (CPG) sectors.
+● A Master’s degree in a relevant fi eld such as Operations Research, Computer Science, Electrical Engineering, Statistics, or Data Science will be considered a strong plus.
+● Relevant research experience and publications in leading venues such as NeurIPS, ICML, KDD (Knowledge Discovery and Data Mining), ICLR, AISTATS, or other retail and applied data science conferences will be viewed favorably.
+
+Why Join Us?
+
+● Opportunity to work on data science problems at billion-dollar enterprises, leveraging massive first-party datasets.
+● Be in an early stage company - grow with the company and shape our trajectory, in turn creating inorganic growth opportunities for yourself.
+● Be in the right fi eld at the right time - opportunity to grow and advance your career in the burgeoning field of AI.
+● Be part of a fast-paced, ambitious research organization that is pushing the boundaries of AI across industries.
+● Competitive salary and benefits.
+
+================================================================================

@@ -1,0 +1,119 @@
+================================================================================
+JOB: Avkalan Labs - EM Simulation Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/49727ed8-b985-4c82-8b69-29f3ce97c1e7
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Avkalan Labs
+Job Domain
+Simulation
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Raipur, Chhattisgarh
+Industry
+Engineering and Technology
+Industry Sector
+Private
+Website URL
+https://www.avkalanlabs.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+10-12 Lakhs
+First Year Annual Overall CTC
+16-24 Lakhs
+First Year Monthly Salary
+70k -90K
+First Year Overall CTC - Detailed Breakup
+1 Lakh per month
+10-12 lakhs esop per annum (subjected to conditions)
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+13-Dec-25 19:30:42
+Application Deadline
+15-Dec-25 10:00:32
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-EM Simulation Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+HR Interview
+Technical Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+PhD (Engineering)
+PhD (Science)
+PhD (Integrated)
+Discipline
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech Physics
+PhD Computational and Data Sciences
+PhD Computer Science and Automation
+Eligibility
+MTech and PHD students
+Skills
+As mentioned in the JD
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+Required Skills:
+Strong understanding of electromagnetic theory and material interaction
+Experience with EM simulation tools such as COMSOL, CST, HFSS, or FEniCs
+Familiarity with optimization methods and data-driven modeling using Python or MATLAB
+Computational electromagnetics, wave-material interaction, and multiphysics coupling.
+3rd or 4th year B.Tech / M.Tech student. Electrical Engineering, Electronics & Communication, Engineering Physics, or Mechanical Engineering.
+
+
+Key Responsibilities
+Design and execute electromagnetic simulation studies for metamaterial structures used in stealth applications, including reflection, absorption, and transmission analysis.
+Conduct parametric and optimization studies for metamaterial unit cells and surfaces to achieve broadband radar cross-section (RCS) reduction and
+tunable EM properties.
+Develop digital twin frameworks of metamaterial based stealth systems and RADARs to enable simulation-hardware correlation, and generate
+
+
+What’s Unique About This Role?
+Work directly with the founders – Learn what it takes to build a deep-tech startup.
+Hands-on with real engineering problems – No repetitive tasks, just meaningful contributions.
+Startup culture exposure – Understand product market fit, customer discovery, and rapid prototyping.
+Freedom to innovate – Your ideas matter; you won’t be just another team member.
+synthetic datasets for machine learning-driven material optimization and inverse design.
+
+================================================================================

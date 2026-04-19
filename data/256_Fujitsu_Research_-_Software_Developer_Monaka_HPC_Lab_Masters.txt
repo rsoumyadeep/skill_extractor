@@ -1,0 +1,161 @@
+================================================================================
+JOB: Fujitsu Research - Software Developer_Monaka HPC Lab (Master's)
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/364c60eb-a86e-4327-872f-6fe33f275f03
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Fujitsu Research
+Job Domain
+Product
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Engineering and Technology
+Industry Sector
+Private
+Website URL
+https://www.fujitsu.com/global/about/research/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+24,00,000
+First Year Annual Overall CTC
+27,00,000
+First Year Monthly Salary
+21,58,017
+First Year Overall CTC - Detailed Breakup
+Total Cost to Company (CTC) 2700000
+24Lacs fixed + 2 Lacs of joining bonus + 1 Lacs relocation.
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+05-Nov-25 17:20:10
+Application Deadline
+07-Nov-25 08:00:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Software Developer_Monaka HPC Lab (Master's)
+Shortlist Published At
+Stage 2(Online Test-Software Developer_Monaka HPC Lab (Master's)) - 28 Dec 2025 19:30:46Stage 3(Resume Shortlisting-Software Developer_Monaka HPC Lab (Master's)) - 28 Dec 2025 19:34:20
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Engg
+M.Tech
+M.Tech (Research)
+MS (Research)
+Discipline
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Interdisciplinary Mathematical Sciences
+M.Tech (Research) Mathematics
+M.Tech (Research) Robert Bosch Centre for Cyber Physical Systems
+M.Tech (Research) Supercomputer Education and Research Centre
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Electrical Engineering
+MS (Research) in Mathematics
+Eligibility
+• Master’s or Ph.D. in Computer Science, Computational Science, Mathematics & Computing or relevant field.
+• Knowledge and familiarity with common stacks for software applications
+• Knowledge of HPC, AI frameworks, or systems programming
+• Understanding of OSS AI Frameworks and performance optimization techniques
+• Proficiency with fundamental back-end server-side languages such as Python, C++, C
+A student can apply for only one role. Applications for multiple roles will be automatically rejected.
+Candidates with active backlogs are not eligible.
+Skills
+• Knowledge and familiarity with common stacks for software applications
+• Knowledge of HPC, AI frameworks, or systems programming
+• Understanding of OSS AI Frameworks and performance optimization techniques
+• Proficiency with fundamental back-end server-s
+Bond Details
+2Lacs joining bonus has 12 months of lock-in period and 6 months probation period.
+
+---
+
+JD ATTACHMENTS
+JD_Monaka_Software Engineer_Masters
+
+---
+
+DETAILED JOB DESCRIPTION
+Job Description for Software Developer
+Job Title: Software Developer
+Role Purpose
+A result-oriented Software Developer to develop solutions powered by Fujitsu’s new processor, which help solve real-world challenges facing society and businesses across different industries. As a software developer, you are passionate about developing solutions and should be comfortable with back-end coding languages, technologies, frameworks and third-party/opensource libraries. You will play a role in developing innovative advanced solutions and services to support business outcomes.
+Responsibilities
+• Improve and analyze the performance of software applications.
+• Enable and optimize OSS/ISV AI-based applications for Fujitsu’s new processor.
+• Develop new algorithms for ML/DL frameworks, tuning technologies and work on software based on the proposed approaches using AI framework engineering.
+• Designing and developing AI workflows, applications, effective APIs and the system architectures
+• Optimize and scale AI/ML frameworks on HPC architectures (e.g., PyTorch, TensorFlow, JAX)
+• Develop performance tuning strategies using vectorization, threading (OpenMP, TBB), or SIMD/SVE.
+• Benchmark performance and memory usage across AI workloads and Contribute to the development of inference pipelines for large-scale models (LLMs, GNNs, etc.).
+• Improve and analyze performance of Generative AI & LLM Models for inferencing and fine tuning.
+• Provide feedback and patches to OSS communities (PyTorch, TensorFlow, ONNX, etc.)
+• Design Confidential AI Software SDKs for secure platforms on trusted execution environment using Arm Confidential Computing Architecture (CCA)
+• Develop and validate Scientific ML models (e.g., PINNs, DeepONets, AI Surrogate models) to approximate solutions for physical systems (PDEs, Multiphysics, etc.)
+• Troubleshooting, debugging, and fixing bugs and upgrading software/applications.
+• Writing technical documentation
+Key Performance Indicators
+• Number of software applications enabled and optimized for Fujitsu’s new processor.
+• Number of software applications with improved performance
+• Development of new software technologies
+Experience
+You will be able to demonstrate that you have:
+• Master’s or Ph.D. in Computer Science, Computational Science, Mathematics & Computing or relevant field.
+• Knowledge and familiarity with common stacks for software applications
+• Knowledge of HPC, AI frameworks, or systems programming
+• Understanding of OSS AI Frameworks and performance optimization techniques
+• Proficiency with fundamental back-end server-side languages such as Python, C++, C
+• Preferred experience in AI framework or accelerators, performance tuning & optimization techniques
+• Experience in software development in agile approach
+• Excellent writing, verbal communication, and teamwork skills
+Preferred Experience
+You will be able to demonstrate that you have:
+• Knowledge in developing and deploying APIs.
+• Knowledge of Cloud service (Azure/AWS) features such as Functions, VM, Container, DevOps (CI/CD)
+• Great skills in evaluating performance and security of software applications and delivering solutions which are efficient and performant.
+• HPC and computer architecture understanding.
+• Skills in AI-related technologies
+• Contributions to OSS AI or HPC projects.
+• Familiarity with CPU architecture internals and AI model deployment.
+• Understanding of numerical computing, linear algebra libraries, and HPC AI optimization.
+
+================================================================================

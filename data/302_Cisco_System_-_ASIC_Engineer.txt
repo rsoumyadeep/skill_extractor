@@ -1,0 +1,146 @@
+================================================================================
+JOB #302: Cisco System - ASIC Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/fafcc75c-5a1c-4017-95a4-5c617c4162c4
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Cisco System
+Job Domain
+Hardware
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Engineering and Technology
+Industry Sector
+Private
+Website URL
+https://www.cisco.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+21,00,000
+First Year Annual Overall CTC
+33,36,400
+First Year Monthly Salary
+As per Tax slabs
+First Year Overall CTC - Detailed Breakup
+Fixed Salary - 21,00,000.
+
+Total CTC - INR 33,94,900 + RSU - $20000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Oct-25 16:00:00
+Application Deadline
+28-Oct-25 06:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-ASIC Engineer
+Shortlist Published At
+Stage 2(Online Test-ASIC Engineer) - 24 Dec 2025 15:25:04Stage 3(Technical Interview-ASIC Engineer) - 24 Dec 2025 15:31:32
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+Discipline
+M.Engg in Semiconductor Technology
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech in Instrumentation Systems
+M.Tech Electronics & Communication Engineering
+M.Tech Semiconductor Technology
+M.Tech Microelectronics & VLSI Design
+M.Tech Electronic Product Design
+M.Tech Electronics Systems Engineering
+Eligibility
+No Arrears at the time of registration.
+
+The below department students can apply.
+M. Engg in Semiconductor Technology
+M.Tech in Electrical Engineering
+M.Tech in Electronics System Engineering
+M.Tech in Micro electronics and VLSI Design
+M.Tech in Semiconductor Technology
+M.Tech in Instrumentation System
+M.Tech in Electronic Product Design
+M.Tech in Electronics Communication engineering
+Skills
+As shared in JD
+Bond Details
+No Bond applicable
+
+---
+
+JD ATTACHMENTS
+
+---
+
+DETAILED JOB DESCRIPTION
+Job description: ASIC Engineer
+
+What You’ll Do
+Come join the Cisco Silicon One team and participate in the design and verification of leading-edge multimillion gate ASICs. Cisco Silicon One is an industry leading Networking Silicon used in all the core Cisco products. These silicon chips are used to build high density, high speed multi-protocol switches and routers. The ASICs have the network and fabric interfaces and have a rich feature set that includes multiple high bandwidth ports, low-latency, hybrid buffers, queuing, scheduling, congestion management and industry leading NPL based NPU.
+
+
+Innovative ASIC Engineering positions available in:
+• ASIC Design and Verification
+• ASIC Physical Design
+• ASIC DFT Engineer
+
+
+Who You Are?
+
+• The requirement is for 2026 graduates only.
+• Ability to manage multiple tasks and work toward long-term goals.
+• Solid understanding of engineering fundamentals and technical problem-solving skills.
+• Experience in establishing and sustaining strong relationships with the extended team.
+• Excellent communication skills (verbal and written).
+• Knowledge in Hardware design, the test/verification environment is designed using an object-oriented framework designed in using UVM so you will use knowledge from your programming courses that include advance data structures, algorithms, and design patterns as well as languages such as System Verilog HDL / C / C++ / Python.
+• The employee will aid in the architecture of the test environments which include developing constrained random stimulus generators, automated response checkers, and advanced configuration and programming API components using UVM.
+• Some of these components are reused across the entire phase of the project from module, chip, and system level verification on Linux based Verilog simulators.
+• Problem solving skills and out-of-the-box thinking to create area and power efficient hardware designs as well as reusable UVM classes for the verification and simulation environments.
+• Physical Implementation of blocks, clock trees, Static Timing Analysis, DFT, Logic Equivalence Checks are part of the Physical Design specialist profile.
+• Writing thorough and detailed specifications and test plans as well as oral descriptions will enable your ideas and concepts to be reviewed and accepted by other team members.
+• Team-player, can-do attitude will work well in a group environment while still being able to contribute on an individual basis and you will find that you'll have lots of fun and thrive in this environment if you enjoy being challenged, learning new ideas, and push yourself to achieve aggressive technology goals.
+
+Why Cisco
+#WeAreCisco, where each person is unique, but we bring our talents to work as a team and make a difference powering an inclusive future for all.
+We embrace digital, and help our customers implement change in their digital businesses. Some may think we’re “old” (39 years strong) and only about hardware, but we’re also a software company. And a security company. We even invented an intuitive network that adapts, predicts, learns, and protects. No other company can do what we do – you can’t put us in a box!
+But “Digital Transformation” is an empty buzz phrase without a culture that allows for innovation, creativity, and yes, even failure (if you learn from it.)
+Day to day, we focus on the give and take. We give our best, give our egos a break, and give of ourselves (because giving back is built into our DNA.) We take accountability, bold steps, and take difference to heart. Because without diversity of thought and a dedication to equality for all, there is no moving forward.
+
+================================================================================

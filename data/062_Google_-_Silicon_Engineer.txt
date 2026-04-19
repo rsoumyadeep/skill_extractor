@@ -1,0 +1,143 @@
+================================================================================
+JOB: Google - Silicon Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/ada4ebd1-f8d5-434e-af68-d51df7bae754
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Google
+Job Domain
+Technology
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Hyderabad, Bengaluru, Gurgaon
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://google.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+25,20,000
+First Year Annual Overall CTC
+28,45,000
+First Year Monthly Salary
+Refer Comp Doc
+First Year Overall CTC - Detailed Breakup
+Refer Comp Doc
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+09-Feb-26 17:35:49
+Application Deadline
+12-Feb-26 11:00:59
+Time Left
+Closed
+Application Current State
+Online Test-Silicon Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Online Test
+Resume Shortlisting
+Technical Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Engg
+M.Tech
+M.Tech (Research)
+Discipline
+M.Engg in Semiconductor Technology
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech in Instrumentation Systems
+M.Tech Signal Processing
+M.Tech Semiconductor Technology
+M.Tech Microelectronics & VLSI Design
+M.Tech Communication Networks
+M.Tech Electronics Systems Engineering
+Eligibility
+1) 2026 Grads
+2) B.Tech/M.Tech/Dual Degree - in Electrical or Electronic Branch
+Skills
+Refer JD
+Bond Details
+N/A
+
+---
+
+JD ATTACHMENTS
+Silicon Engineer FTE
+
+---
+
+JOB OFFER LETTER SAMPLE COPY
+Comp Doc
+
+---
+
+DETAILED JOB DESCRIPTION
+As a Silicon Engineer, you will design, develop, and deploy consumer hardware. Google's Consumer Hardware Silicon division builds chips optimized for Google-branded consumer devices. Our product areas include imaging, machine learning, video, and security. We aim to build a team with talent that resonates with Google's culture of innovation and fun. As a member of a fast-paced multi-disciplinary team, you will use your creativity and diverse range of engineering experience to explore solutions to a variety of engineering problems. Additionally, you will participate in the design, analysis, and prototyping of new concepts. You will also work in a manufacturing and product oriented development environment and collaborate with vendors and outside sources in order to see parts through to manufacture.
+
+
+Job Responsibilities
+● Work with the SoC teams to develop power and performance optimized chips.
+● Contribute to the design, verification, and silicon implementation of ASICs and SoCs.
+● Work on design concepts around CPUs, image processing, machine learning, computer vision, security, and video.
+● Collaborate with teams in automating the SoC design flows.
+
+
+Minimum Qualifications
+● Bachelor's, Master's, or Dual Degree in Electrical, Electronics and Communication Engineering, or relevant technical fields
+● Experience with basic design concepts and computer hardware architecture
+
+
+Preferred Qualifications
+● Experience in one or more of the following areas: SoC/ASIC Design, Design Verification, Physical Design, Design for Testability
+● Internship work, work experience, or personal project experience outside the classroom in Hardware, Electrical Engineering or Mechanical Engineering
+● Experience with Verilog/HDL or System Verilog coding
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Accessibility is something we care deeply about at Google. We’re committed to building products and services that can be truly helpful, improve people’s lives, enable more independence and empower our users. Our goal is to create a culture that allows people with disabilities to be seen, connected, supported and empowered to be at Google. If you need a reasonable accommodation during the process, please let us know by choosing the option below. Examples of reasonable accommodations include but are not limited to: Having a sign language interpreter, Documents in alternate formats, Extending the Interview Time, Live Captioning, etc. If shortlisted, the accommodations team will then connect with you to discuss further. Create as a radio button/checkboxes [Yes/No] (Text)
+
+Q2. Experience in one or more of the following areas: SoC/ASIC Design, Design Verification, Physical Design, Design for Testability (Text)
+
+Q3. Internship work, work experience, or personal project experience outside the classroom in Hardware, Electrical Engineering or Mechanical Engineering (Text)
+
+Q4. Experience with Verilog/HDL or System Verilog coding (Text)
+
+================================================================================

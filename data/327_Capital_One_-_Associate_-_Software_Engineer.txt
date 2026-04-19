@@ -1,0 +1,117 @@
+================================================================================
+JOB: Capital One - Associate - Software Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/cae3244a-7e00-415e-8e11-ba9b7eee9e3b
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Capital One
+Job Domain
+IT
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Financial Services
+Industry Sector
+Private
+Website URL
+https://www.capitalone.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+26,00,000
+First Year Annual Overall CTC
+36,50,000
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+1st year Annual Base CTC: INR 26,00,000
+1st year Annual Overall CTC: INR 36,50,000
+1st year Annual Overall CTC detailed break up
+Total: 36.5 LPA
+Fixed - 26L;
+Variable - 3.5-7L;
+Sign-On Bonus - 1L;
+Anniversary Bonus - 1L;
+Relocation - 1.5L
+1st year approx. Monthly salary: NA
+2nd Year approx. Annual Base CTC: NA
+2nd Year approx. Annual Overall CTC: NA
+2nd Year approx. Annual Overall CTC detailed break up
+NA
+2nd year approx. Monthly salary: NA
+Second Year Approx. Annual Base CTC
+NA
+Second Year Approx. Annual Overall CTC
+NA
+Second Year Approx. Monthly Salary
+NA
+Second Year Approx. Overall CTC - Detailed Breakup
+NA
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Oct-25 15:44:49
+Application Deadline
+28-Oct-25 06:00:00
+Time Left
+Closed
+Application Current State
+Pen & Paper Test-Associate - Software Engineer
+Shortlist Published At
+Stage 2(Pen & Paper Test-Associate - Software Engineer ) - 30 Dec 2025 11:17:58
+
+---
+
+APPLICATION STAGES
+Online Test
+Pen & Paper Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+Discipline
+M.Tech Computational and Data Sciences
+M.Tech Artificial Intelligence
+M.Tech Electronics & Communication Engineering
+M.Tech Computer Science & Engineering
+Eligibility
+7 & above;
+70% & above in Class 10; 70% & above in Class 12;
+Skills
+? Knowledge of anyone programming language and willingness to learn other programming languages ? Degree in Engineering, preferably Computer Science ? Optional- Knowledge in frameworks like Spring boot, Relational/NoSQL DB, Message queues ? Excellent pro
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+Job Description
+Software Engineer
+At Capital One, we think big and do bigger things. We were the first company to develop and offer mass customization and personalization of credit card, auto loans and other financial services products, and we have been innovating relentlessly ever since.
+Today, we are a progressive financial services powerhouse spanning Credit Cards, Auto Loans, Savings, and Commercial Banking and at the same time a high-tech company, a scientific laboratory, and a well-recognized brand all in one. We are a passionate and entrepreneurial team with heart – a team that embraces bold ideas, fosters collaboration, and delivers world-class products and services impacting over 65 million customer accounts.
+Still founder-led by Chairman and CEO Richard Fairbank, we dare to dream, disrupt and deliver a better way for our customers, the financial industry and for each other. Our goal is simple – bring ingenuity, simplicity and humanity to an industry ripe for change.
+Capital One is the 6th largest US bank in consumer deposits, among the country’s top 5 Auto Lenders and a Fortune 500 company. Visit our website to learn more about who we are and what we do!
+At DataLabs, Capital One India, we solve fundamental business problems at scale using advanced analytics, data science and machine learning. We specialize in deriving valuable insights about various aspects of the business - including product and process design, consumer behavior, regulatory and credit risk, and much more - from large volumes of data to build cutting edge patentable products at an industrial scale.
+At DataLabs, you will work in a fast paced and intellectually rigorous environment. You will apply strategic and analytical skills to major business challenges. You will have the opportunity to learn and build deep expertise in the core areas of advanced analytics, industrial-scale product design and development, data science and machine learning. And you will do it all in a collaborative environment that values problem solving, encourages creativity, promotes learning, and rewards innovation.
+DataLabs prides itself on its exceptionally vibrant culture. Our Associate Development program enables us to shape amazing career and professional development opportunities for our associates. Our best-in-class Corporate Social Responsibility program has nurtured longstanding partnerships with committed organizations that make a meaningful difference to the communities around us. The enthusiastic volunteerism of our associates is the backbone of all that we do - it enables us to push the envelope of possibilities and have incredible fun along the way. We bend backwards to take care of one another through thick and thin. Our work and the people we are surrounded by are an enduring source of strength and fulfillment in our lives.
+
+================================================================================

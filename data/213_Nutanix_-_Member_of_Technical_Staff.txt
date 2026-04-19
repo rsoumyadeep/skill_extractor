@@ -1,0 +1,141 @@
+================================================================================
+JOB: Nutanix - Member of Technical Staff
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/8e6f952d-5f5a-427e-8834-a4c70b216f62
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Nutanix
+Job Domain
+Sofetware Developer
+Job Type
+Full Time Placement
+Job Mode
+Hybrid
+Locations
+Bangalore/Pune
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://www.nutanix.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+INR 2,600,000 PA or INR 2,850,000 PA
+First Year Annual Overall CTC
+INR 55 LPA or 59.5 LPA
+First Year Monthly Salary
+Approx. INR 216,666 per month or INR 237,500 per month
+First Year Overall CTC - Detailed Breakup
+Base: INR 2,600,000 PA or INR 2,850,000 PA
+Joining Bonus: INR 250,000 (One time payment)
+Stocks: 28,000 USD Stock Value (Vested over 4 years)
+Plus Other Benefits
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+13-Nov-25 20:24:46
+Application Deadline
+16-Nov-25 23:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Member of Technical Staff
+Shortlist Published At
+Stage 2(Online Test-Member of Technical Staff ) - 26 Dec 2025 12:52:21Stage 3(Technical Interview-Member of Technical Staff ) - 26 Dec 2025 12:53:46
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+Discipline
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Artificial Intelligence
+Eligibility
+CGPA: 8 and above
+No active backlogs
+Skills
+As mentioned in JD
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+About us
+
+
+Founded in 2009 and headquartered in San Jose, California, Nutanix is a passionate team of6000+ employees worldwide. Our people (we call ourselves "Nutants") are the heartbeat of #LifeAtNutanix and one of the many things that makes Nutanix a great place to work at. We share an intellectual curiosity, a bias for action, and an obsession with our customers. We are builders and problem solvers with an entrepreneurial spirit. Above all, we celebrate what makes each of us unique. We are humbled to be named #5 of the top 100 software companies of 2022 by The Software Report and one of the Fortune 100 Best Companies to Work For® 2020. We're growing fast and disrupting the computing industry. Join us and make your mark.
+
+
+About our business - The Story of Nutanix
+
+
+Nutanix is a global leader in cloud software and a pioneer in hyperconverged infrastructure solutions, making computing invisible anywhere. Companies worldwide use Nutanix software to leverage a single platform to manage any app, at any location, at any scale for their private, hybrid, and multi-cloud environments.
+
+
+The Software Engineering Team 
+
+
+Nutanix engineers are creating revolutionary technology: building the software-defined datacenter. We're using our love of programming and outstanding backgrounds to change the way companies virtualize their data centers. At Nutanix, you'll find no shortage of challenging problems to work on. We work closely with our product in a collegiate, collaborative environment that encourages the open exploration of ideas. We are looking for smart people who can learn and contribute to our space of cutting-edge innovation irrespective of background. Come make an impact!
+
+
+http://nutanixbible.com - provides in-depth technical information about the Nutanix platform architecture and a better understanding of why we require interns with a system- centric programming background.
+
+
+
+
+Responsibilities:
+
+
+Design & develop a world-class network hybrid/multi cloud product that is distributed, resilient, and highly performant at a large scale deployment.
+Contribute to all phases of product development through conception, design, implementation, and deployment along with performance engineering.
+Develop robust design, and write code & unit tests to produce high quality, reusable, and extensible software through an API driven approach.
+Collaborate with cross-functional teams including other Developers, Testers, Product
+Management, and Support to meet customer requirements while driving engineering innovation.
+Participate in defining product requirements, review designs and codes of other engineers, review test plans, performance, and scalability plans.
+Take ownership of the product features and work independently with minimal supervision to design & deliver a module-level functionality.
+
+
+Qualifications:
+
+
+M Tech in Computer Science or equivalent
+0 years of software development experience
+Strong command over languages such as C/C++/Java/Golang especially in the areas of advanced memory management and multi-threaded techniques is a huge plus.
+Strong fundamentals in Operating Systems, Distributed Systems / Databases, file systems, Multi-threaded/Multi-Process applications, inter-process communications.
+Familiarity with Linux Kernel Internals & Open Source will be an added advantage.
+Strong fundamentals in Object-Oriented Programming, Algorithms, Data Structures, and Problem Solving
+Knowledge on networking/virtualization/cloud is a huge plus
+
+================================================================================

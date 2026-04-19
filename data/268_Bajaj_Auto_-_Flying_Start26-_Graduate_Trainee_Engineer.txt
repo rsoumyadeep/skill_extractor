@@ -1,0 +1,129 @@
+================================================================================
+JOB: Bajaj Auto - Flying Start'26- Graduate Trainee Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/1e981dce-3a19-4e47-b674-7886bd177f83
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Bajaj Auto
+Job Domain
+Bajaj Auto Technology Ltd. - R&D
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Pune, Bangalore
+Industry
+Engineering and Technology
+Industry Sector
+Private
+Website URL
+https://www.bajajauto.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+15,50,000
+First Year Annual Overall CTC
+21,74,000
+First Year Monthly Salary
+1,08,350
+First Year Overall CTC - Detailed Breakup
+*CTC subject to upward revision-
+
+Salary Components GTE (in LPA)
+Fixed Gross- 13.17
+Performance Reward- 2.33
+Insurance- 0.24
+CTC- 15.74
+Deferred Bonus- 6 lacs at 4 years from DOJ
+Total Remuneration- 21.74
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+04-Nov-25 11:25:05
+Application Deadline
+06-Nov-25 17:00:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Flying Start'26- Graduate Trainee Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+Discipline
+All
+Eligibility
+1. Minimum of 70% in 10th,12th and Undergraduate.
+2. Diploma candidates are ineligible.
+3. Candidates with Gap of more than 1 year between 12th and UG are ineligible.
+4. Also, candidates with gap of more than 1 year between UG & PG (work-ex duration not to be counted for gap year calculation) are ineligible.
+Skills
+Technical & Analytical Skills:
+• Electrical, Electronics, and CS/ IT candidates with solid fundamentals in electrical systems, power electronics, control systems, embedded systems, or EV technologies.
+• Familiarity with MATLAB/Simulink, Python/C/C++, PCB design, motor modeling, or EV system simulations is a plus.
+Other Attributes:
+• Adaptable and eager to learn across multiple EV domains.
+• Enthusiastic about driving innovation and shaping the future of electric mobility.
+• Excellent analytical, problem-solving, and critical thinking abilities.
+Bond Details
+0
+
+---
+
+DETAILED JOB DESCRIPTION
+About BATL R&D
+Bajaj Auto Technology Limited (BATL) is a pioneer in electric mobility innovation. BATL’s EV R&D focus spans traction motors, battery technology, power electronics, intelligent systems, and embedded software, ensuring our electric vehicle platforms set benchmarks for performance, reliability, and sustainability. We push the boundaries of innovation, empowering you to think beyond the status quo alongside highly talented teams across motor design, EV electronics, BMS, embedded software, and intelligent systems.
+As a Graduate Trainee Engineer – BATL R&D, you will join BATL’s elite EV teams, gaining hands-on exposure to next-generation electric mobility systems. This role is designed for top-performing graduates from premier engineering institutes passionate about technology, innovation, and building the future of electric vehicles.
+
+
+You will work across specialized EV domains, including:
+➢EV Electronics & Hardware: Charging systems, Battery Management Systems (BMS), High Voltage & Low Voltage DC Systems, MCUs, DC-DC Converters, PCB Design, EMC Testing.
+➢EV Motor & Motor Control: Traction motor design (HV/High Power Density/Hub Motor/ISG/Hybrid), motor control algorithms, and mechanical design of EV transmission systems.
+➢EV Battery & BMS: Battery technology R&D, fuel cell integration, in-house BMS firmware development, and mechanical design for traction batteries.
+➢EV Testing & Validation: Component and vehicle-level testing, HIL & connected systems, control strategy, cloud analytics, and ML applications.
+➢EEE Integration: System-level integration of electrical and electronic components across EV platforms, offering cross-functional exposure to all vehicle systems.
+➢Intelligent Systems: Embedded software, OS & BL development, IoT systems, functional safety, V&V, and advanced algorithm development for EV applications.
+
+
+Key Responsibilities
+➢ Design, prototype, and validate cutting-edge EV hardware and software solutions.
+➢ Collaborate with multi-disciplinary teams to develop motors, batteries, electronics, and control systems for next-generation EVs.
+➢ Apply model-based design, simulation tools, and software development for EV systems.
+➢ Conduct testing, validation, and data analysis to ensure product reliability, efficiency, and safety.
+➢ Contribute to innovative solutions that enhance EV performance, energy efficiency, and user experience.
+➢ Participate in cross-functional projects to gain exposure to full EV system integration.
+
+================================================================================

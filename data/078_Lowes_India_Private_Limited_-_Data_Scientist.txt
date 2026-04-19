@@ -1,0 +1,154 @@
+================================================================================
+JOB: Lowe's India Private Limited - Data Scientist
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/eac6ff62-98e6-44f3-8a8b-85e8e9437fd8
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Lowe's India Private Limited
+Job Domain
+Data Scientist
+Job Type
+Full Time Placement
+Job Mode
+Hybrid
+Locations
+Bangalore
+Industry
+Retail & Wholesale
+Industry Sector
+Private
+Website URL
+https://lowes.co.in
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+Attached
+First Year Annual Overall CTC
+Attached
+First Year Monthly Salary
+Attached
+First Year Overall CTC - Detailed Breakup
+Attached
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+12-Jan-26 16:00:00
+Application Deadline
+23-Jan-26 15:30:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Data Scientist
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+24
+Programme
+M.Tech
+M.Tech (Research)
+Discipline
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Mathematics
+M.Tech (Research) Physics
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Mathematics
+M.Tech Physics
+Eligibility
+• Master's Degree in Mathematics, Statistics, Physics, Economics, Engineering, Computer Science, Data or Information Science, or related quantitative analytic field AND 2 years of experience in analytics AND 1 year of programming experience (Python, Java, Scala, Rust, etc.)
+
+CGPA - 6 & Above
+Skills
+Hands on experience in AI/ML
+Hands on experience in Python to build applications that are scalable
+Statistics
+Strong problem solving skills
+Data munging/wrangling
+Experience with SQL
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Data Scientist | Lowes JD
+
+---
+
+JOB OFFER LETTER SAMPLE COPY
+Data Scientist Sample Offer Letter | Lowe's India
+
+---
+
+DETAILED JOB DESCRIPTION
+The primary purpose of this role is to provide advanced analytical capabilities to support data science initiatives. This
+position gains experience in various areas including, but not limited to: predictive modeling; personalization and
+recommendation algorithms; natural language processing and text mining; search recall, precision, ranking, and related
+problems; optimization and mathematical programming with applications in merchandising like assortment
+optimization, retail space planning, and product description,. A Data Scientist solves complex problems that do not yet
+have solutions in the research. Therefore, the individual in this role must be an expert in his/her field and confident in
+interacting and proposing solutions to the business. This role influences the thought process and methodology for
+other team members.
+
+
+Core Responsibilities:
+• You will build and deploy state of the art predictive models for use cases such as assortment optimization,
+automated item listing validation and retail space optimization.
+• Develop and maintain pipelines for training and deploying machine learning models
+• Develop and maintain forecasting models and tools using frameworks such as TensorFlow
+• Design and deploy scalable API services for distributing model output data
+• Support enterprise forecasting applications
+• Collaborate with Data Scientists and Data Engineers to ensure that specifications are translated into flexible,
+• scalable, and maintainable solutions
+• Stay abreast of state-of-the-art machine learning technologies; follow code standards and best practices
+• Mines and extracts data and applies statistics and algorithms necessary to derive insights for Lowe's
+• Supports the generation of an automated insights generation framework for Lowe's business partners to
+effectively interpret data
+• Provides actionable insights through data science on Merchandising priorities
+• Tracks success of Lowe's through the development of dashboard reports that measure financial results,
+customer satisfaction, and engagement metrics
+• Conducts deep statistical analysis, including predictive and prescriptive modeling in order to provide a
+competitive advantage at Lowe's
+• Maintains expert-level knowledge on industry trends, emerging technologies, and new methodologies and
+applies it to projects as well as using it to guide team members
+• Translates or provides guidance to more junior level scientists to translate requirements into an analytical
+approach; asks the right questions to understand the problem; validates understanding with Stakeholder or
+Manager
+• Builds or provides guidance for building the analytic approach to solving a business problem; helps identify the
+sources, methods, parameters, and procedures to be used; clarifies expectations with stakeholders and plans
+resources accordingly
+• Leverages deep understanding of statistical techniques and tools to analyze data according to the project plan;
+communicates with stakeholders to provide updates and manage scope
+• Maintains knowledge of techniques, technology, industry trends, best practices, and emerging methodologies
+
+================================================================================

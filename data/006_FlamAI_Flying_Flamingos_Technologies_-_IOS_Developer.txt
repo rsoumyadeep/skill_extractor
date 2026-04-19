@@ -1,0 +1,148 @@
+================================================================================
+JOB: FlamAI (Flying Flamingos Technologies) - IOS Developer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/0bf0a901-b6db-4d9e-93fe-58a53fe3510d
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+FlamAI (Flying Flamingos Technologies)
+Job Domain
+Technology
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bangalore
+Industry
+Internet and E-commerce
+Industry Sector
+Private
+Website URL
+https://flamapp.ai/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+12,00,000-15,00,000
+First Year Annual Overall CTC
+12,00,000-15,00,000
+First Year Monthly Salary
+1,00,000
+First Year Overall CTC - Detailed Breakup
+12,00,000 Fixed + 3,00,000 of other components
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+2
+Application Start Time
+18-Mar-26 12:44:32
+Application Deadline
+20-Mar-26 23:59:15
+Time Left
+10h:21m:30s
+Application Current State
+PUBLISHED
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Assignment
+Group Discussion
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+BS (Research)
+M.Tech
+M.Tech (Research)
+Discipline
+B.Tech in Mathematics and Computing
+M.Tech (Research) Chemical Engineering
+Eligibility
+BTech & MTech - graduates
+Skills
+Required Skillset is mentioned in the JD
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+IOS Developer
+Software Engineer(Android)
+
+---
+
+DETAILED JOB DESCRIPTION
+Flam is building AI Infrastructure for Brands in Immersive Advertising spanning across all channels viz. Digital, Broadcast TV, Retail, Communications, Print, OOH etc.
+
+
+Vision: The Immersive & Interactive Layer for Every Screen & Surface
+
+
+Flam aims to redefine how consumers interact with ads, content in every shape and form, retail aisles, live broadcasts and fan moments turning content and interfaces into shoppable, shareable experiences that deliver measurable ROI. Flam has raised a $14 million Series A round led by global technology investor RTP Global with participation from Dovetail and select others bringing the total funding to $22 million.
+
+
+The next phase of growth is to accelerate R&D on its app-less GenAI infrastructure that lets brands create, publish and measure high-fidelity MR, 3D & Digital experiences in <300 ms on any smartphone no app download required. The same infra already powers advertising for Google, Samsung, Emirates and hundreds of global enterprises & agency powerhouses.
+
+
+Key Focus Areas:
+
+
+Product Roadmap: Upcoming releases include GenAI-driven 3D asset generation, Democratising MR deployment at scale, Enterprise Suite of Products across Industries, and Infrastructure for broadcasters and fan engagement.
+Geography: Funds will support new enterprise pods in North America, Europe and the Middle East while deepening Asia operations.
+Partnerships: Flam will expand its partner program for creative studios and global platforms, enabling Fortune 500 brands to move from pilot to rapid global roll-out.
+
+
+Role Overview:
+We are looking for a experienced iOS Engineer to lead the development of our enterprise SDKs. You won't just be building apps; you’ll be building the engine that powers them. You will own the SDK architecture, ensure sub-millisecond performance, and solve complex bridging challenges between our GenAI C++ core and the iOS ecosystem.
+
+
+What You’ll Do:
+
+
+1.Architecture & Design: Own the end-to-end design of scalable, thread-safe, and modular iOS SDKs.
+2.Performance Engineering: Optimize SDK footprint (binary size) and execution speed (memory/CPU) for high-fidelity MR.
+3.Low-Level Integration: Lead the implementation of Objective-C++ wrappers to bridge high-performance C++ libraries.
+4.Distribution Leadership: Manage the automated release pipeline across CocoaPods, SPM, and XCFrameworks.
+5.Stakeholder Collaboration: Partner with the Gen-AI R&D team to translate cutting-edge 3D research into production-ready SDK features.
+
+Required Skills:
+
+
+1.SDK Building: 2/3+ years of experience specifically in SDK/Framework development (not just app development).
+2.Language Polyglot: Deep proficiency in Swift, Objective-C, and Objective-C++ (If don't have experience in Objc/Objc++, should be willing to quickly learn and contribute).
+3.System Frameworks: Good understanding of AVFoundation, Camera APIs, and low-level system internals.
+4.Dev-First Mindset: Proven track record of delivering "developer-first" products with seamless API designs.
+5.Problem Solving: Strong debugging skills using LLDB, Instruments, and memory profilers.
+
+Bonus Skills:
+
+
+1.Graphics: Hands-on experience with Metal or OpenGL for real-time rendering.
+2.Enterprise Experience: Prior experience shipping SDKs on scale.
+3.nfrastructure: Knowledge of CI/CD pipelines (GitHub Actions etc) for automated SDK versioning.
+
+================================================================================

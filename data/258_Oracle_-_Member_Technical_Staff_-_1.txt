@@ -1,0 +1,102 @@
+================================================================================
+JOB: Oracle - Member Technical Staff - 1
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/8eb22411-3e16-449c-a71b-67fb8ad66431
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Oracle
+Job Domain
+IT
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bengaluru, Hyderabad, Pune and Noida
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://oracle.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+18,68,000(B.Tech), 19,18,000(M.Tech)
+First Year Annual Overall CTC
+35,13,196(B.Tech), 35,63,196(M.Tech)
+First Year Monthly Salary
+With PF and Gratuity detection
+First Year Overall CTC - Detailed Breakup
+Stocks with vesting period; (48000 USD)
+40% redemption after 1st Year,
+30% redemption after 2nd Year,
+20% redemption after 3rd Year &
+10% redemption after completion of 4th Year
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+06-Nov-25 12:00:00
+Application Deadline
+07-Nov-25 12:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Member Technical Staff - 1
+Shortlist Published At
+Stage 2(Online Test-Member Technical Staff - 1) - 28 Dec 2025 19:44:05Stage 3(Technical Interview-Member Technical Staff - 1) - 28 Dec 2025 19:48:01
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Technical Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+Discipline
+B.Tech in Mathematics and Computing
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Computer Science & Engineering
+Eligibility
+8CGPA and above and no active backlogs
+Skills
+Coding
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+
+---
+
+DETAILED JOB DESCRIPTION
+Oracle is leading the digital revolution. We are empowering nearly half a million businesses to thrive in the age of skyrocketing connections. Join us and play an instrumental role in masterminding the software that will have a truly global impact. Oracle Server Technologies is the flagship R&D division within Oracle that delivers industry leading software products and platforms like Cloud Infrastructure, Database, Middleware and Enterprise Manager. In India, Server Technologies group engages in development of Cloud Services, Infrastructure products and other Product Life Cycle engineering work in all product areas mentioned above and more. Description What You’ll Do Solve the kind of enthralling, high-scale challenges that engineers live for. You will: Design, Development, Testing and Troubleshooting of Oracle's Platform and Platform Cloud Services including Big Data, Analytics, Business Intelligence, Database Cloud, Mobile Cloud, Collaboration Cloud, Business Process Automation, Integration Cloud and Security Cloud Services. Connect With us: Oracle Careers OracleCareers OracleCareers Oracle Oracle 0pportunity  To contribute to the development of cloud growth stack i.e. IaaS, PaaS and SaaS.  To get mentored by the best of the breed, Subject Matter Experts.  To be a part of world class development teams which are driving core businesses globally in varying sectors such as Banks,  Aerospace, Telecom, Oil and Gas, Healthcare, Defense, Retail, Media and Automobile to name a few.  To experience an overall growth through learning, innovation and application in a fun filled environment.  To continue pursuing your academic interests and higher education Responsibilities Build, Test, Implement, Maintain and Enhance new features in Products and Cloud Service Required Skills/Experience What You’ll Bring Your eternal curiosity and impressive problem-solving ability will help us reimagine the future of technology. A wide range of skills come into play when developing the cloud services and products. Key skills include: Node.js, Kafka, HDFS, Core Java, JVM, J2EE, AJAX, Python, JavaScript, Typescript, Progressive Webapps, responsive user interfaces, Machine Learning & Tensor flow, Adaptive Intelligence, Database modeling, Debuggers, Database applications, Cryptography, Encryption, Security, OAuth, Digital signatures, DB Vault, REST based web-services, Real time data movement, Semantic based data cleansing & ETL tool, Content management, Concurrent programming, Multi-threading, Modularity, Abstraction, Design patterns, Persistence models, Agile development, DevOps, Continuous development, Continuous integration, Continuous release, Jenkins, and GIT. Educational Qualification B.Tech/B.E/M.Tech and Dual or equivalent degree from a reputed institution. Create the future with us. Copyright © 2022, Oracle and/or its affiliates. All rights reserved. Oracle and Java are registered trademarks of Oracle and/or its affiliates. Other names
+
+================================================================================

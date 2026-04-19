@@ -1,0 +1,183 @@
+================================================================================
+JOB: EXL Service - AI Innovation Specialist
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/9870d268-bd06-431a-9d01-1a098424c38b
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+EXL Service
+Job Domain
+AI & innovation
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Noida & Bengaluru
+Industry
+Engineering and Technology
+Industry Sector
+Private
+Website URL
+https://www.exlservice.com/about-exl
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+25,00,000
+First Year Annual Overall CTC
+29,50,000
+First Year Monthly Salary
+00,00,000
+First Year Overall CTC - Detailed Breakup
+mentioned in JD
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+10-Nov-25 17:00:00
+Application Deadline
+11-Nov-25 16:48:00
+Time Left
+Closed
+Application Current State
+HR Interview-AI Innovation Specialist
+Shortlist Published At
+Stage 2(Technical Interview-AI Innovation Specialist ) - 27 Dec 2025 13:37:28Stage 3(HR Interview-AI Innovation Specialist ) - 27 Dec 2025 13:39:25
+
+---
+
+APPLICATION STAGES
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+Discipline
+B.Tech in Mathematics and Computing
+Eligibility
+7+ CGPA
+Skills
+• Proficiency in languages like Python, Java, or C# with experience in writing clean,
+efficient, and well-documented code.
+• Exposure to databases (SQL/NoSQL), cloud platforms (AWS, GCP, Azure), and Big
+Data technologies.
+• Strong programming skills in Python, SQL, or Java/Scala.
+• Knowledge of machine learning algorithms, deep learning, neural networks, NLP,
+and statistical modeling.
+• Understanding of Generative AI concepts, including large language models (LLMs),
+embeddings, and prompt engineering.
+• Understanding of data structures, algorithms, and software engineering practices.
+• Familiarity with CI/CD technologies such as AWS/Microsoft Azure is an advantage.
+• Understanding of AI/ML lifecycle and workflows including data analysis and
+validation.
+• Hands-on experience with automation/RPA tools (UiPath, BluePrism, Automation
+Anywhere, etc.) is preferred.
+• Strong understanding of data management for data (structured, semi-structured,
+and unstructured).
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+
+---
+
+DETAILED JOB DESCRIPTION
+Attached.
+
+---
+
+ADDITIONAL DETAILS
+As a Data Engineer, you are expected to address the following responsibilities:
+• AI Solution Innovation, Prototyping, and POCs
+o Research and experiment with cutting-edge AI techniques to develop novel
+blueprints that address complex business challenges.
+o Rapid Proof-of-Concept models and develop scalable AI solutions that can
+be implemented in production or new technology systems.
+o Participate in translating business problems into technical AI solutions.
+o Document experiments, assumptions, and version histories.
+o Work on end-to-end solution implementation integrating both technical and
+non-technical considerations.
+• Innovation-driven Data Engineering and Data Governance Solutions
+o Explore and implement modern data technologies (e.g., Delta Lake, Iceberg,
+etc.).
+o Propose innovative data infrastructure solutions to improve performance,
+scalability, and flexibility.
+o Participate in planning and development of data models for advanced
+analytics, machine learning, or near real-time decision-making.
+o Collaborate with cross-functional teams to design and implement end-to
+end scalable data pipelines and solutions.
+• Solution Prototyping and POCs
+o Conduct experiments and Proofs of Concept (POCs) to demonstrate AI
+solutions and validate hypotheses.
+o Develop prototypes and simulations to translate findings into tangible
+applications.
+• Data Preparation and Processing
+o Collect, transform, and prepare structured and unstructured data for model
+training and analytics.
+o Support data wrangling tasks using tools like Pandas, NumPy, and basic
+SQL.
+o Work closely with data engineers to understand data pipelines and
+integration points.
+• Ensure Data Quality, Reliability, and Governance
+o Implement monitoring and validation processes to ensure data accuracy
+and freshness.
+o Ensure adherence to data security, privacy, and compliance (e.g., GDPR,
+HIPAA) as needed.
+• Model Development and Support
+o Design and implement AI/ML models to solve complex problems and
+optimize performance.
+o Assist in developing, training, and validating machine learning or deep
+learning models under the guidance of senior engineers.
+o Experiment with open-source models (e.g., scikit-learn, TensorFlow,
+PyTorch) and adapt models for specific client applications (e.g., NLP, CV, or
+predictive analytics).
+• Continuous Learning and Contribution
+o Stay updated with the latest trends in data engineering, cloud computing,
+and AI/ML innovation.
+o Work in cross-functional teams including software developers, domain
+experts, and project managers to define and refine requirements.
+o Contribute to innovation initiatives, hackathons, or R&D projects within the
+firm
+• Application Engineering and Tools
+o Apply programming languages and tools for digital transformation and AI
+solution deployment.
+o Strong hands-on experience with Python, Java, or C# (as per project need).
+o Developing Digital solutions using Hyperautomation skills including UiPath,
+BluePrism, Automation Anywhere, etc., and integration with AI, Analytics,
+Cloud, and Automation platforms.
+o Working knowledge of Microsoft Technologies (Visual Studio/.NET,
+ASP.NET, API Integration).
+o Exposure to Conversational AI, NLP/NLU models, and Omni-channel
+Chatbots.
+Primary Interactions
+• **Internal: ** Collaborate across Data and Digital teams and relevant stakeholders
+based on project requirements.
+• **External (Depending on Client Project assigned): ** Interface with client-side
+business and technology teams to understand requirements and deliver solutions.
+Engage with third-party vendors, including product and service partners, for project
+specific needs
+
+================================================================================

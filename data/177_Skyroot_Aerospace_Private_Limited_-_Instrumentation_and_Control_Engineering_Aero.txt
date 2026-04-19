@@ -1,0 +1,132 @@
+================================================================================
+JOB: Skyroot Aerospace Private Limited - Instrumentation and Control Engineering/ Aerospace Engineering/  Electrical and Electronics Engineering
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/bb0d9001-091b-4dbb-b8f7-6031b3074bb8
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Skyroot Aerospace Private Limited
+Job Domain
+Aerospace
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Hyderabad
+Industry
+Aerospace and Defense
+Industry Sector
+Private
+Website URL
+https://www.skyroot.in/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+NA
+First Year Annual Overall CTC
+NA
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+1400000-1500000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+28-Nov-25 11:05:14
+Application Deadline
+29-Nov-25 11:03:22
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Instrumentation and Control Engineering/ Aerospace Engineering/ Electrical and Electronics Engineering
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Pen & Paper Test
+Assignment
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+PhD (Engineering)
+Post Doc
+PhD (Integrated)
+Discipline
+M.Tech (Research) Aerospace Engineering
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech Aerospace Engineering
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+PhD Aerospace Engineering
+PhD Electrical Communication Engineering
+PhD Electrical Engineering
+PhD Electronic Systems Engineering
+M.Tech Electronics & Communication Engineering
+M.Tech (Research) Electrical & Communication Engineering.
+Eligibility
+No Active backlogs
+Skills
+Strong fundamentals in flight mechanics, control systems, sensor fusion and embedded software development.
+Proficiency in C/C++, MATLAB and Python, and exposure to microcontrollers, FPGAs, or embedded platforms.
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+Aerospace Engineering/ Electrical and Electronics Engineering/ Instrumentation and Control Engineering.
+Role Overview 
+We are seeking highly motivated and technically strong graduates to join our Mission and Guidance, Navigation & Control (GNC) teams. You will work on end-to-end development of Trajectory design, GNC algorithms, flight software and perform various mission studies for launch vehicles. This role provides an exceptional opportunity to apply your flight dynamics, control system design, sensor fusion and electronics expertise to real-world aerospace applications in a fast-paced, innovation-driven environment. Roles and Responsibilities
+Work on the design and development of Launch Vehicle Mission design, GNC algorithms and software, six Degree of Freedom launch vehicle models and mission simulations.
+Support integration and validation of GNC software in the flight computer through simulations and ground tests.
+Perform mission studies to ensure the robustness of the software and safety of the launch vehicle.
+Collaborate across teams (mechanical, propulsion, avionics) to ensure seamless system-level performance.
+Ensure compliance with aerospace quality, safety, and reliability standards.
+Must-Have Qualifications
+B.Tech / B.E. (Final Year or Recent Graduate) in Aerospace Engineering, Electrical and Electronics Engineering or Instrumentation and Control Engineering.
+Strong fundamentals in flight mechanics, control systems, sensor fusion and embedded software development.
+Proficiency in C/C++, MATLAB and Python, and exposure to microcontrollers, FPGAs, or embedded platforms.
+Strong analytical, problem-solving, and debugging skills.
+Excellent teamwork, communication, and a passion for technology and aerospace innovation.
+
+
+Why Join Skyroot Aerospace?
+Work on cutting-edge Mission Design and GNC systems that power India’s private space missions.
+Collaborate with experienced engineers, scientists, and ISRO alumni.
+Opportunity to see your designs and code literally take flight.
+A learning-driven, collaborative culture focused on engineering excellence and innovation.
+
+
+Location: Hyderabad, Telangana
+Employment Type: Full-time
+
+================================================================================

@@ -1,0 +1,208 @@
+================================================================================
+JOB: Kotak Mahindra Bank - Business Intelligence
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/46cfed0e-69ea-4614-a880-6ba99d74290f
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Kotak Mahindra Bank
+Job Domain
+Tech
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+PAN India
+Industry
+Banking
+Industry Sector
+Private
+Website URL
+https://www.kotak.bank.in/en/home.html
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+0,00,000
+First Year Annual Overall CTC
+0,00,000
+First Year Monthly Salary
+00,00,000
+First Year Overall CTC - Detailed Breakup
+"15 LPA Fixed + 2 Lakh Retention Bonus + 1 Lakh Home Loan Benefits if Availed."
+The detailed breakup will be shared with selected candidates along with their offer letters.
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+14-Nov-25 02:05:00
+Application Deadline
+15-Nov-25 13:30:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Business Intelligence
+Shortlist Published At
+Stage 2(Technical Interview-Business Intelligence) - 26 Dec 2025 13:17:58
+
+---
+
+APPLICATION STAGES
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+BS (Research)
+M.Engg
+M.Tech
+M.Tech (Research)
+Discipline
+Others
+B.Tech in Mathematics and Computing
+BS (Research) in Mathematics
+BS (Research) in Physics
+M.Engg in Semiconductor Technology
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech (Research) Inorganic and Physical Chemistry
+M.Tech (Research) Instrumentation and Applied Physics
+M.Tech (Research) Interdisciplinary Mathematical Sciences
+M.Tech (Research) Management Studies
+M.Tech (Research) Materials Engineering
+M.Tech (Research) Supercomputer Education and Research Centre
+M.Tech Aerospace Engineering
+M.Tech Astronomy and Astrophysics Programme
+M.Tech Axis Bank Centre for Mathematics and Computing
+M.Tech Biochemistry
+M.Tech Central Animal Facility
+M.Tech Centre for Atmospheric and Oceanic Sciences
+M.Tech Centre for Cryogenic Technology
+M.Tech Centre for Earth Sciences
+M.Tech Centre for Ecological Sciences
+M.Tech Centre for High Energy Physics
+M.Tech Centre for Infectious Disease Research
+M.Tech Centre for Infrastructure
+Sustainable Transportation and Urban Planning
+M.Tech Centre for Nano Science and Engineering
+M.Tech Centre for Neuroscience
+M.Tech Centre for Society and Policy
+M.Tech Centre for Sustainable Technologies
+M.Tech Centre of Excellence in Advanced Mechanics of Materials
+M.Tech Chemical Engineering
+M.Tech Civil Engineering
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Department of Bioengineering
+M.Tech Department of Design and Manufacturing
+M.Tech Department of Developmental Biology and Genetics
+M.Tech Divecha Centre for Climate Change
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech Inorganic and Physical Chemistry
+M.Tech in Instrumentation Systems
+M.Tech Interdisciplinary Centre for Energy Research
+M.Tech Interdisciplinary Centre for Water Research
+M.Tech Interdisciplinary mathematical sciences
+M.Tech Longevity India initiative
+M.Tech Management Studies
+M.Tech Materials Engineering
+M.Tech Materials Research Centre
+M.Tech Mathematics
+M.Tech Mechanical Engineering
+M.Tech Microbiology and Cell Biology
+M.Tech Molecular Biophysics Unit
+M.Tech Organic Chemistry
+M.Tech Physics
+M.Tech Quantum Technology Initiative
+M.Tech Robert Bosch Centre for Cyber Physical Systems
+M.Tech Solid State and Structural Chemistry Unit
+M.Tech Supercomputer Education and Research Centre
+M.Tech Signal Processing
+M.Tech Smart Manufacturing
+M.Tech Artificial Intelligence
+M.Tech Electronics & Communication Engineering
+M.Tech Sustainable Technologies
+M.Tech Semiconductor Technology
+M.Tech Mobility Engineering
+M.Tech Microelectronics & VLSI Design
+M.Tech Robotics and Autonomous Systems
+M.Tech Computer Science & Engineering
+M.Tech Electronics Systems Engineering
+Eligibility
+CGPA - 6
+
+Skills
+• Ability to Learn on the Job
+• Experience in one of the languages like Java, Python, C++,C or JavaScript.
+• Strong analytical and problem-solving skills
+• Good Communication Skills
+• Ability to Collaborate with relevant stakeholders as required
+• Focus on Outcomes of Tasks
+• Good understanding of reporting tools/Business Intelligence domain like PowerBI, Tableau and SAP BO
+• Database and big data concepts including dimensional modelling
+• Experience in writing SQL queries and data analysis
+• Interest in building applications, data model
+• Learn Visualization, create business insights
+• Good to have experience in one of the languages like Java, Python, C++,C or JavaScript.
+• A demonstrated aptitude for learning new technologies and adapting to changing requirements.
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+Role Description:
+• Designing, developing, testing, and maintaining software applications from conception to deployment aligning with the business need.
+• Writing clean, efficient, and well-documented code, and identifying and resolving technical issues.
+• Working with product managers, designers, and other developers to deliver software solutions.
+• Participating in code reviews and performing validation and verification tests to ensure high-quality software.
+• Improving application speed, scalability, and security.
+• Creating and maintaining technical documentation for software and systems.
+• Continuously learning new technologies, software development trends, and industry best practices.
+• To develop business intelligence dashboards basis functional understanding of business through usage of data in the Enterprise Data warehouse/ Enterprise Cloud.
+• The person shall need to understand the source business systems, respective data points and relationships, discuss with stakeholders on areas of analysis,
+• Create advance business insights, Visualization
+Job Requirements
+• Ability to Learn on the Job
+• Experience in one of the languages like Java, Python, C++,C or JavaScript.
+• Strong analytical and problem-solving skills
+• Good Communication Skills
+• Ability to Collaborate with relevant stakeholders as required
+• Focus on Outcomes of Tasks
+• Good understanding of reporting tools/Business Intelligence domain like PowerBI, Tableau and SAP BO
+• Database and big data concepts including dimensional modelling
+• Experience in writing SQL queries and data analysis
+• Interest in building applications, data model
+• Learn Visualization, create business insights
+• Good to have experience in one of the languages like Java, Python, C++,C or JavaScript.
+• A demonstrated aptitude for learning new technologies and adapting to changing requirements
+
+---
+
+ADDITIONAL DETAILS
+CGPA- 6
+
+================================================================================

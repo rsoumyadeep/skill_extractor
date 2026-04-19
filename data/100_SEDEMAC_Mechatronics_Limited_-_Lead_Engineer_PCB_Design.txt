@@ -1,0 +1,177 @@
+================================================================================
+JOB: SEDEMAC Mechatronics Limited - Lead Engineer, PCB Design
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/e9846995-e26a-44d6-b542-b84b6c946f32
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+SEDEMAC Mechatronics Limited
+Job Domain
+Engineering
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Baner, Pune
+Industry
+Engineering and Technology
+Industry Sector
+Public
+Website URL
+https://www.sedemac.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+22,00,000
+First Year Annual Overall CTC
+22,00,000
+First Year Monthly Salary
+1,77,200
+First Year Overall CTC - Detailed Breakup
+Attached over the mail.
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+29-Dec-25 12:00:00
+Application Deadline
+30-Dec-25 12:00:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Lead Engineer, PCB Design
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+PhD (Engineering)
+PhD (Science)
+PhD (Integrated)
+Discipline
+PhD Electrical Communication Engineering
+PhD Electrical Engineering
+PhD Electronic Systems Engineering
+PhD Instrumentation and Applied Physics
+Eligibility
+CGPA 6.0 + or 60% throughout 10th, 12th, Graduation, PG and PhD.
+Skills
+• Proficiency in a PCB CAD tools (PADs Professional and Gerber Logix is a plus, while knowledge of Eagle, Corel
+and Saturn is also mildly desirable)
+• Knowledge of 7QC Tools: Proficiency in applying the 7QC tools, such as checklists and observation graphs, for
+effective quality control and continuous improvement initiatives.
+• Product Safety Awareness: Good understanding of design principles focused on product safety to ensure that
+the PCB designs meet the safety standards and regulations as per requirements.
+Bond Details
+Not Applicable
+
+---
+
+JD ATTACHMENTS
+Lead Engineer, PCB Design
+
+---
+
+DETAILED JOB DESCRIPTION
+SEDEMAC Mechatronics Limited
+
+
+Lead Engineer, PCB Design
+
+
+Job Description:
+
+
+The primary role of the candidate is to lead a team of PCB engineers, wherein the team is responsible to perform PCB layout of electronic controllers designed at SEDEMAC, while coordinating with an interdisciplinary team comprising circuit design engineers, mechanical design engineers and manufacturing engineers. The electronic controllers designed at SEDEMAC are typically those involving mixed signal circuits and power electronics for automotive, generator set and telematics applications.
+
+
+Major Responsibilities:
+
+
+• Customer Requirement Understanding: Proficient in interpreting and meeting internal and external customer specifications for automotive and off-highway applications, and relevant for PCBs manufactured into large volumes.
+• Project, Resource and Program Management: Effectively allocate PCB engineers and manage projects in SEDEMAC's dynamic environment, adapting to frequent priority changes.
+• Team Leadership and Training: Lead and mentor the PCB layout team, developing training modules and white papers to enhance their skills and knowledge
+• PCB Design Proficiency: Expertise in managing component libraries as per IPC, drafting detailed schematics, and designing innovative PCB layouts with a focus on manufacturability and size constraints. Conduct thorough PCB layout reviews, ensuring that best practices and past learnings are incorporated into every design.
+• Gerber and Panelling: Skilled in generating accurate Gerber files, performing efficient panelling, and collaborating with PCB suppliers to address technical queries and ensure seamless manufacturing processes.
+• EMI/EMC and Thermal Management: Good knowledge of EMI/EMC, Power and Signal integrity principles from a layout perspective, combined with effective thermal management strategies in PCB design to ensure optimal performance and reliability.
+• PCB Root Cause Analysis and Quality Check: Skilled in conducting thorough root cause analysis and quality checks to quickly identify and resolve PCB-related issues. Develop and use systematic review checklists to maintain high design standards and ensure reliability.
+• Statutory and Regulatory Awareness: Good understanding of automotive industry-specific statutory and regulatory requirements, ensuring designs meet relevant standards and regulations in accordance with customer specifications.
+Technical Skills and Experience:
+• Proficiency in a PCB CAD tools (PADs Professional and Gerber Logix is a plus, while knowledge of Eagle, Corel and Saturn is also mildly desirable)
+• Knowledge of 7QC Tools: Proficiency in applying the 7QC tools, such as checklists and observation graphs, for effective quality control and continuous improvement initiatives.
+• Product Safety Awareness: Good understanding of design principles focused on product safety to ensure that the PCB designs meet the safety standards and regulations as per requirements.
+
+
+Managerial Skills and Experience:
+
+
+• Good written and verbal communication skills.
+• Ability to work with a cross-functional team.
+• Sense of ownership and urgency when working in the company.
+• Strong sense of ethics.
+
+
+Information on Selection Process:
+
+
+• The selection process will include a technical evaluation including a technical test plus interviews.
+• There will be a focus on evaluation of the candidate’s understanding of technical, analytical & logical skills.
+
+
+Educational Requirement:
+
+
+• PhD in Electrical / Electronics Engineering (CGPA 6.0+ or 60% throughout)
+
+
+About SEDEMAC
+
+
+At its core, SEDEMAC is the convergence of talented engineers committed to the development and large-scale deployment of innovative control technologies and products. As one of the fastest-growing Tier-1 suppliers in the automotive space, we work with vehicle, motor, and engine manufacturers who are leaders in their own space to deliver fundamental control solutions with real-world impact. Our engineer-led organization prides itself on creating technology propositions and taking them from the drawing board to high-volume production with operational excellence. We foster a culture that values creativity, honesty, and respect—where ideas are judged by their merit, not by hierarchy. With a strong foundation and ambitious growth plans, SEDEMAC is uniquely positioned to shape the future of controls.
+
+
+Job Location: Baner, Pune
+
+---
+
+ADDITIONAL DETAILS
+1: We will be using Superset from this year. The applications will be opened on Superset and the eligible students should apply on the platform.
+2: The online aptitude and technical tests will be conducted on campus in our presence using Mettl platform. The arrangements should be made accordingly.
+3: The Technical and HR interview will be conducted on campus.
+
+
+INFRASTRUCTURE REQUIREMENTS:
+
+
+Online Test Platform: Mettl (Video proctored). It is expected that the tests should be conducted in the classroom / auditorium in our invigilation. The arrangements should be made accordingly. All students should be instructed to carry the hard copy of any govt. id proof for the tests. This is a requirement for registration on Mettl platform for the tests.
+
+================================================================================

@@ -1,0 +1,137 @@
+================================================================================
+JOB: PayU Payments - Associated Data Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/583d79eb-5537-44fc-8f0f-7f952a78bd08
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+PayU Payments
+Job Domain
+Data Engineer
+Job Type
+Full Time Placement
+Job Mode
+Hybrid
+Locations
+Bangalore, Gurgaon, Mumbai
+Industry
+Financial Services
+Industry Sector
+Private
+Website URL
+https://payu.in/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+18,00,000
+First Year Annual Overall CTC
+24,50,000
+First Year Monthly Salary
+1,50,000
+First Year Overall CTC - Detailed Breakup
+Pay Elements Proposed CTC
+(all numbers in INR)
+Fixed base pay 1,800,000
+Variable % 10%
+Total Cash including variable 1,980,000
+Joining Bonus 200,000
+Annual LTI - SAR at FMV 270000
+Total Compensation 2,450,000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Nov-25 22:54:00
+Application Deadline
+27-Nov-25 07:05:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Associated Data Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+BS (Research)
+M.Tech
+M.Tech (Research)
+MS (Research)
+MSc
+Discipline
+All
+Eligibility
+BE/B-Tech/BS/Meng/MSc in computer science or a related technical field from top-tier colleges or equivalent practical experience
+Skills
+Python, SQL, Spark, Problem Solving, Data Engineering etc.
+Bond Details
+No Bond
+
+---
+
+DETAILED JOB DESCRIPTION
+Role: Associate Data Engineer
+Company: PayU
+Location: Bangalore/Mumbai/Gurgaon
+About the role: Develops data systems and implements ML models to production
+Job responsibilities:
+Building, maintaining, and monitoring sustainable infrastructure with a focus on developing and maintaining high-volume, low-latency data platforms using latest opensource frameworks, highly available RESTful services, and back-end Cloud based/open source systems 
+Execute day to day operation of the data platform to ensure top-notch performance of data platform systems for customer-facing applications
+Work on features to make the data Platform more robust and resilient
+Drive automation of application deployment for production environments
+Identify and support areas for process and efficiency improvement within platform operations
+Taking ownership of your projects, and have the work in small cross functional teams to drive projects to closure
+Highly collaborative with a strong belief in continuous improvement.
+Ability to stay focused and calm in a fast-paced environment.
+Requirements to be successful in this role: 
+BE/B-Tech/BS/Meng/MSc in computer science or a related technical field from top-tier colleges or equivalent practical experience
+Strong working knowledge on platform infrastructure based on Cloud and open-source systems and automation.
+Must be very good with programming language: Python
+Django/Flask (preferred, must be experienced in building APIs)
+Databases: SQL querying & db understanding (RDBMS: mysql, postgresql; Nosql: mongodb, elasticsearch, dynamodb)
+Familiarity with big data tools & distributed systems (spark, redshift, kafka)
+Cloud Computing (Any of AWS/Azure/GCP), preferred: AWS
+Orchestration: airflow, docker
+Good to Have:
+Monitoring/Logging frameworks (ELK, Grafana)
+Scalable Compute solutions (Kafka, Snowflake)
+Workflow management libraries and tools
+Container orchestration systems like Kubernetes
+Code-as-Infrastructure/Pipeline-as-Code (Terraform/Chef)
+Understanding and functional experience in Big Data Engineering practices: Data
+Warehousing, ingestion pipelines, ELT, data migration, QC
+
+---
+
+ADDITIONAL DETAILS
+Core skill set: Strong problem Solving, Spark, SQL, Python
+
+================================================================================

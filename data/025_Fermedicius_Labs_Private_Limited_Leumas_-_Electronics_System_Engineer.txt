@@ -1,0 +1,186 @@
+================================================================================
+JOB: Fermedicius Labs Private Limited (Leumas) - Electronics System Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/911afd75-3837-49d2-bf42-85c9ae22d87b
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Fermedicius Labs Private Limited (Leumas)
+Job Domain
+Engineering & Tech
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bangalore
+Industry
+Manufacturing
+Industry Sector
+Private
+Website URL
+https://leumasware.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+Rs. 900000 - 1200000
+First Year Annual Overall CTC
+Rs. 1800000 - 2400000
+First Year Monthly Salary
+Rs. 146200 - 196200
+First Year Overall CTC - Detailed Breakup
+Rs. 146200 - 196200
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+1
+Application Start Time
+24-Feb-26 14:30:14
+Application Deadline
+26-Feb-26 10:59:20
+Time Left
+Closed
+Application Current State
+Technical Interview-Electronics System Engineer
+Shortlist Published At
+Stage 2(Pre Placement Talk (ppt)-Electronics System Engineer) - 09 Mar 2026 11:08:56Stage 3(Technical Interview-Electronics System Engineer) - 09 Mar 2026 11:09:20
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Pre Placement Talk (ppt)
+Technical Interview
+HR Interview
+Assignment
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+24
+Programme
+M.Tech
+PhD (Engineering)
+MS
+Discipline
+M.Tech (Research) Electronic Systems Engineering
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+PhD Electrical Engineering
+PhD Electronic Systems Engineering
+M.Tech Signal Processing
+M.Tech Electronic Product Design
+M.Tech Robotics and Autonomous Systems
+Eligibility
+Eligibility: Post-graduates (M.Tech / MS / PhD)
+Skills
+You’re a Fit If
+1. You hold a post-graduate degree (M.Tech / MS / PhD) in Electronics, Electrical, Instrumentation, Mechatronics, or allied disciplines.
+2. You possess strong fundamentals in electronic system design, including power electronics, motor drives, sensors, and industrial I/O.
+3. You have hands-on experience with embedded systems, microcontrollers, and firmware development.
+4. You are familiar with industrial communication protocols and interfaces.
+5. You are comfortable working in a fast-paced, build–test–iterate environment.
+6. You demonstrate high ownership and strong cross-functional collaboration capability.
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+JD_Electronics System Engineer
+
+---
+
+DETAILED JOB DESCRIPTION
+JOB Description – Electronic Systems Engineer
+Electronics & Industrial Automation Systems
+Leumas · Bengaluru
+Leumas is seeking an Electronic Systems Engineer to design, develop, and own electronics subsystems for modular and automated manufacturing equipment.
+This is a high-ownership engineering role focused on building reliable, scalable, and production-ready electronics platforms. The role spans system architecture, embedded
+development, hardware software integration, and industrial communications, working closely with mechanical, process, and software teams in a build–test–iterate environment.
+
+
+About Leumas
+Leumas is a Bangalore-based deep-tech manufacturing company building a software-defined production platform for healthcare manufacturing. Its proprietary, full-stack Manufacturing Operating System orchestrates the entire manufacturing lifecycle - from formulation logic and material flow to production execution, quality control, and traceability - enabling modular, reconfigurable factories that scale with demand. Leumas addresses structural challenges in global supply chains, rigidity, long lead times, and capital
+intensive, step function scale - through a modular, distributed manufacturing architecture that enables faster deployment, higher asset utilization, and materially improved business outcomes across product life cycle
+Leumas supports two primary deployment models. For enterprise customers, it enables dedicated manufacturing suites that provide high levels of supply-chain control, compliance, and flexibility without the burden of traditional greenfield capex or non-resilient supply chains from traditional CDMOs. For healthcare innovators, the platform allows rapid configuration of production lines through software, enabling faster product launches, tighter quality control, and responsive scale-up or scale
+down.
+Leumas’ production systems currently support more than a dozen finished formulations and consumer health formats, including semi-solids (ointments, gels, lotions), oral solid dosage forms (tablets, capsules), and liquid formulations, with integrated QA and inspection capabilities.
+
+
+The Role
+As Electronic Systems Engineer, you will be responsible for designing and delivering electronics architectures that power modular manufacturing equipment.
+You will own embedded hardware and firmware subsystems, ensure robust integration with mechanical and software layers, and support commissioning and stabilization of deployed systems.
+This role requires strong fundamentals, hands-on execution capability, and the ability to translate system requirements into reliable industrial-grade electronics solutions.
+
+
+What You Will Own
+As Electronic Systems Engineer, you will be accountable for the complete lifecycle of electronics subsystems from concept and development to validation and deployment.
+1. Electronics Architecture & Subsystem Design
+• Design electronics architectures covering power electronics, motor drives, sensors, and industrial I/O.
+• Define subsystem interfaces, electrical specifications, and integration boundaries.
+• Ensure scalability, reliability, and serviceability of designs.
+2. Embedded Systems Development & Integration
+• Develop and integrate microcontroller-based systems and firmware.
+• Support hardware–software integration and interface validation.
+• Debug and resolve system-level issues during development and deployment.
+3. Industrial Communication & Interfaces
+• Implement and validate industrial communication protocols (CAN, RS485, Modbus, Ethernet).
+• Integrate electronics subsystems with control systems and supervisory platforms.
+• Support commissioning and field-level connectivity.
+4. Build–Test–Iterate Execution
+• Execute structured validation and testing of electronics systems.
+• Iterate designs based on prototype, fabrication, and commissioning feedback.
+• Support performance optimization and stabilization activities.
+5. Documentation & Engineering Governance
+• Maintain schematics, test reports, release documentation, and validation records.
+• Ensure version control, traceability, and audit-ready engineering documentation.
+• Participate in design and technical reviews.
+
+---
+
+ADDITIONAL DETAILS
+You’re a Fit If
+1. You hold a post-graduate degree (M.Tech / MS / PhD) in Electronics, Electrical, Instrumentation, Mechatronics, or allied disciplines.
+2. You possess strong fundamentals in electronic system design, including power electronics, motor drives, sensors, and industrial I/O.
+3. You have hands-on experience with embedded systems, microcontrollers, and firmware development.
+4. You are familiar with industrial communication protocols and interfaces.
+5. You are comfortable working in a fast-paced, build–test–iterate environment.
+6. You demonstrate high ownership and strong cross-functional collaboration capability.
+
+
+How You Will Operate
+1. You execute with engineering rigor and accountability.
+2. You follow structured development and validation processes.
+3. You balance rapid iteration with system reliability and safety.
+4. You communicate clearly across mechanical, software, and process teams.
+5. You continuously improve designs based on operational feedback.
+
+
+Why Join
+1. Opportunity to design core electronics platforms for next-generation manufacturing systems.
+2. End-to-end ownership from prototype to deployed hardware.
+3. Exposure to multidisciplinary engineering and industrial-scale systems.
+4. Direct contribution to scalable hardware architecture and platform IP.
+
+
+Role Details
+Eligibility: Post-graduates (M.Tech / MS / PhD)
+Location: Bengaluru (On-site)
+
+================================================================================

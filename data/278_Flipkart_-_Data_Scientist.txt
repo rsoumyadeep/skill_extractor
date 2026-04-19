@@ -1,0 +1,109 @@
+================================================================================
+JOB: Flipkart - Data Scientist
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/3e502aaa-57c8-4421-b4b1-5bd2045dce5b
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Flipkart
+Job Domain
+E-commerce
+Job Type
+Full Time Placement
+Job Mode
+Hybrid
+Locations
+Bangalore
+Industry
+Fast Moving Consumer Goods (FMCG)
+Industry Sector
+Private
+Website URL
+https://flipkart.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+22,00,000
+First Year Annual Overall CTC
+31,33,568
+First Year Monthly Salary
+2,61,130
+First Year Overall CTC - Detailed Breakup
+Base - ₹22,00,000
+Variable- ₹2,20,000
+Gratuity- ₹47,619
+Insurance - ₹39,525
+Relocation Bonus (One Time Payout, with 2nd Payroll)- ₹80,000.0
+Telephonic Reimbursements (Monthly limit of 1000)- ₹12,000.0
+Broadband Reimbursements (Monthly limit of 1000)- ₹12,000.0
+ESOP Units (The ESOPs will be vested across a period of 4 years according to: 25% vesting on completion of 1 year, Remaining 75% monthly over the next 36 months- 36
+ESOPs Evaluation [Valuation @ USD 165.83/unit (The INR value is dependent on the USD exchange rate)]- ₹5,22,424.20
+
+Total CTC ₹31,33,568
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+06-Nov-25 12:20:00
+Application Deadline
+07-Nov-25 12:20:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Data Scientist
+Shortlist Published At
+Stage 2(Online Test-Data Scientist) - 26 Dec 2025 15:19:03Stage 3(Technical Interview-Data Scientist) - 26 Dec 2025 16:31:40
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Technical Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+Discipline
+B.Tech in Mathematics and Computing
+Eligibility
+Bachelors candidates
+Any branch/specialization
+No active backlogs
+Year of passing out - 2026
+
+Skills
+Deep Expertise in Data Science, Problem-Solving at Scale, Analytical Rigor & Data Acumen, Innovation & Adaptability
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Data Science JD
+
+---
+
+DETAILED JOB DESCRIPTION
+This is an opportunity to join Flipkart's Data Science team as a Data Scientist, where you will spearhead the development of systemic intelligence and data-driven products. Sitting at the core of Flipkart's mission to build unparalleled customer experiences, your contributions will directly drive personalization, optimization, and innovation across India's largest e-commerce marketplace.
+
+================================================================================

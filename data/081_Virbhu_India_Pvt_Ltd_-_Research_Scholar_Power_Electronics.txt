@@ -1,0 +1,146 @@
+================================================================================
+JOB: Virbhu India Pvt Ltd - Research Scholar – Power Electronics
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/ce5c2866-2414-4b34-8d03-a4a801943488
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Virbhu India Pvt Ltd
+Job Domain
+Technical-Power Electronics
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Vadodara-Gujarat and Bangalore
+Industry
+Engineering and Technology
+Industry Sector
+Private
+Website URL
+https://virbhu.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+10,00,000
+First Year Annual Overall CTC
+10,00,000
+First Year Monthly Salary
+83,333
+First Year Overall CTC - Detailed Breakup
+Salary Breakup
+Name:
+Gross CTC Offered (Annual) 710000
+Monthly Gross CTC 59167
+Salary & Allowance Monthly Amount (Rs.) Annual Amount (Rs.)
+A) Basic 29170 350040
+(B) Allowance & Reimbursement 54163 649960
+House Rent Allowance 14583 174996
+Conveyance Allowance 6667 80004
+Education Allowance 3333 39996
+Medical Allowance 4167 50004
+Special Allowance 22982 275788
+Leave Travel Allowance 2431 29172
+(C)Sub Total (A+B) 83333 1000000
+PF 1800 21600
+Performance Bonus (based on achievement of goals on completion of one year service.) 100000
+Total CTC 1121600
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+17-Dec-25 14:30:00
+Application Deadline
+22-Jan-26 15:45:06
+Time Left
+Closed
+Application Current State
+Pen & Paper Test-Research Scholar – Power Electronics
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pen & Paper Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+Discipline
+Others
+Eligibility
+M.Tech– Electrical & Electronics Engineering (EEE)
+M.Tech – Electronics & Communication Engineering (ECE)
+M.Tech– Mechanical Engineering
+
+Skills
+• Experience with real-time control platforms (e.g., Plecs RT Box, dSPACE, OPAL-RT, TI C2000, STM32).
+• Knowledge of grid codes, power quality standards, and EMI/EMC concepts.
+• Familiarity with hardware design (PCB layout, gate driver circuits, power modules).
+• Experience with wide-bandgap devices (SiC, GaN) applications.
+• Proficiency in simulation tools such as MATLAB/Simulink, PLECS, PSIM, or equivalent.
+• Strong understanding of power electronics principles, semiconductor devices, and control strategies.
+Bond Details
+No Bond
+
+---
+
+JD ATTACHMENTS
+
+---
+
+DETAILED JOB DESCRIPTION
+Job Description:
+We are seeking a highly motivated and talented Research Scholar to join our Power Electronics research group. The candidate will work on cutting-edge research projects related to power conversion systems, control techniques, energy efficiency, and advanced power semiconductor devices. This is an excellent opportunity to contribute to innovative research in the field of power electronics and develop expertise in experimental setups, simulation tools, and practical design applications.
+________________________________________
+Key Responsibilities:
+• Conduct independent research in power electronics, focusing on areas such as:
+o DC-DC, AC-DC, and DC-AC converters
+o Wide-bandgap devices (SiC, GaN)
+o Advanced modulation and control strategies (e.g., PLL, predictive control)
+o Power quality analysis and mitigation
+o Grid-connected inverters and renewable integration
+• Design, simulate, and develop power electronics prototypes using tools such as MATLAB/Simulink, PLECS, PSIM, or LTspice.
+• Perform experimental validation of research concepts using laboratory setups (e.g., hardware-in-the-loop testing, FPGA-based control implementation).
+• Prepare technical reports, project documentation, and thesis work in a structured manner.
+• Collaborate with academic and industrial research partners.
+• Stay up-to-date with the latest developments in power electronics and related technologies.
+________________________________________
+Required Qualifications:
+• Master’s degree in Electrical Engineering, Power Electronics, or a related field.
+• Strong understanding of power electronics principles, semiconductor devices, and control strategies.
+• Proficiency in simulation tools such as MATLAB/Simulink, PLECS, PSIM, or equivalent.
+• Hands-on experience in power electronics hardware development and testing is preferred.
+• Good analytical and problem-solving skills.
+• Strong communication skills for documentation and publication.
+________________________________________
+Desired Skills (Optional but Preferred):
+• Experience with real-time control platforms (e.g., Plecs RT Box, dSPACE, OPAL-RT, TI C2000, STM32).
+• Knowledge of grid codes, power quality standards, and EMI/EMC concepts.
+• Familiarity with hardware design (PCB layout, gate driver circuits, power modules).
+• Experience with wide-bandgap devices (SiC, GaN) applications.
+
+================================================================================

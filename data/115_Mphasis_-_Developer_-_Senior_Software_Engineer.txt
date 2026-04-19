@@ -1,0 +1,169 @@
+================================================================================
+JOB: Mphasis - Developer - Senior Software Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/795980be-b3f3-4a76-8a1b-55ff97eec0a1
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Mphasis
+Job Domain
+IT
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Hyderabad
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://www.mphasis.com/home.html
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+NA
+First Year Annual Overall CTC
+11,00,000
+First Year Monthly Salary
+75,000
+First Year Overall CTC - Detailed Breakup
+Gross Salary - 9,85,200
+Overall CTC- 11,00,000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+11-Dec-25 17:09:00
+Application Deadline
+17-Dec-25 10:00:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Developer - Senior Software Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+M.Tech (Research)
+Discipline
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Electronic Systems Engineering
+M.Tech Computer Science and Engineering
+M.Tech Electrical Engineering
+M.Tech Artificial Intelligence
+M.Tech Electronics & Communication Engineering
+M.Tech Computer Science & Engineering
+M.Tech Electronics Systems Engineering
+Eligibility
+CGPA - 6.5 and above
+Skills
+Technical Skills:
+Must have:
+• Strong fundamentals in Data Structures, Algorithms, and Object-Oriented Programming.
+• Proficiency in at least one programming language (e.g., Java, Python, C#, etc.).
+• Good understanding of Databases, Operating Systems, and Computer Networks.
+• Excellent problem-solving and analytical skills.
+• Strong communication and interpersonal skills.
+• Ability to work independently and in a team environment.
+• Passion for technology and eagerness to learn.
+Good to have:
+• Internship or project experience in software development.
+• Exposure to Generative AI technologies is a plus
+• Exposure to cloud platforms (AWS, Azure, GCP) or DevOps tools is a plus.
+• Participation in coding competitions or open-source contributions.
+• Exposure in Capital Markets, Wealth Management, Advisory Services, Trading and Portfolio Management.
+Certifications Needed: Relevant certifications such as AWS Cloud Practitioner, Oracle Certified Java Programmer, or participation in
+competitive programming platforms (e.g., HackerRank, Codeforces, LeetCode) will be an added advantage.
+Job Profile – Senior Software Engineer
+Job duties/requirements for the position:
+• Design, develop, test, and deploy scalable software applications.
+• Collaborate with cross-functional teams to understand requirements and deliver high-quality solutions.
+• Write clean, efficient, and maintainable code.
+• Participate in code reviews, debugging, and performance tuning.
+• Stay updated with emerging technologies and industry trends.
+Bond Details
+Bond not applicable
+
+---
+
+JD ATTACHMENTS
+Developer-Senior Software Engineer
+
+---
+
+DETAILED JOB DESCRIPTION
+Job Summary –
+In this role you will be part of a dynamic team responsible for designing, developing, and deploying software solutions. You will work
+on real-world problems, contribute to client projects, and continuously learn and grow in a fast-paced environment.
+Years of experience needed – Proficiency in at least one programming language (e.g., Java, Python, C#, etc.).
+Technical Skills:
+Must have:
+• Strong fundamentals in Data Structures, Algorithms, and Object-Oriented Programming.
+• Proficiency in at least one programming language (e.g., Java, Python, C#, etc.).
+• Good understanding of Databases, Operating Systems, and Computer Networks.
+• Excellent problem-solving and analytical skills.
+• Strong communication and interpersonal skills.
+• Ability to work independently and in a team environment.
+• Passion for technology and eagerness to learn.
+Good to have:
+• Internship or project experience in software development.
+• Exposure to Generative AI technologies is a plus
+• Exposure to cloud platforms (AWS, Azure, GCP) or DevOps tools is a plus.
+• Participation in coding competitions or open-source contributions.
+• Exposure in Capital Markets, Wealth Management, Advisory Services, Trading and Portfolio Management.
+Certifications Needed: Relevant certifications such as AWS Cloud Practitioner, Oracle Certified Java Programmer, or participation in
+competitive programming platforms (e.g., HackerRank, Codeforces, LeetCode) will be an added advantage.
+Job Profile – Senior Software Engineer
+Job duties/requirements for the position:
+• Design, develop, test, and deploy scalable software applications.
+• Collaborate with cross-functional teams to understand requirements and deliver high-quality solutions.
+• Write clean, efficient, and maintainable code.
+• Participate in code reviews, debugging, and performance tuning.
+• Stay updated with emerging technologies and industry trends.
+About Mphasis
+Mphasis applies next-generation technology to help enterprises transform businesses globally. Customer centricity is foundational to
+Mphasis and is reflected in the Mphasis’ Front2Back™ Transformation approach. Front2Back™ uses the exponential power of cloud
+Talent Fulfillment Group© JD Format
+and cognitive to provide hyper-personalized (C=X2C2TM=1) digital experience to clients and their end customers. Mphasis’ Service
+Transformation approach helps ‘shrink the core’ through the application of digital technologies across legacy environments wi thin an
+enterprise, enabling businesses to stay ahead in a changing world. Mphasis’ core reference architectures and tools, speed and
+innovation with domain expertise and specialization are key to building strong relationships with marquee clients.
+Work Location: Hyderabad
+CTC : 11 LPA
+Assessment/ Selection criteria:
+1. Profile Screening
+2. Technical Discussion
+3. HR Discussion
+
+================================================================================

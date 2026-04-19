@@ -1,0 +1,134 @@
+================================================================================
+JOB: Skyroot Aerospace Private Limited - GET/PGET-Engineering Roles(Electrical & Electronics)
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/de53437e-9859-4f96-9a3e-3d56ac470e99
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Skyroot Aerospace Private Limited
+Job Domain
+Aerospace
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Hyderabad
+Industry
+Aerospace and Defense
+Industry Sector
+Private
+Website URL
+https://www.skyroot.in/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+11,00,000
+First Year Annual Overall CTC
+15,00,000
+First Year Monthly Salary
+91000-100000
+First Year Overall CTC - Detailed Breakup
+15 (Fix-11LPA + Var- 2 +2 ESOPs)
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Nov-25 14:00:00
+Application Deadline
+28-Nov-25 19:00:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-GET/PGET-Engineering Roles(Electrical & Electronics)
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Pen & Paper Test
+Assignment
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+M.Tech (Research)
+PhD (Engineering)
+Discipline
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+PhD Electrical Communication Engineering
+PhD Electrical Engineering
+PhD Electronic Systems Engineering
+M.Tech Electronics & Communication Engineering
+M.Tech Microelectronics & VLSI Design
+M.Tech Electronic Product Design
+M.Tech Electronics Systems Engineering
+M.Tech (Research) Electrical & Communication Engineering.
+Eligibility
+No active backlogs
+Skills
+Refere JD
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Electrical & electronics
+
+---
+
+DETAILED JOB DESCRIPTION
+Electronics and Communication / Electrical / Instrumentation Engineering
+Role Overview – Avionics Engineer We are seeking highly motivated and technically strong graduates to join our Avionics team. You will work on end-to-end development of flight-critical electronic systems, embedded software, and electrical integration that power our space launch vehicles. This role provides an exceptional opportunity to apply your electronics and software expertise to real-world aerospace applications in a fast-paced, innovation-driven environment. 
+Roles and Responsibilities
+Contribute to the design and development of embedded systems, electronics hardware, and software for flight and ground systems.
+Work on hardware design, PCB development, firmware programming, and system testing.
+Support integration and validation of avionics systems including sensors, controllers, and power distribution.
+Participate in data acquisition, telemetry, and control system development for launch vehicles.
+Collaborate across teams (mechanical, propulsion, systems) to ensure seamless system-level performance.
+Ensure compliance with aerospace quality, safety, and reliability standards.
+  Must-Have Qualifications
+B.Tech / B.E. (Final Year or Recent Graduate) in Electronics and Communication, Electrical, or Instrumentation Engineering.
+Strong fundamentals in electronics, control systems, embedded systems, and circuit design.
+Proficiency in C/C++ or Python, and exposure to microcontrollers, FPGAs, or embedded platforms.
+Knowledge of electrical schematics, PCB tools, or simulation software (MATLAB, LTSpice, etc.).
+Strong analytical, problem-solving, and debugging skills.
+Excellent teamwork, communication, and a passion for technology and aerospace innovation.
+Why Join Skyroot Aerospace?
+Work on cutting-edge avionics that power India’s private space missions.
+Collaborate with experienced engineers, scientists, and ISRO alumni.
+Opportunity to see your designs and code literally take flight.
+A learning-driven, collaborative culture focused on engineering excellence and innovation.
+ Location: Hyderabad, Telangana
+Employment Type: Full-time
+
+================================================================================

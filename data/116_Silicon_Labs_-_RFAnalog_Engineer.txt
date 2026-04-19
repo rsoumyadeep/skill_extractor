@@ -1,0 +1,138 @@
+================================================================================
+JOB: Silicon Labs - RF/Analog Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/fb38f082-ed5e-4095-b0d1-3a02fb59d0c7
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Silicon Labs
+Job Domain
+Engineering
+Job Type
+Full Time Placement
+Job Mode
+Hybrid
+Locations
+Hyderabad
+Industry
+VLSI and Semiconductors
+Industry Sector
+Private
+Website URL
+https://www.silabs.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+NA
+First Year Annual Overall CTC
+NA
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+Particulars Amount in Rs.
+Gross Fix 1,900,000
+Retirals 163,694
+Annual Bonus 190,000
+Sign-On Bonus 160,000
+Retention Bonus 1,000,000
+RSU* - USD 12500 1,075,000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+15-Dec-25 14:00:00
+Application Deadline
+16-Dec-25 14:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-RF/Analog Engineer
+Shortlist Published At
+Stage 2(Resume Shortlisting-RF/Analog Engineer) - 26 Dec 2025 16:20:52Stage 3(Online Test-RF/Analog Engineer) - 26 Dec 2025 16:21:15Stage 4(Technical Interview-RF/Analog Engineer) - 26 Dec 2025 16:22:55
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+Discipline
+M.Engg in Semiconductor Technology
+M.Tech (Research) Electronic Systems Engineering
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech Microelectronics & VLSI Design
+M.Tech (Research) Electrical & Communication Engineering.
+Eligibility
+NA
+Skills
+NA
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+RF/Analog Engineer
+
+---
+
+DETAILED JOB DESCRIPTION
+Why Silicon Labs:
+Innovation doesn't start with companies; it starts with people. We put people first in everything we do, whether it’s employees we work with every day, our customers developing new devices, or the people in communities where we operate. Our incredibly talented team is comprised of innovative risk-takers pushing the bounds of what’s possible. We're problem solvers first, addressing industry’s biggest challenges to transform industries, grow economies and improve lives.
+
+What will you do:
+You’ll contribute to the design and development of state-of-the-art Wi-Fi/Bluetooth products, focusing on low-power, high-performance RF and analog circuits. You’ll work closely with senior engineers, learning the full design flow from concept to silicon validation.
+
+Key Responsibilities/Role:
+ • Contribute to the design, simulation, and verification of analog/RF building blocks (LNAs, mixers, baseband filters, dividers, PAs, etc.) in advanced CMOS technologies.
+ • Support integration and characterization of analog/RF sub-systems such as Rx, Tx, and synthesizer blocks.
+ • Perform schematic design, transistor-level simulation, and assist in layout verification and reviews. • Participate in silicon validation and debug, correlating lab measurements with simulations.
+ • Work with cross-functional teams (system, digital, layout, and test engineering) to ensure successful product integration.
+ • Support documentation and review processes for design blocks.
+ • Apply low-power design principles and techniques to meet aggressive power and performance targets.
+
+Preferred Skills:
+ • Experience in Cadence Design Environment for Analog, Mixed-Signal and RF designs (Cadence Virtuoso, SpectreRF, EMX, AFS etc)
+ • Solid understanding of design and analysis of transistor-level low-power analog integrated circuits. • Solid understanding of feedback systems and stability analysis in both time and frequency domains.
+ • Strong fundamentals in digital/analog communication theory, signal processing, electromagnetic theory, digital design concepts
+ • Ability to use tools like Matlab for design and modeling.
+ • Good communication skills and experience in technical documentation.
+ • Basic scripting knowledge in Python, SKILL, Shell, etc. for design automation is desirable.
+ • Good understanding of RF system fundamentals, modulation/demodulation, and wireless transceiver architectures
+. • Good understanding of device noise, mismatch, linearity, and other RF and analog impairments
+
+Good to have requirements
+ Academic project/Internship experience that relates to the design of either of the following
+ • WLAN, Bluetooth or any other wireless transceivers/synthesizers, etc.
+ • Power management designs related to LDOs, buck/boost regulators, battery chargers, energy harvesters, etc
+
+Education Requirements: BS/MS/MSc/Ph. D in Electronics/ Electrical/ Integrated Circuits Engineering
+
+================================================================================

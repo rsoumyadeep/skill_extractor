@@ -1,0 +1,182 @@
+================================================================================
+JOB: QOSMIC SATELLITE SYSTEMS PRIVATE LIMITED - Optical Systems Engineer/Astronomer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/88f3ecf3-e3c6-4ced-af04-61d65b8c2eb0
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+QOSMIC SATELLITE SYSTEMS PRIVATE LIMITED
+Job Domain
+Engineering
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bangalore
+Industry
+Space Technologies, Communication, Quantum Technologies
+Industry Sector
+Private
+Website URL
+https://qosmic.space/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+8,23,774 - 12,35,412
+First Year Annual Overall CTC
+10,00,000 - 15,00,000
+First Year Monthly Salary
+68,648 - 1,02,942
+First Year Overall CTC - Detailed Breakup
+Component-wise breakdown (Range for 10L - 15L):
+
+Basic Salary: ₹4,70,833 - ₹7,06,000 per annum
+House Rent Allowance (HRA): ₹2,15,690 - ₹3,23,529 per annum
+PF Allowance: ₹1,17,647 - ₹1,76,471 per annum
+Other Allowance: ₹19,608 - ₹29,412 per annum
+Variable Pay (Performance Based): ₹1,76,226 - ₹2,64,588 per annum
+ESOP: 1-1.5x of Annual Pay
+Monthly In-hand (excluding Variable Pay): ₹68,648 - ₹1,02,942
+
+PhD and Post doc holders will have a higher pay band based on their experience and expertise
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+19-Nov-25 17:30:00
+Application Deadline
+05-Dec-25 10:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Optical Systems Engineer/Astronomer
+Shortlist Published At
+Stage 2(Assignment-Optical Systems Engineer/Astronomer) - 26 Dec 2025 14:43:00Stage 3(Technical Interview-Optical Systems Engineer/Astronomer) - 26 Dec 2025 14:43:42
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Assignment
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+BS (Research)
+M.Engg
+M.Tech
+M.Tech (Research)
+MS (Research)
+MSc
+PhD (Engineering)
+PhD (Science)
+Post Doc
+PhD (Integrated)
+Discipline
+B.Tech in Mathematics and Computing
+BS (Research) in Physics
+M.Tech (Research) Aerospace Engineering
+M.Tech (Research) Astronomy and Astrophysics Programme
+M.Tech (Research) Centre for Nano Science and Engineering
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech (Research) Instrumentation and Applied Physics
+M.Tech (Research) Materials Engineering
+M.Tech (Research) Materials Research Centre
+M.Tech (Research) Physics
+M.Tech Aerospace Engineering
+M.Tech Astronomy and Astrophysics Programme
+M.Tech Centre for Nano Science and Engineering
+M.Tech Centre of Excellence in Advanced Mechanics of Materials
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech in Instrumentation Systems
+M.Tech Materials Engineering
+M.Tech Materials Research Centre
+M.Tech Mechanical Engineering
+M.Tech Physics
+M.Tech Quantum Technology Initiative
+MS (Research) in Materials Sciences
+MS (Research) in Physics
+PhD Aerospace Engineering
+PhD Astronomy and Astrophysics Programme
+PhD Centre for Nano Science and Engineering
+PhD Electrical Communication Engineering
+PhD Electrical Engineering
+PhD Electronic Systems Engineering
+PhD Instrumentation and Applied Physics
+PhD Materials Engineering
+PhD Materials Research Centre
+PhD Mechanical Engineering
+M.Tech Signal Processing
+M.Tech Electronics & Communication Engineering
+M.Tech Centre for NanoScience and Engineering
+M.Tech Electronic Product Design
+M.Tech Communication Networks
+M.Tech Electronics Systems Engineering
+Eligibility
+B.Tech/M.Tech/M.Sc/PhD in Astronomy, Astrophysics, Optical Engineering, Physics or related field
+Skills
+• Strong understanding of optical systems and design principles
+• Proficiency in optical design software (Zemax, CODE V, or similar)
+• Understanding of geometrical and physical optics, aberration theory, and diffraction
+• Experience with optical testing and characterisation methods
+• Knowledge of telescope designs and infrared optical systems
+• Familiarity with optical testing equipment (interferometers, wavefront sensors, beam profilers)
+• Programming skills in Python/MATLAB for simulation and data analysis
+• Ability to perform link budget calculations and performance analysis
+• Self-motivated with the ability to work independently and in teams
+Bond Details
+No bond
+
+---
+
+JD ATTACHMENTS
+Optical Systems Engineer/Astronomer JD
+
+---
+
+DETAILED JOB DESCRIPTION
+Join us in designing and optimising advanced optical systems for space communication applications. You will work with telescope systems, infrared optics, and precision optical instruments across various projects. This role combines expertise in optical design, astronomical instrumentation, and systems engineering to develop cutting-edge communication technologies for terrestrial and space-based platforms.
+
+---
+
+ADDITIONAL DETAILS
+What You'll Do
+
+
+• Design and optimise telescope systems for free-space optical communication (Cassegrain, Newtonian, and custom configurations)
+• Develop infrared optical systems and lens designs for 980nm and 1550nm wavelengths
+• Characterise telescope performance: aberrations, wavefront quality, throughput, and pointing accuracy
+• Perform optical system simulations using ray tracing and diffraction analysis software
+• Design optical layouts for beam expanders, collimators, and receiver optics
+• Conduct atmospheric turbulence analysis and adaptive optics system design
+• Optimise optical link budgets considering atmospheric effects, telescope aperture, and detector sensitivity
+• Perform precision optical alignment and testing using interferometry and wavefront sensors
+• Integrate optical systems with mechanical mounts and tracking platforms
+• Support field testing and outdoor optical link experiments
+• Document optical designs, test procedures, and performance specifications
+
+================================================================================

@@ -1,0 +1,183 @@
+================================================================================
+JOB: Shell India Mkts Pvt Ltd - Automation Analyst
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/a691722f-e9b9-4e75-acf2-127808eefe5b
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Shell India Mkts Pvt Ltd
+Job Domain
+Research & Development
+Job Type
+Full Time Placement
+Job Mode
+Hybrid
+Locations
+Chennai
+Industry
+Energy (including Oil & Gas)
+Industry Sector
+Private
+Website URL
+https://www.shell.in/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+23,96,604
+First Year Annual Overall CTC
+27,26,604
+First Year Monthly Salary
+1,66,542
+First Year Overall CTC - Detailed Breakup
+SALARY ELEMENTS Amount (INR) Description
+Base Pay - 1,000,000 Basic pay - HRA, performance bonus and Retirement benefits calculated on base pay. Monthly payout. Fully taxable.
+House Rent Allowance - 500,000 Percentage of Base pay. Monthly payout. Tax exemption based on Income Tax rules
+Grade Allowance - 348,504 Taxable allowance paid monthly.
+Superannuation Fund Allowance - 150,000 15% of Base Pay (contribution by company) will be processed as Superannuation Cash Allowance (non-pensionable), which will be paid in the form of monthly taxable payout
+Guaranteed Cash 1,998,504
+
+Retirement Benefits
+Provident Fund - 120,000 Company contribution of 12% of Base Pay; Employee contributes an equal amount
+Gratuity Fund - 48,100 4.81% of Base Pay - Defined benefit of 15 days Base Pay for each year of service after 5 years
+Retirement Benefits Total - 168,100
+Total Cash - 2,166,604
+Bonus (% of Base Pay) 33%
+Performance Bonus* - 330,000 Fully taxable, paid in the month of February.
+Total Cost to Company - 2,496,604
+Settling-In Allowance - 230,000 Paid along with the 1st month salary. In the event of disassociation from the Company, prior to the completion of 12 months, the Settling-In Allowance is payable back to the Company, inclusive of the tax deducted
+Total Earnings - 2,726,604
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+09-Mar-26 13:16:53
+Application Deadline
+11-Mar-26 10:02:05
+Time Left
+Closed
+Application Current State
+Online Test-Automation Analyst
+Shortlist Published At
+Stage 2(Online Test-Automation Analyst) - 12 Mar 2026 12:40:35
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Technical Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Engg
+M.Tech
+M.Tech (Research)
+MS (Research)
+MS
+Discipline
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Interdisciplinary Mathematical Sciences
+M.Tech (Research) Mathematics
+M.Tech (Research) Physics
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Interdisciplinary mathematical sciences
+M.Tech Mathematics
+M.Tech Mechanical Engineering
+M.Tech Physics
+MS (Research) in Mathematics
+MS (Research) in Physics
+M.Tech Computer Science & Engineering
+M.Tech Computer Science and Automation
+Integrated M.Tech Mathematics and Computing
+Eligibility
+Students must be ONLY from the selected disciplines with hands on experience in coding in Python and technically sound
+Skills
+• Background in Applied Mathematics/Physics, Econometrics, Data Science and Artificial Intelligence Technology, Electrical/Mechanical Engineering, Robotics, Systems & Control, Transport, Infrastructure and Logistics
+• Proven experience in supply chain analysis and modelling (preferred)
+• Proficiency in data modeling and simulation tools
+• Proficiency in programming languages such as Python or Spark
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Automation Analyst
+
+---
+
+DETAILED JOB DESCRIPTION
+ORGANISATION & TEAM DESCRIPTION
+Shell Lubricants Supply Chain (LSC) EMEA organisation covers more than 115 countries across Europe, Middle East and Africa. We provide ~1 Billion liters of lubricant per year to customers ranging from the world’s largest car manufacturers to small independent workshops, national utility companies to wind farms across the B2C and B2B customer groups.
+The Supply Chain Optimisation & Development team, of which the Digital & Automation team is a part of, is accountable for all capital expenditure (~$80M per year) across EMEA. Within LSC, this team invests in the future of our assets, which consists of a network of 9 lubricants and grease manufacturing locations, to become modern, flexible, and adaptable to future customer needs.
+The Automation Analyst is a member of the Digital & Automation team. The team is accountable for identifying, defining and implementing structural end to end digital and automation opportunities that create value for Shell. Driven by a dynamic landscape, automation, robotics, and data play pivotal roles for LSC EMEA.
+The role reports into the Digital & Automation Manager. ROLE DESCRIPTION
+Are you a data science enthusiast with a knack for supply chain optimisation, statistical analysis, and artificial intelligence? If so, keep reading!
+As an Automation Analyst, you’ll be analysing and optimising our supply chain processes within LSC EMEA. You will be provided the opportunity to make a significant impact on our operations. This role involves working with data, modeling material flows, and optimization towards the most fit-for-purpose solutions. You’ll be using simulation software to identify the most optimal capital expenditure (CAPEX) investments, which will help to improve our supply chain competitiveness. For example, we’re significantly investing in automated mobile robots (AMR) across our sites. Typical questions the team addresses are;
+· What are the best possible routes for the AMRs to navigate around our sites?
+and
+· How many AMRs do we need to avoid bottlenecks or risk congestion? And what should be the speed of our warehouses to match AMR capacity?
+By applying your modeling expertise you will be supporting the team to get the right answers.
+But there’s more! Over the years a lot of effort has gone into consistently collecting data-points across our supply chain, all integrated into one data platform. Though there’s more to do we see immense opportunities that are waiting to be explored. As an Automation Analyst you will be looking at opportunities to streamline and automate operations and processes. To do so you will be developing and deploying models in Python or Spark, depending on the size of the data. You’d be pivotal in bringing data closer to our decision-makers, enabling them to make informed decisions quickly. For example, by developing conversational AI interfaces that allow to query the data in natural language, making insights easily accessible and understandable for anyone.
+All in all, as an Automation Analyst, you’ll be building and deploying your own models, as well as applying your modelling expertise to further advance our automation efforts across various parts of our supply chain!
+
+
+YOU WILL BE EXPECTED TO
+Analyse data:
+· Conduct in-depth analyses of existing processes to identify potential areas for automation
+· Run simulations to help design the ideal automation lay-out of our sites
+· Model & simulate to identify the optimal CAPEX investments in LSC EMEA
+· Recommend the best automation investment based on cost-benefit analysis
+Develop and deploy models:
+· Develop and deploy models using programming languages such as Python or Spark
+· Deploy models into production environments and monitor their performance
+Collaborate with cross-functional teams:
+· Engage with various teams to identify automation opportunities
+· Facilitate meetings with teams to discuss progress and address challenges
+REQUIREMENTS
+Excellent analytical & problem-solving skills
+· Background in Applied Mathematics/Physics, Econometrics, Data Science and Artificial Intelligence Technology, Electrical/Mechanical Engineering, Robotics, Systems & Control, Transport, Infrastructure and Logistics
+· Proven experience in supply chain analysis and modelling (preferred)
+· Proficiency in data modeling and simulation tools
+· Proficiency in programming languages such as Python or Spark
+Opportunity & project delivery in a supply chain environment
+· Ability to analyse and translate complex opportunities into clear value propositions
+· Ability to recognize links between opportunities/projects with the skill to develop overviews
+· High personal drive and delivery focus; result oriented
+Strong stakeholder management skills
+· Interpersonal and influencing skills
+· Strong communication skills, with the ability to convey complex concepts to non-technical stakeholders
+· Open minded, challenging others and own assumptions and output.
+And most importantly, enthusiasm for innovation and technology adoption in manufacturing processes! If you do not possess all skills listed above don’t be put off, we invite you to explain us how you plan to leverage your skills to achieve our goals.
+
+
+DESIRABLE SKILLS TO POSSESS OR DEVELOP
+Commercial Acumen
+· Commercial mindset to improve efficiency and competitiveness
+· External focus, innovation, agility and speed
+Mindset & Behaviors
+· Foster a culture of curiosity to inspire others to think outside the box
+· Work independently and as part of a team in a fast-past environment
+
+================================================================================

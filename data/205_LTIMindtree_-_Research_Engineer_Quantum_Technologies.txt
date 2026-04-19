@@ -1,0 +1,186 @@
+================================================================================
+JOB: LTIMindtree - Research Engineer  (Quantum Technologies)
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/b1941f05-9644-4446-9543-fb5eaa38e14f
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+LTIMindtree
+Job Domain
+Quantum Technology/Mathematics/Physics/Quantum Chemistry
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bengaluru
+Industry
+Information Technology (IT)
+Industry Sector
+Public
+Website URL
+https://www.ltimindtree.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+NA
+First Year Annual Overall CTC
+B.E - 12,50,000 & M.Tech - 13,00,000
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+NA
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+24-Nov-25 16:25:00
+Application Deadline
+25-Nov-25 16:00:00
+Time Left
+Closed
+Application Current State
+HR Interview-Research Engineer (Quantum Technologies)
+Shortlist Published At
+Stage 2(Online Test-Research Engineer (Quantum Technologies)) - 24 Dec 2025 12:44:14Stage 4(HR Interview-Research Engineer (Quantum Technologies)) - 24 Dec 2025 12:45:25
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+BS (Research)
+M.Engg
+M.Tech
+M.Tech (Research)
+MS (Research)
+MSc
+PhD (Engineering)
+PhD (Science)
+Post Doc
+M.Des
+PhD (Integrated)
+Discipline
+All
+Eligibility
+Consistent academic records of 60% above OR Equivalent CGPA in 10th, 12th, Diploma (as
+applicable), UG and PG courses (aggregate of all semesters & subjects)
+Appropriate CGPA to percentage conversion to be considered as per the respective university
+norms. The scores of the Main or improvement exam would be considered as final.
+For candidates who have pursued both HSC and Diploma, marks scored in the Diploma course will
+be considered.
+
+
+
+Initial results (% scores) declared would be considered for students awaiting re-evaluation results.
+
+At the time of recruitment process, there must be no standing arrears in current education
+
+
+Not more than 2 years academic gap allowed. (SSC/HSC/Diploma/UG/PG)
+
+Skills
+Quantum Technology/Mathematics/Physics/Quantum Chemistry
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+
+---
+
+JOB OFFER LETTER SAMPLE COPY
+
+---
+
+DETAILED JOB DESCRIPTION
+This role will involve hands-on development of industry solutions using quantum
+technologies. The successful candidate: - Will be part of LTIMindtree’s Research - Emerging Technology Group, and will focus on
+applied research to develop quantum-powered software applications and solutions for
+various industries - Work with business units to identify and prioritize suitable Quantum Computing /Quantum
+Tech use cases - Implement / reproduce / adapt recent research papers. - Develop QC/QT proofs-of-concept, leading ultimately to commercially viable products and
+services - Engage with QC/QT vendors and academic partners - Participate in LTIMindtree’s quantum related collaboration projects with external partners.
+
+
+
+
+Required Skills & Competencies
+Math related skills: (Candidates should have good familiarity with 2 or more of the
+following) ----------------------------------------------------------------------------------------------------
+1. Strong in Linear Algebra
+2. Probability, Calculus and Statistics
+3. Differential Equations (ODE, PDE, SDE) (optional)
+4. Exposure to Combinatorial Optimization
+5. Exposure to ISING models (optional)
+6. Exposure to Information Theory (optional)
+Computer Science skills: (Candidates should have good familiarity with 3 or more of the
+following) ------------------------------------------------------------------------------------------------------
+1. Data structure and Algorithms. Familiarity with algorithm analysis.
+2. Programming language - Python
+3. Quantum programming frameworks like IBM Qiskit, AWS BraKet etc
+3. Basics of Machine Learning, Optimization, Graphs, and Algorithms on Graph preferable
+4. Exposure to the modeling of systems and simulations would be an added advantage.
+5. Working knowledge of PyTorch / TensorFlow / Keras (optional)
+Quantum Tech Skills: ---------------------
+1. Quantum Information Concepts and Foundations
+2. Quantum transformations, dynamics, Multi-qubit systems
+3. Quantum Algorithms (Grover, Deutsch–Jozsa, Quantum Fourier Transform, Quantum
+Phase Estimation, Shor's factoring algorithm etc)
+4. Ability to write gate-based programs to implement some of the above quantum
+algorithms
+5. Familiarity with Quantum Annealing paradigm
+6. Approximate & Variational Quantum Algorithms (QAOA, VQE variants)
+7. Understanding of Density Matrices & open quantum systems
+8. Knowledge of Quantum Error Correction (optional)
+9. Knowledge of Quantum Error Mitigation techniques (Optional)
+10. Exposure to basics of quantum hardware platforms (superconducting, neutral atom etc)
+Candidates who have taken courses in quantum physics, quantum information science or
+quantum computing would be preferred.
+The candidate should have interest in latest research developments in the quantum
+computing field and have the ability to read research literature and form a point of view.
+The candidate should have the ability to implement / adapt techniques in research paper for
+a given problem.
+Project / Internship experience in quantum computing applications or related areas is
+desirable.
+Candidates with research publications in Quantum Science or Information preferred.
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Mention the backlogs, Else NA (Text)
+
+Q2. Name of the Father (Text)
+
+Q3. Nationality (Text)
+
+Q4. Mention your permanent Residence state (Text)
+
+Q5. Mention your permanent Residence city (Text)
+
+================================================================================

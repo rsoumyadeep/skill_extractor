@@ -1,0 +1,121 @@
+================================================================================
+JOB: Solar Industries India Limited - Control & Simulation Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/3ba78d8b-3066-4b88-9ab7-fd69552210c4
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Solar Industries India Limited
+Job Domain
+Research & Development (R&D)
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Hyderabad
+Industry
+Aerospace and Defense
+Industry Sector
+Public
+Website URL
+https://solargroup.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+4,70,000 - 6,25,000
+First Year Annual Overall CTC
+14,00,000 - 18,50,000
+First Year Monthly Salary
+98,000 - 1,30,000
+First Year Overall CTC - Detailed Breakup
+Gross Salary - 98,000 - 1,30,000
+Annual Retention Bonus - 1,17,000 - 1,56,000
+Annual CTC - 14,00,000 - 18,50,000
+
+Note: The highest CTC structure will be considered exclusively for Dual Degree (Integrated) courses.
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+10-Dec-25 16:39:06
+Application Deadline
+12-Dec-25 16:38:16
+Time Left
+Closed
+Application Current State
+HR Interview-Control & Simulation Engineer
+Shortlist Published At
+Stage 2(Technical Interview-Control & Simulation Engineer) - 29 Dec 2025 18:24:10Stage 3(HR Interview-Control & Simulation Engineer) - 29 Dec 2025 18:24:45Stage 3(HR Interview-Control & Simulation Engineer) - 29 Dec 2025 18:24:45
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+All
+Discipline
+All
+Eligibility
+o Proficiency in MATLAB & Simulink programming, including the use of function files.
+o Familiarity with programming languages C/C++.
+o Basic knowledge of classical autopilot design principles.
+o Fundamental understanding of frequency response analysis.
+o Knowledge of Embedded C is a plus.
+Skills
+JD Attached
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Control & Simulation Engineer
+
+---
+
+DETAILED JOB DESCRIPTION
+Key Responsibilities:
+• Range Feasibility Studies:
+o Assist in developing and refining point mass and 3 Degrees of Freedom (DOF) models.
+o Support the modification of trajectory parameters to meet required specifications (range, terminal velocity, impact angle).
+o Participate in the dispersion analysis of unguided systems.
+• Modeling of Dynamic Systems:
+o Learn and apply 6 DOF dynamics and kinematics modeling in MATLAB & Simulink, utilizing the aerospace block set and control system toolbox.
+o Assist in modeling environmental disturbances such as wind, thrust misalignments, and center of gravity (CG) offsets.
+• Development of Guidance Schemes (Support Role):
+o Support the design and analysis of fundamental guidance schemes (e.g., Proportional Navigation (PN)) to meet mission requirements.
+o Assist in trajectory shaping analysis for guided systems.
+• Designing of Control Systems (Support Role):
+o Assist in autopilot design using classical control methods.
+o Learn to linearize dynamic systems to design autopilots using transfer function models.
+o Participate in analyzing control system performance and stability using tools like Bode and Nyquist Plots.
+o Support Hardware-in-the-Loop (HIL) and Software-in-the-Loop (SIL) simulations.
+• Perturbation Analysis (Support Role):
+o Assist with sensitivity analysis of various parameters.
+o Support Monte Carlo simulations to analyze performance within permissible perturbation bands.
+
+================================================================================

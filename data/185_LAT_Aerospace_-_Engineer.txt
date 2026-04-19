@@ -1,0 +1,152 @@
+================================================================================
+JOB: LAT Aerospace - Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/14a1394c-6cae-4a59-b773-5ecd9cf0e129
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+LAT Aerospace
+Job Domain
+Engineering
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Gurgaon
+Industry
+Aerospace and Defense
+Industry Sector
+Private
+Website URL
+https://www.lat.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+18,00,000
+First Year Annual Overall CTC
+28,00,000
+First Year Monthly Salary
+1,50,000
+First Year Overall CTC - Detailed Breakup
+Total comp - 28,00,000
+Base - 18,00,000
+ESOPS - 10 L (Vesting over 4 years - 10%, 20%, 30%, 40%)
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Nov-25 14:00:00
+Application Deadline
+26-Nov-25 19:31:07
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Group Discussion
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+All
+Discipline
+All
+Eligibility
+All departments will be able to apply
+Skills
+All departments will be able to apply
+Bond Details
+N/A
+
+---
+
+JD ATTACHMENTS
+Graduate Engineer
+
+---
+
+DETAILED JOB DESCRIPTION
+LAT Aerospace | Graduate Engineers
+Location: Gurgaon (on-site test locations may apply) 
+Type: Full-time | Entry-level
+
+
+We’re hiring engineers who build first, ask later.
+
+
+At LAT, we’re not just building an aircraft – we’re building a culture. One where the best ideas win, where speed matters more than perfection, and where engineers don’t wait for instructions—they chase breakthroughs. We’re developing a new kind of short takeoff and landing (STOL) aircraft with a hybrid-electric powertrain. To do that, we’re putting together one of the most hands-on, high-agency engineering teams in the country. If you’ve ever debugged a motor controller at 2 AM or reverse-engineered a problem no textbook could solve, you’ll fit right in.
+
+
+Choose Your Track:
+
+
+The Airshapers
+- Shape aerodynamic performance, stability, and control 
+- Build aero databases, validate CFD, wind tunnel, and flight test data
+Thrustsmiths
+- Design and model electric/hybrid propulsion systems 
+- Integrate motors, batteries, cooling, and thermal protection
+Signal Crew 
+- Develop flight computers, data buses, and sensor networks 
+- Build and test embedded avionics hardware
+Autopilots 
+- Design guidance laws and autopilot loops 
+- Build estimators, filters, and sensor fusion pipelines
+Firmware Forgers 
+- Write low-level code for critical systems 
+- Interface with sensors, actuators, and real-time controls
+Loadbearers 
+- Run FEA and stress analysis for airframe components 
+- Design and validate composite structures
+Builders' Guild 
+- Develop tooling, jigs, and fast prototyping processes 
+- Select and test aerospace-grade materials
+
+
+Who you are 
+- You don’t wait for permission to start solving problems 
+- You’ve built more than simulations: rigs, drones, bikes, rockets 
+- You can dive deep in one domain but jump across others when needed 
+- You thrive in chaos and learn fast when things break
+
+
+Bonus if you have 
+- Built in student tech teams: UAV, FSAE, Rocketry, Hyperloop, Satellite, etc. 
+- Tinkering experience: 3D printing, soldering, machining, hacking 
+- Projects in Python, Simulink, MATLAB, C/C++, CAD, FEA, RTOS Self-initiated builds, open-source contributions, or sub-team leadership
+
+
+Why LAT?
+- Core team opportunity at a high-conviction deep-tech startup
+- Real aircraft, real flying hardware, real impact
+- Build the future of sustainable aviation in India
+
+================================================================================

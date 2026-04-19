@@ -1,0 +1,121 @@
+================================================================================
+JOB: L&T Finance - GET– Analytics / AI / ML
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/76d2a428-47fe-4a5d-ad3a-696ba7a07d0f
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+L&T Finance
+Job Domain
+GET
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Mumbai / Bangalore
+Industry
+NBFC
+Industry Sector
+Private
+Website URL
+https://ltfinance.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+NA
+First Year Annual Overall CTC
+NA
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+Please find the CTC Details:
+
+B.Tech - 12.5 lpa
+M.Tech - 14 lpa
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+28-Nov-25 12:05:19
+Application Deadline
+29-Nov-25 13:01:35
+Time Left
+Closed
+Application Current State
+Online Test-GET– Analytics / AI / ML
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+Discipline
+B.Tech in Mathematics and Computing
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Artificial Intelligence
+Eligibility
+Educational Qualifications
+▪ Bachelor's degree in a relevant field such as Data Science, Statistics, Mathematics, Computer Science,
+or Finance
+Skills
+Functional Skills
+▪ Proficiency in programming languages such as Python or R
+▪ Knowledge of machine learning libraries (e.g., scikit-learn, TensorFlow, PyTorch)
+▪ Strong SQL skills for data extraction and manipulation
+▪ Understanding of statistical concepts and methods for hypothesis testing and probability
+▪ Familiarity with financial concepts, instruments, and markets
+▪ Familiarity with data visualization tools (e.g., Tableau, Power BI,etc)
+▪ Ability to translate financial questions into data-driven solutions
+▪ Excellent communication skills, both verbal and written
+▪ Strong analytical and problem-solving abilities
+▪ Ability to work collaboratively in a team-oriented environment
+▪ Ability to interpret results effectively and clearly communicate complex concepts and recommendations
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+JD-Analytics
+
+---
+
+DETAILED JOB DESCRIPTION
+JOB PURPOSE:
+The job role exists with the purpose of strengthening the established Analytics and Data Science Vertical within
+L&T Finance through application of analytics acumen to unsolved business goals. This role is a unique
+opportunity for aspiring data analysts, data engineers, data scientists and analytics leaders to be part of a
+FinTech@scale ecosystem. Role holders will be working with multiple functions including the Business, Analytics
+and AI, to gain expertise on the relevant business domain and apply in real time their Analytics/ BI/ Data
+Engineering/ Data Science/ ML/AI skills.
+
+================================================================================

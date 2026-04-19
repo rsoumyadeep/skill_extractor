@@ -1,0 +1,151 @@
+================================================================================
+JOB: Microsoft - Applied Scientist
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/ed46193f-1602-4a0f-94f9-f69ccec011f9
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Microsoft
+Job Domain
+Engineering
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Hyderabad
+Industry
+Engineering and Technology
+Industry Sector
+Private
+Website URL
+https://www.microsoft.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+18,00,000
+First Year Annual Overall CTC
+32,00,000
+First Year Monthly Salary
+2 Lakhs Approx
+First Year Overall CTC - Detailed Breakup
+PhD - IC2, 59
+Compa Ratio 1.1
+Base 1985500
+Incentive range 0-20%
+Incentive 397100
+Stocks Total in $ ($:87.5) 35000
+4-year stock value 3062500
+Stocks 1st Year in $ 8750
+Stocks 1st Year in INR 765625
+Total JB @25% of Base 496375
+JB 1st Year 248187.5
+Total Comp 59,41,475
+Total TTC 1st Year 3396412.5
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+16-Jan-26 14:15:00
+Application Deadline
+03-Feb-26 18:00:00
+Time Left
+Closed
+Application Current State
+HR Interview-Applied Scientist
+Shortlist Published At
+Stage 2(Resume Shortlisting-Applied Scientist ) - 03 Mar 2026 16:16:34Stage 3(Online Test-Applied Scientist ) - 03 Mar 2026 16:17:14Stage 9(HR Interview-Applied Scientist ) - 03 Mar 2026 16:17:42
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Online Test
+Pen & Paper Test
+Assignment
+Group Discussion
+Psychometric Assessment
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+PhD (Engineering)
+Discipline
+PhD Computational and Data Sciences
+PhD Computer Science and Automation
+PhD Electrical Communication Engineering
+PhD Electrical Engineering
+PhD Electronic Systems Engineering
+PhD Instrumentation and Applied Physics
+Eligibility
+CGPA - 7 Or Above
+No Active Backlogs
+Skills
+L2 Area Skill sets or Research areas
+M365 Copilot
+NLP, Prompt tuning, LLM as judge, Eval experience, hands-on industry experience building AI products, Localization to non-English languages, Privacy, RAI, Differential privacy methods, clustering, regression, boosting, RLHF, etc.
+M365 Core NLP, Prompt tuning, Post training (fine tuning, RL), LLM as judge, Eval experience, hands-on industry experience building models, Synthetic data generation, Differential privacy methods, Privacy, RAI, clustering, regression, boosting, RLHF, etc.
+OPG-Shamik
+Proficiency in Vision AI including visual understanding + layout intelligence for 2 Candidates for PowerPoint
+Exposure to Agentic flows preferable for all candidates
+Multimodal, Document Creation/Comprehension/Intelligence, Mobile exposure improves fit for OPG
+Remaining requirements aligned with M365 App since work is in the app domain: NLP, Prompt tuning, Evals, LLM as Judge, hands-on industry experience building AI products, Privacy, RAI, Post training (fine tuning, RL)
+Bond Details
+No
+
+---
+
+DETAILED JOB DESCRIPTION
+Overview
+Come build community, explore your passions and do your best work at Microsoft. This opportunity will allow you to bring your aspirations, talent, potential and excitement for the journey ahead.
+As an Applied Sciences Specialist, you will help instantiate new technology into production by advancing the state-of-the-art internally and externally to address product needs. You will act as the “and” in R&D by blending techniques of both researchers and development teams to drive innovation from theory into reality. This opportunity will allow you to work on the design, development, execution and implementation of technology research projects in collaboration with Research Scientists, software engineers, program managers and others, either serving as a catalyst for technology transfer into products and services or architecting and engineering such products and services directly.
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+Responsibilities
+You will gain an understanding of the latest research related to Microsoft products or business groups and assists in technology transfer attempts, contributing to patents, co-authoring white papers, developing or maintaining tools/services for internal Microsoft use, or consulting for product or business groups.
+You will gain an understanding of a broad area of research (e.g., Machine Learning, Natural Language Processing, Computer Vision, Statistical Modeling, Data-Driven Insights) and the corresponding literature and applicable research techniques.
+You will help reinforce a positive environment by learning and adopting best practices and maintain or develop ties with external network of peers and identify prospective talent for Microsoft research pipelines, when asked.
+You will assist with documentation for senior team members as requested and participate in the creation of informal documentation as well as follow ethics and privacy policies when executing research processes and/or collecting data/information.
+You will prepare data to be used for analysis by reviewing criteria that reflect quality and technical constraints and review data and suggests data to be included and excluded to address data quality problems
+You will embody our culture and values.
+Qualifications
+Currently pursuing a Doctorate Degree in Statistics, Econometrics, Computer Science, Electrical or Computer Engineering, or related field
+This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
+
+---
+
+ADDITIONAL DETAILS
+Mandatory link to apply: If you miss applying through this link, you will not be eligible for the process.: 
+
+
+https://apply.careers.microsoft.com/careers?query=200019177&start=0&location=India&pid=1970393556654901&sort_by=relevance&filter_include_remote=1
+
+
+JOB ID: 200019177
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Mandatory link to apply: If you miss applying through this link, you will not be eligible for the process.: https://apply.careers.microsoft.com/careers?query=200019177&start=0&location=India&pid=1970393556654901&sort_by=relevance&filter_include_remote=1 (Single Select)
+
+================================================================================

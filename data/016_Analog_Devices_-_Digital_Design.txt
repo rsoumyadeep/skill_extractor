@@ -1,0 +1,130 @@
+================================================================================
+JOB: Analog Devices - Digital Design
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/d3087a78-2ced-4da9-baa8-0c16d5d5423f
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Analog Devices
+Job Domain
+Digital Design
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bangalore
+Industry
+VLSI and Semiconductors
+Industry Sector
+Private
+Website URL
+https://www.analog.com/en/index.html
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+NA
+First Year Annual Overall CTC
+19L
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+NA
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+04-Mar-26 15:36:47
+Application Deadline
+06-Mar-26 10:00:58
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Digital Design
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+PhD (Engineering)
+Discipline
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+PhD Electrical Communication Engineering
+PhD Electrical Engineering
+PhD Electronic Systems Engineering
+M.Tech Signal Processing
+M.Tech Electronics & Communication Engineering
+M.Tech Microelectronics & VLSI Design
+Eligibility
+18. Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, or equivalent experience
+Skills
+Digital Circuit Design: Advanced expertise in complex digital circuit design and implementation
+Timing Closure: Strong capability in achieving timing closure on complex designs
+Power Optimization: Practical experience optimizing digital designs for power efficiency
+Mixed-Signal Integration: Ability to integrate digital blocks with analog/mixed-signal environments
+Digital Architecture: Competence in block-level architecture design and implementation
+Verification Methodologies: Thorough understanding of digital verification approaches and tools
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Analog Devices || FT || JD
+
+---
+
+DETAILED JOB DESCRIPTION
+About the Role
+As a Digital Design Engineer, you will lead block-level designs and verification efforts. You'll be responsible for complex digital systems, timing closure, and power optimization while mentoring junior engineers. This position requires deep understanding of digital design methodologies and the ability to interact with customers to gather requirements and provide technical solutions.
+Key Responsibilities
+*Lead block-level digital designs and verification activities
+*Develop and implement complex digital systems with focus on performance optimization
+* Ensure timing closure and power optimization for critical design blocks
+* Mentor junior engineers and provide technical guidance
+*Interface with customers to understand requirements and present technical solutions
+*Drive cross-functional collaboration to ensure cohesive system design
+
+
+Must Have Skills
+1. Digital Circuit Design: Advanced expertise in complex digital circuit design and implementation
+2. Timing Closure: Strong capability in achieving timing closure on complex designs
+3. Power Optimization: Practical experience optimizing digital designs for power efficiency
+4. Mixed-Signal Integration: Ability to integrate digital blocks with analog/mixed-signal environments
+5. Digital Architecture: Competence in block-level architecture design and implementation
+6. Verification Methodologies: Thorough understanding of digital verification approaches and tools
+
+---
+
+ADDITIONAL DETAILS
+NA
+
+================================================================================

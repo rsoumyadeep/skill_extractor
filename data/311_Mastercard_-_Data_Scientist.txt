@@ -1,0 +1,129 @@
+================================================================================
+JOB #311: Mastercard  - Data Scientist
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/a994071b-940a-4fd8-93b6-2cf92bbfb395
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Mastercard 
+Job Domain
+Data Science
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Gurgaon
+Industry
+FinTech
+Industry Sector
+Public
+Website URL
+https://www.mastercard.co.in
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+25,00,000
+First Year Annual Overall CTC
+31,05,000
+First Year Monthly Salary
+2,08,333
+First Year Overall CTC - Detailed Breakup
+Components Amount
+Base Pay
+25,00,000
+Performance Bonus 7% of base pay [Paid every year]
+1,75,000
+Joining Bonus [Paid one time at the time of joining]
+2,50,000
+National Pension Scheme-Optional benefit
+80,000
+Relocation Lumpsum (Only to outstation candidates)
+1,00,000
+Gross CTC 31,05,000
+Disclaimer: The monthly break is approximate, since it is subjective to other consideration
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Oct-25 16:00:00
+Application Deadline
+28-Oct-25 06:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Data Scientist
+Shortlist Published At
+Stage 2(Pre Placement Talk (ppt)-Data Scientist) - 24 Dec 2025 15:24:33Stage 3(Online Test-Data Scientist) - 24 Dec 2025 15:25:31Stage 4(Technical Interview-Data Scientist) - 24 Dec 2025 15:44:24
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Pre Placement Talk (ppt)
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+Discipline
+M.Tech Computational and Data Sciences
+M.Tech Electrical Engineering
+M.Tech Signal Processing
+M.Tech Artificial Intelligence
+M.Tech Computer Science & Engineering
+M.Tech Communication Networks
+M.Tech Electronics Systems Engineering
+Eligibility
+7.5 and above throughout from 10th till date
+Skills
+Python, R, SQL, Hadoop, Hive, Spark, GPU Clusters, Random Forest, GBM, KNN, SVM, Bayesian, Text Mining, MLP, CNN, LSTM/GRU, Deep Learning Production Systems, Strong Communication & Project Management
+Bond Details
+N/A
+
+---
+
+DETAILED JOB DESCRIPTION
+Our Vision
+AI Garage is responsible for establishing Mastercard as an AI powerhouse. AI will be leveraged and implemented at scale within Mastercard providing a foundational, competitive advantage for the future. All internal processes, all products and services will be enabled by AI continuously advancing our value proposition, consumer experience, and efficiency.
+Opportunity
+Join Mastercard's AI Garage @ Gurgaon, a newly created strategic business unit executing on identified use cases for product optimization and operational efficiency securing Mastercard's competitive advantage through all things AI. The AI professional will be responsible for the creative application and execution of AI use cases, working collaboratively with other AI professionals and business stakeholders to effectively drive the AI mandate.
+Role
+• Develop AI/ML solutions/applications leveraging the latest industry and academic advancements.
+• Strong theoretical understanding of statistical techniques, machine learning algorithms and their mathematical underpinnings.
+• Interpret and explain model predictions and insights to varied audiences.
+• Thrive in an unstructured environment, working autonomously on a strong team to find opportunity and deliver business impact.
+• Leverage open and closed source technologies to solve business problems.
+• Ability to work cross-functionally, and across borders drawing on a broader team of colleagues to effectively execute the AI agenda.
+• Partner with technical teams to implement developed solutions/applications in production environment.
+• Support a learning culture continuously advancing AI capabilities.
+All About You:
+Experience
+• Demonstrated passion for AI competing in sponsored challenges such as Kaggle.
+• Previous experience with or exposure to:
+o Deep Learning algorithm techniques, open-source tools and technologies, statistical tools, and programming environments such as Python, R, and SQL.
+o Big Data platforms such as Hadoop, Hive, Spark, GPU Clusters for deep learning.
+Disclaimer: The monthly break salary is approximate, since it is subjective to other consideration
+
+================================================================================

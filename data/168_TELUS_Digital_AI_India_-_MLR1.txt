@@ -1,0 +1,105 @@
+================================================================================
+JOB: TELUS Digital | AI India - MLR1
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/8c2bfea5-a9bb-4795-8081-2373479021e3
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+TELUS Digital | AI India
+Job Domain
+Machine Learning Researcher
+Job Type
+Full Time Placement
+Job Mode
+Hybrid
+Locations
+Bangalore
+Industry
+Computer Software Product
+Industry Sector
+Private
+Website URL
+https://www.telusdigital.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+24,00,000
+First Year Annual Overall CTC
+2400000 Base + 8% VP
+First Year Monthly Salary
+190000 Approx
+First Year Overall CTC - Detailed Breakup
+2400000 Base + 8% VP + GMC upto 5LPA
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+28-Nov-25 22:00:59
+Application Deadline
+29-Nov-25 22:00:06
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-MLR1
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+PhD (Engineering)
+PhD (Science)
+Post Doc
+PhD (Integrated)
+Discipline
+All
+Eligibility
+PHD /Post Doc Only
+Skills
+Refer the JD
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+**Core Mission:** To support the research team by executing well-defined experiments, diligently managing data and results, and learning the core research stack and methodologies.
+- **Key Responsibilities:**
+    - Experimental Execution: Implement, run, and meticulously log assigned NLP experiments (e.g., fine-tuning runs, prompt engineering tests, data augmentation impacts) under the close supervision of senior researchers
+    - Literature Review: Conduct thorough literature reviews on specific, assigned NLP topics (e.g., new transformer architectures, domain adaptation techniques, or evaluation metrics) to gather SOTA information and support new research hypotheses
+    - Data Curation: Assist in cleaning, augmenting, and maintaining the large-scale text corpora used for training and for our internal NLP benchmarks
+    - Code Maintenance: Help debug, document, and maintain the team's shared research codebases, particularly those related to data processing, model implementation (e.g., custom model layers), and evaluation scripts.
+- **Key Qualifications:**
+    - Bachelor's, Master's or Doctorate degree in Computer Science, ML, Statistics, or a related quantitative field.
+    - Strong theoretical understanding of fundamental ML concepts (e.g., cross-validation, gradient descent, model evaluation).
+    - Proficiency in Python and a major deep learning framework (e.g., PyTorch, TensorFlow).
+    - High attention to detail, strong organizational skills, and an eagerness to learn.
+- **Primary KPIs:** Task completion rate; Quality and reproducibility of experimental logs.
+
+================================================================================

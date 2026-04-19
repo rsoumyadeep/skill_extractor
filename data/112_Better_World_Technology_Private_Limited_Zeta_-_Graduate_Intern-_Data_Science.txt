@@ -1,0 +1,114 @@
+================================================================================
+JOB: Better World Technology Private Limited (Zeta) - Graduate Intern- Data Science
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/d9ecf81d-03e6-4124-8c0f-c7e62cdbc484
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Better World Technology Private Limited (Zeta)
+Job Domain
+Engineering
+Job Type
+Other Internship
+Job Mode
+Physical
+Locations
+Bangalore
+Industry
+Engineering and Technology
+Industry Sector
+Private
+Website URL
+https://www.zeta.tech/in
+Is PPO
+Yes
+Is Internship Open for International Students
+No
+Internship Duration
+2026-01 to 2026-07 (7 months)
+
+---
+
+STIPEND / SALARY DETAILS
+Stipend Details
+1,10,000
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+16-Dec-25 18:17:01
+Application Deadline
+17-Dec-25 17:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Graduate Intern- Data Science
+Shortlist Published At
+Stage 2(Technical Interview-Graduate Intern- Data Science ) - 27 Dec 2025 13:58:10
+
+---
+
+APPLICATION STAGES
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Mgt
+PhD (Engineering)
+Discipline
+All
+Eligibility
+Experience and Qualifications
+1)Bachelor's degree in engineering
+2) BTech
+3) MTech
+Skills
+In-depth working knowledge of current ML techniques, both supervised and unsupervised learning
+techniques
+• Implementation experience with classification, regression, pattern recognition, reinforcement
+learning, deep learning and optimizations
+• Excellent hold on core programming languages like Java / C++ / Python.
+• Updated with the latest trends in the machine learning community.
+• Strong math and analytical skills with business acumen
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+
+---
+
+DETAILED INTERNSHIP DESCRIPTION
+About the Role
+Research and test novel machine learning approaches and create predictive models and machine
+learning algorithms solving the core business problems
+
+
+Responsibilities
+• Ability to understand complex business problems
+• Research, analyze, and process structured and unstructured data
+• Organize and present information using data visualization technique
+• Work together with the engineering and product development teams to build and test ML/DL
+solutions.
+• Primarily own the entire life cycle of ML operations from data processing, model training,
+hyperparameter tuning, deployment, model management, and observability
+
+---
+
+ADDITIONAL DETAILS
+NA
+
+================================================================================

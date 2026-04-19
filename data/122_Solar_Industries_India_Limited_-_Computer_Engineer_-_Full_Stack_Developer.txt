@@ -1,0 +1,123 @@
+================================================================================
+JOB: Solar Industries India Limited - Computer Engineer - Full Stack Developer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/a744faef-5daf-4cd9-86e7-ef9130fa1b89
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Solar Industries India Limited
+Job Domain
+Research & Development (R&D)
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Hyderabad
+Industry
+Aerospace and Defense
+Industry Sector
+Public
+Website URL
+https://solargroup.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+4,70,000 - 6,25,000
+First Year Annual Overall CTC
+14,00,000 - 18,50,000
+First Year Monthly Salary
+98,000 - 1,30,000
+First Year Overall CTC - Detailed Breakup
+Gross Salary - 98,000 - 1,30,000
+Annual Retention Bonus - 1,17,000 - 1,56,000
+Annual CTC - 14,00,000 - 18,50,000
+
+Note: The highest CTC structure will be considered exclusively for Dual Degree (Integrated) courses.
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+11-Dec-25 18:30:06
+Application Deadline
+13-Dec-25 18:30:00
+Time Left
+Closed
+Application Current State
+HR Interview-Computer Engineer - Full Stack Developer
+Shortlist Published At
+Stage 2(Technical Interview-Computer Engineer - Full Stack Developer) - 29 Dec 2025 18:07:25Stage 3(HR Interview-Computer Engineer - Full Stack Developer) - 29 Dec 2025 18:08:55Stage 3(HR Interview-Computer Engineer - Full Stack Developer) - 29 Dec 2025 18:08:55
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+M.Tech (Research)
+PhD (Engineering)
+PhD (Integrated)
+Discipline
+All
+Eligibility
+Core Competencies:
+• Must have strong debugging skills and excellent problem-solving abilities.
+• Eagerness to learn new technologies and adapt to a fast-paced development environment.
+Soft Skills:
+• Excellent communication skills, both written and verbal.
+• Strong interpersonal skills for effective teamwork and collaboration.
+• Good presentation skills.
+
+Skills
+Technical Skills:
+• Proficiency in C/C++ programming languages.
+• Experience with Linux Operating Systems, including command-line interface and development environments.
+• Familiarity with the Qt framework for front-end development is preferred.
+• Basic understanding of SQL and database concepts.
+• Basic knowledge of Java is a plus.
+• Foundational knowledge in device drivers.
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Computer Engineer_Full Stack Developer
+
+---
+
+DETAILED JOB DESCRIPTION
+Key Responsibilities
+• Software Development: Develop clean, efficient, and reliable code primarily using C and C++ in a Linux environment.
+• Front-End Development Support: Assist in developing user interfaces using the Qt framework.
+• Database Management: Engage with SQL databases for data storage and management requirements.
+• System Integration & Validation: Participate in the integration, testing, and validation of software modules within the overall system architecture.
+• Debugging and Problem Solving: Utilize strong analytical skills to debug software issues, troubleshoot problems, and ensure robust system performance.
+• Device Driver Knowledge: Apply foundational knowledge of device drivers in a Linux operating system context.
+• Documentation and Collaboration: Work collaboratively with the engineering team, providing clear documentation of processes and results.
+
+================================================================================

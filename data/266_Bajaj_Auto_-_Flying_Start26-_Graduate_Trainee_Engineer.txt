@@ -1,0 +1,131 @@
+================================================================================
+JOB: Bajaj Auto - Flying Start'26- Graduate Trainee Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/d9cc58f3-4ada-4778-8a4d-5a4bc1fe5349
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Bajaj Auto
+Job Domain
+Engineering
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Pune, Bangalore
+Industry
+Engineering and Technology
+Industry Sector
+Private
+Website URL
+https://www.bajajauto.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+15,50,000
+First Year Annual Overall CTC
+21,74,000
+First Year Monthly Salary
+1,08,350
+First Year Overall CTC - Detailed Breakup
+*CTC subject to upward revision-
+
+Salary Components GTE (in LPA)
+Fixed Gross- 13.17
+Performance Reward- 2.33
+Insurance- 0.24
+CTC- 15.74
+Deferred Bonus- 6 lacs at 4 years from DOJ
+Total Remuneration- 21.74
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+04-Nov-25 10:45:00
+Application Deadline
+06-Nov-25 17:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Flying Start'26- Graduate Trainee Engineer
+Shortlist Published At
+Stage 2(Online Test-Flying Start'26- Graduate Trainee Engineer) - 26 Dec 2025 16:36:15Stage 3(Technical Interview-Flying Start'26- Graduate Trainee Engineer) - 26 Dec 2025 16:38:41
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+Discipline
+M.Tech (Research) Department of Design and Manufacturing
+M.Tech Centre of Excellence in Advanced Mechanics of Materials
+M.Tech Department of Design and Manufacturing
+M.Tech Mechanical Engineering
+M.Tech Smart Manufacturing
+M.Tech Mobility Engineering
+M.Tech Robotics and Autonomous Systems
+Eligibility
+1. Minimum of 70% in 10th,12th and Undergraduate.
+2. Diploma candidates are ineligible.
+3. Candidates with Gap of more than 1 year between 12th and UG are ineligible.
+4. Also, candidates with gap of more than 1 year between UG & PG (work-ex duration not to be counted for gap year calculation) are ineligible.
+Skills
+➢ Strong fundamentals in Mechanical, Automobile, or related engineering domains.
+➢ Knowledge of vehicle systems, design validation, and testing methods.
+➢ Strong analytical and problem-solving skills.
+➢ Ability to work independently and in cross-functional teams.
+➢ Keen interest in mobility innovation and adopting emerging technologies.
+Bond Details
+No
+
+---
+
+DETAILED JOB DESCRIPTION
+About BAL R&D-
+Bajaj Auto Limited (BAL) runs one of the most advanced automotive R&D centers in Asia, backed by years of expertise in technology, design, and innovation. With 1,500+ engineers and over 1,200 patents across India and 20+ countries, BAL R&D is the powerhouse driving Bajaj’s reputation as a global leader in engineering excellence. By continuously investing in infrastructure, digital tools, and talent, Bajaj R&D sets new benchmarks in performance, reliability, and future-ready mobility solutions. There are primarily 2 areas that BAL R&D GTEs can be deployed in, Design and Testing & Validation.
+As a Graduate Trainee Engineer (GTE) in Design, you will lead the end-to-end design and development of next-generation Bajaj vehicles — from concept and layout to production readiness. You’ll work in horizontal teams (Powerpack, Structural & Transmission, Rolling Chassis, Engine, Lighting, etc.) or vertical teams (Vehicle, Powertrain), collaborating across disciplines to deliver integrated, production-ready designs. In Testing & Validation, you will ensure that every Bajaj vehicle meets the highest standards of performance, durability, and safety. You’ll work on both physical and virtual validation, pushing designs to their limits and ensuring excellence before they hit the road.
+
+
+
+
+Key Responsibilities
+➢ End-to-End Product Development: Lead vehicle and component design from concept definition to production readiness.
+➢ Benchmarking & Target Setting: Define weight, cost, and performance goals through competitive benchmarking and ensure adherence to project budgets.
+➢ 3D Modeling & Engineering Analysis: Develop layouts, perform vehicle-level calculations, and establish hard points and modular variants.
+➢ Design & Validation Planning: Create and execute Design Verification & Validation Plans (DVVPs) and Design Verification Plans (DVPs).
+➢ Physical Testing & Validation: Conduct component, system, and full-vehicle testing using advanced rigs and on-road evaluations for durability, NVH, and ride performance.
+➢ Virtual Simulation: Use CAE and CFD tools to simulate structural, thermal, and fluid performance, optimizing designs before prototyping.
+➢ Electrical & Electronic Validation: Verify EE systems for EMI/EMC compliance and functional reliability.
+➢ Prototype to SOP Support: Participate in prototype builds, pilot runs, and Start of Production (SOP) activities, resolving design and manufacturability concerns.
+➢ Optimization & Value Engineering: Drive improvements for Durability, NVH, DFA, DFS, DFM, and contribute Value Analysis/Value Engineering (VA/VE) initiatives.
+➢ Cross-Functional Collaboration: Work closely with R&D, Manufacturing, Quality, Sourcing, and Testing teams to ensure seamless project execution.
+➢ Data-Driven Insights: Analyze test data, prepare technical reports, and contribute to continuous design and process enhancement.
+
+================================================================================

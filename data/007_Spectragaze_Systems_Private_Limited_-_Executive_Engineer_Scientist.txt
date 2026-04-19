@@ -1,0 +1,110 @@
+================================================================================
+JOB: Spectragaze Systems Private Limited - Executive Engineer / Scientist
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/2dc65f79-2ae9-4e17-b701-8d63beed44d4
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Spectragaze Systems Private Limited
+Job Domain
+Engineering
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Hyderabad, Bangalore, Ahmedabad
+Industry
+Aerospace and Defense
+Industry Sector
+Private
+Website URL
+https://spectragaze.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+12,00,000
+First Year Annual Overall CTC
+15,00,000
+First Year Monthly Salary
+1,00,000
+First Year Overall CTC - Detailed Breakup
+Performance linked incentive or variable pay upto 3 lacs will be included with the base salary.
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+3
+Application Start Time
+18-Mar-26 11:34:43
+Application Deadline
+20-Mar-26 23:59:51
+Time Left
+10h:21m:17s
+Application Current State
+PUBLISHED
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Psychometric Assessment
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+BS (Research)
+M.Engg
+M.Tech
+Discipline
+B.Tech in Mathematics and Computing
+BS (Research) in Physics
+M.Engg in Semiconductor Technology
+M.Tech Aerospace Engineering
+M.Tech Electronic Systems Engineering
+M.Tech in Instrumentation Systems
+M.Tech Physics
+M.Tech Signal Processing
+M.Tech Electronics & Communication Engineering
+M.Tech Microelectronics & VLSI Design
+Eligibility
+Candidates applying for these positions should have a strong academic background with a minimum CGPA of 7 or above at the undergraduate level and all backlogs should be cleared.
+
+Skills
+CAD,Ansys,Solidworks,Zeemax,ASIC,Verilog/VHDL,FPGA Design,PCB Design,IC Design,IC Testing,Spice,Matlab, Python,C,C++, etc.
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+SpectraGaze is a Defense and Space sensor manufacturing company focused on developing advanced sensing technologies including hyperspectral imaging, machine vision systems, and AI-driven material analysis platforms. Our solutions are designed for applications in industrial inspection, aerospace, defense, environmental monitoring, and advanced material characterization. We are building next-generation imaging systems that combine physics, optics, electronics, mechanical and artificial intelligence to detect defects, analyze material composition, and identify spectral signatures beyond the capability of conventional cameras.
+We are seeking talented Electronics Engineers, Physics Engineers and Optics Engineers to join our core technology development team. The role involves working on the design, development, and integration of advanced imaging and sensing hardware. Candidates will contribute to the development of hyperspectral imaging systems, spectrometers, and machine vision platforms by combining knowledge from electronics, optical engineering, and applied physics.
+The Electronics Engineer will be responsible for designing and developing electronic hardware for imaging systems, including embedded electronics, signal acquisition systems, sensor interfacing, and high-speed data transfer architectures. The role involves developing analog and digital circuits, integrating imaging sensors, working with microcontrollers or FPGA-based platforms, and supporting hardware prototyping and testing. Experience in embedded systems, PCB design, data acquisition, and sensor integration will be valuable for this position.
+The Optics Engineer will focus on the design and optimization of optical systems used in hyperspectral imaging and spectroscopic devices. Responsibilities include designing optical assemblies such as lenses, diffraction gratings, collimators, and slit systems used in spectrometers and imaging cameras. The engineer will perform optical modeling and simulation to optimize spectral resolution, signal efficiency, and imaging performance. Knowledge of optical design software and practical experience in imaging optics, spectroscopy, or photonics will be advantageous.
+The Physics Engineer or Scientist will work on understanding and modeling light–matter interactions, spectral analysis, and sensor physics related to hyperspectral imaging and material identification. The role includes developing algorithms and models for spectral data interpretation, calibration of imaging systems, and designing experiments to characterize materials using spectral signatures. Candidates with a strong background in spectroscopy, radiation physics, optical physics, and scientific computing will be well suited for this role.
+Candidates should have a Bachelor’s or Master’s in Electronic Science and Engineering , Applied Physics, Engineering Physics, Photonics, or related disciplines. Experience in areas such as hyperspectral imaging, spectroscopy, machine vision systems, signal processing, embedded hardware development, or scientific instrumentation will be considered an advantage.
+
+================================================================================

@@ -1,0 +1,136 @@
+================================================================================
+JOB: Airbus - Associate Engineer - Loads and Aeroelasticity
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/8a82a10e-76c6-4995-903a-9c333b3ea3c6
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Airbus
+Job Domain
+Aerospace
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bangalore
+Industry
+Aerospace and Defense
+Industry Sector
+Private
+Website URL
+https://www.airbus.com/en/about-us/our-worldwide-presence/airbus-in-asia-pacific/airbus-in-india
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+11,00,000
+First Year Annual Overall CTC
+11,00,000
+First Year Monthly Salary
+91,666 [Approximately as it includes Variable pay]
+First Year Overall CTC - Detailed Breakup
+11,00,000 LPA
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+14-Nov-25 22:15:27
+Application Deadline
+15-Nov-25 22:10:39
+Time Left
+Closed
+Application Current State
+Technical Interview-Associate Engineer - Loads and Aeroelasticity
+Shortlist Published At
+Stage 2(Online Test-Associate Engineer - Loads and Aeroelasticity) - 26 Dec 2025 16:59:17Stage 3(Technical Interview-Associate Engineer - Loads and Aeroelasticity) - 26 Dec 2025 17:00:53
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Engg
+M.Tech
+M.Tech (Research)
+PhD (Engineering)
+Discipline
+M.Tech (Research) Aerospace Engineering
+M.Tech (Research) Centre of Excellence in Advanced Mechanics of Materials
+M.Tech Aerospace Engineering
+M.Tech Centre of Excellence in Advanced Mechanics of Materials
+M.Tech Mechanical Engineering
+PhD Aerospace Engineering
+PhD Mechanical Engineering
+Eligibility
+Bachelors or Masters degree in Aeronautical, Mechanical engineering or related disciplines
+
+Skills
+Flight mechanics
+Basic Aerodynamics
+Structural dynamics
+Control theory
+Programming skills in MATLAB, Python are a plus
+Bond Details
+NA
+
+---
+
+JOB OFFER LETTER SAMPLE COPY
+
+---
+
+DETAILED JOB DESCRIPTION
+We are seeking a Loads & Aeroelastics Engineer to join our team, responsible for delivering loads and aeroelastics solutions throughout the aircraft lifecycle, from development to in-service support.
+
+
+Your key responsibilities will include:
+Modelling and simulating aircraft aerodynamics, inertia, flexibility, landing gear, control systems, and flight mechanics. Your work will be critical in calculating and analyzing all external loads on the aircraft, including those from manoeuvres, turbulence, landing impacts, ground-handling etc.
+Ensuring that the aircraft remains free of flutter and other aeroelastic phenomena across its entire operating envelope through detailed modelling and analysis of aircraft structural dynamics.
+Deliver aircraft loads and aeroelastics documentation and data essential for the safe dimensioning of the aircraft structure and for achieving certification in accordance with time, cost, and quality standards.
+Provide recommendations for aircraft design, development processes, new technologies, and in-service operations, all related to the loads and aeroelastics field.
+ Apply all relevant quality assurance processes, such as lessons learned, continuous improvement, and adherence to Quality Gates.
+
+
+Education & Experience
+Bachelors or Masters degree in Aeronautical, Mechanical engineering or related disciplines
+​
+Required Technical Expertise:
+Flight mechanics
+Basic Aerodynamics
+Structural dynamics
+Control theory
+Programming skills in MATLAB, Python are a plus
+
+
+Soft Skills
+ Teamwork (high priority!)
+ Good communication skills
+ Willingness to learn new skills, self-development
+Problem-solving orientation
+
+================================================================================

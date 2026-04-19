@@ -1,0 +1,130 @@
+================================================================================
+JOB: Baya Systems - ASIC Hardware Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/98a113be-ea59-465f-84d6-cce8d21bdae3
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Baya Systems
+Job Domain
+VLSI and Semiconductors
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+VLSI and Semiconductors
+Industry Sector
+Private
+Website URL
+https://bayasystems.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+20L
+First Year Annual Overall CTC
+27L
+First Year Monthly Salary
+1,66,666
+First Year Overall CTC - Detailed Breakup
+Will attach a detailed breakup
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+06-Nov-25 14:48:20
+Application Deadline
+07-Nov-25 15:00:00
+Time Left
+Closed
+Application Current State
+Pen & Paper Test-ASIC Hardware Engineer
+Shortlist Published At
+Stage 2(Pen & Paper Test-ASIC Hardware Engineer) - 24 Dec 2025 15:12:27
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Pen & Paper Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+Discipline
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech Signal Processing
+M.Tech Electronics & Communication Engineering
+M.Tech Semiconductor Technology
+M.Tech Microelectronics & VLSI Design
+M.Tech Communication Networks
+Eligibility
+A CGPA criteria of 7.5 and no active plus passive backlogs in current or previous degree (This includes cleared backlogs)
+Skills
+Skills:
+● Technical: Preferred understanding of Verilog or System Verilog; experience with
+Python is a plus.
+● Soft Skills: Strong problem-solving mindset, a willingness to learn, and effective
+communication skills.
+● Passion for Growth: Driven to expand knowledge in VLSI design, verification, and
+cutting-edge semiconductor technologies.
+Bond Details
+No bond, clawback of 1 year against joining bonus
+
+---
+
+JD ATTACHMENTS
+ASIC Hardware Engineer
+
+---
+
+JOB OFFER LETTER SAMPLE COPY
+Salary Breakdown
+
+---
+
+DETAILED JOB DESCRIPTION
+As an ASIC Hardware Engineer, you will learn and contribute to the development and
+implementation of microarchitectures for complex and configurable IPs. You will gain
+practical experience with RTL coding to optimize performance, power, and area. This
+role involves collaboration with the verification team to understand test planning and
+testbench development, with a specific focus on key chip interconnects and
+Network-on-Chip (NoC) designs.
+
+---
+
+ADDITIONAL DETAILS
+Skills:
+● Technical: Preferred understanding of Verilog or System Verilog; experience with
+Python is a plus.
+● Soft Skills: Strong problem-solving mindset, a willingness to learn, and effective
+communication skills.
+● Passion for Growth: Driven to expand knowledge in VLSI design, verification, and
+cutting-edge semiconductor technologies.
+
+================================================================================

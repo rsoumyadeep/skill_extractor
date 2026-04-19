@@ -1,0 +1,18 @@
+================================================================================
+JOB: Wipro - Research Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/72df7efe-011e-4147-9630-c23659f03ef6
+================================================================================
+
+Education: Bachelors/Master’s from a top-tier institute in Computer Science, AI, or related field.
+1–5+ years in applied ML/AI roles
+Expert in Python, strong in at least one deep-learning framework (PyTorch/TensorFlow).
+Experience with end-to-end ML pipelines (data prep, training, evaluation, deployment, monitoring).
+Proven success shipping ML-powered products not just models to real users.
+Hands-on with MLOps tooling (MLflow, Weights & Biases, DVC, Airflow, Prefect, etc.).
+Knowledge of containerized deployments (Docker, ECS, K8s) and CI/CD for ML.
+Strong fundamentals in statistics, experimentation, and interpreting real-world feedback.
+Experience optimizing/operating GPU inference (ONNX, TensorRT, mixed precision, batching).
+Familiar with vector databases, RAG pipelines, and LLM fine-tuning/adapters (LoRA/QLoRA).
+Exposure to observability stacks (Prometheus/Grafana/OpenTelemetry) and production logging/metrics.
+
+================================================================================

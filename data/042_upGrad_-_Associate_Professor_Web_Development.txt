@@ -1,0 +1,228 @@
+================================================================================
+JOB: upGrad - Associate Professor – Web Development
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/06042647-8dee-49ac-8743-efe319cf7189
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+upGrad
+Job Domain
+Education
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Education & EdTech
+Industry Sector
+Private
+Website URL
+https://www.upgrad.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+4,62,000
+First Year Annual Overall CTC
+12,00,000
+First Year Monthly Salary
+₹81,700/month
+First Year Overall CTC - Detailed Breakup
+Basic: ₹4,62,000
+HRA: ₹1,84,800
+Special Allowance: ₹4,54,538
+Statutory Bonus: ₹21,000
+Gross: ₹11,22,338
+
+Employer PF: ₹55,440
+Gratuity: ₹22,222
+
+Fixed CTC: ₹11,22,338
+Total CTC: ₹12,00,000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+18-Feb-26 11:38:32
+Application Deadline
+19-Feb-26 12:00:54
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Associate Professor – Web Development
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+PhD (Engineering)
+Discipline
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech Computer Science and Engineering
+M.Tech Mathematics
+PhD Computational and Data Sciences
+PhD Computer Science and Automation
+PhD Mathematics
+M.Tech Computer Science & Engineering
+M.Tech Computer Science and Automation
+Eligibility
+Final-year M.Tech student or Ph.D. scholar in CSE, IT, ECE, Data Science, AI/ML, or related fields
+Educators with prior teaching experience in Computer Science, Web Development, or Software Engineering (college-level or institute-level)
+Strong grasp of Web Development (Frontend / Backend / Full-Stack) and CS fundamentals
+Passion for teaching, mentoring, and academic innovation
+Excellent communication, coding clarity, and presentation skills
+Enthusiasm for modern engineering education and shaping future tech talent
+
+Skills
+Strong understanding of Frontend, Backend, or Full-Stack Web Development
+Hands-on experience with:
+HTML, CSS, JavaScript, TypeScript
+React, Angular, or Vue
+Node.js, Express, REST APIs
+Databases: SQL / NoSQL
+Version Control: Git & GitHub
+Cloud basics: AWS / GCP / Azure (preferred)
+Strong knowledge of Computer Science fundamentals:
+Operating Systems
+Database Management Systems
+Computer Networks
+Object-Oriented Programming & Design Patterns
+Data Structures & Algorithms with problem-solving skills
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+JD - Associate Professor (Web Development)
+
+---
+
+JOB OFFER LETTER SAMPLE COPY
+Sample Offer Letter
+
+---
+
+DETAILED JOB DESCRIPTION
+Location: Bangalore (On-Site)
+Employment Type: Full-Time Offer
+Experience: 0–5 Years
+Compensation: Compensation will be at par with industry standards and will be determined based on the candidate’s experience, technical skills, and overall interview performance.
+
+
+Eligible Candidates
+Final-year or recently graduated M.Tech candidates seeking a full-time opportunity
+Ph.D. scholars in Computer Science, Engineering, or related technology domains
+Candidates from the teaching/academic field (Assistant Professors, Lecturers, Teaching Assistants, Academic Instructors) with strong domain knowledge in Web Development / Computer Science / Software Engineering
+Individuals passionate about Computer Science, Web Development, AI, Cloud, and Engineering Education
+
+
+About uGSOT
+upGrad School of Technology (uGSOT) is a next-generation engineering education initiative designed to transform how computer science and software engineering are taught in India. As part of upGrad — South Asia’s largest higher education technology platform empowering millions of learners globally — uGSOT blends rigorous academic foundations with industry-driven practice and emerging technologies to prepare engineers for the future of work.
+Unlike traditional programs, uGSOT partners with leading universities to offer UGC-recognised technology programs that integrate hands-on project work, modern technology stacks, AI and Cloud emphasis, and industry mentorship from practicing engineers. The curriculum is continuously updated to reflect the latest in software development, deep tech, and real-world engineering needs, helping graduates stay ahead in a rapidly changing tech landscape.
+The School focuses on immersive learning experiences, including full-stack development, cloud computing, AI tools, real-world projects, and practical labs, ensuring learners not only understand concepts but also build solutions that mirror real industry problems. uGSOT’s mission is to create a new generation of engineers who are technically exceptional and innovation-ready for tomorrow’s challenges.
+
+
+About the Role
+We are seeking passionate engineers and educators to join us as Software Development Engineers & Web Development Subject Matter Experts.
+This role involves contributing to hands-on learning, curriculum innovation, project development, and modern engineering education.
+You will receive comprehensive, practical training on essential skills—technical, pedagogical, content creation, teaching tools, and EdTech systems.
+The role blends technical engineering, academic creativity, and next-gen teaching, helping you strengthen both your engineering depth and instructional abilities.
+
+
+What You Will Do
+1. Academic Content & Curriculum Creation
+Develop high-quality academic assets, including:
+Lesson plans
+Coding assignments
+Real-world lab exercises
+End-to-end mini and capstone projects
+Create industry-aligned modules centered on Web Development, Cloud, Computer Science fundamentals, AI tools, and modern engineering practices.
+Translate complex engineering concepts into simple, engaging learning experiences.
+2. Project & Case Study Development
+Build real-world case studies mirroring industry problems
+Design practical engineering challenges for hands-on implementation
+Contribute to project repositories, documentation, and solution architectures
+3. Teaching & Student Engagement Support
+Assist and co-facilitate technical classes, coding labs, practicals, and tutorial sessions
+Conduct live demos, debugging walkthroughs, simulations, and micro-teaching sessions
+Mentor students on projects, code quality, design principles, and technical best practices
+4. Technology Tools & Academic Systems
+Work with LMS platforms, digital evaluation systems, and content delivery tools
+Track learner progress and support continuous learning using AI-driven systems
+Participate in peer learning, skill reviews, and teaching effectiveness assessments
+5. Continuous Learning & Innovation
+Stay updated with new Web technologies, frameworks, and engineering trends
+Experiment with AI-driven tools for teaching, automation, and content creation
+Contribute to the evolution of an industry-oriented, future-ready technology curriculum
+
+
+Technical Skills
+Strong understanding of Frontend, Backend, or Full-Stack Web Development
+Hands-on experience with:
+HTML, CSS, JavaScript, TypeScript
+React, Angular, or Vue
+Node.js, Express, REST APIs
+Databases: SQL / NoSQL
+Version Control: Git & GitHub
+Cloud basics: AWS / GCP / Azure (preferred)
+Strong knowledge of Computer Science fundamentals:
+Operating Systems
+Database Management Systems
+Computer Networks
+Object-Oriented Programming & Design Patterns
+Data Structures & Algorithms with problem-solving skills
+
+
+Ideal Candidate Profile
+Final-year M.Tech student or Ph.D. scholar in CSE, IT, ECE, Data Science, AI/ML, or related fields
+Educators with prior teaching experience in Computer Science, Web Development, or Software Engineering (college-level or institute-level)
+Strong grasp of Web Development (Frontend / Backend / Full-Stack) and CS fundamentals
+Passion for teaching, mentoring, and academic innovation
+Excellent communication, coding clarity, and presentation skills
+Enthusiasm for modern engineering education and shaping future tech talent
+
+
+What You Gain
+Experience in an EdTech-driven engineering school at the cutting edge of CS, AI, and Cloud
+Opportunity to build a strong academic and technical instructional portfolio
+Hands-on mastery in curriculum design, project building, and learning experience creation
+Exposure to next-gen teaching tools, AI-based learning systems, and digital pedagogy
+A career pathway blending engineering, teaching, content creation, and innovation
+
+
+Why Join Us?
+At upGrad School of Technology, you’re not just teaching — you’re shaping engineers who will build the future.
+You’ll work with cutting-edge technologies, create impactful learning experiences, and grow as both an engineer and an educator.
+
+================================================================================

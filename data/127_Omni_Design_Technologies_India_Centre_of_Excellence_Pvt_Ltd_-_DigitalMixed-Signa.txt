@@ -1,0 +1,113 @@
+================================================================================
+JOB: Omni Design Technologies India Centre of Excellence Pvt. Ltd. - Digital/Mixed-Signal IC Design Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/843fa4e8-d576-43d5-ac1d-2245f247f057
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Omni Design Technologies India Centre of Excellence Pvt. Ltd.
+Job Domain
+Digital IC design
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bengaluru
+Industry
+VLSI and Semiconductors
+Industry Sector
+Private
+Website URL
+https://www.omnidesigntech.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+886404 rupess per Annum
+First Year Annual Overall CTC
+2021600 rupess per Annum
+First Year Monthly Salary
+166467 per Month
+First Year Overall CTC - Detailed Breakup
+Apart from the above we provide stock options to each employee, as we are not a listed company the value of stock options can’t be disclosed.
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+10-Dec-25 15:30:00
+Application Deadline
+11-Dec-25 16:00:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Digital/Mixed-Signal IC Design Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech (Research)
+Discipline
+M.Tech (Research) Electrical Engineering
+Eligibility
+• B.Tech/M.Tech/PhD in Electronics and Electrical engineering
+Skills
+• Good knowledge of Verilog RTL coding including state machines, adders, multipliers, combinatorial logic, etc
+• Good understanding of digital design for mixed signal control loops and designing Verilog code to control analog circuits (e.g. digital backend for ADC, digital PLL, etc)
+• Familiarity with behavioral Verilog code, including wreals
+• Ability to write thorough testbenches
+• Preferred knowledge of synthesis tool
+• Basic understanding of SystemVerilog and assertions preferred
+• Familiarity with place and route tool flow preferred but not mandatory
+• MATLAB understanding would be preferred but not mandatory
+• Deep understanding of constraints, especially for mixed-signal designs, including multiple clock domains and clock gating
+Bond Details
+None
+
+---
+
+JOB OFFER LETTER SAMPLE COPY
+Salary and Perks
+
+---
+
+DETAILED JOB DESCRIPTION
+Digital/Mixed-Signal Design Engineer focusing on high-performance analog-to-digital and digital-to-analog converters. Job responsibilities include development and verification of the digital circuits for high performance data converters, behavioral modeling, customer support, and assisting with synthesis and place-and-route
+Qualifications
+• B.Tech/M.Tech/PhD in Electronics and Electrical engineering
+• Good knowledge of Verilog RTL coding including state machines, adders, multipliers, combinatorial logic, etc
+• Good understanding of digital design for mixed signal control loops and designing Verilog code to control analog circuits (e.g. digital backend for ADC, digital PLL, etc)
+• Familiarity with behavioral Verilog code, including wreals
+• Ability to write thorough testbenches
+• Preferred knowledge of synthesis tool
+• Basic understanding of SystemVerilog and assertions preferred
+• Familiarity with place and route tool flow preferred but not mandatory
+• MATLAB understanding would be preferred but not mandatory
+• Deep understanding of constraints, especially for mixed-signal designs, including multiple clock domains and clock gating
+
+================================================================================

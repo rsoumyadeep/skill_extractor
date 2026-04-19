@@ -1,0 +1,133 @@
+================================================================================
+JOB: Sandisk India Device Design Center - Staff Engineer – Packaging Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/957e65ad-53f0-4a1c-8663-52f887e83569
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Sandisk India Device Design Center
+Job Domain
+Packaging Engineer (Modeling & Simulation)
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bengaluru
+Industry
+VLSI and Semiconductors
+Industry Sector
+Private
+Website URL
+https://www.sandisk.com/en-in/company/about-us
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+24,00,000
+First Year Annual Overall CTC
+36,50,000
+First Year Monthly Salary
+1,65,000
+First Year Overall CTC - Detailed Breakup
+Please find below the proposed compensation package for a PhD NCG joining in 2026:
+
+- Base compensation - 24,00,000
+- Joining Bonus - 450,000
+- RSU Offering - 8,00,000 ($ 9525)
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+18-Nov-25 16:55:00
+Application Deadline
+19-Nov-25 17:00:00
+Time Left
+Closed
+Application Current State
+HR Interview-Staff Engineer – Packaging Engineer
+Shortlist Published At
+Stage 2(Resume Shortlisting-Staff Engineer – Packaging Engineer ) - 26 Dec 2025 11:58:42Stage 4(Technical Interview-Staff Engineer – Packaging Engineer ) - 26 Dec 2025 12:59:29Stage 5(HR Interview-Staff Engineer – Packaging Engineer ) - 26 Dec 2025 15:22:54
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+36
+Maximum Job Experience
+-
+Programme
+PhD (Engineering)
+PhD (Integrated)
+Discipline
+PhD Mechanical Engineering
+Eligibility
+PhD in Mechanical Engineering, or M.S. in Mechanical Engineering plus >3 years of relevant industrial experience.
+
+CGPA - 7& Above
+Skills
+• Strong oral and written communication skills.
+• Demonstrated a strong work ethic.
+• Ability to work in a global team environment and interact with other engineers to define and implement experiments and conduct relevant simulations for feasibility and validation of concepts, and provide design solutions to support new package technology development.
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Packaging Engineer - Modelling & Simulation
+
+---
+
+DETAILED JOB DESCRIPTION
+ESSENTIAL DUTIES AND RESPONSIBILITIES:
+As a Packaging Engineer, you will work in the Packaging R&D group on the modelling and simulation, design of experiments and testing across semiconductor packaging, flash memory product and host levels.
+• Responsible for influencing package and product design by addressing structural integrity and reliability issues and advancing the technology of semiconductor packaging in general. The scope is to address all mechanical aspects of packaging technology, including associated materials and processes. The focus will be on solutions to meet increased demands for small form factors and high-performance packages with thinner chips, more chips, denser interconnects, higher power, and higher reliability.
+• Responsible for the modelling and simulation, design of experiment, and testing, whichever comes first for best engineering practice, of mechanical responses of IC package and flash products, including solid state drives.
+• This position will interface with package & product design, electrical and physical characterization, reliability testing, failure analysis, assembly R&D and other process teams.
+• A solid background in applied mechanics, especially computational and/or experimental solid mechanics, is required. In-depth knowledge of IC packaging is highly desired.
+Qualifications
+REQUIRED:
+• PhD in Mechanical Engineering, or M.S. in Mechanical Engineering plus >3 years of relevant industrial experience.
+• Solid knowledge through academic coursework or experience required in mechanical engineering of IC packaging and related areas.
+• Strong background in computational solid mechanics and/or experimental solid mechanics with emphasis on failure analysis and design of experiments.
+• Broad knowledge of mechanical behaviors of various material types, including composite laminates, polymers, and metals (e.g., solder).
+• Working knowledge of designing and conducting mechanical testing and/or using a commercial FEA package.
+• Good understanding of general semiconductor packaging processes, materials, technology, and trends, such as substrate design and manufacturing, moulding, wire-bonding, die attach, flip chip, etc.
+SKILLS:
+• Strong oral and written communication skills.
+• Demonstrated a strong work ethic.
+• Ability to work in a global team environment and interact with other engineers to define and implement experiments and conduct relevant simulations for feasibility and validation of concepts, and provide design solutions to support new package technology development.
+
+---
+
+ADDITIONAL DETAILS
+CGPA - 7 & Above
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Email ID & Mobile Number (Text)
+
+================================================================================

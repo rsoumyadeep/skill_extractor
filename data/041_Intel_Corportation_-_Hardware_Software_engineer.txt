@@ -1,0 +1,121 @@
+================================================================================
+JOB: Intel Corportation - Hardware / Software engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/4cbc8fc8-4d55-4131-9405-e240b2f4757f
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Intel Corportation
+Job Domain
+Hardware / Software engineer
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Hardware / Software engineer
+Industry
+VLSI and Semiconductors
+Industry Sector
+Private
+Website URL
+https://www.intel.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+NA
+First Year Annual Overall CTC
+NA
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+Annual CTC: Base : 16.86L + 6L HB +3L LTRCA
+1st year Annual Overall CTC: 20.86L
+1st year Annual Overall CTC detailed break up : 20.86L
+1st year approx. Monthly salary : 1.5L
+
+2nd Year approx. Annual Base CTC : 16.86L
+2nd Year approx. Annual Overall CTC : 20.86L
+2nd Year approx. Annual Overall CTC detailed break up : 20.86L (Base +HB+LTRCA)
+2nd Year approx. Annual Overall CTC detailed break up : 20.86L (Base +HB+LTRCA)
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+12-Feb-26 16:12:31
+Application Deadline
+18-Feb-26 14:45:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Hardware / Software engineer
+Shortlist Published At
+Stage 2(Pre Placement Talk (ppt)-Hardware / Software engineer ) - 19 Feb 2026 11:31:37Stage 3(Technical Interview-Hardware / Software engineer ) - 19 Feb 2026 11:32:01
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Pre Placement Talk (ppt)
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+Discipline
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech Electronics & Communication Engineering
+M.Tech Semiconductor Technology
+M.Tech Microelectronics & VLSI Design
+M.Tech Computer Science & Engineering
+Eligibility
+CGPA 7+
+Skills
+Please Refer JD
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Hardware / Software engineer
+
+---
+
+DETAILED JOB DESCRIPTION
+Job Description for Hardware roles:
+Physical Design/STA "This role, will provide opportunity to work on Physical design, using Synthesis -Automatic Placement and Route flow, from RTL to GDS, including sign off for Timing, Reliability and Layout verification, using Industry standard tools for complex APR partitions with high frequency targets.
+Candidate will be working on wide variety of activities related to Synthesis, Floor planning, Placement, Clock Tree Synthesis, Routing, Timing convergence, Scan, Hard Macro integration, and Physical convergence. They will work on constraint development, flow optimization to meet design requirements, by working with RTL developers, CAD team and EDA vendors"
+Silicon Design
+Contribute to the development and documentation of tools, flows, and methodologies utilized for silicon design. Assists in analyzing design efficiency and quality gaps to improve automation and scalability across projects. May contribute to internal tool development and crossteam enablement. As an intern, learns and applies knowledge, builds skills, and explores future career opportunities through handson experience and projects that support Intel business goals in a collaborative environment.
+Digital/Analog Design
+Contributes to the design, simulation, and verification of digital and/or analog circuits. Works to ensure robust circuit implementation and integration and may also assist in schematic entry, timing analysis, and optimization for power, performance, and area. As an intern, learns and applies knowledge, builds skills, and explores future career opportunities through handson experience and projects that support Intel business goals in a collaborative environment.
+Hardware Design
+Supports the design and development of platform hardware and board development including evaluation and selection of board components and PCB layout. Supports board bringup, debug activities, and cross functional collaboration to meet electrical, thermal, and mechanical requirements. Applies design principles to optimize performance, manufacturability, and cost. As an intern, learns and applies knowledge, builds skills, and explores future career opportunities through handson experience and projects that support Intel business goals in a collaborative environment.
+CPU Design
+CPU Design Projects for leading Intel Client Projects. The scope includes Physical Design, Logic Design, Pre-Silicon Verification
+Support the design, implementation, and verification of cutting‑edge processor architectures. The role involves writing and debugging RTL in System Verilog, collaborating on microarchitecture features such as pipelines, caches, and execution units, developing testbenches using industry‑standard verification methodologies, and analyzing performance or functional issues through simulation tools. The ideal candidate has strong fundamentals/interest in computer architecture and digital design, hands-on experience with HDLs, and a passion for building high‑performance, energy‑efficient compute systems.
+
+================================================================================

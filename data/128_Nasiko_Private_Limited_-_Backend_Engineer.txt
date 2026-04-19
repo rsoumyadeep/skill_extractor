@@ -1,0 +1,101 @@
+================================================================================
+JOB: Nasiko Private Limited - Backend Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/47851eb9-8169-47e7-8dfb-2509191d2821
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Nasiko Private Limited
+Job Domain
+AI
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bangalore
+Industry
+Engineering and Technology
+Industry Sector
+Private
+Website URL
+https://www.nasiko.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+15,00,000
+First Year Annual Overall CTC
+20,00,000
+First Year Monthly Salary
+1,66,667
+First Year Overall CTC - Detailed Breakup
+Basic - 15L, HRA - 4L, Special Allowance - 1L
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+11-Dec-25 00:00:00
+Application Deadline
+12-Dec-25 08:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Backend Engineer
+Shortlist Published At
+Stage 2(Online Test-Backend Engineer) - 12 Jan 2026 16:52:29Stage 3(Technical Interview-Backend Engineer) - 12 Jan 2026 16:55:20
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+Discipline
+M.Tech (Research) Computer Science and Automation
+M.Tech Computer Science and Engineering
+Eligibility
+CGPA 7 and above
+Skills
+Strong experience with Golang in a production environment,
+Solid understanding of distributed systems, concurrency, and network programming,
+Familiarity with machine learning frameworks such as PyTorch, TensorFlow, or JAX,
+Experience with model serving infrastructure (e.g., Triton Inference Server, TorchServe, ONNX Runtime, Ray Serve),
+Proficiency with containerization (Docker) and orchestration (Kubernetes),
+Knowledge of MLOps tools (e.g., MLflow, Weights & Biases, Kubeflow, or Airflow),
+Experience with cloud platforms (AWS, GCP, or Azure) and infrastructure-as-code,
+Comfortable with databases (SQL/NoSQL), caching systems (Redis), and message queues (Kafka, RabbitMQ),
+Strong Git and GitHub/GitLab workflows.
+Bond Details
+-
+
+---
+
+DETAILED JOB DESCRIPTION
+As a Backend Engineer at Nasiko, you’ll be responsible for building and maintaining high-performance backend systems using Golang, while collaborating closely with ML and platform engineers to deploy AI-powered services and intelligent features. You’ll design distributed infrastructure, optimize real-time inference pipelines, and create APIs that serve models and data at scale. Your work will directly support the development of AI-driven products and internal tooling across Nasiko’s core platform.
+
+================================================================================

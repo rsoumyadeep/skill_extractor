@@ -1,0 +1,106 @@
+================================================================================
+JOB: Qualcomm - Small Cell
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/1753fbfd-1ffe-4b80-81a3-41a59002ad82
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Qualcomm
+Job Domain
+System Engineering
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Hyderabad
+Industry
+Semiconductor and Telecommunications
+Industry Sector
+Private
+Website URL
+https://www.qualcomm.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+19,50,000
+First Year Annual Overall CTC
+Refer to breakup
+First Year Monthly Salary
+1,62,500
+First Year Overall CTC - Detailed Breakup
+Compensation For DD ,M.Tech , MS Research Students : System profiles( R&D) Details Amount Total Gross Pay INR 19.5 L Retirals (PF and Gratuity) INR 1.31 L Performance Bonus* INR 1.90 L Joining Bonus ( Paid within 60 days ) INR 9.60 L Relocation Bonus ( Paid within 60 days ) INR 0.50 L RSU - Restricted Stock Value Awards (Vesting in 3 years )** INR 13.20 L ( $ 16000) Retention Bonus (Paid after 12 months ) INR 5.00 L * Performance bonus % may vary based on individual & Organization Performance | **RSU -33% vesting every year Additional Benefits: Relocation Assistance, Insurance, Transport. RSU $1=INR 83
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+03-Nov-25 03:50:25
+Application Deadline
+03-Nov-25 10:00:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Small Cell
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+Discipline
+M.Tech Signal Processing
+M.Tech Electronics & Communication Engineering
+Eligibility
+Master’s in Electrical Communications Engineering (Communications/Signal Processing areas)
+Skills
+Please find Detailed Job Description
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Small Cell
+
+---
+
+DETAILED JOB DESCRIPTION
+As a member of the team, you will be responsible for defining the System Architecture and algorithms in the NR baseband modem receiver and transmitter for PHY SW operating on a multi-core architecture. We are seeking candidates with a strong understanding of communication system fundamentals, including a clear comprehension of the performance of various NR physical channels under channel impairments.
+Skills required : It is expected that the engineers:
+• Are adept at C-programming and can develop real-time embedded
+software for proprietary DSPs
+• Understand capabilities of hardware blocks like codecs interfaces with software
+• Develop signal processing algorithms which are essential for modem
+performance
+Knowledge of Digital Signal Processing Concepts Digital Communications
+Theory/C and MATLAB programming are essential.
+
+================================================================================

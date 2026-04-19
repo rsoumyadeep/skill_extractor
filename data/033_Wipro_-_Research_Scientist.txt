@@ -1,0 +1,123 @@
+================================================================================
+JOB: Wipro - Research Scientist
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/1bb336fa-909c-4365-97b4-6943353eafab
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Wipro
+Job Domain
+AI
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bangalore
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://www.wipro.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+NA
+First Year Annual Overall CTC
+40 LPA
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+NA
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+20-Feb-26 15:02:48
+Application Deadline
+22-Feb-26 20:00:15
+Time Left
+Closed
+Application Current State
+Technical Interview-Research Scientist
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+PhD (Engineering)
+Discipline
+M.Tech Computational and Data Sciences
+M.Tech Artificial Intelligence
+M.Tech Centre for NanoScience and Engineering
+M.Tech Robotics and Autonomous Systems
+M.Tech Computer Science & Engineering
+Eligibility
+PhD/M.Tech
+Skills
+Ph.D. or Master’s degree in Computer Science, Artificial Intelligence, Machine Learning, or a related field.
+· Proven experience in implementing and customizing AI research papers (e.g., from arXiv, NeurIPS, ICML).
+· Hands-on experience with Large Language Models (LLMs): GPT, LLaMA, Mistral, Falcon.
+· Experience with Vision Models: ViT, SAM, CLIP.
+· Experience with Generative Models: Stable Diffusion, DALL·E, GANs.
+· Experience with Multimodal Systems combining vision, language, and audio.
+· Proficiency in Python, PyTorch, TensorFlow, JAX.
+· Experience with Hugging Face Transformers, Diffusers, OpenAI Gym.
+· Experience with Weights & Biases, MLflow, TensorBoard.
+· Experience with Distributed training: DeepSpeed, FSDP, Horovod.
+· Knowledge of Model optimization: quantization, pruning, distillation.
+· Experience with Data tools: DVC, Apache Arrow, Label Studio.
+· Strong understanding of evaluation metrics, benchmarking, and reproducibility
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+Ph.D. or Master’s degree in Computer Science, Artificial Intelligence, Machine Learning, or a related field.
+· Proven experience in implementing and customizing AI research papers (e.g., from arXiv, NeurIPS, ICML).
+· Hands-on experience with Large Language Models (LLMs): GPT, LLaMA, Mistral, Falcon.
+· Experience with Vision Models: ViT, SAM, CLIP.
+· Experience with Generative Models: Stable Diffusion, DALL·E, GANs.
+· Experience with Multimodal Systems combining vision, language, and audio.
+· Proficiency in Python, PyTorch, TensorFlow, JAX.
+· Experience with Hugging Face Transformers, Diffusers, OpenAI Gym.
+· Experience with Weights & Biases, MLflow, TensorBoard.
+· Experience with Distributed training: DeepSpeed, FSDP, Horovod.
+· Knowledge of Model optimization: quantization, pruning, distillation.
+· Experience with Data tools: DVC, Apache Arrow, Label Studio.
+· Strong understanding of evaluation metrics, benchmarking, and reproducibility
+
+---
+
+ADDITIONAL DETAILS
+NA
+
+================================================================================

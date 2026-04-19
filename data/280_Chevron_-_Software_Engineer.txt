@@ -1,0 +1,202 @@
+================================================================================
+JOB: Chevron - Software Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/983b33f5-3c41-419e-8e48-55a17a5aed9e
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Chevron
+Job Domain
+IT
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bengaluru
+Industry
+Energy (including Oil & Gas)
+Industry Sector
+Private
+Website URL
+https://www.chevron.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+Bachelors - 15,00,000 & Masters - 19,50,000 & Ph.D -23,50,000
+First Year Annual Overall CTC
+Bachelors - 17,34,825 ​& Masters - 24,67,773 & Ph.D - 30,04,851
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+Bachelors
+base or fixed take home salary - 15,00,000
+CIP (or) Bonus (or) Variable Pay - 1,08,750
+Provident Fund (PF) - 90,000
+Gratuity - 36,075
+Relocation Bonus - 1,00,000 (*Applicable only for candidates who are moving beyond 100 kms from the office location)
+Joining or Sign on Bonus - No
+Gross Salary - 16,08,750
+Total CTC per Annum - 18,34,825
+
+Masters
+base or fixed take home salary - 19,50,000
+CIP (or) Bonus (or) Variable Pay - 1,41,375
+Provident Fund (PF) - 1,17,000
+Gratuity - 46,898
+Relocation Bonus - 2,12,500 (*Applicable only for candidates who are moving beyond 100 kms from the office location)
+Joining or Sign on Bonus - No
+Gross Salary - 20,91,375
+Total CTC per Annum - 24,67,773
+
+Ph.D
+base or fixed take home salary - 23,50,000
+CIP (or) Bonus (or) Variable Pay - 2,11,500
+Provident Fund (PF) - 1,41,000
+Gratuity - 56,518
+Relocation Bonus - 2,45,833 (*Applicable only for candidates who are moving beyond 100 kms from the office location)
+Joining or Sign on Bonus - No
+Gross Salary - 25,61,500
+Total CTC per Annum - 30,04,851
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+04-Nov-25 11:30:25
+Application Deadline
+06-Nov-25 11:00:10
+Time Left
+Closed
+Application Current State
+Technical Interview-Software Engineer
+Shortlist Published At
+Stage 2(Online Test-Software Engineer) - 26 Dec 2025 11:56:01Stage 3(Resume Shortlisting-Software Engineer) - 26 Dec 2025 11:56:20Stage 4(Technical Interview-Software Engineer) - 26 Dec 2025 15:12:01
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Engg
+M.Tech
+M.Tech (Research)
+MS (Research)
+MSc
+PhD (Engineering)
+PhD (Science)
+PhD (Integrated)
+Discipline
+B.Tech in Mathematics and Computing
+M.Tech (Research) Centre for Sustainable Technologies
+M.Tech (Research) Centre of Excellence in Advanced Mechanics of Materials
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech (Research) Instrumentation and Applied Physics
+M.Tech (Research) Robert Bosch Centre for Cyber Physical Systems
+M.Tech (Research) Supercomputer Education and Research Centre
+M.Tech Axis Bank Centre for Mathematics and Computing
+M.Tech Centre for Sustainable Technologies
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech in Instrumentation Systems
+M.Tech Interdisciplinary Centre for Energy Research
+M.Tech Robert Bosch Centre for Cyber Physical Systems
+M.Tech Supercomputer Education and Research Centre
+PhD Axis Bank Centre for Mathematics and Computing
+PhD Centre for Sustainable Technologies
+PhD Computational and Data Sciences
+PhD Computer Science and Automation
+PhD Electrical Communication Engineering
+PhD Electrical Engineering
+PhD Electronic Systems Engineering
+PhD Instrumentation and Applied Physics
+PhD Interdisciplinary Centre for Energy Research
+PhD Robert Bosch Centre for Cyber Physical Systems
+M.Tech Artificial Intelligence
+M.Tech Electronics & Communication Engineering
+M.Tech Sustainable Technologies
+M.Tech Mobility Engineering
+M.Tech Microelectronics & VLSI Design
+M.Tech Electronic Product Design
+M.Tech Robotics and Autonomous Systems
+M.Tech Computer Science & Engineering
+M.Tech Communication Networks
+M.Tech Electronics Systems Engineering
+Eligibility
+Above listed Degree and Branches
+7 CGPA & Above
+No Active back logs
+Skills
+Refer to JD
+Bond Details
+No
+
+---
+
+JD ATTACHMENTS
+Software Engineer
+
+---
+
+DETAILED JOB DESCRIPTION
+2025 - 2026: University Hire – Software Engineer Full time
+About the position: Software engineering is one of five job families within Information Technology. Roles within this job family are responsible for:
+• Providing technical expertise in the development of business cases, analysis, workflows and requirements to implement or improve IT solutions
+• Development, testing, deploying, administering, configuring, operating, and supporting the lifecycle of software systems and environments
+We are looking for motivated individuals to deliver innovative digital solutions through design, development, deployment, and support.  You will work on key projects and digital innovation initiatives following agile principals, collaborating with product teams to develop reusable software components and services.
+Successful candidates will develop digital solutions according to best practices and utilize standard tools to ensure quality and maintenance – excelling in modularity, scalability, observability, and integration.  This role provides opportunities to work across multiple areas, including web application development, system, and security design/development. Key responsibilities will include:
+• Hands-on coding to deliver functional, innovative software solutions
+• Utilize CI/CD tooling to deploy software and iterate on solutions
+• Design and develop data integration and data management practices and tools
+• Maintain working knowledge of the latest tools and practices for continuous integration, unit tests, static and dynamic profiling, code coverage, code analysis, and automated tests
+• Frequently work with global teams across time zones and provide support to application/solutions
+• Hands-on development for integrating existing solutions with enterprise ecosystem (e.g., API development, Azure Data Factory)
+• Utilize CI/CD tooling to deploy software and iterate on solutions
+• Design and develop data integration and data management practices and tools
+• Understand technical requirements to maintain & support applications
+• Deploy, configure, support and enhance vendor software packages
+Required Qualifications:
+• Bachelor’s or master’s degree in computer science, Computer Engineering, Management Information Systems, Electrical Engineering, Petroleum Engineering, or related fields or equivalent experience
+• Must be currently enrolled in a four-year college or university and classified as a senior or graduate student with anticipation of receiving a bachelor’s or master’s degree by June 2026; OR college graduates with less than two years’ experience since receiving a degree
+• Must provide a current, unofficial transcript with online resume (as proof of good academic standing) when applying for this position to be considered
+• Experience building solutions in one of the following: C#, C++, Angular, Node.js, SQL, Ansible, R, Java, Python
+• Strong familiarity with Gitflow and source control management methodologies
+• Experience with software development lifecycle (plan, design, develop, test, release, maintain and support, decommission)
+• Hands-on experience with Azure Cloud, Service Now, Ansible, and Azure DevOps is preferred
+• Experience working on agile teams, utilizing methodologies such as SAFe, Scrum, Kanban is preferred
+• Strong written and verbal communication skills are preferred
+• Demonstrated business negotiation skills, influence, conflict resolution, and resolving technical stalemates are preferred
+• Applicants must be legally authorized to work in India as a citizen of India or Overseas Citizen of India (OCI). Candidates must have the legal rights to work in India without the need for visa sponsorship
+Chevron is accepting online applications for this position located in Bengaluru, India and candidate will be hired on local Indian payroll
+
+================================================================================

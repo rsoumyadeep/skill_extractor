@@ -1,0 +1,126 @@
+================================================================================
+JOB: Applied Materials - Applications Engineer- Metrology & Inspection
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/33a89cac-250d-4453-9f72-d0e69827e56b
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Applied Materials
+Job Domain
+Semiconductor Manufacturing
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore mostly (in case of BU requirement: Mumbai)
+Industry
+Manufacturing
+Industry Sector
+Private
+Website URL
+https://www.appliedmaterials.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+17,07,480
+First Year Annual Overall CTC
+26,45,883
+First Year Monthly Salary
+1,42,290
+First Year Overall CTC - Detailed Breakup
+Component Annual Comments
+Base Pay 17,07,480
+PF 1,12,694
+Gratuity 45,171
+Target Incentive* 1,70,748 *Discretionary Bonus Incentive : You will be eligible for an Annual incentive payment. This incentive is dependent upon Applied Materials’ and Individual’s performance.
+Cost to Company (CTC) 20,36,093 Total Fixed pay
+Sign On bonus ^ 2,50,000 ^Staggered sign on bonus INR 7.5 lakh total (INR 2.5 lakh at the time of joining, INR 2.5 lakh after completion of 1 year and 2.5 lakh after completion of 2 years)
+Stock** 2,17,500 ** RSU 10,000 USD for four year and 2500 USD per year. (1USD is 87INR)
+25% of the RSUs will vest after the completion of one (1) year and 6.25% of the award will vest every three (3) months thereafter
+Relocation Allowance 1,42,290 One Month Base Pay based on candidate location and other eligibility criteria
+Total Target Cash (TTC) 26,45,883
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+04-Nov-25 10:35:00
+Application Deadline
+06-Nov-25 17:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Applications Engineer- Metrology & Inspection
+Shortlist Published At
+Stage 2(Resume Shortlisting-Applications Engineer- Metrology & Inspection) - 26 Dec 2025 15:58:03Stage 3(Online Test-Applications Engineer- Metrology & Inspection) - 26 Dec 2025 15:58:26Stage 4(Technical Interview-Applications Engineer- Metrology & Inspection) - 26 Dec 2025 16:00:43
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Engg
+M.Tech
+M.Tech (Research)
+Discipline
+M.Engg in Semiconductor Technology
+M.Tech (Research) Centre for Nano Science and Engineering
+M.Tech (Research) Instrumentation and Applied Physics
+M.Tech (Research) Materials Engineering
+M.Tech Centre for Nano Science and Engineering
+M.Tech Electronic Systems Engineering
+M.Tech Signal Processing
+M.Tech Centre for NanoScience and Engineering
+M.Tech Semiconductor Technology
+M.Tech Microelectronics & VLSI Design
+Eligibility
+7 CGPA or 70% above X XII UG PG
+Skills
+Characterization techniques(XRD, SEM, TEM, Electron Microscopy, Atomic Microscopy, Optical Microscopy) and good to have Imaging processing technique– please classify in Basic, Medium, Expert/Handson
+Bond Details
+Nil
+
+---
+
+DETAILED JOB DESCRIPTION
+Maximize tool performance for customer-specific use cases through deep technical en-gagement during NPI and ramp in order to gain customer trust and win business
+Develop, document, proliferate and version manage Apps BKMs for high quality recipes
+Applications engineering requires a large set of skills
+Sound fundamentals of high-NA DUV imaging, SEM column physics, light/electron- matter interaction
+Lab/fab hands-on exp in semiconductor fabrication with detailed knowledge of process tech and defectivity
+Detail oriented with strong analytical, problem solving and communication skills
+Ability to work in a team, and ability to work independently
+Basic knowledge of software scripting, Matlab and image processing will be a plus
+Open to 60% travel overseas
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Strong Technical Skillset (Text)
+
+================================================================================

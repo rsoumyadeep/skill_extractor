@@ -1,0 +1,123 @@
+================================================================================
+JOB: Nueromind Technologies Private Limited (Phronetic.AI) - Machine Learning Scientist
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/70df75a8-3592-4ace-bcea-1761fa25f2bc
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Nueromind Technologies Private Limited (Phronetic.AI)
+Job Domain
+Technology
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://www.phronetic.ai/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+15,00,000
+First Year Annual Overall CTC
+20,00,000
+First Year Monthly Salary
+1,25,000
+First Year Overall CTC - Detailed Breakup
+Will be updated soon.
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+14-Nov-25 02:05:00
+Application Deadline
+15-Nov-25 08:00:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Machine Learning Scientist
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+Discipline
+B.Tech in Mathematics and Computing
+Eligibility
+Role Overview
+As a Machine Learning Scientist, you will work on developing and experimenting with AI models under expert mentorship. You’ll gain exposure to real-world AI applications and get hands-on experience with data pipelines, foundational model training, and research-oriented problem-solving.
+
+Responsibilities
+Assist in research and development of AI models in NLP, Computer Vision, or Multimodal AI.
+Experiment with deep learning techniques using frameworks like PyTorch or TensorFlow.
+Support senior engineers in building and fine-tuning foundational models.
+Work with large datasets — cleaning, preprocessing, and preparing data for model training.
+Contribute to documentation and presentation of research findings.
+Collaborate with a cross-functional team of engineers, designers, and product managers.
+
+Who Can Apply
+Strong foundation in mathematics, statistics, linear algebra, and probability.
+Familiarity with Python and basic ML libraries (NumPy, pandas, scikit-learn, PyTorch, TensorFlow, etc.).
+Passionate about AI research, model building, and exploring new technologies.
+Strong analytical thinking, curiosity, and eagerness to learn.
+
+Bonus Points If You Have
+Academic or personal projects in AI/ML, NLP, or computer vision.
+Exposure to LLMs, transformers, or generative AI tools.
+Participation in hackathons, Kaggle competitions, or open-source projects.
+
+
+Skills
+Strong foundation in Python, Machine Learning, Deep Learning basics, NLP or Computer Vision, Data Analysis, Statistics, Linear Algebra, Problem Solving, and a keen Research & Learning mindset.
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+null
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Applicants CV (Which includes Education History, Internships, Work Experience, Projects, Publications, Certifications, Achievements) (Document)
+
+Q2. Roll Number (Text)
+
+Q3. Email ID (Text)
+
+================================================================================

@@ -1,0 +1,190 @@
+================================================================================
+JOB: POSHA - Deep Learning Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/b47eac5a-6c98-4f64-8b6b-2f27bec9c133
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+POSHA
+Job Domain
+Deep Learning
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bangalore
+Industry
+Food Tech (Food Robotics & Kitchen Automation)
+Industry Sector
+Private
+Website URL
+https://www.posha.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+12,00,000
+First Year Annual Overall CTC
+12,00,000
+First Year Monthly Salary
+96,200
+First Year Overall CTC - Detailed Breakup
+Basic Salary: 50,000 (monthly) / 6,00,000 (annual)
+House Rent Allowance: 20,000 (monthly) / 2,40,000 (annual)
+Leave Travel Allowance: 5,000 (monthly) / 60,000 (annual)
+Other Allowances: 23,200 (monthly) / 2,78,400 (annual)
+Employer PF: 1,800 (monthly) / 21,600 (annual)
+Total CTC: 1,00,000 (monthly) / 12,00,000 (annual)
+
+Deductions:
+Professional Tax: 200 (monthly) / 2,400 (annual)
+Employee PF: 1,800 (monthly) / 21,600 (annual)
+Total Deductions: 3,800 (monthly) / 45,600 (annual)
+
+Net Salary Before TDS: 96,200 (monthly) / 11,54,400 (annual)
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Nov-25 14:00:00
+Application Deadline
+26-Nov-25 17:00:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Deep Learning Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Assignment
+HR Interview
+Technical Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+12
+Maximum Job Experience
+36
+Programme
+B.Tech
+M.Engg
+M.Tech
+M.Tech (Research)
+Discipline
+B.Tech in Mathematics and Computing
+BS (Research) in Mathematics
+BS (Research) in Physics
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech (Research) Mathematics
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech Mathematics
+M.Tech Physics
+MS (Research) in Mathematics
+MS (Research) in Physics
+PhD Computational and Data Sciences
+PhD Computer Science and Automation
+PhD Electrical Engineering
+PhD Electronic Systems Engineering
+PhD Mathematics
+PhD Physics
+M.Tech Artificial Intelligence
+M.Tech Electronics & Communication Engineering
+M.Tech Robotics and Autonomous Systems
+M.Tech Computer Science & Engineering
+M.Tech Electronics Systems Engineering
+Eligibility
+Eligibility:
+- Graduates from IITs, NITs, IISc
+- 1–3 years of relevant industry experience
+- Strong fundamentals in math, ML, and deep learning
+- Hands-on experience with PyTorch
+- Solid understanding of CNNs, RNNs, transformers, optimisation, generalisation
+- Experience solving real-world computer vision problems
+- Ability to handle end-to-end ML pipelines (dataset → training → evaluation → production)
+- Comfortable working in a fast-paced, high-ownership startup environment
+- Curious, experimental mindset with a strong builder attitude
+Skills
+Deep learning, computer vision, convolutional neural networks, recurrent neural networks, transformers, vision transformers, object detection, image segmentation, regression models, classification models, PyTorch, model training, model debugging, data preprocessing, dataset creation, ML pipeline ownership, model evaluation, optimisation techniques, generalisation techniques, real-world perception systems, productionising ML models, MLOps basics, LLM fine-tuning, retrieval-augmented generation, scripting in Python, numerical methods, mathematical modelling, probability, statistics, linear algebra, version control (Git), experimentation and prototyping
+Bond Details
+No Bond
+
+---
+
+JD ATTACHMENTS
+Deep Learning Engineer
+
+---
+
+DETAILED JOB DESCRIPTION
+Deep Learning Engineer
+📌About Us
+Posha builds cooking robots that live inside your kitchen and cook food for you completely autonomously. Posha robots use Artificial Intelligence enabled Computer Vision to consistently and reliably cook the best food for our users 🥘. 
+
+See it in action: https://youtu.be/O7hm0yHjJqo?si=X1jUM6pppGDScx7X
+
+
+Posha is a fast-growing Series-A funded startup backed by Tier-1 VCs 💙 including Accel Partners, Waterbridge Ventures.
+
+
+🤔What can I expect from this role?
+Posha is one of the rare startups building cutting-edge deep tech consumer robotic products from India for the world. Our product sits at the intersection of AI, Software, Food and Design. Posha is building autonomous cooking from ground up and you will play a major role in it.
+
+
+🔧What will my work responsibilities look like if I join Posha?
+In this role - you would:
+- Solve real-world perception problems for cooking using deep learning (e.g., regression, segmentation, classification, object detection)
+- Train, evaluate, and productionise transformer-based vision models to identify type/shape/size of ingredient, track visual changes in color, texture of food as it cooks.
+- Own the end-end pipeline for ML capabilities – idea to dataset collection to building prototype to production.
+- If you’re familiar with language models, you'll also have opportunities to work on fine-tuning LLMs on our use-cases, and retrieval-augmented generation (RAG) customizing recipes in real-time
+
+
+😍What makes you a match for us?
+- Graduates from IITs/ NITs/IISC with 1-3 years of industry experience
+- Solid in math and ML fundamentals — not just using pre-trained models or scikit-learn.
+- Comfortable in an ambiguous, fast-paced, high-ownership startup setup
+- Always curious, always building, and not afraid to experiment
+- Strong fundamentals in Deep Learning — CNNs, RNNs, transformers, optimisation, generalisation, etc.
+- Experience working with PyTorch to train and debug deep models.
+
+
+🚀Working at Posha
+What users have to say about our product
+Twitter love from users
+How does Posha work
+Our Website
+Read Our Story 📕
+
+
+Why Posha?
+No other organisation offers challenges similar to ours. Building completely autonomous cooking robots requires thinking from first principles and building from ground up. We believe that Posha is a generational company with the opportunity to alter the trajectory of how food is cooked inside homes today. This opportunity is parallel to how autonomous cars have made an impact. This role will be at the forefront of this opportunity
+
+
+*We offer compensation for this role between ₹12lpa - ₹15 LPA, based on experience and overall fit.
+
+================================================================================

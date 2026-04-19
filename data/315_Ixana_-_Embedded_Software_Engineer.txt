@@ -1,0 +1,137 @@
+================================================================================
+JOB: Ixana - Embedded Software Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/6c4ead30-4fe2-4f26-a61f-9372dc5d98ed
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Ixana
+Job Domain
+Technology
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+VLSI and Semiconductors
+Industry Sector
+Private
+Website URL
+http://www.ixana.ai
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+20,00,000
+First Year Annual Overall CTC
+40,57,000
+First Year Monthly Salary
+1,66,666.66
+First Year Overall CTC - Detailed Breakup
+Base 20L
+Benefits 4.8L
+Stocks upto 10l
+Bonus Upto 5L
+Total 40.57L
+Second Year Approx. Annual Base CTC
+22,00,000
+Second Year Approx. Annual Overall CTC
+42,57,000
+Second Year Approx. Monthly Salary
+1,83,333.33
+Second Year Approx. Overall CTC - Detailed Breakup
+Base 22L
+Benefits 4.8L
+Stocks : Variable
+Bonus : Variable
+Total 42.57L
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Oct-25 18:58:21
+Application Deadline
+28-Oct-25 06:00:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Embedded Software Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Technical Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+MS (Research)
+PhD (Engineering)
+PhD (Science)
+PhD (Integrated)
+Discipline
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+PhD Computer Science and Automation
+Eligibility
+GPA 8 and above
+Skills
+Preferred Qualifications and Skills:
+Experience with low-level hardware interfaces and debugging
+Strong hardware/electrical know-how, including the ability to test firmware using tools like multimeters, oscilloscopes, and spectrum analyzers
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+About this role
+
+
+We're seeking an embedded C/C++ expert with wearable or IoT hardware development experience. You should have a proven track record of excellence and thrive in a dynamic, fast-paced startup environment.
+
+
+Ixana is developing various reference hardware with Wi-R chips, including smartglasses, earbuds, smartwatches, EEG nodes, EMG nodes, smartphones, heart rate monitors, and smartrings. Your role will be to lead the embedded software development for these reference hardware applications.
+
+
+Excel in this position, and you'll have the opportunity to help define the new Wi-R standard—meaning your code could be in every device around you.
+
+
+Minimum Qualifications and Skills:
+
+
+BS in Electronics, Electrical, Computer Engineering, Computer Science, or equivalent
+
+
+Hands-on experience with full-stack MCU firmware development
+
+
+Excellent C/C++ skills for embedded systems
+
+
+Familiarity with communication interfaces: I2C, SPI, BLE
+
+
+Experience in low-power MCU development and optimization
+
+
+Ability to write bare-metal code for MCU interfaces
+
+================================================================================

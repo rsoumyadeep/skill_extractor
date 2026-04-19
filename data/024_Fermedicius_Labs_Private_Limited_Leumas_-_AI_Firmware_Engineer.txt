@@ -1,0 +1,187 @@
+================================================================================
+JOB: Fermedicius Labs Private Limited (Leumas) - AI & Firmware Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/e8112f05-2dab-425a-81d7-3ac65c1713b7
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Fermedicius Labs Private Limited (Leumas)
+Job Domain
+Engineering & Tech
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bangalore
+Industry
+Manufacturing
+Industry Sector
+Private
+Website URL
+https://leumasware.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+Rs. 900000 - 1200000
+First Year Annual Overall CTC
+Rs. 1800000 - 2400000
+First Year Monthly Salary
+Rs. 146200 - 196200
+First Year Overall CTC - Detailed Breakup
+Rs. 146200 - 196200
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+1
+Application Start Time
+24-Feb-26 14:30:46
+Application Deadline
+26-Feb-26 10:00:51
+Time Left
+Closed
+Application Current State
+Technical Interview-AI & Firmware Engineer
+Shortlist Published At
+Stage 2(Pre Placement Talk (ppt)-AI & Firmware Engineer) - 09 Mar 2026 11:01:52Stage 3(Technical Interview-AI & Firmware Engineer) - 09 Mar 2026 11:02:23
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Pre Placement Talk (ppt)
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+24
+Programme
+M.Tech
+PhD (Engineering)
+MS
+Discipline
+M.Tech Computational and Data Sciences
+M.Tech Electrical Engineering
+M.Tech Interdisciplinary mathematical sciences
+M.Tech Mathematics
+MS (Research) in Mathematics
+PhD Computational and Data Sciences
+PhD Electrical Communication Engineering
+PhD Electrical Engineering
+PhD Electronic Systems Engineering
+PhD Interdisciplinary mathematical sciences
+PhD Mathematics
+M.Tech Robotics and Autonomous Systems
+M.Tech Electronics Systems Engineering
+M.Tech (Research) Electrical & Communication Engineering.
+M.Tech Computer Science and Automation
+Eligibility
+Eligibility: Post-graduates (M.Tech / MS / PhD)
+Skills
+1. You hold a post-graduate degree (MTech / MS / PhD) in Computer Science, AI/ML, Robotics, Embedded Systems, or allied disciplines.
+2. You have strong fundamentals in embedded firmware development (C/C++, RTOS, microcontrollers, device drivers).
+3. You have hands-on experience applying AI/ML models to physical systems.
+4. You have experience integrating models with edge devices and constrained hardware.
+5. You are familiar with real-time data pipelines and closed-loop control systems.
+6. You are comfortable working in multidisciplinary, execution-driven environments.
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+JD_AI & Firmware Engineer
+
+---
+
+DETAILED JOB DESCRIPTION
+JOB Description - AI & Firmware Engineer
+Embedded Intelligence, Edge AI & Cyber-Physical Systems
+Leumas · Bengaluru
+Leumas is seeking an AI & Firmware Engineer in Residence to design, develop, and deploy intelligent control and monitoring systems for autonomous manufacturing platforms. This role sits at the intersection of embedded firmware, edge intelligence, and system integration. The position is responsible for translating AI/ML models into reliable, real-time, production-grade behaviour on constrained hardware, while maintaining engineering rigor and operational stability.
+
+
+About Leumas
+Leumas is a Bangalore-based deep-tech manufacturing company building a software-defined production platform for healthcare manufacturing. Its proprietary, full-stack Manufacturing Operating System orchestrates the entire manufacturing lifecycle - from formulation logic and material flow to production execution, quality control, and traceability - enabling modular, reconfigurable factories that scale with demand.
+Leumas addresses structural challenges in global supply chains, rigidity, long lead times, and capital intensive, step function scale - through a modular, distributed manufacturing architecture that enables faster deployment, higher asset utilization, and materially improved business outcomes across product life cycle Leumas supports two primary deployment models. For enterprise customers, it enables dedicated manufacturing suites that provide high levels of supply-chain control, compliance, and flexibility without the burden of traditional greenfield capex or non-resilient supply chains from traditional CDMOs. For healthcare innovators, the platform allows rapid configuration of production lines through software, enabling faster product launches, tighter quality control, and responsive scale-up or scale down.
+Leumas’ production systems currently support more than a dozen finished formulations and consumer health formats, including semi-solids (ointments, gels, lotions), oral solid dosage forms (tablets, capsules), and liquid formulations, with integrated QA and inspection capabilities.
+
+
+The Role
+As AI & Firmware Engineer in Residence, you will own the embedded firmware foundation and edge intelligence layer of Leumas’ manufacturing systems.
+You will be responsible for building real-time firmware, integrating AI/ML models with physical systems, and ensuring reliable closed-loop operation across sensing, control, and optimization workflows.
+This role requires strong technical depth, hands-on execution capability, and the ability to operate across firmware, data, and systems integration layers.
+
+
+What You Will Own
+As AI & Firmware Engineer in Residence, you will be accountable for the design, deployment, and continuous improvement of intelligent embedded systems.
+1. Embedded Firmware Development
+• Design and develop firmware using C/C++, RTOS, and microcontroller platforms.
+• Implement device drivers, hardware abstraction layers, and system services.
+• Ensure real-time performance, stability, and fault tolerance.
+2. Edge AI & Model Integration
+• Integrate AI/ML models into embedded and edge devices.
+• Optimize models for constrained hardware environments.
+• Implement monitoring, fallback, and fail-safe mechanisms.
+3. Sensor Data & Real-Time Processing Pipelines
+• Design and maintain sensor data pipelines for real-time acquisition and processing.
+• Enable deterministic communication between sensing, inference, and control layers.
+• Support closed-loop system validation and tuning.
+4. AI-Driven Control & Optimization Systems
+• Develop AI-based control, vision, anomaly detection, and optimization modules.
+• Deploy intelligent monitoring and diagnostic frameworks.
+• Support commissioning and stabilization of autonomous functions.
+5. System Integration & Engineering Governance
+• Work across firmware, edge intelligence, and system integration layers.
+• Maintain structured documentation, validation records, and release packages.
+• Participate in design, safety, and technical reviews.
+
+---
+
+ADDITIONAL DETAILS
+You’re a Fit If
+1. You hold a post-graduate degree (MTech / MS / PhD) in Computer Science, AI/ML, Robotics, Embedded Systems, or allied disciplines.
+2. You have strong fundamentals in embedded firmware development (C/C++, RTOS, microcontrollers, device drivers).
+3. You have hands-on experience applying AI/ML models to physical systems.
+4. You have experience integrating models with edge devices and constrained hardware.
+5. You are familiar with real-time data pipelines and closed-loop control systems.
+6. You are comfortable working in multidisciplinary, execution-driven environments.
+
+
+How You Will Operate
+1. You operate with high ownership and engineering discipline.
+2. You balance experimentation with system reliability and safety.
+3. You follow structured development, testing, and validation processes.
+4. You communicate effectively across hardware, software, and process teams.
+5. You continuously improve systems based on field and commissioning feedback.
+
+
+Why Join
+1. Opportunity to build core intelligence systems for autonomous manufacturing platforms.
+2. End-to-end ownership of firmware and edge AI systems in production environments.
+3. Exposure to large-scale cyber-physical system development.
+4. Direct contribution to core IP in factory intelligence and automation.
+
+
+Role Details
+Eligibility: Post-graduates (M.Tech / MS / PhD)
+Location: Bengaluru (On-site)
+
+================================================================================

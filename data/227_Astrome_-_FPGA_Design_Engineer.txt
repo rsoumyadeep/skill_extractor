@@ -1,0 +1,128 @@
+================================================================================
+JOB: Astrome - FPGA Design Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/16e4a9fd-3f48-4ebe-90de-3fd5f82b29c7
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Astrome
+Job Domain
+Wireless communication
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bangalore
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://astrome.co
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+10,00,000
+First Year Annual Overall CTC
+12,00,000
+First Year Monthly Salary
+80,000
+First Year Overall CTC - Detailed Breakup
+Components Monthly
+Basic 41700
+HRA 16700
+Spl 18140
+Food_Allow 3000
+Tele_Allow 1000
+Internet_Allow 1000
+
+Gross 81540
+
+Empr_PF 1800
+Fixed_Cost 83340
+
+
+Fixed_Cost Annual 1000080
+
+Variable Pay 100000
+
+ESOP 100000
+
+Total CTC 1200080
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+13-Nov-25 13:26:53
+Application Deadline
+15-Nov-25 08:00:00
+Time Left
+Closed
+Application Current State
+HR Interview-FPGA Design Engineer
+Shortlist Published At
+Stage 2(Technical Interview-FPGA Design Engineer) - 29 Dec 2025 18:29:23Stage 3(HR Interview-FPGA Design Engineer) - 29 Dec 2025 18:29:52Stage 3(HR Interview-FPGA Design Engineer) - 29 Dec 2025 18:29:52
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+All
+Discipline
+All
+Eligibility
+pass out in Year 2026
+Skills
+Refer the JD
+Bond Details
+NIL
+
+---
+
+JD ATTACHMENTS
+
+---
+
+DETAILED JOB DESCRIPTION
+We are developing cutting-edge 5G ready wireless systems solving the rural and urban high bandwidth networking requirements. We are looking for strongly motivated candidates who have hands-on experience in System Verilog programming for wireless baseband design.
+
+
+Participate in the architecture definition, implementation, and test plan development.
+Develop and implement RTL level blocks, perform synthesis, implement on FPGAs and resolve timing violations.
+Coordinate with the Software and Hardware team to identify the system issues and resolve the same.
+
+
+Required skills:
+Good understanding in digital signal processing techniques such as Fast Fourier Transform, and good handle on linear algebra and complex algebra.
+Ability to research unfamiliar technologies and methods for application in our product development and support.
+Desired Requirement
+Good understanding in realization of baseband for wireless systems such as OFDM is a plus.
+Proficiency in HDLs like SystemVerilog/Verilog for RTL Design.
+Knowledge & experience of building IPs using AXI4, AXI4 Lite and AXI4 Stream Protocol.
+
+================================================================================

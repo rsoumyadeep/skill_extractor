@@ -1,0 +1,98 @@
+================================================================================
+JOB: Flipkart - Data Scientist
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/e1c321d9-d770-40dd-ac0a-ff04032b0e4c
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Flipkart
+Job Domain
+Data Science
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Fast Moving Consumer Goods (FMCG)
+Industry Sector
+Private
+Website URL
+https://flipkart.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+22,00,000
+First Year Annual Overall CTC
+31,33,568
+First Year Monthly Salary
+2,60,000
+First Year Overall CTC - Detailed Breakup
+Document Shared
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+06-Dec-25 00:03:22
+Application Deadline
+08-Dec-25 08:00:30
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Data Scientist
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Technical Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+Discipline
+B.Tech in Mathematics and Computing
+Eligibility
+No active backlogs
+Skills
+Expertise in data science, problem solving, analytical rigor, data acumen, innovation, adaptability
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+DS JD
+
+---
+
+DETAILED JOB DESCRIPTION
+This is an opportunity to join Flipkart's Data Science team as a Data Scientist, where you will spearhead the
+development of systemic intelligence and data-driven products. Sitting at the core of Flipkart's mission to
+build unparalleled customer experiences, your contributions will directly drive personalization, optimization,
+and innovation across India's largest e-commerce marketplace.
+
+================================================================================

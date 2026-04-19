@@ -1,0 +1,102 @@
+================================================================================
+JOB: Vervesemi Microelectronics - Design Engineer II
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/f94b0262-0aee-4fba-8f71-0a35935f3af7
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Vervesemi Microelectronics
+Job Domain
+Design
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Noida, Bengaluru
+Industry
+VLSI and Semiconductors
+Industry Sector
+Private
+Website URL
+https://vervesemi.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+10,80,000
+First Year Annual Overall CTC
+15,70,000
+First Year Monthly Salary
+91,800
+First Year Overall CTC - Detailed Breakup
+• Fixed take home salary: 10.8L
+• ESOP (performance based): 10L over 3 years
+• Retention Bonus 1.2L on completion of 3 years
+• PF contribution: Rs 21600
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+10-Dec-25 12:20:34
+Application Deadline
+13-Dec-25 11:30:42
+Time Left
+Closed
+Application Current State
+Pen & Paper Test-Design Engineer II
+Shortlist Published At
+Stage 2(Pen & Paper Test-Design Engineer II) - 13 Jan 2026 13:02:37
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Pen & Paper Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+PhD (Engineering)
+Discipline
+PhD Electrical Communication Engineering
+PhD Electrical Engineering
+PhD Electronic Systems Engineering
+Eligibility
+The person should be Bachelors or Master’s degree in Electronics Engineering with excellent academic record and should have relevant exposure in digital and signal processing domain. The person should be well versed with digital design tools. He should have learning aptitude, should be highly motivated, a self-starter with ability to work in team.
+Skills
+Digital Design
+Bond Details
+No Bond
+
+---
+
+JD ATTACHMENTS
+Digital
+Analog
+
+---
+
+DETAILED JOB DESCRIPTION
+Vervesemi Microelectronics requires Digital IC Design Engineer. The requirement involves architecture exploration, signal processing blocks design such as Digital filters, digital blocks such as SPI interfaces, high speed digtal design and digital for full product. The job involves MATLAB, RTL, Synthesis, verifications and complete digital ASIC flow including P&R and to work in the complete project cycle until tape-out.
+
+================================================================================

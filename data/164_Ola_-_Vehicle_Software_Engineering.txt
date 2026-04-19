@@ -1,0 +1,168 @@
+================================================================================
+JOB: Ola - Vehicle Software Engineering
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/44239d11-5c5b-47de-b816-0e3b7de234fb
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Ola
+Job Domain
+Engineering
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bangalore
+Industry
+EV
+Industry Sector
+Public
+Website URL
+https://www.olaelectric.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+30,43,479
+First Year Annual Overall CTC
+35,00,000
+First Year Monthly Salary
+2,53,623
+First Year Overall CTC - Detailed Breakup
+CTC BREAK UP ANNUAL MONTHLY
+Basic 1,521,740 126,812
+HRA 760,870 63,406
+PF contribution 21,600 1,800
+Special Allowance 739,269 61,606
+Total Fixed CTC 3,043,479 253,623
+Annual Variable Incentive 456,521 -
+TOTAL COST TO COMPANY (CTC) 3,500,000 253,623
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+01-Dec-25 13:21:55
+Application Deadline
+02-Dec-25 13:21:03
+Time Left
+Closed
+Application Current State
+HR Interview-Vehicle Software Engineering
+Shortlist Published At
+Stage 2(Online Test-Vehicle Software Engineering) - 27 Dec 2025 12:54:40Stage 3(Technical Interview-Vehicle Software Engineering) - 27 Dec 2025 12:56:08Stage 4(HR Interview-Vehicle Software Engineering) - 27 Dec 2025 12:57:09
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+Discipline
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+Eligibility
+B.Tech/M.Tech in Electrical, Electronics, Mechatronics, or Automotive Engineering.
+
+Skills
+Embedded Coder – auto-code generation and model optimization.
+Experience in Model-in-loop, Hardware-in-loop, and Python scripting.
+Knowledge of control systems and power electronics is essential.
+Understanding of the vehicle electrical architecture and behaviour of electrical components in EV.
+Good to have knowledge/experience in C/C++ programming, and MISRA C guidelines.
+Good to have knowledge about different automotive systems (ECU software) and communication protocols (CAN, LIN, ETHERNET etc).
+Bond Details
+No
+
+---
+
+JD ATTACHMENTS
+GET | VSW | FTE 2025-26
+
+---
+
+DETAILED JOB DESCRIPTION
+The Ola Group is a dynamic conglomerate comprising ANI Technologies, Ola Electric, and Krutrim, each contributing to our mission of redefining mobility, advancing sustainable transportation, and pioneering AI innovation.
+
+
+At ANI Technologies, we operate Ola Cabs, India's leading ride-hailing platform, serving over 250 million customers across 3 continents, offering employees a fast-paced, tech-driven environment where innovation thrives. Ola Electric is at the forefront of the electric vehicle revolution, with our state-of-the-art Futurefactory in Tamil Nadu, producing over 5 million electric two-wheelers annually and creating thousands of jobs. Krutrim, our AI arm, is dedicated to developing cutting-edge artificial intelligence models and infrastructure, empowering India to lead in the digital age.
+
+
+Job Summary:
+The Model-Based Developer role involves designing and developing control algorithms for EV powertrain, battery management systems (BMS), Charger, Vehicle control system, ABS and its dynamics using MATLAB/Simulink, and collaborating with cross-functional teams to implement high-performance, production-ready embedded software solutions.
+
+
+Key Result Areas:
+Control Algorithm Development: Design and implement model-based control algorithms for EV powertrain, Charger, and Vehicle control systems.
+Model-Based Design (MBD): Develop MATLAB/Simulink/Stateflow models for embedded control applications.
+Auto Code Generation & Optimization: Generate optimized Embedded C code using Embedded Coder for real-time execution.
+Software Integration: Integrated model-based control strategies into vehicle ECU embedded software for production deployment.
+Calibration & Parameter Tuning: Develop models with scalability and control parameters tunability for real-world vehicle applications.
+Compliance & Standards: Ensure AUTOSAR, ISO 26262, and functional safety compliance in software development.
+Documentation & Reviews: Maintain detailed documentation of control models, software architecture, and implementation strategies.
+
+
+Competency Requirements:
+B.Tech/M.Tech in Electrical, Electronics, Mechatronics, or Automotive Engineering.
+MATLAB, Simulink, Stateflow – strong expertise in control model development.
+Embedded Coder – auto-code generation and model optimization.
+Experience in Model-in-loop, Hardware-in-loop, and Python scripting.
+Knowledge of control systems and power electronics is essential.
+Understanding of the vehicle electrical architecture and behaviour of electrical components in EV.
+Good to have knowledge/experience in C/C++ programming, and MISRA C guidelines.
+Good to have knowledge about different automotive systems (ECU software) and communication protocols (CAN, LIN, ETHERNET etc).
+
+
+Perks of working with Ola:
+Build technology that impacts millions at massive scale.
+Work with top engineers solving complex, high-performance problems.
+Exposure to cutting-edge systems across mobility, EV, and AI businesses.
+High ownership and visibility with leadership.
+Fast-track career growth in a high-velocity engineering environment.
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Are you part of any Club /Committee? (Multiple Choice)
+
+Q2. Name of the Club / Committee (If Yes) (Text)
+
+Q3. If you have done a previous Internship, mention duration in months (Text)
+
+Q4. If you have done a previous Internship, mention name of Company (Text)
+
+Q5. Do you have previous work experience? (Multiple Choice)
+
+Q6. Name of the company (if yes) (Text)
+
+Q7. Job role (if yes (Text)
+
+Q8. Any Other Educational Qualification before apart from current course (Text)
+
+Q9. CGPA in above previous masters (if any) (Text)
+
+================================================================================

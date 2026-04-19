@@ -1,0 +1,116 @@
+================================================================================
+JOB: Aura Semiconductor Pvt Ltd - Design Engg - Digital
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/97dfd052-2909-4aac-a811-1d4f854961f1
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Aura Semiconductor Pvt Ltd
+Job Domain
+Semiconductors
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bangalore
+Industry
+VLSI and Semiconductors
+Industry Sector
+Private
+Website URL
+https://www.aurasemi.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+17,00,000
+First Year Annual Overall CTC
+19,00,000
+First Year Monthly Salary
+1,30,000
+First Year Overall CTC - Detailed Breakup
+TOTAL Cost to Company (INR) (A) 19,00,000
+Relocation Bonus (one-time) (B) 1,00,000
+Joining Bonus (One-time) (C) 1,00,000
+TOTAL CTC (A+B+C) 21,00,000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+22-Jan-26 12:05:28
+Application Deadline
+27-Jan-26 11:25:34
+Time Left
+Closed
+Application Current State
+Technical Interview-Design Engg - Digital
+Shortlist Published At
+Stage 2(Online Test-Design Engg - Digital) - 03 Mar 2026 16:05:45Stage 3(Technical Interview-Design Engg - Digital) - 03 Mar 2026 16:06:58
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+Discipline
+Others
+Eligibility
+B.Tech
+Skills
+engineering
+Bond Details
+NO BOND
+
+---
+
+JD ATTACHMENTS
+Design Engg - Digital
+
+---
+
+DETAILED JOB DESCRIPTION
+Job Overview Duties include
+• Module architecture and specification and helping with digital top architecture and specification.
+• Development of RTL using Verilog/System Verilog and doing block level testing before hand-off to verification.
+• Synthesis of RTL and doing quality analysis of netlist – clock gating, power, gate count analysis, gate level simulations, LEC.
+• Working with verification team in helping develop and review test plan for blocks and full device.
+• Help with validation & bring-up related activities.
+• Exp in Logic design, state machine
+• Exp in Project flow for digital, synthesis, net listing, logic equivalence check
+• Ability to understand the block level specifications and arrive at appropriate architecture and design to meet those specifications.
+
+---
+
+ADDITIONAL DETAILS
+REQUIREMENTS
+• Background in mixed-signal designs is a plus.
+• A technology-related Bachelor's degree with related experience.
+• Advanced system knowledge is preferable.
+• Excellent written and verbal presentation skills.
+
+================================================================================

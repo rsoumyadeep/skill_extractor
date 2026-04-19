@@ -1,0 +1,152 @@
+================================================================================
+JOB: Astrome - Linux/Driver Development Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/283ef158-a5f3-44f7-8252-4b11cabed9e3
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Astrome
+Job Domain
+Wireless Communication
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bangalore
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://astrome.co
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+10,00,000
+First Year Annual Overall CTC
+12,00,000
+First Year Monthly Salary
+80,000
+First Year Overall CTC - Detailed Breakup
+Components Monthly
+Basic 41700
+HRA 16700
+Spl 18140
+Food_Allow 3000
+Tele_Allow 1000
+Internet_Allow 1000
+Gross 81540
+
+Empr_PF 1800
+Fixed_Cost 83340
+
+
+Fixed_Cost Annual 1000080
+
+Variable Pay 100000
+
+ESOP 100000
+
+Total CTC 1200080
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+13-Nov-25 13:24:09
+Application Deadline
+15-Nov-25 08:00:00
+Time Left
+Closed
+Application Current State
+HR Interview-Linux/Driver Development Engineer
+Shortlist Published At
+Stage 2(Technical Interview-Linux/Driver Development Engineer) - 29 Dec 2025 18:41:50Stage 3(HR Interview-Linux/Driver Development Engineer) - 29 Dec 2025 18:42:12Stage 3(HR Interview-Linux/Driver Development Engineer) - 29 Dec 2025 18:42:12
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+All
+Discipline
+All
+Eligibility
+pass out in the year 2026
+Skills
+Ref JD
+Bond Details
+NIL
+
+---
+
+JD ATTACHMENTS
+
+---
+
+DETAILED JOB DESCRIPTION
+JD - Linux/Driver Development Engineer
+
+
+Description
+We are seeking a skilled Linux/Driver Development Engineer to join our team in
+developing cutting-edge wireless communication systems. In this role, you will
+contribute to the development of new features, resolve bugs, and ensure the stability
+and performance of our embedded platform. You will work closely with cross-
+functional teams to enhance our product's functionality and reliability.
+Develop, enhance, and maintain Linux device drivers for wireless communication
+hardware.
+
+
+Work on Linux kernel internals to optimize and customize the system for embedded
+use.
+
+
+Debug and troubleshoot system-level issues, ensuring prompt resolution of bugs.
+Collaborate with hardware, software, and QA teams to design, implement, and test
+new features.
+Develop and maintain automation scripts using Python or Shell for system testing and
+validation.
+Optimize performance at the kernel and driver level to meet system requirements.
+Provide technical support during product integration and deployment.
+Requirements
+Experience in embedded Linux development.
+Strong knowledge of Linux internals and kernel module development. Understanding
+of kernel modules and driver development for hardware like PCIe, USB, I2C, SPI, or
+Ethernet devices.
+Experience in developing or maintaining Linux hardware/network device drivers.
+Proficient in C programming; C++ knowledge is a plus.
+Solid debugging and troubleshooting skills using tools like gdb, strace, or perf.
+Basic proficiency in Python or Shell scripting.
+Familiarity with Git for version control.
+Preferred Qualifications:
+Experience in wireless communication protocols (e.g., Wi-Fi, LTE, 5G) is desirable.
+Understanding of TCP/IP networking concepts.
+Knowledge of embedded platforms and cross-compilation.
+Experience with real-time debugging and crash analysis.
+Exposure to CI/CD pipelines for build and test automation.
+
+================================================================================

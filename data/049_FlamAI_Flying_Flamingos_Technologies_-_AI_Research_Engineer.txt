@@ -1,0 +1,214 @@
+================================================================================
+JOB: FlamAI (Flying Flamingos Technologies) - AI Research Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/ccab6735-3164-47e3-b380-d05c14cf5cc8
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+FlamAI (Flying Flamingos Technologies)
+Job Domain
+AI
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bengaluru
+Industry
+Internet and E-commerce
+Industry Sector
+Private
+Website URL
+https://flamapp.ai/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+20,00,000
+First Year Annual Overall CTC
+25,00,000
+First Year Monthly Salary
+1,66,667
+First Year Overall CTC - Detailed Breakup
+Base: 20,00,000
+ESOPs: 5,00,000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+2
+Application Start Time
+11-Feb-26 12:50:00
+Application Deadline
+16-Feb-26 18:30:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-AI Research Engineer
+Shortlist Published At
+Stage 2(Resume Shortlisting-AI Research Engineer) - 06 Mar 2026 16:30:21
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Assignment
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+7
+Programme
+PhD (Engineering)
+PhD (Science)
+Discipline
+PhD Computational and Data Sciences
+PhD Computer Science and Automation
+PhD Interdisciplinary mathematical sciences
+Eligibility
+Students should have multiple published research papers.
+
+Must be pursuing PhD in AI / ML/ Data Science/ Computer Science and Mathematics.
+Skills
+Programming language-Python (Must)
+Generative AI Models
+Framworks- Pytorch and Tensorflow
+NLP
+LLM
+Good Research experience
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+AI Researcher
+
+---
+
+DETAILED JOB DESCRIPTION
+Flam is building AI Infrastructure for Brands in Immersive Advertising spanning across all channels viz. Digital, Broadcast TV, Retail, Communications, Print, OOH etc.
+
+
+Vision: The Immersive & Interactive Layer for Every Screen & Surface
+
+
+Flam aims to redefine how consumers interact with ads, content in every shape and form, retail aisles, live broadcasts and fan moments—turning content and interfaces into shoppable, shareable experiences that deliver measurable ROI. Flam has raised a $14 million Series A round led by global technology investor RTP Global with participation from Dovetail and select others bringing the total funding to $22 million.
+
+
+The next phase of growth is to accelerate R&D on its app-less GenAI infrastructure that lets brands create, publish and measure high-fidelity MR, 3D & Digital experiences in <300 ms on any smartphone—no app download required. The same infra already powers advertising for Google, Samsung, Emirates and hundreds of global enterprises & agency powerhouses.
+
+
+Key Focus Areas:
+
+
+Product Roadmap: Upcoming releases include GenAI-driven 3D asset generation, Democratising MR deployment at scale, Enterprise Suite of Products across Industries, and Infrastructure for broadcasters and fan engagement.
+Geography: Funds will support new enterprise pods in North America, Europe and the Middle East while deepening Asia operations.
+Partnerships: Flam will expand its partner program for creative studios and global platforms, enabling Fortune 500 brands to move from pilot to rapid global roll-out.
+
+
+Role Overview :
+ We are seeking Research Engineers to advance artificial intelligence across multiple modalities and applications, working at the intersection of cutting-edge research and production engineering.
+
+
+Key Responsibilities :
+
+
+Design and train models across text, vision, and audio modalities from first principles through production deployment.
+Build AI systems that perform previously impossible tasks or achieve unprecedented performance levels.
+Implement novel architectures and training techniques, then scale them to real applications.
+Work across LLMs, vision-language models, agentic systems, and generative AI.
+Ship production systems with immediate user impact while contributing to open research.
+Collaborate with a small, high-impact team where technical excellence drives product innovation
+
+
+Technical Requirements
+Core Competencies
+
+
+
+
+Model Training:
+FSDP and DeepSpeed frameworks
+Mixed precision training (bf16/fp8)
+Gradient accumulation strategies
+Effective batch sizes >10,000
+
+
+Architectures:
+Transformers, diffusion models, VAEs
+Mixture-of-experts systems
+Retrieval-augmented architectures
+Custom attention mechanisms and loss functions.
+
+
+Scale & Infrastructure:
+Multi-node training
+Large Dataset handling
+SLURM/Kubernetes orchestration
+Distributed storage S3/GCS
+Checkpoint management strategies
+
+
+Performance Optimization:
+CUDA kernel development
+FlashAttention implementation
+Tensor parallelism
+KV cache optimization
+Quantization (GPTQ/AWQ)
+
+
+Specific Technical Skills:
+
+
+Implement RLHF/DPO/GRPO from scratch
+Debug NaN gradients in distributed settings
+Profile and optimize GPU memory usage
+Write custom CUDA kernels when needed
+Build evaluation frameworks for novel tasks
+Design multimodal data pipelines
+Create production-ready inference servers
+
+
+Required Qualifications :
+
+
+Ph.D- AI/ ML/ Data Science/ Computer Science and Mathematics.
+Fresh AI Research Engineer: 2
+
+
+Nice-to-Have (Bonus):
+
+
+Training: PyTorch 2.0 JAX/Flax, custom training loops
+Data: Apache Beam, Ray Data, custom preprocessing pipelines.
+Monitoring: Weights & Biases, custom metrics dashboards
+Deployment: Kubernetes, vLLM, NVIDIA Dynamo
+
+
+Example Projects:
+
+
+Multimodal RAG: Building retrieval systems understanding code, images, and text simultaneously.
+Efficient Fine-tuning: Implementing LoRA variants at 70B scale
+Agent Infrastructure: Creating production-ready tool-use frameworks
+Custom Architectures: Designing domain-specific models outperforming general models
+Edge Deployment: Quantizing and optimizing models for consumer hardware
+
+================================================================================

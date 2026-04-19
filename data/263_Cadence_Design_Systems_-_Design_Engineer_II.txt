@@ -1,0 +1,109 @@
+================================================================================
+JOB: Cadence Design Systems - Design Engineer II
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/07cae0cc-bf96-48d2-b197-e438c8e7900d
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Cadence Design Systems
+Job Domain
+Semiconductor
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+VLSI and Semiconductors
+Industry Sector
+PSUs
+Website URL
+https://www.cadence.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+22,00,000
+First Year Annual Overall CTC
+26,66,128
+First Year Monthly Salary
+1,90,000
+First Year Overall CTC - Detailed Breakup
+Base - 2200000
+Other - 466128
+Joining Bonus - 500000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+04-Nov-25 17:24:00
+Application Deadline
+07-Nov-25 08:00:00
+Time Left
+Closed
+Application Current State
+Pen & Paper Test-Design Engineer II
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pen & Paper Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+MS (Research)
+PhD (Engineering)
+Discipline
+M.Tech (Research) Electronic Systems Engineering
+M.Tech Electronic Systems Engineering
+M.Tech Signal Processing
+M.Tech Electronics & Communication Engineering
+M.Tech Semiconductor Technology
+M.Tech Microelectronics & VLSI Design
+Eligibility
+7.5 CGPA
+Skills
+Analog/Mixed Signal
+Bond Details
+Joining bonus 5 Lakhs with 2 year pay back
+
+---
+
+DETAILED JOB DESCRIPTION
+Experience in Analog/Mixed signal circuit design
+
+
+BE/B.Tech/M.Tech in EE/ECE/VLSI/Microelectronics
+
+
+Experience working on FinFet technologies like 7nm/5nm/3nm is required.
+
+
+Experience on high-speed analog blocks is desirable.
+
+================================================================================

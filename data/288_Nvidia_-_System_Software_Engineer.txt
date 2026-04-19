@@ -1,0 +1,131 @@
+================================================================================
+JOB: Nvidia - System Software Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/bf3726f1-10ff-458f-bcd7-de076af7d422
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Nvidia
+Job Domain
+Engineering
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore, Pune, Hyderabad
+Industry
+VLSI and Semiconductors
+Industry Sector
+Private
+Website URL
+https://www.nvidia.com/en-in/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+18,25,000
+First Year Annual Overall CTC
+34,33,930
+First Year Monthly Salary
+1,52,083
+First Year Overall CTC - Detailed Breakup
+Base 1,825,000
+Sign-on Bonus 200,000
+Anniversary Bonus 200,000
+Equity Value - Overall 4 Years 2,400,000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Oct-25 16:00:00
+Application Deadline
+30-Oct-25 11:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-System Software Engineer
+Shortlist Published At
+Stage 2(Technical Interview-System Software Engineer) - 24 Nov 2025 13:01:58
+
+---
+
+APPLICATION STAGES
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+Discipline
+B.Tech in Mathematics and Computing
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech (Research) Instrumentation and Applied Physics
+M.Tech Computer Science and Engineering
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech in Instrumentation Systems
+Eligibility
+7.8 CGPA, no Backlogs.
+
+Skills
+C, C++, System Software
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+
+---
+
+DETAILED JOB DESCRIPTION
+System Software Engineer
+Role: Full - time
+As a Software Engineer, the candidate will be responsible for supporting in design and development of software solutions in the areas of Chip Resource Manager, Graphics, Video, 2D and 3D graphics under OpenGL and DirectX, ISP, driver stacks for Windows and Linux OS. Also, the responsibility will include improvement of existing software, micro code and suggesting modifications in hardware acceleration solutions. The candidate will work side by side with Nvidia engineers around the world, as an equal member of a multi-site project team. The candidate must be highly motivated, enthusiastic, pro-active to achieve high-quality software deliveries. The candidate will be working on System software’s various driver modules/features/tools/performance.
+We are looking for candidates who are passionate about working at the intersection of leading-edge graphics, multimedia and operating system software.
+Looking for candidates who will be working in the following areas:
+Principles of hardware operation: CPU and memory architecture, buses and interconnects
+Operating System fundamentals: multi-processing and scheduling, memory management, privilege modes, file systems and device drivers
+Algorithms and data structures
+Principles of parallel computing
+C and/or C++ programming languages
+Python / PERL knowledge is preferred.
+What we look for:
+Strong academic background
+BTech/MTech in CS, ECE, EEE, EE
+Good understanding of programming languages and processor architecture
+Good understanding of Operating System Fundamentals. Knowledge of Linux kernel is a plus.
+Strong C/C++ programming skills
+Knowledge of scripting (Perl or python) is a plus.
+Candidates should have a solid background in
+Operating System, Algorithm development
+Knowledge on Object-oriented programing is highly a Plus in C / C++ Or Java
+Aptitude in innovative and optimal designs
+Exposure to Digital Systems, Computer Architecture, Computer Arithmetic, Software Engg., C & C++ programming languages, assembly language programming, system level integration & system level programming is preferred.
+Good communications skills and ability and desire to work as a team player are a must.
+
+================================================================================

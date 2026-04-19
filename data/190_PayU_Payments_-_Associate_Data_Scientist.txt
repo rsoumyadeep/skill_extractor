@@ -1,0 +1,123 @@
+================================================================================
+JOB: PayU Payments - Associate Data Scientist
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/4470a74e-e438-48df-9dec-240d8a10c5ea
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+PayU Payments
+Job Domain
+FinTech / Payments
+Job Type
+Full Time Placement
+Job Mode
+Hybrid
+Locations
+Bangalore, Gurgaon
+Industry
+Financial Services
+Industry Sector
+Private
+Website URL
+https://payu.in/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+18,00,000
+First Year Annual Overall CTC
+19,80,000
+First Year Monthly Salary
+1,50,000
+First Year Overall CTC - Detailed Breakup
+Pay Components Monthly Amount Remarks
+Total Fixed Salary 150,000 1,800,000
+Basic 60,000 720,000 40% of Total Fixed Salary
+HRA 30,000 360,000 50% of Basic is HRA
+FBP - Electives except Car Lease 52,800 633,600 Employees to choose the applicable options from the FBP basket
+PF 7,200 86,400
+Annual Fixed Salary 150,000 1,800,000
+Annual Bonus (10% of Fixed Salary) - 180,000
+Total Cost to Company - 1,980,000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+14-Nov-25 02:00:01
+Application Deadline
+27-Nov-25 07:00:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Associate Data Scientist
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+Discipline
+B.Tech in Mathematics and Computing
+BS (Research) in Mathematics
+BS (Research) in Physics
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech Computational and Data Sciences
+M.Tech Computer Science & Engineering
+Eligibility
+B.Tech (Mathematics and Computing) with 8 CGPA and above
+M.Tech ( Computer Science & Engineering ) 8 CGPA and above
+Skills
+Good experience in building machine learning models and should have experience in the following languages – Python, SQL. Familiar with cloud computing platforms like AWS, etc.
+Having experience in Pyspark and AutoML is a plus
+Excellent Problem Solving and analytical skills
+Excellent communication skills
+Bond Details
+No Bond
+
+---
+
+DETAILED JOB DESCRIPTION
+The Opportunity:
+• Lead and execute Data Science projects for building best-in-class models/solutions for various use cases across the BFSI Industry
+• Work with various external partners starting from POC discussions till execution and with internal partners (e.g. Business teams, technology and platform teams) to understand, design and implement the best solutions.
+• Opportunity to work on exceptional projects using cutting edge technology
+Requirements to be successful in this role:
+• A degree in Statistics, Computer Science, Mathematics or other similar quantitative field from a premier institute.
+• Should have led Data Science projects 
+• Excellent stakeholder management skills – internal and external
+• Detail oriented with strong organizational skills. Ability to function in a high-volume setting with tight deadlines
+• Good experience in building machine learning models and should have experience in the following languages – Python, SQL. Familiar with cloud computing platforms like AWS, etc.
+• Having experience in Pyspark and AutoML is a plus
+• The incumbent must be a high-energy individual with a go-getter instinct and positive attitude.
+• Should be a great teammate who promotes knowledge-sharing
+
+================================================================================

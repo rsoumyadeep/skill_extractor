@@ -1,0 +1,167 @@
+================================================================================
+JOB: Fujitsu Research - Senior Software Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/eaae306f-1143-4a60-852f-71f180c0fffa
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Fujitsu Research
+Job Domain
+Software Engineer
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Research
+Industry Sector
+Private
+Website URL
+https://www.fujitsu.com/global/about/research/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+NA
+First Year Annual Overall CTC
+NA
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+Annual CTC: 35 LPA + 3 L JB
+
+1st year Annual Overall CTC: 38 LPA
+
+1st year Annual Overall CTC detailed break up: 35 LPA (Fixed) + 3 Lakh Joining Bonus
+
+1st year approx. Monthly salary: Rs. 291667 (Before tax including retirals)
+
+2nd Year approx. Annual Base CTC: 35 LPA
+
+2nd Year approx. Annual Overall CTC: 35 LPA
+
+2nd Year approx. Annual Overall CTC detailed break up: 35 LPA (Fixed)- Including Retirals
+
+2nd Year approx. Annual Overall CTC detailed break up: 35 LPA (Fixed)- Including Retirals
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+03-Mar-26 15:39:04
+Application Deadline
+04-Mar-26 15:38:17
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Senior Software Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+PhD (Engineering)
+PhD (Science)
+Post Doc
+Discipline
+PhD Computational and Data Sciences
+PhD Computer Science and Automation
+PhD Electrical Communication Engineering
+PhD Mathematics
+Eligibility
+Eligibility Criteria (If Any): PhD
+Skills
+Skill set: LLMs, Scientific ML/SciML, Gen-AI, Multi-modal AI, AI HPC
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Fujistu JD
+
+---
+
+DETAILED JOB DESCRIPTION
+Details:
+We are seeking a highly motivated researcher to carry out cutting-edge foundational research at
+the intersection of High-Performance Computing (HPC), Artificial Intelligence/Machine Learning
+(AI/ML) and Scientific Computing, with a clear path to real-world impact through patents,
+prototypes and product integration. Our key focus areas at HPC AI MONAKA R&D Lab, FRIPL,
+includes the following (but are not limited to):
+• Energy Efficient AI models for Generative AI (GenAI), language modelling, and multimodal AI use-cases.
+• Advanced compression algorithms for AI and Deep Learning.
+• Surrogate modelling using techniques such as model order reduction, Physics-Informed
+Neural Networks (e.g., via operator theory).
+• Scientific Computation to develop advanced numerical methods for solving linear
+system of equations, and deterministic and stochastic differential equations.
+• Privacy-preserving computation and Multi-cores Scalability of AI Frameworks.
+Main Role:
+• Propose and lead the research and development of novel computational models and
+algorithms aimed at optimizing performance and scalability while minimizing information
+loss (e.g. by leveraging advanced HPC methodologies such as data-level and task-level
+parallelism, pipelining, task orchestration, numerical optimization techniques, and data
+compression algorithms).
+• Design, implement, evaluate and finetune novel AI algorithms and models.
+• Drive innovation through patent filings and high-quality publications in leading
+conferences/journals.
+• Collaborate cross-functionally with other teams to transition research outcomes into
+efficient production solutions.
+• Mentor junior team members and contribute to building a culture of innovation,
+excellence, and continuous learning.
+• Stay updated of the latest developments in AI and contribute to the strategic direction of
+the research roadmap
+Necessary Qualifications:
+• PhD or master’s level research degree with expertise in Computational Science/
+Computational Physics/ Computational Mathematics, or Computer Science, or
+Electronics and Communication Engineering, or any other related field.
+• Any prior experience in enterprise R&D and research leadership experience would be
+preferred.
+Necessary Skillsets:
+• Numerical Linear Algebra.
+• Numerical methods for discrete and continuous optimization.
+• Probability and Stochastic Processes.
+• Statistical methods in data analysis.
+• Hands-on experience with parallel programming paradigms such as Pthreads, OpenMP,
+MPI, vectorization through SIMD/SIMT.
+• Familiarity with C++, Python and Latex is assumed.
+• Contributions to open-source AI libraries or toolkits.
+• Strong collaboration and communication skills
+Expertise in some of the following areas is highly desirable:
+• Computer architecture and parallel computing.
+• Various AI models such as diffusion models, Gen-AI, LLMs, multi-modal AI, State-Space
+models, etc.
+• Various automation techniques such as control algorithms, reinforcement learning, etc.
+• Various data compression algorithms.
+• Privacy-preserving confidential computation, and/or Homomorphic Encryption.
+• Global and/or stochastic mathematical analysis through foundational concepts
+including, but not limited to, stochastic calculus, dynamical systems, and differential
+geometry
+
+================================================================================

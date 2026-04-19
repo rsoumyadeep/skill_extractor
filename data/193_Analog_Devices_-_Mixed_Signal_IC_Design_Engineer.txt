@@ -1,0 +1,144 @@
+================================================================================
+JOB: Analog Devices - Mixed Signal IC Design Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/8f438ae7-5a27-40fb-b879-c7776ffc2966
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Analog Devices
+Job Domain
+-
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+VLSI and Semiconductors
+Industry Sector
+Private
+Website URL
+https://www.analog.com/en/index.html
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+23,00,000
+First Year Annual Overall CTC
+37,00,000
+First Year Monthly Salary
+2,00,000
+First Year Overall CTC - Detailed Breakup
+45,00,000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+18-Nov-25 17:52:46
+Application Deadline
+26-Nov-25 17:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Mixed Signal IC Design Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Technical Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+PhD (Engineering)
+Discipline
+PhD Electrical Communication Engineering
+PhD Electrical Engineering
+Eligibility
+• Ph.D. in Electrical Engineering in CMOS IC design
+Skills
+• Ph.D. in Electrical Engineering in CMOS IC design
+Bond Details
+null
+
+---
+
+DETAILED JOB DESCRIPTION
+Analog Devices is seeking a Mixed Signal IC Design Engineer to join the Hearable and Wearable Business
+Unit to participate in analysis, research, design, simulation, characterization, and release-to-production
+of high-performance, low power, integrated circuits.
+The successful candidate will join a team with a track record of producing breakthrough innovative
+architectures for Class-D amplifiers and delta-sigma DAC’s and ADC’s, to name a few. The successful
+candidate must have a strong, intuitive capability in solving complex challenges. The candidate will be
+self-motivated and be able to work effectively within a team.
+Responsibilities
+• Architecture investigation, design and verification of analog and mixed-signal blocks
+• Collaboration with digital design and design verification teams for block and system integration
+and verification at chip level
+• Interface with product definition, product, applications, and test, engineering to successfully
+bring new products from initial concept through production release
+• Evaluate and troubleshoot complex integrated circuit problems in the laboratory
+Education and Experience Requirements:
+• Ph.D. in Electrical Engineering in CMOS IC design
+• Understanding of a wide range of circuits such as high-gain amplifiers, switched-capacitor
+circuits, comparators, integrators, precision voltage references, LDOs
+Preferred Qualifications
+• Experience in ADC/DAC design
+• Experience in audio IC design with a passion for audio
+• Experience in Cadence schematic capture and SPICE simulation tools
+• Experience in delta-sigma modulator design
+• Experience with MATLAB or other modeling tools, and specifically their application to delta
+sigma modulator design
+• Understanding of digital signal processing concepts
+
+---
+
+ADDITIONAL DETAILS
+Analog Devices is seeking a Mixed Signal IC Design Engineer to join the Hearable and Wearable Business
+Unit to participate in analysis, research, design, simulation, characterization, and release-to-production
+of high-performance, low power, integrated circuits.
+The successful candidate will join a team with a track record of producing breakthrough innovative
+architectures for Class-D amplifiers and delta-sigma DAC’s and ADC’s, to name a few. The successful
+candidate must have a strong, intuitive capability in solving complex challenges. The candidate will be
+self-motivated and be able to work effectively within a team.
+Responsibilities
+• Architecture investigation, design and verification of analog and mixed-signal blocks
+• Collaboration with digital design and design verification teams for block and system integration
+and verification at chip level
+• Interface with product definition, product, applications, and test, engineering to successfully
+bring new products from initial concept through production release
+• Evaluate and troubleshoot complex integrated circuit problems in the laboratory
+Education and Experience Requirements:
+• Ph.D. in Electrical Engineering in CMOS IC design
+• Understanding of a wide range of circuits such as high-gain amplifiers, switched-capacitor
+circuits, comparators, integrators, precision voltage references, LDOs
+Preferred Qualifications
+• Experience in ADC/DAC design
+• Experience in audio IC design with a passion for audio
+• Experience in Cadence schematic capture and SPICE simulation tools
+• Experience in delta-sigma modulator design
+• Experience with MATLAB or other modeling tools, and specifically their application to delta
+sigma modulator design
+• Understanding of digital signal processing concepts
+
+================================================================================

@@ -1,0 +1,124 @@
+================================================================================
+JOB: KPMG - Consultant
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/80cdde5f-56f4-4010-bd72-0a42765bb77a
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+KPMG
+Job Domain
+Industry 4.O
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+PAN India
+Industry
+Audit, Advisory and Tax
+Industry Sector
+Private
+Website URL
+https://kpmg.com/in/en.html
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+Fixed - 20LPA
+First Year Annual Overall CTC
+NA
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+20LPA is the fixed CTC and will have basic deductions like tax, PF etc.
+Variable Pay depends on the individual’s performance, service line’s performance and the firm’s performance + Other Benefits (Gratuity & Insurance)]
+Retention Bonus of INR 3,00,000
+Note on RB: Disbursement of RB is to be done in two tranches, 50% payout on completion of 12 months and 50% payout on completion of 18 months with no claw back
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+06-Nov-25 10:55:00
+Application Deadline
+08-Nov-25 11:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Consultant
+Shortlist Published At
+Stage 2(Resume Shortlisting-Consultant) - 26 Dec 2025 12:40:43Stage 3(Group Discussion-Consultant) - 26 Dec 2025 12:43:07Stage 4(Technical Interview-Consultant) - 26 Dec 2025 12:43:38
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Group Discussion
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+Discipline
+M.Tech Smart Manufacturing
+Eligibility
+Qualifications:
+● M. Tech – Smart Manufacturing
+● Percentage Cut off: 60% throughout academics or equivalent CGPA
+● Graduation Year: 2025
+● No active backlogs
+Skills
+NA
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+
+---
+
+DETAILED JOB DESCRIPTION
+Intern - Industry 4.0 Program management
+1. Role Description
+Core Consulting
+Work with practice leadership on
+ Conduct baseline analysis, diagnostics and understand gaps and areas of improvement in various functions of design/ manufacturing operations across Industry using mathematical models, statistical process controls
+ Work with clients and teams to design and define requirements for SMART manufacturing, predictive maintenance, Industry 4.0 technologies such as Artificial Intelligence/ Big Data
+ Develop business case, including impact validation, ROI of potential solutions and conduct techno economic feasibility
+ Scribe technical proposals and delivery documents on client projects
+ Support Managers, Senior managers for proposal build for client engagements and pre-sales activities
+Practice Build
+ Document project delivery solutions for horizontal replication and knowledge harvesting
+ Support the internal risk management practices for internal approvals on projects
+ Run training and coaching sessions for colleagues for development
+2. Skill set
+a) Experience in Advanced Statistical Modelling, ANNOVA, Linear Programming, Regression analysis
+b) Ability in Python programming, Pytorch, Big Data, AI/ML and deep learning models and neural networks
+c) Use metrics and performance data to understand opportunities for improvement
+d) Understand the modern tools for data validation, process automation, theory of constraints, control charts, etc
+e) Working knowledge of the concepts of advanced analytics and digital twin constructs
+2. Experience
+a. Industry experience/ project experience preferred. Internship in Manufacturing or Design Industry will be preferred
+b. Hands on experience on business value chain mapping in manufacturing sector
+
+================================================================================

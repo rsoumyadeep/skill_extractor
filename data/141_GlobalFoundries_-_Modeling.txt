@@ -1,0 +1,126 @@
+================================================================================
+JOB: GlobalFoundries - Modeling
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/a2eeb568-908d-4e64-9583-f7f95a093113
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+GlobalFoundries
+Job Domain
+Semiconductor
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+VLSI and Semiconductors
+Industry Sector
+Public
+Website URL
+https://www.gf.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+1600000 (Masters) - 2200000 (PhD)
+First Year Annual Overall CTC
+1874000 (Masters) - 2564000 (PhD)
+First Year Monthly Salary
+133334 (Masters)- 183334(PhD)
+First Year Overall CTC - Detailed Breakup
+Base Pay +Statutory Bonus +Variable Pay
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+02-Dec-25 10:39:45
+Application Deadline
+11-Dec-25 10:00:00
+Time Left
+Closed
+Application Current State
+Online Test-Modeling
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Engg
+M.Tech
+M.Tech (Research)
+MS (Research)
+PhD (Engineering)
+PhD (Science)
+PhD (Integrated)
+Discipline
+M.Engg in Semiconductor Technology
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech Materials Engineering
+PhD Electrical Engineering
+PhD Electronic Systems Engineering
+PhD Physics
+M.Tech Semiconductor Technology
+M.Tech Microelectronics & VLSI Design
+M.Tech Electronics Systems Engineering
+Eligibility
+Masters / PhD in Microelectronics or related Fields
+Skills
+Device Physics, Device Modeling
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Modeling
+
+---
+
+DETAILED JOB DESCRIPTION
+GlobalFoundries, a leading semiconductor manufacturing company, is actively seeking talented and passionate Design Engineers to join our innovative team. We have exciting openings in multiple areas including:
+1. Compact Modeling
+2. CAD Engineering
+3. Design Enablement, compact modeling
+4. SRAM bit cell enablement
+5. Device Model Engineer
+6. OPC Engineering- Siph
+7. RF MOSFET compact modeling
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Are you available for a 6 Months Internship opportunity? (Multiple Choice)
+
+Q2. In 2026 from which month you are available for 6 Months Internship? (Multiple Choice)
+
+================================================================================

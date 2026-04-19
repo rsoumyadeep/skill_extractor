@@ -1,0 +1,201 @@
+================================================================================
+JOB: SEDEMAC Mechatronics Limited - Engineer, Embedded Software
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/48ac623e-20c7-4220-90e1-b179223f60c4
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+SEDEMAC Mechatronics Limited
+Job Domain
+Engineering
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Baner, Pune
+Industry
+Engineering and Technology
+Industry Sector
+Public
+Website URL
+https://www.sedemac.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+17,00,000
+First Year Annual Overall CTC
+17,00,000
+First Year Monthly Salary
+135533 (In hand)
+First Year Overall CTC - Detailed Breakup
+Attached with the mail
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+12-Jan-26 11:25:00
+Application Deadline
+14-Jan-26 09:00:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Engineer, Embedded Software
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Engg
+M.Tech
+M.Tech (Research)
+Discipline
+B.Tech in Mathematics and Computing
+M.Engg in Semiconductor Technology
+M.Tech (Research) Aerospace Engineering
+M.Tech (Research) Department of Design and Manufacturing
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech (Research) Instrumentation and Applied Physics
+M.Tech (Research) Materials Engineering
+M.Tech (Research) Mathematics
+M.Tech (Research) Physics
+M.Tech Aerospace Engineering
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech in Instrumentation Systems
+M.Tech Materials Engineering
+M.Tech Mathematics
+M.Tech Mechanical Engineering
+M.Tech Physics
+MS (Research) in Materials Sciences
+MS (Research) in Mathematics
+MS (Research) in Physics
+M.Tech Signal Processing
+M.Tech Electronics & Communication Engineering
+M.Tech Semiconductor Technology
+M.Tech Microelectronics & VLSI Design
+M.Tech Electronic Product Design
+M.Tech Robotics and Autonomous Systems
+M.Tech Communication Networks
+M.Tech Electronics Systems Engineering
+M.Tech (Research) Mechanical Engineering
+M.Tech (Research) Electrical & Communication Engineering.
+MS in Materials Engineering
+Eligibility
+CGPA 6.0+ or 60% throughout 10th,12th / Diploma, Graduation, PG (if applicable)
+Skills
+• Software development experience in embedded software development in C and preferably C++.
+• Comfort with Python scripting is good to have.
+• Experience with RTOS is a plus.
+• Good knowledge of microcontrollers and hands-on with IDEs, debuggers, emulators etc.
+• Comfort with Git is desired.
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Engineer, Embedded Software
+
+---
+
+DETAILED JOB DESCRIPTION
+SEDEMAC Mechatronics Limited
+
+
+Engineer, Embedded Software
+
+
+About the job
+
+
+Our products are heavily reliant on embedded software, and hence we are inviting passionate individuals to join our team to contribute towards our pursuit of building world-class products for the future. You would be a key player of the team responsible for crafting world-class software that goes into high-scale products built by SEDEMAC. This is an opportunity to create impact, the code you write will go into millions of products we ship annually. You will be a part of a peer group that will encourage and inspire you to improve.
+
+
+Major Responsibilities
+
+
+“Engineer, Embedded Software” at SEDEMAC is responsible for end-to-end design, development and testing of embedded software stack within a particular product line in SEDEMAC. The candidate is required to:
+1. Be responsible for software development for product lines such as “traction controllers”, “fuel injection controllers”, “generator set controllers” etc.
+2. Ensure timely and high-quality software delivery, in co-ordination with system engineers and electronic engineers who are responsible for their respective domains of the product development.
+3. Act as the first point of contact for internal and external customers. Typically, the internal customers of software team would be the system engineering team who are product owners.
+4. De-risk crucial show-stoppers in the project, involving development of complex logics, and resolving complex defects (RCAs). This also includes the candidate participating in post-production failures of the product.
+5. Actively participate in improving software development process, workflows, technologies used at SEDEMAC and ensure compliance with software development standards as relevant to the product line that the engineer is driving.
+6. Perform code reviews; have a keen eye for suspecting and spotting potential errors.
+7. Ensure thorough, high-quality documentation of the software artefacts developed, and also participate in development of white-papers to improve the state of software team’s knowledge repository.
+
+
+Required Skills & Experience
+
+
+• Software development experience in embedded software development in C and preferably C++.
+• Comfort with Python scripting is good to have.
+• Experience with RTOS is a plus.
+• Good knowledge of microcontrollers and hands-on with IDEs, debuggers, emulators etc.
+• Comfort with Git is desired.
+• Excellent spoken and written English communication.
+
+
+Information on Selection Process
+
+
+• The selection process will be multi-phased tests plus interviews.
+• There will be focus on evaluation of your understanding of embedded software skills, logical & analytical skills.
+
+
+Education & Experience
+
+
+• Bachelor's or Master's degree in Electrical, Electronics & Telecommunication, Instrumentation, Mechatronics, Robotics, Mechanical only
+
+
+About SEDEMAC
+
+
+At its core, SEDEMAC is the convergence of talented engineers committed to the development and large-scale deployment of innovative control technologies and products. As one of the fastest-growing Tier-1 suppliers in the automotive space, we work with vehicle, motor, and engine manufacturers who are leaders in their own space to deliver fundamental control solutions with real-world impact. Our engineer-led organization prides itself on creating technology propositions and taking them from the drawing board to high-volume production with operational excellence. We foster a culture that values creativity, honesty, and respect—where ideas are judged by their merit, not by hierarchy. With a strong foundation and ambitious growth plans, SEDEMAC is uniquely positioned to shape the future of controls.
+
+
+Job Location – Baner, Pune
+
+---
+
+ADDITIONAL DETAILS
+INFRASTRUCTURE REQUIREMENTS:
+1: We will be using Superset from this year. The applications will be opened on Superset and the eligible students should apply on the platform.
+2: The online aptitude and technical tests will be conducted on campus in our presence using Mettl platform. The arrangements should be made accordingly.
+3: The Technical and HR interview will be conducted on campus.
+
+
+Online Test Platform: Mettl (Video proctored). It is expected that the tests should be conducted in the classroom / auditorium in our invigilation. The arrangements should be made accordingly. All students should be instructed to carry the hard copy of any govt. id proof for the tests. This is a requirement for registration on Mettl platform for the tests.
+
+================================================================================

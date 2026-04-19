@@ -1,0 +1,130 @@
+================================================================================
+JOB: Solar Industries India Limited - Al & ML Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/5b582ec7-ce8b-46b9-9281-dcc595cbb981
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Solar Industries India Limited
+Job Domain
+Research & Development (R&D)
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Nagpur
+Industry
+Aerospace and Defense
+Industry Sector
+Public
+Website URL
+https://solargroup.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+4,70,000 - 6,25,000
+First Year Annual Overall CTC
+14,00,000 - 18,50,000
+First Year Monthly Salary
+98,000 - 1,30,000
+First Year Overall CTC - Detailed Breakup
+Gross Salary - 98,000 - 1,30,000
+Annual Retention Bonus - 1,17,000 - 1,56,000
+Annual CTC - 14,00,000 - 18,50,000
+
+Note: The highest CTC structure will be considered exclusively for Dual Degree (Integrated) courses.
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+10-Dec-25 17:00:00
+Application Deadline
+12-Dec-25 17:00:36
+Time Left
+Closed
+Application Current State
+HR Interview-Al & ML Engineer
+Shortlist Published At
+Stage 2(Technical Interview-Al & ML Engineer) - 29 Dec 2025 18:17:18Stage 3(HR Interview-Al & ML Engineer) - 29 Dec 2025 18:18:19Stage 3(HR Interview-Al & ML Engineer) - 29 Dec 2025 18:18:19
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+All
+Discipline
+All
+Eligibility
+a. Bachelor’s/master's degree in computer science, Artificial Intelligence, Electrical Engineering, or
+a related field.
+b. Proficiency in programming languages such as Python, C++.
+c. Strong experience with machine learning frameworks and libraries (e.g., TensorFlow,
+PyTorch, Keras).
+d. Knowledge of computer vision, sensor fusion, and reinforcement learning.
+e. Familiarity with UAV systems, including flight dynamics and control algorithms, is a plus.
+f.
+Knowledge of data collection and processing techniques.
+Skills
+JD Attached
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Al & ML Engineer
+
+---
+
+DETAILED JOB DESCRIPTION
+a. Design, develop, and optimize AI and machine learning algorithms for UAV autopilot
+systems, including perception, control, and decision-making processes.
+b. Use of AI/ML algorithms for route optimization in real-time, adaptive path planning.
+c. Collect, preprocess, and analyze data from UAV sensors and simulation environments to
+train and validate ML models.
+d. Develop and train ML models for tasks such as object detection, obstacle avoidance in
+order to achieve autonomous navigation.
+e. Using AI techniques to combine data from multiple sensors (e.g., GPS, IMUs, cameras) to
+create a comprehensive understanding of the UAV’s environment (self & situational
+awareness).
+f.
+Using ML algorithms to adapt control parameters in real-time.
+g. Work closely with hardware and software engineers to integrate AI/ML algorithms into the
+UAV autopilot system, ensuring seamless performance and reliability.
+h. Utilize simulation tools to test and refine AI/ML algorithms in virtual environments before
+deployment on physical UAVs.
+i.
+j.
+Continuously monitor and improve the performance of AI/ML models, addressing issues
+related to accuracy, efficiency, and real-time processing.
+Stay up to date with the latest advancements in AI/ML and UAV technologies, applying
+cutting-edge techniques to enhance autopilot systems.
+k. Maintain clear and detailed documentation of algorithms, models, and development
+processes.
+
+================================================================================

@@ -1,0 +1,130 @@
+================================================================================
+JOB: TIAA Global Capabilities - Associate - CDAIO
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/6833b62a-992d-4a23-be10-ba247a86d8b4
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+TIAA Global Capabilities
+Job Domain
+Technical
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Pune / Mumbai ( The Job Location will be at the discretion of TIAA GC management)
+Industry
+Financial Services
+Industry Sector
+Private
+Website URL
+https://www.tiaa.org/public
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+18,00,000
+First Year Annual Overall CTC
+18,86,400 (Fixed + Retrials)
+First Year Monthly Salary
+1,57,200 (Fixed + Retrials)
+First Year Overall CTC - Detailed Breakup
+Fixed CTC INR 18,00,000 + Retrials INR 86400 = Total CTC 18,86,400
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+09-Dec-25 15:14:59
+Application Deadline
+10-Dec-25 15:30:36
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Associate - CDAIO
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+Discipline
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Mathematics
+M.Tech Aerospace Engineering
+M.Tech Physics
+Eligibility
+Student should be qualified from the Shortlisted Degrees and Should not have any Active Backlog at the time of Joining us .
+Should be Batch 2026 Pass outs.
+Willing to Relocate to Pune or Mumbai as the Job Location
+Skills
+as mentioned in the JD
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+Position Overview
+Join TIAA as a Technical Associate working across Production Operations, Data Engineering, Quality Assurance, or Enterprise Applications. This role combines hands-on technical work with cutting-edge AI/ML automation in a mission-driven organization.
+What You'll Do
+• Systems & Operations: Monitor cloud platforms (AWS, Snowflake), respond to incidents, support 24/7 mission-critical systems
+• Data Engineering: Build ETL/ELT pipelines, move data between sources and warehouses, ensure data quality
+• Quality Assurance: Write test cases, execute testing, validate data accuracy, automate test workflows
+• Enterprise Applications: Configure Workday HCM modules, build reports, support integrations
+• Automation: Identify repetitive tasks and automate using AI tools, scripts, and workflows
+AI & Innovation Focus
+• Use Generative AI tools (AWS Bedrock, Claude, Amazon Q) for code generation and documentation
+• Experiment with prompt engineering and AI-powered automation
+• Learn and implement AI agents for testing and operational tasks
+• Explore emerging technologies like Agentic AI frameworks
+Learning & Growth
+• Work under mentorship of senior engineers on real production systems
+• Participate in Agile teams and collaborate with data engineers, developers, and business analysts
+• Document solutions and contribute to knowledge repositories
+• Attend training sessions and work toward technical certifications
+Technical Skills You Bring
+
+
+Must Have:
+• Programming: Solid Python or Java skills with basic understanding of object-oriented programming
+• SQL: Ability to write queries, joins, and understand data relationships
+• Linux/Unix: Comfortable with command-line environments and basic shell scripting
+• Problem-solving: Strong analytical and logical reasoning abilities
+Good to Have:
+• Exposure to AWS services (S3, EC2, Lambda) through coursework or projects
+• Understanding of databases (MySQL, PostgreSQL) or data warehouses
+• Familiarity with Git/GitHub for version control
+• Experience with data formats (JSON, CSV, XML)
+• Use of AI coding assistants (GitHub Copilot, ChatGPT, etc.)
+• Knowledge of testing concepts or test automation
+• Understanding of APIs and web services
+
+================================================================================

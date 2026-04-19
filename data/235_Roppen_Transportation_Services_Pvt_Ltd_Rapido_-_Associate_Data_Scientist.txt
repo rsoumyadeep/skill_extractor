@@ -1,0 +1,141 @@
+================================================================================
+JOB: Roppen Transportation Services Pvt Ltd (Rapido) - Associate Data Scientist
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/25ea55da-095f-4d36-af7d-08518cf83b13
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Roppen Transportation Services Pvt Ltd (Rapido)
+Job Domain
+Data Science
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Transportation and Logistics
+Industry Sector
+Private
+Website URL
+https://www.rapido.bike/Home
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+19,00,000
+First Year Annual Overall CTC
+19,00,000
+First Year Monthly Salary
+1,50,000
+First Year Overall CTC - Detailed Breakup
+Fixed CTC + Provident Fund
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+13-Nov-25 13:19:58
+Application Deadline
+14-Nov-25 13:20:02
+Time Left
+Closed
+Application Current State
+HR Interview-Associate Data Scientist
+Shortlist Published At
+Stage 2(Technical Interview-Associate Data Scientist) - 24 Nov 2025 17:51:19Stage 3(HR Interview-Associate Data Scientist) - 29 Dec 2025 17:34:00
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+Discipline
+B.Tech in Mathematics and Computing
+M.Tech (Research) Computational and Data Sciences
+Eligibility
+B.Tech (CSE)
+M.Tech (CSE)
+Other courses
+
+Skills
+Data Science
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+About Rapido
+Rapido is India's leading bike-taxi platform, revolutionizing urban mobility across ~100 cities, and expanding rapidly across Autos, Rentals, Cabs, Deliveries, and more. With over 40 million users and 5 million captains, we are not just solving transportation - we are reimagining intra-city mobility at scale. We are growing at ~50% YoY with robust funding, a highly scalable platform, and data-rich operations. Our mission: make mobility accessible, reliable, and affordable for India's next billion. Data sits at the core of everything we do - from real-time matching of millions of customers and captains to demand forecasting, dynamic pricing, fraud prevention, and city-level network
+optimization.
+
+
+About the Role: Data Scientist (Super-Early Career Track)
+We are hiring exceptionally talented data scientists from top research universities for our elite entry-level cohort. This is a high-ownership role designed for candidates who have demonstrated strong technical depth, research aptitude, and a desire to solve high-scale, real-world problems.
+You will work directly with senior leadership across Data Science, Product, and Engineering to design, prototype, and productionize models that power Rapido's marketplace. We don't expect you to have all the answers - but we expect intellectual curiosity, strong
+fundamentals, and a desire to build at scale.
+
+Key Responsibilities
+- Formulate and structure business problems into well-defined data science questions
+- Build models for real-time prediction, optimization, recommendation, and forecasting
+- Design controlled experiments (A/B tests) and causal inference studies to validate hypotheses
+- Conduct advanced exploratory data analysis on multi-terabyte datasets
+- Collaborate with engineering teams to productionize models and build robust ML pipelines
+- Publish internal whitepapers, conduct tech talks, and contribute to Rapido's internal knowledge base
+- Drive rapid prototyping and iterative model improvement based on live feedback loops
+- Partner with product managers, business leaders, and operations to translate model outputs into business impact
+
+Ideal Candidate Profile
+- Master's degree (or PhD) in Computer Science, Statistics, Applied Math, Operations Research,
+Machine Learning, or a related quantitative field from a top-tier institution (IITs, IISc, ISI, CMU, Stanford, MIT, etc.)
+- Deep understanding of statistical modeling, supervised & unsupervised learning, time series, and optimization techniques
+- Proficiency in Python (pandas, scikit-learn, TensorFlow/PyTorch) and SQL
+- Strong fundamentals in probability theory, linear algebra, convex optimization, and algorithms
+- Hands-on experience with large-scale data (structured and unstructured), distributed systems
+(Spark/Hadoop), and cloud environments (AWS/GCP preferred)
+- Exposure to marketplace problems such as dynamic pricing, demand forecasting, routing optimization, supply allocation, or recommender systems is a plus
+- Experience with A/B testing, causal inference, or quasi-experimental designs is highly desirable
+- Research publications, open-source contributions, or top-tier ML competitions (Kaggle, ACM, ICML, NeurIPS) will be a strong plus
+
+
+What We Offer
+- High-impact work: build models influencing millions of rides daily
+- Massive datasets: access to 100+ TB of real-time data across cities and products
+- Mentorship from top industry leaders and domain experts
+- Flat, high-trust, ownership-driven culture with very fast learning curves
+- Solve real-world, highly complex marketplace and logistics problems
+- Exposure to cutting-edge work in marketplace design, ML systems, causal inference, experimentation, and decision science
+- The opportunity to shape India's mobility and contribute to problems at true national scale
+
+
+This is not just a first job. This is your launchpad.
+
+
+Come build the future of mobility with us at Rapido.
+
+================================================================================

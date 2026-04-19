@@ -1,0 +1,126 @@
+================================================================================
+JOB: PharmaACE - AI Research Trainee Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/5cb33b96-3ae6-40f3-9f44-721544a97c75
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+PharmaACE
+Job Domain
+AI
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Pune
+Industry
+Consulting Services
+Industry Sector
+Private
+Website URL
+https://pharmaace.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+20,00,000
+First Year Annual Overall CTC
+20,00,000
+First Year Monthly Salary
+1,50,000
+First Year Overall CTC - Detailed Breakup
+NA
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+11-Dec-25 18:30:00
+Application Deadline
+13-Dec-25 18:30:00
+Time Left
+Closed
+Application Current State
+HR Interview-AI Research Trainee Engineer
+Shortlist Published At
+Stage 2(Online Test-AI Research Trainee Engineer) - 29 Dec 2025 17:50:53Stage 3(Technical Interview-AI Research Trainee Engineer) - 29 Dec 2025 17:55:57Stage 4(HR Interview-AI Research Trainee Engineer) - 29 Dec 2025 17:56:41
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+PhD (Engineering)
+Discipline
+All
+Eligibility
+Qualifications Required:
+• BE/BTech/MTech in CS, Data Science, AI/ML, or related fields
+• Fresh graduates (0–2 years)
+• Curiosity, strong analytical mindset, and willingness to learn fast
+• Bonus: Exposure to Pharma/Healthcare/Life Sciences data
+• Strong programming fundamentals in Python
+• Knowledge of libraries such as:
+Pandas, PyTorch, TensorFlow, Keras, Transformers, Selenium, BeautifulSoup
+• Basic understanding of:
+o NLP tasks (NER, QA, summarization)
+o LLMs & fine-tuning
+o RAG & vector databases (Pinecone, FAISS, ChromaDB)
+o Prompt engineering techniques
+Skills
+o NLP tasks (NER, QA, summarization)
+o LLMs & fine-tuning
+o RAG & vector databases (Pinecone, FAISS, ChromaDB)
+o Prompt engineering techniques
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+AI Research Trainee Engineer
+
+---
+
+DETAILED JOB DESCRIPTION
+Responsibilities:
+• Research and experiment with state-of-the-art AI/LLM models (OpenAI, Gemini, Cohere,
+DeepSeek, Claude etc.).
+• Build prototypes for NLP tasks such as NER, summarization, semantic search, and document
+understanding.
+• Explore transformer models (BERT, RoBERTa, T5, LLaMA) and conduct comparative
+evaluations.
+• Work on RAG (Retrieval Augmented Generation) pipelines, embeddings, and prompt
+engineering.
+• Clean and process unstructured text from PDFs, PPTs, and webpages using PyMuPDF,
+PDFMiner, Tesseract, BeautifulSoup, Selenium, etc.
+• Collaborate with senior AI researchers to convert research ideas into working demos and
+applications.
+• Contribute to building AI evaluation datasets, benchmarks, and analytics framework
+
+================================================================================

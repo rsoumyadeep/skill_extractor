@@ -1,0 +1,132 @@
+================================================================================
+JOB: Nabhdrishti Aerospace Private Limited - Engineer – Aerothermal / Engine Performance / Thermofluids / Testing
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/2ae713b9-3e1c-4905-9220-a82953208d87
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Nabhdrishti Aerospace Private Limited
+Job Domain
+Manufacturing
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+IISc, Bengaluru
+Industry
+Aerospace and Defense
+Industry Sector
+Private
+Website URL
+https://www.nabhdrishti.in
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+13,00,000
+First Year Annual Overall CTC
+NA
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+Annual CTC: 20,00,000 INR
+1st year Annual Overall CTC:20,00,000 INR
+1st year Annual Overall CTC detailed break up : Gross Salary 13,00,000 INR + ESOP of worth 5,00,000 INR + Joining Bonus 2,00,000 INR
+1st year approx. Monthly salary : 1,08,334 INR
+Second Year Approx. Annual Base CTC
+15,00,000
+Second Year Approx. Annual Overall CTC
+NA
+Second Year Approx. Monthly Salary
+NA
+Second Year Approx. Overall CTC - Detailed Breakup
+2nd Year approx. Annual Base CTC : 15,00,000 INR
+2nd Year approx. Annual Overall CTC : 15,00,000 INR
+2nd Year approx. Annual Overall CTC detailed break up : Gross Salary 15,00,000
+INR
+2nd Year approx. Annual Overall CTC detailed break up : Gross Salary 15,00,000
+INR
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+13-Nov-25 13:22:06
+Application Deadline
+14-Nov-25 13:22:15
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Engineer – Aerothermal / Engine Performance / Thermofluids / Testing
+Shortlist Published At
+Stage 2(Resume Shortlisting-Engineer – Aerothermal / Engine Performance / Thermofluids / Testing) - 25 Nov 2025 16:43:06
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+Discipline
+M.Tech Aerospace Engineering
+M.Tech Mechanical Engineering
+Eligibility
+Minimum CGPA 7/10
+Skills
+Qualifications & Skills:
+• Bachelor’s, Master’s or Dual Degree in Mechanical or Aerospace Engineering or closely related
+fields.
+• Strong foundation in Thermodynamics, Fluid Mechanics, Heat Transfer, and Turbomachinery.
+• Familiarity with CFD tools (ANSYS Fluent, CFX) is an added advantage.
+• For Testing roles: Exposure to experimental methods and hands-on lab/test setup experience is
+essential.
+• Strong problem-solving, teamwork, and data-driven decision-making skills.
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Aerothermal / Engine Performance / Thermofluids
+
+---
+
+DETAILED JOB DESCRIPTION
+Qualifications & Skills:
+• Bachelor’s, Master’s or Dual Degree in Mechanical or Aerospace Engineering or closely related
+fields.
+• Strong foundation in Thermodynamics, Fluid Mechanics, Heat Transfer, and Turbomachinery.
+• Familiarity with CFD tools (ANSYS Fluent, CFX) is an added advantage.
+• For Testing roles: Exposure to experimental methods and hands-on lab/test setup experience is
+essential.
+• Strong problem-solving, teamwork, and data-driven decision-making skills.
+Key Responsibilities:
+• Aerothermal design and performance analysis of gas turbine flowpath components.
+• Conceptual 1D/2D flowpath design and optimization.
+• Conduct CFD and heat transfer simulations to improve engine performance.
+• Collaborate with CAD designers on 2D/3D model development.
+• Design and execute rig/engine tests, define instrumentation, and analyze test results.
+• Performance Engineer: Develop the engine performance model by integrating the performance
+characteristics of various sub-systems. Executes engine verification and certification strategy.
+• Thermofluids Engineer: Develop Thermo-mechanical and Secondary Air Systems (SAS) model to
+ensure thermal performance and cooling, sealing, and pressurization requirement met for the
+engine.
+• Testing Engineer: Plan and execute engine tests, define sensor layout, and interpret
+experimental data.
+
+================================================================================

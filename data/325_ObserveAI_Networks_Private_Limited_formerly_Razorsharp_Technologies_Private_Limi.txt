@@ -1,0 +1,152 @@
+================================================================================
+JOB: Observe.AI Networks Private Limited (formerly Razorsharp Technologies Private Limited) - Machine Learning Engineer, Speech
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/84a80a32-dbec-4992-a7a9-d3d905fc0dd7
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Observe.AI Networks Private Limited (formerly Razorsharp Technologies Private Limited)
+Job Domain
+Technical
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bengaluru
+Industry
+Engineering and Technology
+Industry Sector
+Private
+Website URL
+https://www.observe.ai
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+38,00,000
+First Year Annual Overall CTC
+5,00,000
+First Year Monthly Salary
+31,666
+First Year Overall CTC - Detailed Breakup
+Annual CTC : 43 Lakhs
+Annual Fixed Pay : 38 Lakhs
+One time Bonus : 5 Lakhs
+Stock Units for 4 years : 2500
++ Medical Insurance Benefits
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+the 2nd year CTC is dependant on the 1st year performance appraisal ratings
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Oct-25 15:37:24
+Application Deadline
+28-Oct-25 06:00:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Machine Learning Engineer, Speech
+Shortlist Published At
+Stage 2(Resume Shortlisting-Machine Learning Engineer, Speech) - 25 Nov 2025 16:00:07
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+Discipline
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Signal Processing
+M.Tech Computer Science & Engineering
+Eligibility
+We are looking at M Tech and M Research candidates
+Skills
+Graduate/Post Graduate degree
+Working experience in building Speech Technologies like ASR, TTS, Diarization, and Speech signals
+Hands-on experience in building end-to-end models using the latest architectures
+Exposure to ML solutions and pipelines
+Programming experience in Python, Shell scripting and C/Java
+Hands-on experience in speech processing frameworks such as Kaldi, Espnet, Speech brain, etc.
+Exposure to Machine learning and Deep learning libraries such as Scikit Learn, TensorFlow or PyTorch
+Bond Details
+No Bond
+
+---
+
+JD ATTACHMENTS
+
+---
+
+DETAILED JOB DESCRIPTION
+The Opportunity: 
+
+
+If you are a talented and driven person who wants to join a high-impact team at the core of Observe.AI's mission, then this role is for you. This is a highly challenging role that will require the implementation of state-of-the-art Machine learning (ML) and Deep learning algorithms; You will build a never-before-seen machine intelligence product and ML pipelines from scratch, architecting and implementing low latency systems at scale.If you are excited about; owning & building a next-generation ML architecture and working on core algorithms, right from training to production, you’ll love the job! 
+
+
+What you’ll do day to day as a Machine Learning Engineer - Speech
+
+
+Work with large data-sets and build a ML pipeline to process and train the data
+Run ML experiments scientifically and analyze the results
+Optimize ML solutions for performance and scale
+Deploy solutions into production and maintain several models for fast experiments
+Work on world-class Speech Technologies and build deep learning models.
+Work with large data sets and build an ML pipeline to process and train the data
+Run ML experiments scientifically and analyze the results
+Optimize ML solutions for performance and scale
+
+
+Who you are :
+
+
+Graduate/Post Graduate degree
+Working experience in building Speech Technologies like ASR, TTS, Diarization, and Speech signals
+Hands-on experience in building end-to-end models using the latest architectures
+Exposure to ML solutions and pipelines
+Programming experience in Python, Shell scripting and C/Java
+Hands-on experience in speech processing frameworks such as Kaldi, Espnet, Speech brain, etc.
+Exposure to Machine learning and Deep learning libraries such as Scikit Learn, TensorFlow or PyTorch
+
+
+Some of the other coolest things you deliver:-
+
+
+A world-class Speech technology that has an impact on Customers and the research community
+Publish papers in International Speech and NLP conferences like Interspeech / Icassp / NIPS/ ASRU etc
+Inter team coordination for research initiatives.
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Do you have any PPO offer (Text)
+
+================================================================================

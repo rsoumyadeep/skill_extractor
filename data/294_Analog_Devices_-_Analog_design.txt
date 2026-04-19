@@ -1,0 +1,149 @@
+================================================================================
+JOB: Analog Devices - Analog design
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/0db697e7-cd01-4f4c-88c4-ff0348bd2887
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Analog Devices
+Job Domain
+Engineering
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+VLSI and Semiconductors
+Industry Sector
+Private
+Website URL
+https://www.analog.com/en/index.html
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+20,00,000
+First Year Annual Overall CTC
+40,76,617
+First Year Monthly Salary
+1,70,000
+First Year Overall CTC - Detailed Breakup
+33,74,905
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Oct-25 18:45:50
+Application Deadline
+28-Oct-25 06:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Analog design
+Shortlist Published At
+Stage 2(Online Test-Analog design) - 25 Oct 2025 18:45:24Stage 3(Technical Interview-Analog design) - 28 Dec 2025 20:05:16
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+M.Tech (Research)
+Discipline
+M.Engg in Semiconductor Technology
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech in Instrumentation Systems
+M.Tech Signal Processing
+M.Tech Electronics & Communication Engineering
+M.Tech Semiconductor Technology
+M.Tech Microelectronics & VLSI Design
+M.Tech Electronic Product Design
+Eligibility
+7.5 CGPA
+Skills
+Analog design, Evaluation Engineering, Design Verification, FAE, Product Application
+Bond Details
+1
+
+---
+
+JD ATTACHMENTS
+Analog Design Engineering-FTE
+
+---
+
+DETAILED JOB DESCRIPTION
+Product Applications Engineer – M.Tech / B.Tech
+Analog Devices is seeking highly motivated and skilled Engineers with strong foundation
+in embedded systems, hardware/software development, and communication skills. This
+role is a fantastic opportunity for a professional to work in a dynamic environment and
+collaborate across teams to support the adoption of our products across wide range of
+applications, including Automotive, Consumer, Industrial, and multimarket.
+Roles & Responsibilities:
+• Design and develop comprehensive reference designs, including both software
+and hardware solutions, for emerging interfaces on ADI products.
+• Perform functional and system-level validation, with a focus on compliance
+testing for high-speed interfaces such as DDR, USB, SPDIF, and Ethernet.
+• Customize reference designs to meet customer-specific requirements, ensuring
+seamless integration with ADI processors.
+• Collaborate directly with Tier-1 and OEM customers (on-site or off-site) to resolve
+technical challenges and accelerate their transition to production.
+• Create technical documentation, articles, proof of concept platforms, and
+deliver training sessions to customers and internal ADI sales/support teams.
+• Act as a key liaison between customers and our product development teams,
+providing valuable feedback for the definition of next-generation products.
+• Analyze system-level requirements for targeted markets and applications,
+working with cross-functional teams to drive product definition and execution.
+Candidate Qualifications:
+1. Education: Bachelor’s or Master’s degree in Electrical/Electronics Engineering,
+with strong fundamentals in Digital Signal Processing and
+microprocessors/microcontrollers.
+2. Core Skills:
+1. Strong foundational knowledge of Digital Signal Processing (DSP) and
+microprocessors/microcontrollers.
+2. Proficiency in C programming is mandatory.
+3. Solid understanding of electronics engineering and familiarity with standard
+communication protocols such as I2C, SPI, and UART.
+3. Desired Experience:
+1. Hands-on experience with DSP algorithm implementation and optimization
+on processors.
+2. Experience with Python and/or assembly programming
+3. Familiarity with tools like MATLAB.
+4. Personal Attributes
+1. Exceptional interpersonal, teamwork, and communication skills.
+2. Excellent organizational skills, with the ability to manage multiple projects
+and prioritize effectively.
+3. Self-motivated, innovative, and a positive team contributor.
+5. Travel: Willingness to travel domestically or internationally (10%–15%).
+
+================================================================================

@@ -1,0 +1,161 @@
+================================================================================
+JOB: Spyne - Computer Vision Researcher
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/251869ab-8a38-4bed-8070-d93c886bea31
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Spyne
+Job Domain
+AI
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Gurugram
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://www.spyne.ai
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+1500000 - 1800000
+First Year Annual Overall CTC
+1500000 - 2200000
+First Year Monthly Salary
+-
+First Year Overall CTC - Detailed Breakup
+-
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+20-Jan-26 14:50:37
+Application Deadline
+21-Jan-26 14:00:44
+Time Left
+Closed
+Application Current State
+Technical Interview-Computer Vision Researcher
+Shortlist Published At
+Stage 2(Technical Interview-Computer Vision Researcher) - 28 Jan 2026 12:40:47
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+Assignment
+Group Discussion
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+12
+Maximum Job Experience
+34
+Programme
+B.Tech
+BS (Research)
+M.Tech
+M.Tech (Research)
+Discipline
+B.Tech in Mathematics and Computing
+M.Tech (Research) Computer Science and Automation
+PhD Computational and Data Sciences
+PhD Computer Science and Automation
+PhD Electrical Communication Engineering
+M.Tech Artificial Intelligence
+M.Tech (Research) Electrical & Communication Engineering.
+Eligibility
+Strong expertise in computer vision and generative AI including diffusion models, GANs, and hybrid architectures, practical experience in 3D vision such as NeRFs, Gaussian Splatting, multi-view geometry, or depth estimation, deep proficiency in Python, PyTorch, OpenCV, and image processing pipelines, experience designing, training, and optimizing production-grade models, hands-on deployment using Docker, Kubernetes, ONNX, and cloud platforms (AWS/GCP/Azure), ability to optimize latency and performance, build evaluation and quality-ranking metrics for visual outputs, and a research-driven mindset with strong debugging, collaboration, and product-oriented thinking.
+Skills
+Strong expertise in computer vision and generative AI including diffusion models, GANs, and hybrid architectures, practical experience in 3D vision such as NeRFs, Gaussian Splatting, multi-view geometry, or depth estimation, deep proficiency in Python, PyTorch, OpenCV, and image processing pipelines, experience designing, training, and optimizing production-grade models, hands-on deployment using Docker, Kubernetes, ONNX, and cloud platforms (AWS/GCP/Azure), ability to optimize latency and performance, build evaluation and quality-ranking metrics for visual outputs, and a research-driven mindset with strong debugging, collaboration, and product-oriented thinking.
+Bond Details
+No Bond
+
+---
+
+JD ATTACHMENTS
+Applied Research Engineer 1
+
+---
+
+DETAILED JOB DESCRIPTION
+Applied Research Engineer - I (Computer Vision)
+Who are we?
+We are Spyne, redefining how cars are marketed and sold with cutting-edge Generative AI. What started as a bold idea—using AI-powered visuals to help dealers sell online faster—has evolved into a full-fledged AI-first automotive retail ecosystem.
+Backed by $16M in Series A funding from Vertex Ventures, Accel, and other top investors, we’re scaling fast:
+✔ Expanded across the US & EU markets
+✔ Launched industry-first AI-powered Image & 360 solutions
+✔ Achieved a 5X revenue surge in 15 months, aiming for 3-4X growth this year
+Now, we’re rolling out an end-to-end GenAI Automotive Retail Suite and pushing into the US market to bring our AI-driven products to 3,000-4,000 dealers.
+👉 Read more about us:
+Studio AI Product - t.ly/t0Ko5
+Retail AI Product - t.ly/EyKC9
+Series A Announcement - 
+Spyne raises $16 Mil!
+Spyne raising another round!!
+Spyne secures funding for US Expansion!
+
+
+What are we looking for?
+We’re hiring a Senior Applied AI Researcher – Computer Vision to lead the next generation of Generative and 3D AI models for automotive retail.
+You’ll design, train, and deploy production-grade deep learning systems that turn raw visual data into realistic, market-ready imagery for thousands of dealerships worldwide.
+📍 Location: Gurugram (Work from Office, 5 days a week)
+💼 Role: Full-time | 0 - 3 years of experience
+
+
+What will you do?
+Lead Model Development: Architect and optimize deep learning models for image synthesis, enhancement, segmentation, and 3D scene understanding.
+Advance Generative AI: Fine-tune and innovate on diffusion and GAN architectures for photorealistic image generation, inpainting, and visual consistency.
+3D Vision Innovation: Work on NeRFs, Gaussian Splatting, multi-view geometry, and depth estimation for realistic 3D reconstruction.
+Model Optimization & Deployment: Ensure scalable, low-latency deployment using Docker, Kubernetes, and ONNX in cloud production environments.
+Integrate AI Techniques: Blend diffusion models, transformers, and GANs for controllable image generation pipelines.
+Post-Processing & Ranking: Develop quality metrics and ranking algorithms to evaluate and improve visual outputs.
+Research Awareness: Stay on top of cutting-edge vision research and translate it into production-ready systems.
+Mentor & Collaborate: Guide junior engineers, collaborate with product and data teams, and drive end-to-end innovation.
+ 
+What will make you successful in this role?
+Strong grasp of Generative AI — diffusion models, GANs, and hybrid architectures.
+Experience in 3D Computer Vision — NeRFs, depth estimation, or multi-view geometry.
+Deep proficiency with PyTorch, OpenCV, and image transformation frameworks.
+Comfort deploying and scaling models across AWS/GCP/Azure using Docker/Kubernetes.
+Ability to optimize for real-time performance, profiling, and latency reduction.
+Research mindset with strong analytical and debugging instincts.
+Collaborative communication — can translate complex AI into product impact.
+What you must have
+BTech / MTech / MS in Computer Science, AI, or related field (Tier-1/Tier-2 preferred)
+3–5 years of hands-on experience in Computer Vision, Generative AI, or 3D Deep Learning
+Production experience with Diffusion/GANs, 3D reconstruction, transformers, or scene understanding
+Strong command over Python, PyTorch, and cloud-based deployment stacks
+
+
+Why Spyne?
+Real-world AI at scale - build models that touch millions of car listings.
+Fast-track growth - high autonomy, direct impact, zero bureaucracy.
+Research + Product fusion - space to experiment, pressure to ship.
+A-Grade team - work with top-tier AI engineers and product minds.
+Tools & compute - everything you need for serious experimentation.
+Employee-first culture - full health coverage, transparent growth paths, and ownership opportunities.
+
+================================================================================

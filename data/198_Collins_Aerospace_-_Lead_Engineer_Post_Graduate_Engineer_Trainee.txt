@@ -1,0 +1,130 @@
+================================================================================
+JOB: Collins Aerospace - Lead Engineer/ Post Graduate Engineer Trainee
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/8e56917b-1d8c-477c-839b-68722e817398
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Collins Aerospace
+Job Domain
+Aerospace
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore/Hyderabad
+Industry
+Aerospace and Defense
+Industry Sector
+Private
+Website URL
+https://www.collinsaerospace.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+0,00,000
+First Year Annual Overall CTC
+00,000
+First Year Monthly Salary
+00,00,000
+First Year Overall CTC - Detailed Breakup
+PG's - 1300000 +4JB
+Ph.d - 1600000 + 4JB
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Nov-25 13:17:53
+Application Deadline
+26-Nov-25 14:15:06
+Time Left
+Closed
+Application Current State
+Technical Interview-Lead Engineer/ Post Graduate Engineer Trainee
+Shortlist Published At
+Stage 2(Online Test-Lead Engineer/ Post Graduate Engineer Trainee) - 26 Dec 2025 15:18:21Stage 3(Technical Interview-Lead Engineer/ Post Graduate Engineer Trainee) - 26 Dec 2025 16:30:12
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+PhD (Engineering)
+Discipline
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+PhD Computational and Data Sciences
+PhD Computer Science and Automation
+PhD Electrical Communication Engineering
+PhD Electrical Engineering
+PhD Electronic Systems Engineering
+Eligibility
+7.0 with no backlogs, Indian national only
+Skills
+• Required Master’s or PhD degree in Computer Science engineering, Electrical /Electronic & Communications Engineering or other fields of engineering with specializations in AI/ML.
+• Experience with product development is a plus
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+Job Description Title: Lead Engineer – AI/ML
+Job Location: Hyderabad / Bangalore
+Team Overview:
+The Applied Research & Technology (ART) team, part of Collins Aerospace, works with teams around the globe, collaborating with them towards building prototypes, demonstrators, and new products, thereby enabling better innovation and business outcomes for Collins Aerospace.
+The Emerging Technologies (ART ET) team, part of ART, pursues advanced, emerging, and disruptive technologies and methods relevant to multiple strategic business units (SBUs) with a focus on AI/ML and AR/VR technologies.
+An overview of the ART team can be found in the link below:
+https://www.collinsaerospace.com/what-we-do/technology-and-innovation/applied-research-and-technology
+Role Overview:
+We are seeking a highly motivated individual to grow and develop the ART – Emerging Technologies team. The individual will provide technical leadership to multiple advanced and disruptive technology projects, collaborating with diverse stakeholders across the globe. They will also guide teams in delivering successful Proofs of Concept, technology demonstrators, and new product developments.
+We are looking for a candidate who is passionate about AI/ML technology development, with a strong background in developing AI/ML applications and a sound knowledge of aerospace products and services. The ideal candidate will be an active communicator, an effective influencer, and comfortable operating in the dynamic, fast-changing environment of research and innovation.
+Responsibilities & Duties: 
+• Drive end-to-end execution of AI-/ML projects, from requirements definition and architecture design to technology stack selection, development, and deployment.
+• Advance innovation by conducting state-of-the-art research, identifying relevant AI/ML technologies for engineering use cases, and securing customer confidence through successful design reviews.
+• Strengthen client stakeholder partnerships by serving as the primary point of contact for project updates, risks, and change management.
+• Shape technology strategy by tracking and evaluating emerging AI/ML trends and industry disruptions, translating them into actionable opportunities.
+• Elevate organizational visibility through active participation in international AI/ML conferences and symposiums, publishing high-impact research and white papers.
+Key Competencies & Skillsets: 
+• Strong domain knowledge of using AI/ML to develop AI-assisted engineering solutions and AI enabled products.
+• Knowledge and exposure on agentic AI frameworks for software development, AI copilots for engineering workflows, or intelligent automation tools that accelerate product development.
+• Proficiency in at least two languages (Python, C, C++, C#, or Java), with the ability to architect and deliver production-grade, scalable solutions.
+• Strong knowledge and understanding of MLOps pipeline is a plus.
+• Depth in NLP, CV, or Data Analytics, with working knowledge of others. Exposure to GenAI/XAI is a plus.
+• Clear communicator with ability to drive cross-functional outcomes.
+• Strong orientation toward compliance, safety, and process rigor.
+• Thrives in fast-paced, accountable environments with discipline and reliability. 
+• Proficiency in Python and AI/ML libraries (PyTorch, TensorFlow, Transformers).
+Basic Qualifications:
+• Required Master’s or PhD degree in Computer Science engineering, Electrical /Electronic & Communications Engineering or other fields of engineering with specializations in AI/ML.
+• Experience with product development is a plus
+
+================================================================================

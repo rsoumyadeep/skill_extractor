@@ -1,0 +1,160 @@
+================================================================================
+JOB: GlobalFoundries - Data Science and AI
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/fcb3908e-bbf6-4938-a2a4-ea7355d0d3a7
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+GlobalFoundries
+Job Domain
+Semiconductor
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+VLSI and Semiconductors
+Industry Sector
+Public
+Website URL
+https://www.gf.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+1600000 (Masters) - 2200000 (PhD)
+First Year Annual Overall CTC
+1874000 (Masters) - 2564000 (PhD)
+First Year Monthly Salary
+133334 (Masters)- 183334(PhD)
+First Year Overall CTC - Detailed Breakup
+Base Pay +Statutory Bonus +Variable Pay
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+02-Dec-25 10:44:00
+Application Deadline
+11-Dec-25 10:00:00
+Time Left
+Closed
+Application Current State
+Online Test-Data Science and AI
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Engg
+M.Tech
+PhD (Engineering)
+PhD (Science)
+PhD (Integrated)
+Discipline
+M.Engg in Semiconductor Technology
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech Computational and Data Sciences
+M.Tech Department of Design and Manufacturing
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech Materials Engineering
+M.Tech Physics
+PhD Electrical Engineering
+PhD Electronic Systems Engineering
+PhD Materials Engineering
+M.Tech Artificial Intelligence
+M.Tech Semiconductor Technology
+M.Tech Microelectronics & VLSI Design
+M.Tech Electronics Systems Engineering
+Eligibility
+Masters / PhD in Microelectronics or related Fields
+Skills
+Masters / PhD in Microelectronics or related Fields
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Data Science and AI
+
+---
+
+DETAILED JOB DESCRIPTION
+Title : Data Science and AI
+
+
+About GlobalFoundries
+GlobalFoundries (GF) is a leading full-service semiconductor foundry providing a unique combination of design, development, and fabrication services to some of the world’s most inspired technology companies. With a global manufacturing footprint spanning three continents, GF makes possible the technologies and systems that transform industries and give customers the power to shape their markets. For more information, visit www.gf.com.
+
+
+Internship Program Overview:
+Our Interns & Co-ops are our entry-level talent pipeline for GF across the globe. Our goal is to provide students with a meaningful work experience that will equip them with the skills to embark on a career in the fast-paced and growing semiconductor industry after graduation. As an intern at GF, you’ll experience one-on-one mentorship, work assignments that prioritize your growth and potential, professional development opportunities, and the chance to network with executives.
+
+
+Summary of Role:
+You will be working as intern in AI research team developing solutions to accelerate GlobalFoundries product development (IP, PDK and specs). You will be collaborating with experienced AI researchers in the team and with semiconductor domain experts to perform data extraction, engineering and cleaning to develop datasets for training LLM models and to create knowledge graphs. You will also perform experiments with various tokenizers, embedding models and techniques to measure quality and performance of AI generated responses.
+Essential Responsibilities include:
+• Data extraction from semiconductor domain datasets
+• Data engineering and cleaning to convert them into LLM trainable formats
+• Experiment with various tokenizers, embedding models and technique to compare quality and performance
+
+
+Other Responsibilities:
+• Perform all activities in a safe and responsible manner and support all Environmental, Health, Safety & Security requirements and programs.
+Required Qualifications:
+• Education – At least 2nd year of Masters or PhD degree in Artificial intelligence or Computer Science fields through an accredited degree program during the time of internship.
+• Must have at least an overall 6.0 GPA and be in good academic standing.
+• Language Fluency - English (Written & Verbal)
+• Must be willing to come on-site to GlobalFoundries office.
+• Ability to work at least 40 hours per week during the internship.
+
+
+Preferred Qualifications:
+• Prior related internship or co-op experience
+• Demonstrated prior leadership experience in the workplace, school projects, competitions, etc.
+• Project management skills, i.e., the ability to innovate and execute on solutions that matter; the ability to navigate ambiguity.
+• Strong written and verbal communication skills
+• Strong planning & organizational skills
+• Must have solved puzzles in online leader boards like Kaggle
+• Must be proficient with Python, Pandas, Numpy, SQL, Graph-Search
+• Must be proficient with computer vision, OpenCV, CNNs
+• Experience with semiconductors design and automation is a plus
+• Proficiency in using HuggingFace, LangChain, Ollama is a plus
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Are you available for 6 Months Internship? (Single Select)
+
+Q2. In 2026 from which month you are available for 6 Months Internship? (Single Select)
+
+================================================================================

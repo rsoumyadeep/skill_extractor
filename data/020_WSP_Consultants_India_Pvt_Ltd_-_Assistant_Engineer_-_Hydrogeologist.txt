@@ -1,0 +1,108 @@
+================================================================================
+JOB: WSP Consultants India Pvt Ltd - Assistant Engineer - Hydrogeologist
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/a79be2b7-fddd-440e-a38b-7819baf1a71e
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+WSP Consultants India Pvt Ltd
+Job Domain
+Environment
+Job Type
+Full Time Placement
+Job Mode
+Hybrid
+Locations
+Bengaluru
+Industry
+Consulting Services
+Industry Sector
+Private
+Website URL
+https://www.wsp.com/en-gl
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+NA
+First Year Annual Overall CTC
+NA
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+9,00,000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+4
+Application Start Time
+19-Feb-26 10:55:48
+Application Deadline
+04-Mar-26 10:00:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Assistant Engineer - Hydrogeologist
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+1
+Maximum Job Experience
+3
+Programme
+PhD (Engineering)
+PhD (Science)
+Discipline
+PhD Centre for Earth Sciences
+PhD Chemical Engineering
+Eligibility
+Strong academic performance with a minimum of 60% from grade 10 to the highest qualification and an aggregate (from grade 10 to the highest qualification) of not less than 70%, with no history of backlogs.
+Skills
+Groundwater Modelling, Hydrogeology, MODFLOW, FEEFLOW
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+
+---
+
+DETAILED JOB DESCRIPTION
+Responsibilities
+• You’ll assist project managers / technical leads with the execution of a broad range of hydrogeological/hydrological technical services which may include involvement in the groundwater components of Environmental Impact Assessments, operational water management and closure/reclamation for oil sands/mining industry
+• You’ll provide technical support for geological and hydrogeological data analyses, visualization and development of conceptual site models.
+• You’ll apply hydrogeological principles to groundwater projects using conceptual and numerical modelling software (groundwater and integrated surface water-groundwater models).
+• You’ll prepare technical documentation to support analytical and numerical studies.
+Qualifications
+• Environmental / Mining Engineering or related field.
+• With Minimum 2 to 7 years if experience.
+Mandatory Skills
+• An understanding of numerical methods including finite difference, finite element and control volume finite element approaches.
+• Proficiency in the use of commercial numerical groundwater modelling codes is an asset (FEFLOW, MODFLOW, Hydro Geosphere, etc.);
+• Experience with visualization software (GIS, Surfer, Leapfrog, CAD, etc.);
+• Experience with general-purpose scripting/programming is an asset (Python, VBA, etc.)
+
+================================================================================

@@ -1,0 +1,133 @@
+================================================================================
+JOB: Airbus - Associate Engineer - Aero Data and Design
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/84094809-8f1a-4f9b-ae2e-811c1984999e
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Airbus
+Job Domain
+Technical
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Aerospace and Defense
+Industry Sector
+Private
+Website URL
+https://www.airbus.com/en/about-us/our-worldwide-presence/airbus-in-asia-pacific/airbus-in-india
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+11,00,000 LPA
+First Year Annual Overall CTC
+11,00,000 LPA
+First Year Monthly Salary
+91,666 [Approximate as it includes Variable pay]
+First Year Overall CTC - Detailed Breakup
+11,00,000 LPA
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+04-Nov-25 11:25:00
+Application Deadline
+06-Nov-25 17:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Associate Engineer - Aero Data and Design
+Shortlist Published At
+Stage 2(Resume Shortlisting-Associate Engineer - Aero Data and Design) - 26 Dec 2025 17:04:44Stage 3(Online Test-Associate Engineer - Aero Data and Design) - 26 Dec 2025 17:06:33Stage 4(Technical Interview-Associate Engineer - Aero Data and Design) - 26 Dec 2025 17:07:42
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+PhD (Engineering)
+Discipline
+M.Tech Aerospace Engineering
+M.Tech Mechanical Engineering
+PhD Aerospace Engineering
+PhD Mechanical Engineering
+Eligibility
+PhD or M.Tech with 3-5 yrs. exp in Aerospace / Mechanical Engineering
+
+Skills
+Strong background in CAD
+Good competence in CFD
+Basic programming languages skills (Python/Matlab)
+Overall understanding of data analytics
+Machine learning
+Proficient problem solving capability
+High focus on teamwork and collaboration
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+
+---
+
+DETAILED JOB DESCRIPTION
+Qualification: PhD or M.Tech with 3-5 yrs. exp in Aerospace / Mechanical Engineering
+
+Flight Physics Mission
+Flight Physics delivers optimized overall aircraft solutions for the customer preferred aircraft through driving and developing world class Flight Physics solutions at the core of Airbus aircraft architecture and integration. We are the actors in shaping the future of sustainable aviation.
+
+Brief Description :
+Within the perimeter of the Flight Physics Center of Competence, the jobholder is responsible for:
+Delivering assigning activities at the right time, cost, quality.
+Demonstrate and implement digital skills/emerging technologies to improve existing way of working
+Live/demonstrate/promote airbus values and culture in daily life
+
+Main Responsibilities are as follows:
+You will be involved in the design and analysis of aerodynamics shapes.
+You will be required to design aerodynamics shapes, determine their aerodynamics characteristics using CFD, windtunnel testing, and flight testing; and validate numerical results.
+
+Requirements:
+Strong background in CAD
+Good competence in CFD
+Basic programming languages skills (Python/Matlab)
+Overall understanding of data analytics, Machine learning
+Proficient problem solving capability
+High focus on teamwork and collaboration
+High autonomy and creativity
+Be strongly motivated
+Good communication skills
+Ability to prioritize
+Advanced level of English
+
+================================================================================

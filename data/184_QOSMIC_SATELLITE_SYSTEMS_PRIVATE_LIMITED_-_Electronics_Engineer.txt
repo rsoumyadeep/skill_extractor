@@ -1,0 +1,145 @@
+================================================================================
+JOB: QOSMIC SATELLITE SYSTEMS PRIVATE LIMITED - Electronics Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/ee669f9c-9e8c-49ea-9899-059cb34ee2a4
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+QOSMIC SATELLITE SYSTEMS PRIVATE LIMITED
+Job Domain
+Engineering
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bangalore
+Industry
+Space Technologies, Communication, Quantum Technologies
+Industry Sector
+Private
+Website URL
+https://qosmic.space/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+8,23,774 - 12,35,412
+First Year Annual Overall CTC
+10,00,000 - 15,00,000+
+First Year Monthly Salary
+68,648 - 1,02,942
+First Year Overall CTC - Detailed Breakup
+Component-wise breakdown (Range for 10L - 15L):
+
+Basic Salary: ₹4,70,833 - ₹7,06,000 per annum
+House Rent Allowance (HRA): ₹2,15,690 - ₹3,23,529 per annum
+PF Allowance: ₹1,17,647 - ₹1,76,471 per annum
+Other Allowance: ₹19,608 - ₹29,412 per annum
+Variable Pay (Performance Based): ₹1,76,226 - ₹2,64,588 per annum
+ESOP: 1-1.5x of Annual Pay
+Monthly In-hand (excluding Variable Pay): ₹68,648 - ₹1,02,942
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+19-Nov-25 17:30:00
+Application Deadline
+05-Dec-25 10:01:11
+Time Left
+Closed
+Application Current State
+Assignment-Electronics Engineer
+Shortlist Published At
+Stage 2(Assignment-Electronics Engineer) - 26 Dec 2025 14:46:17
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Assignment
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+BS (Research)
+M.Engg
+M.Tech
+M.Tech (Research)
+Discipline
+BS (Research) in Physics
+M.Tech (Research) Centre for Nano Science and Engineering
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech (Research) Physics
+M.Tech (Research) Robert Bosch Centre for Cyber Physical Systems
+M.Tech Centre for Nano Science and Engineering
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech Quantum Technology Initiative
+M.Tech Robert Bosch Centre for Cyber Physical Systems
+MS (Research) in Physics
+M.Tech Signal Processing
+M.Tech Electronics & Communication Engineering
+M.Tech Centre for NanoScience and Engineering
+M.Tech Semiconductor Technology
+M.Tech Microelectronics & VLSI Design
+M.Tech Electronic Product Design
+M.Tech Robotics and Autonomous Systems
+M.Tech Communication Networks
+M.Tech Electronics Systems Engineering
+Eligibility
+• B.Tech/M.Tech in Electronics, Electrical Engineering, ECE or related field
+Skills
+• Strong hands-on experience with FPGA development and deployment
+• Expert-level proficiency in FPGA platforms (Xilinx/Intel/Lattice) and VHDL programming
+• Experience designing and building functional electronic systems from scratch
+• High-speed digital design and signal processing experience
+• PCB design skills with understanding of signal integrity and EMI/EMC
+• Proficiency with test equipment (logic analyzers, spectrum analyzers)
+• Hands-on soldering, debugging, and hardware bring-up skills
+• Programming skills in Python/MATLAB for automation and analysis
+• Self-motivated with ability to own subsystems end-to-end
+• Familiarity with DSP algorithms and FPGA implementation
+• Experience with power electronics (DC-DC converters, laser drivers, current sources)
+• Understanding of modulation schemes and error correction codes
+Preferred
+• Knowledge of optical communication systems or photodetector circuits
+• Experience with high-speed interfaces (SerDes, LVDS, Ethernet protocols)
+• Embedded systems and microcontroller programming (ARM, AVR, etc.)
+• Experience with communication links or RF systems
+• Experience with ruggedized electronics for outdoor/space applications
+Bond Details
+No Bond
+
+---
+
+JD ATTACHMENTS
+Electronics Engineer JD
+
+---
+
+DETAILED JOB DESCRIPTION
+Join us in developing high-speed electronic systems for optical communication platforms. You will design FPGA-based signal processing systems, power electronics, and high-speed digital circuits across various projects. This role involves hands-on work with hardware development, from circuit design and PCB layout to testing and field deployment for terrestrial and space-based applications.
+
+================================================================================

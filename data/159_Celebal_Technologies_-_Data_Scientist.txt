@@ -1,0 +1,154 @@
+================================================================================
+JOB: Celebal Technologies - Data Scientist
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/382274ca-9a1d-4032-934a-916fcf10bcb1
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Celebal Technologies
+Job Domain
+Data Science
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Jaipur, Rajasthan
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://www.celebaltech.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+INR 15,00,000
+First Year Annual Overall CTC
+INR 18,00,000
+First Year Monthly Salary
+INR 129,534
+First Year Overall CTC - Detailed Breakup
+Fixed: 15,00,000
+PLI (KRA Incentive): 3,00,000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+04-Dec-25 13:20:31
+Application Deadline
+05-Dec-25 16:00:00
+Time Left
+Closed
+Application Current State
+HR Interview-Data Scientist
+Shortlist Published At
+Stage 2(Resume Shortlisting-Data Scientist) - 23 Dec 2025 17:31:41Stage 6(HR Interview-Data Scientist) - 23 Dec 2025 17:32:59
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Assignment
+Psychometric Assessment
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+36
+Programme
+B.Tech
+M.Tech
+M.Tech (Research)
+PhD (Engineering)
+Discipline
+B.Tech in Mathematics and Computing
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Supercomputer Education and Research Centre
+PhD Electrical Communication Engineering
+M.Tech Signal Processing
+Eligibility
+B.Tech (Mathematics and Computing)
+M.Tech – AI / CS / CDS / ECE / SP
+Ph.D. Engineering / M.Tech (Research) – CDS / CS / EC
+
+- Open to relocate anywhere
+Skills
+- Strong understanding of machine learning algorithms and their real-world trade-offs.
+- Hands-on experience with deep learning architectures.
+- Proficiency in Python programming and data structures.
+- Experience with ML/DL frameworks: PyTorch, TensorFlow/Keras, HuggingFace, NumPy, Scikit-learn.
+- Practical exposure to one or more applied AI areas: Natural Language Processing (NLP), Computer Vision, Tabular Data Modeling, or Speech Recognition.
+- Experience in developing and deploying models on Azure or AWS Cloud.
+Bond Details
+24 Months Service agreement
+
+In This Service agreement, Below are the terms which will follow
+
+Agreement requires students to serve 24 months from date of joining
+If a candidate exits before completing the 24-month commitment, they must pay, INR 1.5 Lakh as liquidated damages
+Mandatory 3-Month Notice Period
+
+---
+
+JD ATTACHMENTS
+Data Science_Freshers JD
+
+---
+
+DETAILED JOB DESCRIPTION
+Job Summary
+We are looking for a highly motivated Data Scientist / AI Engineer to join our advanced analytics and AI team. The ideal candidate will be responsible for developing, deploying, and optimizing machine learning and deep learning models to solve complex business problems. You will collaborate with cross-functional teams, contribute to end-to-end project lifecycles, and deliver scalable, production-ready AI solutions on cloud platforms such as Azure or AWS.
+
+
+Key Responsibilities
+- Contribute to all phases of data science projects — from business understanding, data preparation, and exploratory analysis to model development, evaluation, and deployment.
+- Translate complex business problems into analytical frameworks and communicate insights effectively to clients and internal stakeholders.
+- Develop, train, and validate machine learning and deep learning models across domains such as NLP, Computer Vision, and Applied AI.
+- Deploy and productionize AI/ML models using Azure / AWS cloud services, integrating them into scalable APIs and applications.
+- Collaborate with clients to gather requirements, define project scope, and present analytical outcomes and technical recommendations.
+- Support pre-sales activities including technical workshops, demonstrations, and proof-of-concept (PoC) development.
+- Continuously explore and learn new AI tools, libraries, and frameworks to align with evolving business and technological needs.
+- Ensure quality, reproducibility, and maintainability across all deliverables.
+- Manage project timelines and deliverables independently with minimal supervision.
+
+
+Required Skills & Qualifications
+- Strong understanding of machine learning algorithms, their strengths, and practical trade-offs.
+- Hands-on experience with deep learning architectures such as CNNs, RNNs, and Transformers.
+- Proficient in Python, including solid understanding of data structures and algorithms.
+- Experience with ML/DL frameworks: PyTorch, TensorFlow/Keras, HuggingFace, NumPy, and Scikit-learn.
+- Applied experience in at least one of the following domains:
+1. Natural Language Processing (NLP)
+2. Computer Vision
+3. Structured/Tabular Data Modeling
+4. Speech Recognition
+- Experience deploying models using FastAPI, Gunicorn, Nginx, and building MLOps pipelines.
+- Proficiency in Linux environments and version control systems (Git, GitHub).
+- Experience with Docker (or equivalent containerization tools such as CRI-O or Podman); knowledge of Kubernetes is a plus.
+- Excellent communication skills, able to convey complex technical ideas clearly to both technical and non-technical audiences.
+- Strong collaboration, problem-solving, and time management skills.
+
+================================================================================

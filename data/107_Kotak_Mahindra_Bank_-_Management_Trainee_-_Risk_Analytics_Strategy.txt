@@ -1,0 +1,229 @@
+================================================================================
+JOB: Kotak Mahindra Bank - Management Trainee - Risk Analytics & Strategy
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/5ba7deb3-1ebf-40cd-87c6-67a36539afef
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Kotak Mahindra Bank
+Job Domain
+Analytics
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+PAN India
+Industry
+Banking
+Industry Sector
+Private
+Website URL
+https://www.kotak.bank.in/en/home.html
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+00,000
+First Year Annual Overall CTC
+00,000
+First Year Monthly Salary
+00,000
+First Year Overall CTC - Detailed Breakup
+Fixed Pay- 15 lakhs
+Assured Bonus- 2 lakhs (to be paid after 12 months of joining)
+Home Loan Benefits – 1 lakh
+Total CTC – 18 lakhs
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+19-Dec-25 16:55:04
+Application Deadline
+20-Dec-25 17:00:16
+Time Left
+Closed
+Application Current State
+Technical Interview-Management Trainee - Risk Analytics & Strategy
+Shortlist Published At
+Stage 2(Technical Interview-Management Trainee - Risk Analytics & Strategy) - 05 Jan 2026 12:56:27
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Engg
+M.Mgt
+M.Tech
+M.Tech (Research)
+Discipline
+M.Engg in Semiconductor Technology
+M.Tech (Research) Aerospace Engineering
+M.Tech (Research) Astronomy and Astrophysics Programme
+M.Tech (Research) Biochemistry
+M.Tech (Research) Central Animal Facility
+M.Tech (Research) Centre for Atmospheric and Oceanic Sciences
+M.Tech (Research) Centre for Cryogenic Technology
+M.Tech (Research) Centre for Earth Sciences
+M.Tech (Research) Centre for High Energy Physics
+M.Tech (Research) Centre for Infectious Disease Research
+M.Tech (Research) Centre for Infrastructure
+Sustainable Transportation and Urban Planning
+M.Tech (Research) Centre for Nano Science and Engineering
+M.Tech (Research) Centre for Neuroscience
+M.Tech (Research) Centre for Society and Policy
+M.Tech (Research) Centre for Sustainable Technologies
+M.Tech (Research) Centre of Excellence in Advanced Mechanics of Materials
+M.Tech (Research) Chemical Engineering
+M.Tech (Research) Civil Engineering
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Department of Bioengineering
+M.Tech (Research) Department of Design and Manufacturing
+M.Tech (Research) Department of Developmental Biology and Genetics
+M.Tech (Research) Divecha Centre for Climate Change
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech (Research) Inorganic and Physical Chemistry
+M.Tech (Research) Instrumentation and Applied Physics
+M.Tech (Research) Interdisciplinary Centre for Energy Research
+M.Tech (Research) Interdisciplinary Centre for Water Research
+M.Tech (Research) Interdisciplinary Mathematical Sciences
+M.Tech (Research) Management Studies
+M.Tech (Research) Materials Engineering
+M.Tech (Research) Materials Research Centre
+M.Tech (Research) Mathematics
+M.Tech (Research) Microbiology and Cell Biology
+M.Tech (Research) Molecular Biophysics Unit
+M.Tech (Research) Organic Chemistry
+M.Tech (Research) Physics
+M.Tech (Research) Robert Bosch Centre for Cyber Physical Systems
+M.Tech (Research) Solid State and Structural Chemistry Unit
+M.Tech (Research) Supercomputer Education and Research Centre
+M.Tech Aerospace Engineering
+M.Tech Astronomy and Astrophysics Programme
+M.Tech Axis Bank Centre for Mathematics and Computing
+M.Tech Biochemistry
+M.Tech Central Animal Facility
+M.Tech Centre for Atmospheric and Oceanic Sciences
+M.Tech Centre for Cryogenic Technology
+M.Tech Centre for Earth Sciences
+M.Tech Centre for Ecological Sciences
+M.Tech Centre for High Energy Physics
+M.Tech Centre for Infectious Disease Research
+M.Tech Centre for Infrastructure
+Sustainable Transportation and Urban Planning
+M.Tech Centre for Nano Science and Engineering
+M.Tech Centre for Neuroscience
+M.Tech Centre for Society and Policy
+M.Tech Centre for Sustainable Technologies
+M.Tech Centre of Excellence in Advanced Mechanics of Materials
+M.Tech Chemical Engineering
+M.Tech Civil Engineering
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Department of Bioengineering
+M.Tech Department of Developmental Biology and Genetics
+M.Tech Divecha Centre for Climate Change
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech Inorganic and Physical Chemistry
+M.Tech in Instrumentation Systems
+M.Tech Interdisciplinary Centre for Energy Research
+M.Tech Interdisciplinary Centre for Water Research
+M.Tech Interdisciplinary mathematical sciences
+M.Tech Longevity India initiative
+M.Tech Management Studies
+M.Tech Materials Engineering
+M.Tech Materials Research Centre
+M.Tech Mathematics
+M.Tech Mechanical Engineering
+M.Tech Microbiology and Cell Biology
+M.Tech Molecular Biophysics Unit
+M.Tech Organic Chemistry
+M.Tech Physics
+M.Tech Quantum Technology Initiative
+M.Tech Robert Bosch Centre for Cyber Physical Systems
+M.Tech Solid State and Structural Chemistry Unit
+M.Tech Supercomputer Education and Research Centre
+MS (Research) in Biology
+MS (Research) in Chemistry
+MS (Research) in Materials Sciences
+MS (Research) in Mathematics
+MS (Research) in Physics
+MSc Chemical Science
+M.Tech Signal Processing
+M.Tech Smart Manufacturing
+M.Tech Artificial Intelligence
+M.Tech Electronics & Communication Engineering
+M.Tech Sustainable Technologies
+M.Tech Centre for NanoScience and Engineering
+M.Tech Semiconductor Technology
+M.Tech Mobility Engineering
+M.Tech Microelectronics & VLSI Design
+Master of Business Analytics & Technology Management
+M.Tech Electronic Product Design
+M.Tech Robotics and Autonomous Systems
+M.Tech Computer Science & Engineering
+M.Tech Communication Networks
+M.Tech Electronics Systems Engineering
+M.Tech Earth and Climate Sciences
+M.Tech (Research) Mechanical Engineering
+M.Tech (Research) Electrical & Communication Engineering.
+M.Tech Computer Science and Automation
+Eligibility
+Only M.Tech Students
+Skills
+Must have excellent analytical ability and quantitative skills
+• Good to have Excel/ Python/ SQL / PowerBI skills
+• Degree in Economics, Statistics, Mathematics, Data Science, or related quantitative disciplines.
+• Must have excellent project management skills with a demonstrated ability to follow through on execution to deliver required results
+• Must have the ability to manage and influence both internal and external stakeholders
+• Must have excellent verbal and written communication skills
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+Roles & Responsibilities
+• Role offers AI/ ML Model development and Validation for different financial products
+• Provide analytics at portfolio and segment levels for the purpose of monitoring, making policy adjustments, provide sound credit decisions with the ultimate goal of optimizing risk and rewards
+• Monitor and analyze the Loan portfolios continuously with a focus on growing and maintaining the healthy portfolios, with regular refinement of existing rules and policies
+• Suggest policy & process changes basis portfolio trends and market conditions
+• Responsible for the regular validation as well as new development of the portfolio score & segmentation models through collaboration with stakeholders from risk & analytics team
+• Assess risk appropriately when business decisions are made, demonstrating particular consideration for the company’s reputation and safeguarding its clients and assets
+• Industry benchmarking on best practices in fraud/credit risk in the market
+• Ensure compliance with applicable rules/regulations and adhering to company policy & ethics.
+Requirement
+• Must have excellent analytical ability and quantitative skills
+• Good to have Excel/ Python/ SQL / PowerBI skills
+• Degree in Economics, Statistics, Mathematics, Data Science, or related quantitative disciplines.
+• Must have excellent project management skills with a demonstrated ability to follow through on execution to deliver required results
+• Must have the ability to manage and influence both internal and external stakeholders
+• Must have excellent verbal and written communication skills
+
+================================================================================

@@ -1,0 +1,141 @@
+================================================================================
+JOB: KLA India - Algorithm Research & Development Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/2f836fe9-b715-41ec-93c5-343dd7bfede4
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+KLA India
+Job Domain
+AIML/HPC
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Chennai
+Industry
+Engineering and Technology
+Industry Sector
+Private
+Website URL
+https://www.kla.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+4000000 INR
+First Year Annual Overall CTC
+5400000 INR
+First Year Monthly Salary
+250000 INR
+First Year Overall CTC - Detailed Breakup
+Total CTC: 5400000 (fixed+varaible+RSU)
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+26-Nov-25 14:30:36
+Application Deadline
+27-Nov-25 15:00:00
+Time Left
+Closed
+Application Current State
+HR Interview-Algorithm Research & Development Engineer
+Shortlist Published At
+Stage 2(Resume Shortlisting-Algorithm Research & Development Engineer) - 27 Dec 2025 13:47:38Stage 4(HR Interview-Algorithm Research & Development Engineer) - 27 Dec 2025 13:49:51
+
+---
+
+APPLICATION STAGES
+Online Test
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Engg
+M.Tech
+Discipline
+B.Tech in Mathematics and Computing
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Electrical Engineering
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Electrical Engineering
+M.Tech Physics
+Eligibility
+CGPA: 7.5
+Skills
+Refer to JD
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+
+---
+
+DETAILED JOB DESCRIPTION
+Full time Opportunity @ KLA Tencor – Machine Learning Group
+KLA-Tencor Corporation, KLAC (NASDAQ) - a leading provider of process control and yield management solutions, partners with customers around the world to develop state-of-the-art inspection and metrology technologies. These technologies serve the semiconductor, data storage, LED, and other related nano electronics industries. With a portfolio of industry-standard products and a team of world-class engineers and scientists, the company has created superior solutions for its customers for over 40 years. Headquartered in Milpitas, California, KLA-Tencor has dedicated customer operations and service centres around the world. Additional information may be found at www.kla-tencor.com Who are we?  We research, develop, and manufacture the world's most advanced inspection and measurement equipment for the Semiconductor and Nano electronics Industries. We enable the digital age by pushing the boundaries of technology, creating tools capable of finding defects smaller than a wavelength of visible light. We create smarter processes so that technology leaders can manufacture high-performance chips—the kind in that phone in your pocket, the tablet on your desk and nearly every electronic device you own—faster and better. We're passionate about creating solutions that drive progress and help people do what wouldn't be possible without us.  The future is calling. Will you answer?
+
+
+Group/Division
+With over 40 years of semiconductor process control experience, chipmakers around the globe rely on KLA to ensure that their fabs ramp next-generation devices to volume production quickly and cost-effectively. Enabling the movement towards advanced chip design, KLA's Global Products Group (GPG), which is responsible for creating all of KLA’s metrology and inspection products, is looking for the best and the brightest research scientist, software engineers, application development engineers, and senior product technology process engineers. The Broadband Plasma Division (BBP) provides market-leading patterned wafer optical inspection systems for leading-edge IC manufacturing. Logic, foundry, and memory customers depend on BBP products to detect yield-critical defects for process debug and excursion monitoring at advanced process nodes. BBP flagship products include the 29xx and 39xx series which leverage Broadband Plasma technology to capture a wide range of defects with ultimate sensitivity at the optical inspection speeds needed for inline defect monitoring.
+Roles and Responsibilities
+You will be part of a machine learning group that develops algorithms and software solutions that enhance the performance of our inspection tools.
+Your responsibilities will include:
+• Data/problem analysis
+• Research the solution space
+• Develop concepts
+• Prototype and validate concepts
+• Specify software requirements Software/algorithm development (productization/programming)
+
+
+Preferred Qualifications 
+• Research/scientific background is desirable
+• Knowledge and understanding of modern machine learning approaches is highly desirable
+• Solid background in statistics and mathematics is desirable
+• Experience with image processing / signal processing is a plus
+• Experience with heterogenous parallel computing (including GPU) is a plus
+• Good demonstrated programming skills are desirable
+• Analytical skills, problem-solving skills (quantitative & algorithmic)
+• Interest in algorithm development & programming
+• Ability to work in a team, and contribute to the team effort Proficiency in C++, Python and DL frameworks
+
+
+Minimum Qualifications
+Master's Level Degree or work experience of 0 years, bachelor’s Level Degree or work experience of 1 year
+CGPA: 7.5
+
+
+
+
+We offer a competitive, family friendly total rewards package. We design our programs to reflect our commitment to an inclusive environment, while ensuring we provide benefits that meet the diverse needs of our employees.
+KLA is proud to be an equal opportunity employer
+Be aware of potentially fraudulent job postings or suspicious recruiting activity by persons that are currently posing as KLA employees. KLA never asks for any financial compensation to be considered for an interview, to become an employee, or for equipment. Further, KLA does not work with any recruiters or third parties who charge such fees either directly or on behalf of KLA. Please ensure that you have searched KLA’s Careers website for legitimate job postings. KLA follows a recruiting process that involves multiple interviews in person or on video conferencing with our hiring managers. If you are concerned that a communication, an interview, an offer of employment, or that an employee is not legitimate, please send an email to talent.acquisition@kla.com to confirm the person you are communicating with is an employee. We take your privacy very seriously and confidentially handle your information
+
+================================================================================

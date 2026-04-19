@@ -1,0 +1,110 @@
+================================================================================
+JOB: Wipro - AI Head
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/fdcafc87-4a75-44e2-b021-bde3764b4ea8
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Wipro
+Job Domain
+Executive or Senior Leadership
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bengaluru
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://www.wipro.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+NA
+First Year Annual Overall CTC
+1,00,00,000
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+NA
+Second Year Approx. Annual Base CTC
+NA
+Second Year Approx. Annual Overall CTC
+NA
+Second Year Approx. Monthly Salary
+NA
+Second Year Approx. Overall CTC - Detailed Breakup
+NA
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+20-Feb-26 15:08:16
+Application Deadline
+22-Feb-26 20:00:27
+Time Left
+Closed
+Application Current State
+Technical Interview-AI Head
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+179
+Maximum Job Experience
+180
+Programme
+M.Tech
+PhD (Engineering)
+Discipline
+M.Tech Centre for Nano Science and Engineering
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Artificial Intelligence
+M.Tech Robotics and Autonomous Systems
+Eligibility
+PhD/M.Tech
+Skills
+AI/ML
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+Education: Master’s/Ph.D. from a top-tier institute in Computer Science, AI, or related field.
+8-12 patents filed, 5+ granted with commercial impact
+10+ publications in top-tier AI conferences/journals
+Experience: 12–15+ years in technology leadership, with 5+ years in AI/ML and Generative AI.
+Proven success in:
+Building and scaling AI teams and COEs
+Commercializing AI products from research to market
+Delivering enterprise-grade AI solutions with measurable impact
+Deep expertise in LLMs, Generative AI, NLP, Computer Vision, and modern AI frameworks (PyTorch, TensorFlow, Hugging Face).
+Hands-on experience with cloud AI platforms (AWS SageMaker, Azure ML, GCP AI).
+Strong understanding of MLOps/LLMOps, CI/CD for ML, and security in AI systems.
+· Exceptional communication and executive presence
+
+---
+
+ADDITIONAL DETAILS
+NA
+
+================================================================================

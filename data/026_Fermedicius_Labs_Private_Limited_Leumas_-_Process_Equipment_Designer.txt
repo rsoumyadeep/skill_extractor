@@ -1,0 +1,189 @@
+================================================================================
+JOB: Fermedicius Labs Private Limited (Leumas) - Process Equipment Designer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/f92d0282-8b4e-421f-b8d8-0786a170d610
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Fermedicius Labs Private Limited (Leumas)
+Job Domain
+Engineering & Tech
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bangalore
+Industry
+Manufacturing
+Industry Sector
+Private
+Website URL
+https://leumasware.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+Rs. 750000 - 1100004
+First Year Annual Overall CTC
+Rs. 1500000-2200000
+First Year Monthly Salary
+Rs. 125000 - 183333
+First Year Overall CTC - Detailed Breakup
+125000 - 183333
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+1
+Application Start Time
+24-Feb-26 14:25:54
+Application Deadline
+26-Feb-26 10:00:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Process Equipment Designer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Assignment
+HR Interview
+Technical Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+5
+Programme
+M.Tech
+PhD (Engineering)
+MS
+Discipline
+M.Tech (Research) Department of Design and Manufacturing
+M.Tech Mechanical Engineering
+PhD Department of Design and Manufacturing
+PhD Mechanical Engineering
+M.Tech Smart Manufacturing
+MS in Materials Engineering
+Eligibility
+Eligibility: Post-graduates only (M.Tech / MS / PhD)
+Skills
+You’re a Fit If
+1. You are a post-graduate (M.Tech / MS / PhD) in Mechanical, Design, Manufacturing, or allied engineering disciplines.
+2. You have hands-on exposure to process equipment design / NPD / prototyping through thesis work, internships, or industry roles.
+3. You have strong fundamentals in mechanical design, system architecture, and DFMA.
+4. You are proficient with CAD tools (SolidWorks / Fusion 360 or equivalent).
+5. You are comfortable operating in a fast-paced, build-first engineering environment (not research only).
+6. You demonstrate strong ownership, execution discipline, and cross-functional collaboration capability.
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+JD_Process Equipment Designer
+
+---
+
+DETAILED JOB DESCRIPTION
+JOB Description - Process Equipment Designer
+Process Equipment Design & Modular Manufacturing
+Leumas · Bengaluru
+Compensation - 15 LPA to 22 LPA
+Leumas is seeking a Process Equipment Designer to drive the design and development of next generation process equipment and modular manufacturing systems.
+This is a high-ownership engineering role responsible for translating process requirements into robust mechanical designs and executing across the complete build lifecycle—concept → design → prototype → fabrication → commissioning → iteration. The role requires strong mechanical fundamentals, disciplined design practices, and comfort operating in a fast-paced, build-first environment alongside process, controls, and software teams.
+
+
+About Leumas
+Leumas is a Bangalore-based deep-tech manufacturing company building a software-definedproduction platform for healthcare manufacturing. Its proprietary, full-stack Manufacturing Operating System orchestrates the entire manufacturing lifecycle - from formulation logic and material flow to production execution, quality control, and traceability - enabling modular, reconfigurable factories that scale with demand.
+Leumas addresses structural challenges in global supply chains, rigidity, long lead times, and capital intensive, step function scale - through a modular, distributed manufacturing architecture that enables faster deployment, higher asset utilization, and materially improved business outcomes across product
+life cycle.
+Leumas supports two primary deployment models. For enterprise customers, it enables dedicated manufacturing suites that provide high levels of supply-chain control, compliance, and flexibility without the burden of traditional greenfield capex or non-resilient supply chains from traditional CDMOs. For healthcare innovators, the platform allows rapid configuration of production lines through software, enabling faster product launches, tighter quality control, and responsive scale-up or scale
+down.
+Leumas’ production systems currently support more than a dozen finished formulations and consumer health formats, including semi-solids (ointments, gels, lotions), oral solid dosage forms (tablets, capsules), and liquid formulations, with integrated QA and inspection capabilities.
+
+
+The Role
+As Process Equipment Designer, you will contribute to the mechanical design and delivery of process equipment platforms that enable modular, automated manufacturing.
+You will work across system architecture, detailed design, prototyping, fabrication support, and commissioning stabilization. You will be expected to apply DFMA rigor, maintain high-quality documentation, and collaborate closely with cross-functional teams to deliver scalable, production
+ready equipment.
+
+
+What You Will Own
+As Process Equipment Designer, you will be responsible for designing equipment that meets defined technical, operational, and manufacturability requirements while enabling rapid iteration and deployment.
+1. Process Equipment Design & System Architecture
+→ Translate process requirements into equipment concepts, architectures, and detailed mechanical designs.
+→ Define interfaces, constraints, tolerances, and integration boundaries across modules.
+→ Drive design decisions that balance performance, reliability, serviceability, and manufacturability.
+2. End-to-End Build Cycle Execution
+→ Participate across the full lifecycle: concept → design → prototype → fabrication → commissioning → iteration.
+→ Support fabrication and assembly with engineering clarity, build-time issue resolution, and rapid design iterations.
+→ Contribute to commissioning stabilization and continuous improvement loops.
+3. Design for Manufacturing & Assembly (DFMA)
+→ Apply DFMA principles to improve manufacturability, reduce complexity, and increase repeatability.
+→ Standardize components, sub-assemblies, and fabrication approaches where appropriate.
+→ Contribute to value engineering initiatives for cost, throughput, and maintainability improvements.
+4. CAD, Drawings & Documentation Control
+→ Create and maintain CAD models, drawings, and BOMs using SolidWorks / Fusion 360 (or equivalent).
+→ Maintain structured documentation practices including revision control and design traceability.
+→ Support design reviews through clear engineering rationale and documentation readiness.
+5. Cross-Functional Integration
+→ Work closely with Process, Controls, Software, Quality, and Production functions to deliver integrated systems.
+→ Participate in structured reviews and resolve multidisciplinary integration issues during build and commissioning.
+→ Ensure mechanical designs are aligned to operational execution and long-term scalability needs.
+
+---
+
+ADDITIONAL DETAILS
+You’re a Fit If
+1. You are a post-graduate (M.Tech / MS / PhD) in Mechanical, Design, Manufacturing, or allied engineering disciplines.
+2. You have hands-on exposure to process equipment design / NPD / prototyping through thesis work, internships, or industry roles.
+3. You have strong fundamentals in mechanical design, system architecture, and DFMA.
+4. You are proficient with CAD tools (SolidWorks / Fusion 360 or equivalent).
+5. You are comfortable operating in a fast-paced, build-first engineering environment (not research only).
+6. You demonstrate strong ownership, execution discipline, and cross-functional collaboration capability.
+
+
+How You Will Operate
+1. You execute with high ownership, accountability, and engineering rigor.
+2. You maintain structured workflows and clear documentation standards.
+3. You balance iteration speed with design quality, validation, and build readiness.
+4. You communicate with clarity and precision across technical and operational teams.
+5. You continuously improve designs based on fabrication and commissioning feedback.
+
+
+Why Join
+1. You will contribute directly to core platform equipment and next-generation manufacturing systems.
+2. You will work across the complete lifecycle from concept to commissioning, building real systems, not prototypes in isolation.
+3. You will operate in a high-growth, execution-driven environment with strong cross-functional exposure.
+4. Your work will directly influence scalability, reliability, and platform IP creation.
+
+
+Role Details
+Eligibility: Post-graduates only (M.Tech / MS / PhD)
+Location: Bengaluru (On-site)
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Why should you be hired for this position? (Text)
+
+================================================================================

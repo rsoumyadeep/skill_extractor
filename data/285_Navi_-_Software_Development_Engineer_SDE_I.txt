@@ -1,0 +1,151 @@
+================================================================================
+JOB: Navi - Software Development Engineer (SDE) I
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/c46d4177-5ed2-4caf-a658-e7fa646626e7
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Navi
+Job Domain
+Engineering
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Financial Services
+Industry Sector
+Private
+Website URL
+https://navi.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+INR 28 Lakh
+First Year Annual Overall CTC
+INR 36.8 Lakh
+First Year Monthly Salary
+INR 2.34 Lakh
+First Year Overall CTC - Detailed Breakup
+INR 45.2 L (Base CTC: INR 28 LPA; ESOPs: INR 11.2 L; Retention Bonus: INR 4 L; Settlement Allowance: INR 2 L)
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Oct-25 16:00:00
+Application Deadline
+30-Oct-25 16:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Software Development Engineer (SDE) I
+Shortlist Published At
+Stage 2(Online Test-Software Development Engineer (SDE) I) - 26 Dec 2025 11:43:54Stage 3(Resume Shortlisting-Software Development Engineer (SDE) I) - 26 Dec 2025 11:44:16Stage 4(Technical Interview-Software Development Engineer (SDE) I) - 26 Dec 2025 11:44:47
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+M.Tech (Research)
+Discipline
+B.Tech in Mathematics and Computing
+M.Tech (Research) Computational and Data Sciences
+M.Tech Computational and Data Sciences
+M.Tech Artificial Intelligence
+M.Tech Computer Science & Engineering
+Eligibility
+What We Expect From You
+Write clean, efficient, and testable code in at least one programming language.
+Contribute to designing scalable systems and services.
+Debug, optimize, and improve performance of existing applications.
+Collaborate with peers and product teams to deliver business-critical features.
+Take ownership of assigned modules and deliver with accountability.
+Continuously learn and adapt to new tools, frameworks, and best practices.
+
+Skills
+Must Haves
+Strong foundation in Data Structures, Algorithms, and Object-Oriented Design.
+Proficiency in at least one programming language such as Java, Go, Kotlin, Python, JavaScript/TypeScript.
+Solid understanding of databases, operating systems, and basi
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+SDE I _ Navi
+
+---
+
+DETAILED JOB DESCRIPTION
+Software Development Engineer (SDE) I
+Location: Bangalore
+About the Team
+At Navi, our technology teams are at the core of building scalable, reliable, and intelligent systems that power financial services for millions of Indians. Depending on your alignment, you may work in:
+Engineering Team: Builds the backbone of Navi’s financial products including lending, payments, insurance, investments, and debt management. Focuses on distributed systems, scalable architecture, and automation to deliver seamless experiences at scale.
+Data Platform Team: Builds core infrastructure and tools to collect, store, process, and analyze data at scale. Powers batch and real-time pipelines, enabling self-serve capabilities across Analytics, Data Science, and Product.
+Machine Learning Platform Team: Develops scalable and cost-effective ML infrastructure, including centralized feature stores, auto-training frameworks, in-house model serving, and real-time monitoring systems. Also builds standalone feature-extraction apps that serve as Navi’s core IP.
+GenAI Team: Embeds advanced AI into Navi’s products: transforming lending, payments, insurance, and investments with cutting-edge GenAI solutions. Works at the intersection of deep tech and real-world impact.
+All teams share the same DNA: solving challenging technical problems, shipping fast, and scaling what works.
+About the Role
+As an SDE-I at Navi, you will design, build, and maintain high-performance systems that solve real-world business and customer problems. From day one, you’ll take end-to-end ownership: understanding requirements, designing scalable solutions, writing clean code, and deploying/monitoring in production. You’ll be expected to write clean, maintainable code, participate in peer reviews, and deliver with speed and quality in a dynamic environment.
+This role is best suited for someone who values ownership, adaptability and technical rigor, and is eager to learn and grow in a high-performance setting.
+What We Expect From You
+Write clean, efficient, and testable code in at least one programming language.
+Contribute to designing scalable systems and services.
+Debug, optimize, and improve performance of existing applications.
+Collaborate with peers and product teams to deliver business-critical features.
+Take ownership of assigned modules and deliver with accountability.
+Continuously learn and adapt to new tools, frameworks, and best practices.
+Must Haves
+Strong foundation in Data Structures, Algorithms, and Object-Oriented Design.
+Proficiency in at least one programming language such as Java, Go, Kotlin, Python, JavaScript/TypeScript.
+Solid understanding of databases, operating systems, and basic networking concepts.
+Collaborative attitude and willingness to learn fast in a dynamic environment.
+Strong debugging and problem-solving skills with attention to detail.
+Ability to work through ambiguity and build solutions in a fast-paced environment.
+Collaborative mindset, eagerness to learn quickly, and willingness to take ownership.
+About Navi
+We are on a mission to make finance simple, accessible and affordable for a billion Indians. Guided by a strong customer-first approach, we are building tech-first solutions that work at scale. Our offerings include a range of financial products and services across Loans, Insurance, Mutual Funds, Digital Gold and UPI.
+Founded by Sachin Bansal & Ankit Agarwal in 2018, we are one of India’s fastest-growing financial services organisations. But we’re just getting started!
+Our Culture
+At Navi, we’re a place where ambition meets opportunity and ideas turn into impact quickly. We empower people with high ownership from the start, encouraging them to solve meaningful problems and build with excellence. Teams here work in an environment that values speed, collaboration and craftsmanship, while celebrating learning, growth and shared wins along the way. Whether you’re shaping the future of fintech products or driving innovation behind the scenes, life at Navi means being part of a high-energy, talent-driven workplace where your contributions truly make a difference.
+We’re guided by our own operating system - The Navi OS - a set of principles that shape how we work and win together. You can explore them at navi.com/our-values to see what drives us every day.
+If this feels like you, Navi is the place to grow, thrive and make a real impact.
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. CGPA (Document)
+
+================================================================================

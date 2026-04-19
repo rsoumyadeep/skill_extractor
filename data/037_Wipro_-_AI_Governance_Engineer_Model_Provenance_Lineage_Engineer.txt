@@ -1,0 +1,107 @@
+================================================================================
+JOB: Wipro - AI Governance Engineer (Model Provenance & Lineage Engineer)
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/f12b9c36-e052-4eb1-9a77-bd1de4ff17f5
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Wipro
+Job Domain
+AI
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bangalore
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://www.wipro.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+NA
+First Year Annual Overall CTC
+22 LPA
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+NA
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+20-Feb-26 14:56:28
+Application Deadline
+22-Feb-26 20:00:01
+Time Left
+Closed
+Application Current State
+Technical Interview-AI Governance Engineer (Model Provenance & Lineage Engineer)
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+PhD (Engineering)
+Discipline
+M.Tech Computational and Data Sciences
+M.Tech Artificial Intelligence
+M.Tech Centre for NanoScience and Engineering
+M.Tech Robotics and Autonomous Systems
+M.Tech Computer Science & Engineering
+Eligibility
+PhD/M.Tech
+Skills
+Strong understanding of software engineering lifecycle.
+Exposure to MLOps, model registries, CI/CD.
+Familiarity with OSS licensing (MIT, Apache, GPL basics).
+Experience with metadata systems, data lineage tools, or SBOM tools.
+Ability to design schema, graphs, versioning systems.
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+Strong understanding of software engineering lifecycle.
+Exposure to MLOps, model registries, CI/CD.
+Familiarity with OSS licensing (MIT, Apache, GPL basics).
+Experience with metadata systems, data lineage tools, or SBOM tools.
+Ability to design schema, graphs, versioning systems.
+
+---
+
+ADDITIONAL DETAILS
+NA
+
+================================================================================

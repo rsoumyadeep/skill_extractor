@@ -1,0 +1,132 @@
+================================================================================
+JOB: Hitachi Energy - Post Graduate Intern
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/ae4c3d04-b2ab-4e86-9e4a-2aa56efafaae
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Hitachi Energy
+Job Domain
+Core
+Job Type
+Other Internship
+Job Mode
+Physical
+Locations
+chennai
+Industry
+Engineering and Technology
+Industry Sector
+Private
+Website URL
+https://www.hitachienergy.com
+Is PPO
+Yes
+Is Internship Open for International Students
+No
+Internship Duration
+2026-01 to 2026-08 (8 months)
+
+---
+
+STIPEND / SALARY DETAILS
+Stipend Details
+30,000/ month
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+11-Dec-25 17:05:00
+Application Deadline
+12-Dec-25 17:00:00
+Time Left
+Closed
+Application Current State
+HR Interview-Post Graduate Intern
+Shortlist Published At
+Stage 2(Online Test-Post Graduate Intern) - 20 Jan 2026 13:12:29Stage 3(Technical Interview-Post Graduate Intern) - 20 Jan 2026 13:12:51Stage 4(HR Interview-Post Graduate Intern) - 29 Jan 2026 11:38:40
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+Discipline
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+Eligibility
+60% and above throughout academics
+Skills
+• Proficiency in simulation software such as PLECS.
+• Good knowledge in the testing of power converters.
+• PCB design.
+• IEC/IEEE standard related to semiconductor.
+Bond Details
+no
+
+---
+
+DETAILED INTERNSHIP DESCRIPTION
+Main Accountabilities We would like to hear from you if you:
+In this role, You will:
+• You will be involved in development projects related to next generations of semiconductor chips and power modules
+• You are accountable for preparing the test reports and analyzing the test results and developing faultless datasheets.
+• You should be able to do all simulation and analyze the results and speculate the best operating conditions of the converter topologies for specific applications.
+• Responsible for electrical design of semiconductor-based solutions for AC and DC used in HVDC transmissions and responsible for the design of the optical current transducers.
+• Knowledge on Closed-loop control design using Analog and digital PWM controllers
+• Understanding the design specification of electrical power systems and Responsible to create the technical specification and reports, specifying the testing according to the standards.
+ • M.Tech with specialization in Semiconductors Technology and / or Power Electronics
+• 0-1 Years of experience
+Main Accountabilities We would like to hear from you if you:
+
+
+In this role, You will:
+• You will be involved in development projects related to next generations of semiconductor chips and power modules 
+• You are accountable for preparing the test reports and analyzing the test results and developing faultless datasheets.
+• You should be able to do all simulation and analyze the results and speculate the best operating conditions of the converter topologies for specific applications. 
+• Responsible for electrical design of semiconductor-based solutions for AC and DC used in HVDC transmissions and responsible for the design of the optical current transducers.
+• Knowledge on Closed-loop control design using Analog and digital PWM controllers
+• Understanding the design specification of electrical power systems and Responsible to create the technical specification and reports, specifying the testing according to the standards. 
+ • M.Tech with specialization in Semiconductors Technology and / or Power Electronics
+• 0-1 Years of experience 
+• Self-starter caliber who could own tasks through to completion.
+• Excellent written and verbal communication skills
+
+
+Good to have Knowledge & Skills in:
+ • Solid state semiconductor device physics, Analog & Digital Design.
+• Power Electronics hardware device selection.
+• Experience with thermal management and semiconductor loss modelling. 
+• Strong understanding of power electronics principles and circuit design. 
+• Experience of tools such as MATLAB-Simulink/Simscape, and LT-spice.
+•
+• Preferable knowledge in Python, LabVIEW
+• Reliability testing & Microsoft office.
+ Its great if you have Knowledge and Skills in:
+ • Proficiency in simulation software such as PLECS.
+• Good knowledge in the testing of power converters. 
+• PCB design.
+• IEC/IEEE standard related to semiconductor. • Self-starter caliber who could own tasks through to completion.
+• Excellent written and verbal communication skills
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Are you available for 6 Months Internship from January to June ? (Multiple Choice)
+
+================================================================================

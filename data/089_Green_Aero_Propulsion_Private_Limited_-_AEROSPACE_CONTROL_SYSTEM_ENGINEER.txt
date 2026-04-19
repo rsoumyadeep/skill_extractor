@@ -1,0 +1,140 @@
+================================================================================
+JOB: Green Aero Propulsion Private Limited - AEROSPACE CONTROL SYSTEM ENGINEER
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/b8ee6663-b49e-4b79-ae07-d8e9c867b709
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Green Aero Propulsion Private Limited
+Job Domain
+Aerospace
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bengaluru, Karnataka
+Industry
+Aerospace and Defense
+Industry Sector
+Private
+Website URL
+https://www.greenaero.in/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+6 - 10 LPA (subject to performance in the interview)
+First Year Annual Overall CTC
+12+ LPA (subject to performance in the interview)
+First Year Monthly Salary
+1,00,000 /Month (subject to performance in the interview)
+First Year Overall CTC - Detailed Breakup
+12+ LPA (subject to performance in the interview)
+Second Year Approx. Annual Base CTC
+NA
+Second Year Approx. Annual Overall CTC
+NA
+Second Year Approx. Monthly Salary
+NA
+Second Year Approx. Overall CTC - Detailed Breakup
+NA
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+01-Dec-25 11:40:57
+Application Deadline
+04-Dec-25 14:00:13
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-AEROSPACE CONTROL SYSTEM ENGINEER
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+All
+Discipline
+All
+Eligibility
+As mentioined in Job Description
+Skills
+As mentioined in Job Description
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+AEROSPACE CONTROL SYSTEM ENGINEER
+
+---
+
+DETAILED JOB DESCRIPTION
+AEROSPACE CONTROL SYSTEM ENGINEER
+
+
+Job Location: Bengaluru, Karnataka
+
+
+About Us
+We are a fast-growing deep-tech aerospace company building the world’s most advanced aero engines for both military and civilian applications. Our current focus includes jet fuel-based propulsion systems for military UAVs, as well as pioneering green hydrogen–powered aero engine R&D for future aviation. Our team culture revolves around first-principles thinking, scientific rigor, and rapid innovation, and we are looking for engineers who are open-minded, technically curious, and ready to solve some of the toughest challenges in aerospace propulsion.
+
+
+Your Role
+As an aero engine Control Systems Engineer, you will hold a key technical role focused on the development and implementation of the engine's core control logic. You will be responsible for the entire model-based design lifecycle, from creating adaptive control algorithms in MATLAB/Simulink to implementing them on embedded microcontrollers using C. This position requires you to perform rigorous system-level validation through both software-in-the-loop (SIL) and hands-on hardware-in-the-loop (HIL) testing, demanding a strong practical understanding of control theory, real-time programming, and aerospace electronics.
+
+
+Key Responsibilities
+• Design, implement, and validate adaptive control algorithms for jet engine systems under different environmental and operational conditions.
+• Develop high-fidelity analytical and simulation models of jet engine control dynamics using MATLAB/Simulink and embedded platforms.
+• Collaborate with cross-functional teams including mechanical, thermal, and avionics engineers to ensure robust system integration and performance.
+• Conduct system-level testing and validation, including hardware-in-the-loop (HIL) and software-in-the-loop (SIL) testing.
+• Provide technical support in debugging embedded hardware, including interfacing sensors, actuators, and micro-controllers.
+• Document control strategies, test results, and version-controlled software using industry-standard tools.
+
+
+Required Qualifications & Skills
+• Bachelor's or Master’s Degree in Electrical Engineering or related field, with a focus on Control Systems or Embedded Systems for aerospace applications.
+• Proficient in MATLAB/Simulink, Embedded C, and real-time microcontroller programming.
+• Experience with model-based design, auto-code generation, and firmware development for aerospace or automotive systems.
+• Strong understanding of digital and analogue electronics, including experience in PCB-level debugging, soldering, wiring, and instrumentation.
+• Familiarity with communication protocols (e.g., CAN, SPI, UART) and sensor/actuator integration.
+• Familiarity with tools like Git, Oscilloscope, Logic Analyzer, Multimeter.
+• Enthusiasm for working in experimental environments involving real hardware and field testing.
+
+
+Preferred Skills
+• Direct experience with gas turbine engines or the development of Full Authority Digital Engine Controls (FADEC).
+• Experience with flight controllers and associated firmware.
+• Knowledge of safety-critical software development standards.
+• Familiarity with real-time operating systems (RTOS).
+
+
+What will you gain from this job:
+• End-to-end exposure to real-world jet engine development, including control systems, hardware realization, and flight testing.
+• Mentorship from experienced aerospace engineers and hands-on work with cutting-edge propulsion technologies.
+• Opportunity to work on advanced aerospace R&D in high-speed transonic regimes, using both scientific and practical engineering approaches.
+• A strong stepping stone toward advanced careers in propulsion, flight control, embedded systems, or aerospace research.
+• Professional work environment with a five-day work week, standard benefits, and collaboration on world-class projects.
+
+================================================================================

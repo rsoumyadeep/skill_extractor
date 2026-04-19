@@ -1,0 +1,131 @@
+================================================================================
+JOB: airtel - Data Scientist
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/28bc65fe-7b3d-42a0-b3d4-92d2add5ce30
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+airtel
+Job Domain
+Data Scientist
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+PAN India
+Industry
+Telecommunications
+Industry Sector
+Private
+Website URL
+https://www.airtel.in/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+26,00,000
+First Year Annual Overall CTC
+26,00,000
+First Year Monthly Salary
+216000(Approx)
+First Year Overall CTC - Detailed Breakup
+2600000 (All Fixed)
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+13-Nov-25 20:27:33
+Application Deadline
+15-Nov-25 08:30:39
+Time Left
+Closed
+Application Current State
+Technical Interview-Data Scientist
+Shortlist Published At
+Stage 2(Online Test-Data Scientist) - 26 Dec 2025 12:56:32Stage 3(Resume Shortlisting-Data Scientist) - 26 Dec 2025 12:57:23Stage 4(Technical Interview-Data Scientist) - 26 Dec 2025 13:04:24
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+Discipline
+M.Tech Mathematics
+M.Tech Artificial Intelligence
+M.Tech Computer Science & Engineering
+Eligibility
+Educational Background:
+ 2026 Graduates (May 2026 Start) (Tentative)
+ M.Tech or MS in Computer Science / Statistics / Applied Mathematics.
+ 7 CGPA or above (Average for 6 semesters)
+ No Active Backlogs
+Skills
+1. Deep understanding of Statistical Analysis, Modeling and Machine Learning algorithms.
+2. Good command over Python, Tensorflow/PyTorch/Jax, PySpark.
+3. Strong coding skills with the ability to write high-performance code in Python/Julia/R. Familiar with version control.
+4. Must be fluent with SQL.
+5. Ability to contribute to multiple projects/demands simultaneously and work in a fast-paced, collaborative and iterative environment.
+Bond Details
+No Bond
+
+---
+
+DETAILED JOB DESCRIPTION
+Bharti Airtel Limited is a leading global telecommunications company with operations in 18 countries across Asia and Africa. Headquartered in New Delhi, India, our product offerings in India encompass 2G, 3G, and 4G wireless services, mobile commerce, fixed-line services, high-speed home broadband, DTH, and enterprise services including national & international long-distance services to carriers. We are pioneers, always seeking individuals with passion, curiosity, and conviction, eager to break away from conventional roles and do 'jobs never done before.'
+The mission of the Data Science team is to transform terabytes of data into robust models for personalization and discovery. We also want to get a deeper understanding of usage patterns to transform and adapt the strategy and direction of various Airtel Apps and products.
+Your work will directly impact the way millions of Indians use our Digital offerings. We would like you to join us on an exciting journey to create advanced ML products.
+Responsibilities:
+1. Work on complex business problems related to underwriting and risk.
+2. End to end development and testing of the solutions as per the requirements.
+3. Design, run and analyze A/B and multivariate hypothesis tests aimed at optimizing customer experience, business KPIs and product funnels.
+4. Be involved in technology research, capability building across newer technologies and tools in Machine Learning ecosystem at scale.
+Good-to-have:
+1. Deep understanding of Statistical Analysis, Modeling and Machine Learning algorithms.
+2. Good command over Python, Tensorflow/PyTorch/Jax, PySpark.
+3. Strong coding skills with the ability to write high-performance code in Python/Julia/R. Familiar with version control.
+4. Must be fluent with SQL.
+5. Ability to contribute to multiple projects/demands simultaneously and work in a fast-paced, collaborative and iterative environment.
+
+
+Educational Background:
+ 2026 Graduates (May 2026 Start) (Tentative)
+ M.Tech or MS in Computer Science / Statistics / Applied Mathematics.
+ 7 CGPA or above (Average for 6 semesters)
+ No Active Backlogs
+
+---
+
+ADDITIONAL DETAILS
+Educational Background:
+ 2026 Graduates (May 2026 Start) (Tentative)
+ M.Tech or MS in Computer Science / Statistics / Applied Mathematics.
+ 7 CGPA or above (Average for 6 semesters)
+ No Active Backlogs
+
+================================================================================

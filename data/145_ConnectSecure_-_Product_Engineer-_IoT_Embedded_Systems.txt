@@ -1,0 +1,154 @@
+================================================================================
+JOB: ConnectSecure - Product Engineer- IoT / Embedded Systems
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/37d2ad44-0063-4044-87a2-8acf5efae4bd
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+ConnectSecure
+Job Domain
+IOT
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Engineering and Technology
+Industry Sector
+Private
+Website URL
+https://connectsecure.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+4,80,000
+First Year Annual Overall CTC
+12,00,000
+First Year Monthly Salary
+1,00,000
+First Year Overall CTC - Detailed Breakup
+Refer letter for better format
+Internship will be 20000 INR per month
+Full time offer details attached
+SALARY (CTC) / PM 116,667
+Salary (CTC) / PA 14,00,000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+Based on Performance
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+04-Dec-25 16:17:00
+Application Deadline
+10-Dec-25 10:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Product Engineer- IoT / Embedded Systems
+Shortlist Published At
+Stage 2(Resume Shortlisting-Product Engineer- IoT / Embedded Systems) - 26 Dec 2025 11:36:07Stage 3(Assignment-Product Engineer- IoT / Embedded Systems) - 26 Dec 2025 11:36:51Stage 4(Technical Interview-Product Engineer- IoT / Embedded Systems) - 26 Dec 2025 11:37:27
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Assignment
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+MS (Research)
+PhD (Engineering)
+Post Doc
+PhD (Integrated)
+Discipline
+M.Engg in Semiconductor Technology
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech (Research) Interdisciplinary Centre for Energy Research
+M.Tech (Research) Robert Bosch Centre for Cyber Physical Systems
+M.Tech (Research) Supercomputer Education and Research Centre
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech Quantum Technology Initiative
+PhD Electrical Communication Engineering
+PhD Electrical Engineering
+M.Tech Electronic Product Design
+M.Tech Robotics and Autonomous Systems
+Eligibility
+CGPA >6.5
+Skills
+C++ | Arduino | LoRa | Embedded Systems | BLE | Wi-Fi | IoT Development | Arduino IDE|
+Bond Details
+None
+
+---
+
+JD ATTACHMENTS
+
+---
+
+JOB OFFER LETTER SAMPLE COPY
+Internship Letter
+Offer Letter Full time
+
+---
+
+DETAILED JOB DESCRIPTION
+Internship/Full Time Opportunity 
+Location:Bangalore
+We are looking for candidates who will be available for a full-time internship at our Bangalore office from January to June 2026. 
+Upon successful completion of the internship, candidates will transition to full-time employment with us after graduation. 
+
+
+Domain- IOT
+Key Responsibilities
+• Design and develop embedded IoT systems for automation and monitoring.
+• Build, test, and deploy Arduino-based prototypes for industrial use cases.
+• Develop firmware using C/C++ for microcontrollers and sensor-based systems.
+• Integrate communication modules such as LoRa, BLE, and Wi-Fi.
+• Collaborate with hardware, software, and testing teams to ensure reliable performance.
+• Support continuous improvements and field validation for deployed systems
+
+
+Required Skills
+• Strong experience in C/C++ development for embedded environments.
+• Hands-on experience with Arduino IDE and related development tools.
+• Familiarity with LoRa, BLE, and Wi-Fi communication protocols.
+• Knowledge of IoT architectures, data collection, and edge communication.
+• Solid understanding of hardware–software integration and sensor interfaces.
+• Ready to travel to RO or site locations based on business need.
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Please give details of any projects related to the domain mentioned (Document)
+
+Q2. Please confirm if you can do internship or you can do only Full time (Text)
+
+================================================================================

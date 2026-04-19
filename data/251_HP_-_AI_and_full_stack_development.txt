@@ -1,0 +1,147 @@
+================================================================================
+JOB: HP - AI and full stack  development
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/bd5018b5-9c8c-47f5-a8d1-16ab1674b23a
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+HP
+Job Domain
+AI Technical
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://www.hp.com/in-en/home.html
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+1,74,892.5
+First Year Annual Overall CTC
+22,50,000
+First Year Monthly Salary
+1,65,743
+First Year Overall CTC - Detailed Breakup
+-
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+05-Nov-25 17:40:01
+Application Deadline
+07-Nov-25 08:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-AI and full stack development
+Shortlist Published At
+Stage 2(Online Test-AI and full stack development) - 24 Dec 2025 12:05:08Stage 3(Technical Interview-AI and full stack development) - 24 Dec 2025 12:27:33Stage 4(HR Interview-AI and full stack development) - 24 Dec 2025 12:07:24
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+BS (Research)
+Discipline
+B.Tech in Mathematics and Computing
+BS (Research) in Mathematics
+Eligibility
+Bachelor’s degree in Computer Science, Electronics, Mathematics.
+• Strong grasp of data structures, algorithms, system design, and core CS
+fundamentals.
+• Proficiency in full stack technologies including but not limited to Python for
+AI/ML, and JavaScript/TypeScript for full stack development.
+•
+Skills
+AI/ML frameworks: PyTorch, TensorFlow, scikit-learn
+o Web technologies: React.js, Node.js, Express, RESTful APIs
+o Databases: PostgreSQL, MongoDB, or TimescaleDB
+o Dev tools: Git, Docker, CI/CD pipelines
+Bond Details
+N/A
+
+---
+
+JD ATTACHMENTS
+AI and full stack development
+
+---
+
+DETAILED JOB DESCRIPTION
+Key Responsibilities
+AI / Data Engineering
+• Build and train machine learning/deep learning models for sensor and IoT data
+(time series, image, or audio).
+• Apply statistical analysis, signal processing, and ML to derive insights from noisy
+data streams.
+• Optimize models for real-time inference on edge devices using TensorFlow Lite,
+ONNX, or similar.
+• Contribute to data pipelines for collecting, cleaning, and validating large-scale
+IoT data.
+Full Stack Engineering
+• Design and develop scalable and responsive web applications and APIs.
+• Build dashboard interfaces for visualizing real-time device data, alerts, and
+insights.
+• Implement backend systems to process, store, and manage IoT data efficiently.
+• Collaborate across teams to integrate AI features into the application stack
+(frontend/backend/cloud).
+What We’re Looking For
+• Bachelor’s or Master’s degree in Computer Science, Electronics, Mathematics.
+• Strong grasp of data structures, algorithms, system design, and core CS
+fundamentals.
+• Proficiency in full stack technologies including but not limited to Python for
+AI/ML, and JavaScript/TypeScript for full stack development.
+• Experience or familiarity with:
+o AI/ML frameworks: PyTorch, TensorFlow, scikit-learn
+o Web technologies: React.js, Node.js, Express, RESTful APIs
+o Databases: PostgreSQL, MongoDB, or TimescaleDB
+o Dev tools: Git, Docker, CI/CD pipelines
+Soft Skills
+• Strong problem-solving skills and a product mindset.
+• Ability to work in a fast-paced, startup-like environment.
+• Curiosity to explore new technologies and cross-functional learning (AI +
+connected systems + UX).
+• Collaborate as well as lead small groups of engineers to deliver innovative
+solutions.
+• Ability to learn and leverage the latest technology advances. Drives curiosity in
+teams to enable the adoption of latest and the best technologies.
+What You’ll Gain
+• Exposure to end-to-end product development in AI + connected ecosystems.
+• Real-world impact: your code and models will run in live environments.
+• Mentorship from senior engineers and AI researchers.
+• A collaborative culture that fosters experimentation and learning.
+
+================================================================================

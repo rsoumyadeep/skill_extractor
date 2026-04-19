@@ -1,0 +1,141 @@
+================================================================================
+JOB: Mercedes-Benz Research and Development India - PGET
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/cb5cd9c6-7ce4-498d-8b22-fe20fdfcb2f2
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Mercedes-Benz Research and Development India
+Job Domain
+Software
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bengaluru, Whitefield
+Industry
+Automotive & Auto Ancillaries
+Industry Sector
+Private
+Website URL
+https://www.mbrdi.co.in
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+₹1,410,528
+First Year Annual Overall CTC
+₹1,500,003
+First Year Monthly Salary
+₹117,544
+First Year Overall CTC - Detailed Breakup
+Sr.no. Item Annual
+1 Basic Salary 532272.00
+2 House Rent Allowance 212904.00
+3 LTA 75000.00
+4 Telephone Allowance 14400.00
+5 Monthly Allowance 496104.00
+Superannuation Allowance 79848.00
+Total Gross Salary ₹1,410,528
+
+Variable Components
+6 Gratuity 25602.00
+7 Provident Fund 63873.00
+
+Total CTC ₹1,500,003
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+24-Nov-25 17:54:04
+Application Deadline
+05-Dec-25 16:42:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-PGET
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+3
+Programme
+M.Tech
+PhD (Engineering)
+PhD (Science)
+Discipline
+M.Tech Materials Engineering
+M.Tech Materials Research Centre
+M.Tech Mechanical Engineering
+M.Tech Smart Manufacturing
+Eligibility
+10th, 12th, Degree, Post-Grad - 70% and above
+Skills
+Qualification Required: PhD in Computational Engineering/Master’s in Mechanical/ Automative /Aerospace Engineering/ Master’s in Data Science with a foundation in Computational Engineering
+Bond Details
+No
+
+---
+
+DETAILED JOB DESCRIPTION
+Relevant Experience Required:
+1. 3+ years of Experience in CFD/CAE simulations
+2. Good knowledge in Starccm+ and Abaquas tools
+3. Strong knowledge of FEM, CFD theory
+4. Practical experience in developing, training, validating, and deploying machine learning models using PyTorch/ TensorFlow/Jax.
+5. Strong understanding of core machine learning concepts, statistics, and data analysis techniques.
+6. Proficiency in Python programming with strong problem-solving and algorithmic thinking skills applied to AI/ML development.
+7. Experience in deploying AI-assisted simulation tools in production environments, including version control, CI/CD, and containerization (Docker, MLflow, or similar).
+8. Strong background in scientific machine learning (SciML) techniques such as reduced-order modeling, surrogate modeling, and uncertainty quantification for engineering simulations.
+9. Familiarity with integrating AI models into CAE workflows—for example, embedding predictive models into STAR-CCM+, Abaqus, or custom pre/post-processing pipelines using Python or Java macros.
+10. Familiarity with Physics-Informed Neural Networks (PINNs)/Operator learning in physics or hybrid physics–ML approaches, experience using libraries like DeepXDE, NVIDIA Modulus.
+11. Strong communication skills (German Language proficiency a plus)
+12. Experience in developing novel Simulation methods would be a plus.
+
+---
+
+ADDITIONAL DETAILS
+Job Responsibilities:
+1. Multiphase flows (VOF) for painting simulations
+2. Conjugate Heat transfer (CHT) for Oven applications.
+3. Abaqus for calculating forces on the car
+4. Converting data driven model to predict temperatures during drying process
+5. Automating the postprocessing for simulations
+6. Developing new Simulation Methods, Work towards Meshless Simulation methods, Explore and Implement Integration of Simulation into Digital Twin platforms
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Are you available for 6 Months Internship ? (Multiple Choice)
+
+Q2. Are you available to join on January 2026? (Multiple Choice)
+
+Q3. Are you available to join immediately? (Multiple Choice)
+
+================================================================================

@@ -1,0 +1,130 @@
+================================================================================
+JOB: L&T Finance -  Post Graduate Engineer Trainee
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/c84aa6ef-9326-4126-9e14-278561ec994f
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+L&T Finance
+Job Domain
+Post Graduate Engineer Trainee
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Mumbai
+Industry
+NBFC
+Industry Sector
+Private
+Website URL
+https://ltfinance.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+NA
+First Year Annual Overall CTC
+NA
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+CTC :  12.5 Lacs for BTech   &   14 lacs for MTech / Dual Degree
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+24-Dec-25 17:36:10
+Application Deadline
+30-Dec-25 16:00:00
+Time Left
+Closed
+Application Current State
+Online Test-Post Graduate Engineer Trainee
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+Discipline
+B.Tech in Mathematics and Computing
+M.Tech Physics
+M.Tech Electronics & Communication Engineering
+Eligibility
+Minimum of 65% in 10th,12th, graduation and no active KT.
+Skills
+1 Java
+2 Javascript
+3 Dot NET
+4 Python
+5 HTML/CSS
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Graduate Engineer Trainee, Core IT
+
+---
+
+DETAILED JOB DESCRIPTION
+JOB PURPOSE:-
+You’ll play a key role in supporting the LTF Cloud Integration Platform, ensuring it runs at peak performance.
+Your mission: identify and enhance availability, resiliency, reliability, and stability across the board. You’ll also
+provide technical guidance, drive smart solutions, and help shape processes that deliver operational
+excellence.
+PRINCIPAL ACCOUNTABILITIES:-
+• Keep our production environment healthy by monitoring availability and maintaining a complete view of
+system performance.
+• Design and build software and tools to manage platform infrastructure and applications with ease.
+• Boost reliability, quality, and speed-to-market for our suite of software solutions.
+• Measure, analyse, and optimize system performance to stay ahead of customer needs and drive
+continuous innovation.
+• Provide core operational support and engineering expertise for large-scale distributed applications.
+• Track and analyse metrics from operating systems and applications to fine-tune performance and
+troubleshoot issues.
+• Collaborate with development teams to make services more reliable through testing, automation, and
+streamlined release cycles.
+• Contribute to system design discussions, platform management, and capacity planning.
+INTERNAL
+• Create sustainable, automated systems that simplify operations and reduce manual effort.
+• Balance rapid feature delivery with rock-solid reliability by adhering to clear service-level objectives.
+• Manage configuration, build-and-release cycles, and CI processes to keep everything running smoothly.
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. "Programming Skills (Assessement they you to opt for )Prefrence 1 Plz mention any 1 out of 5" (Multiple Choice)
+
+Q2. "Programming Skills (Assessement they you to opt for )Prefrence 2 Plz mention any 1 out of 6" (Multiple Choice)
+
+================================================================================

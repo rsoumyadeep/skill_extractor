@@ -1,0 +1,109 @@
+================================================================================
+JOB: Align Technology - C++ and Computational Geometry Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/a6625ab9-065a-45bc-91ba-69942fc726b5
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Align Technology
+Job Domain
+C++ and Computational Geometry
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Pune
+Industry
+Medical Device
+Industry Sector
+Private
+Website URL
+https://www.aligntech.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+NA
+First Year Annual Overall CTC
+20,50,000
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+Fixed+ 10% variable for M.Tech
+Fixed+ 15% variable for Phd
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+20-Feb-26 17:47:42
+Application Deadline
+05-Mar-26 09:00:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-C++ and Computational Geometry Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Pen & Paper Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+M.Tech (Research)
+MS (Research)
+PhD (Engineering)
+Post Doc
+Discipline
+M.Tech Computational and Data Sciences
+MS (Research) in Mathematics
+PhD Mathematics
+Eligibility
+M.Tech & Phd
+Skills
+C++ and Computational Geometry
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+• Design and develop production quality C++ applications / including services that are hosted in the cloud.
+• Author and maintain computational - geometry based 3D algorithms embedded in these applications / services. · These services will design individually customized 3D printed dental appliance for Invisalign patients.
+• Adopt Quality First mindset.
+• Participate in ensuring production quality by enabling the quality team with testable code and handholding help as needed.
+• Contribute to brand new and existing software components: help refine requirements, develop quality software, identify / mitigate risks and participate in production monitoring as needed.
+• Collaborate with team of Bio Mechanical Engineers to elaborate the problem definition and explore the solution space. As a part of larger Product Research and Development team: • Follow architectural, quality and regulatory guidelines for medical device software development. • Collaborate with multi-disciplinary team (of Software engineers, Bio Mechanical engineers, Product management, Manufacturing experts) to take the upcoming research projects to fruition. • Development environment: scrum, Windows with MS Visual Studio, Git, Atlassian - JIRA, Bamboo etc...
+
+---
+
+ADDITIONAL DETAILS
+NA
+
+================================================================================

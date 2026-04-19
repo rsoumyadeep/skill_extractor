@@ -1,0 +1,120 @@
+================================================================================
+JOB: Cadence Design Systems - Software Engineer I/II
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/db8b6e1f-0573-450e-af81-4589323dd0a9
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Cadence Design Systems
+Job Domain
+Semiconductor
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+VLSI and Semiconductors
+Industry Sector
+PSUs
+Website URL
+https://www.cadence.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+22,00,000
+First Year Annual Overall CTC
+31,66,128
+First Year Monthly Salary
+1,80,000
+First Year Overall CTC - Detailed Breakup
+Base 2200000
+Other Benefits 446128
+Joining bonus 500000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+04-Nov-25 17:15:00
+Application Deadline
+07-Nov-25 08:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Software Engineer I/II
+Shortlist Published At
+Stage 2(Technical Interview-Software Engineer I/II) - 24 Dec 2025 16:04:45
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+M.Tech (Research)
+MS (Research)
+Discipline
+B.Tech in Mathematics and Computing
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech Computer Science and Engineering
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+Eligibility
+Electronics/Electrical and Computer
+Skills
+C/C++ development, data structures, algorithms
+Bond Details
+5 lakh joining bonus with 2 year pay back clause
+
+---
+
+DETAILED JOB DESCRIPTION
+We’re excited to be hiring in Bangalore for the Genus High-Level-Optimization team.
+We're looking for engineers with a strong background in C/C++, Data Structures and
+Algorithms. Genus HLO team is working on new, cutting edge
+synthesis optimizations with deeply algorithmic solutions. Looking forward to
+hiring candidates who are interested in driving and defining the next generation
+product roadmap.
+
+Bachelors of Engineering degree or Master of Engineering degree with hands-on
+programming experience
+ Strong C/C++ development skills with a good understanding of object-oriented design
+ Strong background of computer science fundamentals (data structures, algorithms) and
+Math
+ Experience with development on Unix
+ Passionate to learn and explore new technologies and demonstrates good analysis,
+problem-solving, and debugging skills
+ Good written and verbal communication skills, should be a quick learner and a team
+player
+ Knowledge of Verilog and experience of EDA tool development is desirable, but
+optional
+
+================================================================================

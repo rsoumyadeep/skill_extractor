@@ -1,0 +1,117 @@
+================================================================================
+JOB: Siemens Healthineers - Engineer - Design & Development
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/f58dd1dc-c02f-4fcc-8844-ac36620c560b
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Siemens Healthineers
+Job Domain
+Software Developer
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://www.siemens-healthineers.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+NA
+First Year Annual Overall CTC
+16,00,000
+First Year Monthly Salary
+NA
+First Year Overall CTC - Detailed Breakup
+Mail
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+10-Dec-25 10:30:00
+Application Deadline
+11-Dec-25 11:00:00
+Time Left
+Closed
+Application Current State
+Online Test-Engineer - Design & Development
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+Discipline
+B.Tech in Mathematics and Computing
+Eligibility
+B.Tech Computer Sci with 7 and above CGPA
+No active backlogs
+
+Skills
+Knowledge and capabilities: You should:
+• Be equipped with excellent programming skills- C# .Net Core and latest technologies in Microsoft stack
+• Have solid understanding of OOPS, design principles & patterns
+• Have thorough understanding of inter-process communication, multi-threading, and data-structures
+• Have basic knowhow of Test-Driven Development / Behavior-Driven Development and other extreme programming methods
+• You should have familiarity of software engineering processes & methods
+Bond Details
+No bond
+
+---
+
+DETAILED JOB DESCRIPTION
+Who are we looking for:
+
+
+We want bright minds who are excited to develop new ideas and drive our success in the healthcare world. You:
+
+
+• Will be responsible to create state of the art technology prototypes and actively contributing to innovation streams
+• Wil actively contribute to software design for realizing optimal solutions in Digital Healthcare offerings.
+• Should have good understanding of business requirements and coming up with appropriate technicalsolutions for AI
+based products.
+• Will be responsible for the implementation of features, while adhering to highest coding and quality standards
+• Will be responsible for design and implementation of (unit/integration) tests using TDD / BDD approach to deliver high quality
+• Will be responsible creating and reviewing relevant specifications while conforming to defined processes
+
+
+Knowledge and capabilities: You should:
+• Be equipped with excellent programming skills- C# .Net Core and latest technologies in Microsoft stack
+• Have solid understanding of OOPS, design principles & patterns
+• Have thorough understanding of inter-process communication, multi-threading, and data-structures
+• Have basic knowhow of Test-Driven Development / Behavior-Driven Development and other extreme programming methods
+• You should have familiarity of software engineering processes & methods
+
+================================================================================

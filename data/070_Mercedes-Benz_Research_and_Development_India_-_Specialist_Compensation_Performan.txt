@@ -1,0 +1,155 @@
+================================================================================
+JOB: Mercedes-Benz Research and Development India - Specialist – Compensation & Performance Management Tools
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/29a8a541-384f-45bf-b4f5-0ed940cf548a
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Mercedes-Benz Research and Development India
+Job Domain
+Data AI ML
+Job Type
+Other Internship
+Job Mode
+Physical
+Locations
+Bengaluru
+Industry
+Automotive & Auto Ancillaries
+Industry Sector
+Private
+Website URL
+https://www.mbrdi.co.in
+Is PPO
+Yes
+Is Internship Open for International Students
+No
+Internship Duration
+2026-01 to 2026-06 (6 months)
+
+---
+
+STIPEND / SALARY DETAILS
+Stipend Details
+65000 to 70000
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+15-Dec-25 16:40:00
+Application Deadline
+03-Feb-26 10:00:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Specialist – Compensation & Performance Management Tools
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Mgt
+M.Tech
+Discipline
+B.Tech in Mathematics and Computing
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Mathematics
+M.Tech Artificial Intelligence
+Master of Business Analytics & Technology Management
+M.Tech Computer Science & Engineering
+M.Tech Computer Science and Automation
+Eligibility
+70% & Above in 10th, 12th, Under graduation
+Skills
+DATA, AI/ML, Gen AI, Agentic AI
+Bond Details
+No
+
+---
+
+DETAILED INTERNSHIP DESCRIPTION
+Job Title
+Specialist – Compensation & Performance Management Tools
+Function
+Human Resources – Compensation & Benefits / HR Analytics
+Location
+Bengaluru
+About MBRDI
+Mercedes-Benz Research and Development India (MBRDI) is the largest R&D center of Mercedes-Benz Group outside Germany. We work on end-to-end automotive engineering, digitalization, and people solutions that power the future of mobility.
+Role Summary
+This role is responsible for managing, configuring, and enhancing compensation and performance management tools across the organization. The incumbent will work closely with HR Business Partners, business stakeholders, HRIS teams, and BI developers to ensure smooth execution of merit cycles, performance dashboards, and customized BI solutions, while maintaining governance, accuracy, and user experience.
+
+
+Key Responsibilities
+1. Compensation Tools & Merit Cycle Management (30%)
+Execute the annual merit hike cycle end-to-end through PeopleSoft, including tool configuration and integration with Tableau BI.
+Set up and manage merit hike parameters such as budget allocation, hike ranges, eligibility rules, and guideline logic.
+Enable and manage integration between PeopleSoft and Tableau BI in collaboration with HRIS and BI development teams.
+Configure customized rules in Tableau BI, including eligibility and governance checks.
+Collect feedback from HRBPs and business stakeholders and translate it into actionable enhancements for BI dashboards.
+Prepare and maintain merit cycle documentation including guidelines, tool guides, checklists, and meeting minutes.
+Conduct periodic tool health checks and ensure documentation completeness.
+Provide timely manager and HR support for queries, tool issues, and clarifications during the merit cycle.
+Support HRBPs, staffing consultants, and line managers on C&B processes, ensuring compliance with governance frameworks.
+
+
+2. Performance Management Tools (15%)
+Manually refresh performance management dashboards on a daily basis.
+Collate data from multiple sources and upload it to defined repositories for dashboard refresh.
+Assist in preparing and maintaining performance management guidelines and documentation.
+Gather feedback from HRBPs and business stakeholders and share enhancement requirements with BI development teams.
+Develop customized Power BI / Tableau dashboards within short timelines based on evolving business needs.
+Prepare performance management tool setup documents and user guides.
+Provide quick turnaround support to managers and HR teams for tool-related queries and issues.
+
+
+3. HR Tool & HRIS Module Support (15%)
+Support HRBP colleagues with data extraction and maintenance of compensation and related HRIS modules.
+Ensure data accuracy, consistency, and adherence to governance standards.
+Provide structured feedback on tool enhancements and issues to HRIS and development teams.
+
+
+4. Customized BI Development & Product Ownership (40%)
+Independently design and develop customized Tableau dashboards using advanced Tableau / Power BI capabilities.
+Leverage strong understanding of HRIS data structures and HR functional processes to deliver business-ready insights.
+Act as product owner for Tableau dashboards developed by other teams and integrated into HR systems.
+Review dashboard outputs, provide functional feedback, and act as the business analyst for BI initiatives.
+Ensure dashboards are scalable, intuitive, and aligned with HR and business requirements.
+
+
+Key Skills & Competencies
+Strong hands-on experience with PeopleSoft HR modules.
+Advanced proficiency in Tableau and Power BI.
+Solid understanding of HR processes, especially Compensation & Performance Management.
+Strong data handling, validation, and documentation skills.
+Ability to translate business requirements into technical BI solutions.
+Stakeholder management and clear communication skills.
+High attention to detail and governance compliance.
+Ability to work under tight timelines during critical HR cycles.
+
+
+Experience & Qualification
+Relevant experience in HR systems, compensation tools, or HR analytics.
+Experience working with large datasets and enterprise HR systems preferred.
+Exposure to global HR processes and governance frameworks is an advantage.
+
+================================================================================

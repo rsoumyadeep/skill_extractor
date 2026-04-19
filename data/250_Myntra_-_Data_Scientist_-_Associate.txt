@@ -1,0 +1,141 @@
+================================================================================
+JOB: Myntra - Data Scientist - Associate
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/5e1c972d-4c11-4f80-b133-253c5af3ffad
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Myntra
+Job Domain
+Data Science
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Retail & Wholesale
+Industry Sector
+Private
+Website URL
+https://www.linkedin.com/company/myntra/posts/?feedView=all
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+19,80,000
+First Year Annual Overall CTC
+22,00,000
+First Year Monthly Salary
+1980000- subjective to new tax regine
+First Year Overall CTC - Detailed Breakup
+Fixed Pay- 1980000
+Variable pay-220000
+Total Cash Compensation- 2200000
+Joining bonus-200000
+ESOP's-1000000
+Second Year Approx. Annual Base CTC
+Nil
+Second Year Approx. Annual Overall CTC
+Nil
+Second Year Approx. Monthly Salary
+Nil
+Second Year Approx. Overall CTC - Detailed Breakup
+Nil
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+04-Nov-25 18:12:00
+Application Deadline
+07-Nov-25 08:00:00
+Time Left
+Closed
+Application Current State
+HR Interview-Data Scientist - Associate
+Shortlist Published At
+Stage 2(Resume Shortlisting-Data Scientist - Associate ) - 25 Nov 2025 14:51:11Stage 4(Technical Interview-Data Scientist - Associate ) - 25 Nov 2025 14:54:09Stage 5(HR Interview-Data Scientist - Associate ) - 26 Dec 2025 15:43:46
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+M.Tech (Research)
+MS (Research)
+MSc
+PhD (Engineering)
+Post Doc
+Discipline
+B.Tech in Mathematics and Computing
+M.Tech (Research) Computational and Data Sciences
+M.Tech Computational and Data Sciences
+M.Tech Computer Science & Engineering
+Eligibility
+B.Tech. & Equivalent: Electrical Engineering (EE), Computer Science Engineering (CSE), Electronics and Communication Engineering (ECE), AI/ML/Data Science, Instrumentation, and Mathematics and Computing and Master's Degrees such as (M.Tech.), MS Research, and Dual Degree programs (B.Tech + M.Tech) and PGDBA.
+
+Skills
+Proficiency in Python or one other high-level programming language.
+Theoretical understanding of statistical models such as regression, clustering and ML algorithms such as decision trees, neural networks, etc.
+Strong written and verbal communication skills
+Intellectual curiosity and enthusiastic about continuous learning
+Experience developing machine learning models in Python, or equivalent programming language.
+Basic familiarity with machine learning frameworks like TensorFlow, PyTorch, or scikit-learn.
+Introductory understanding of statistics as it applies to machine learning.
+Ability to manage and prioritize your workload and support his/her manager.
+Experience with SQL and/or NoSQL databases.
+If you are an exceptional candidate, write in. We are happy to hire you even if you don't have the certified qualifications.
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Data Science-
+
+---
+
+DETAILED JOB DESCRIPTION
+A day in the life of a Data Science team at Myntra
+Design, develop and deploy machine learning models,algorithms and systems to solve complex business problems for Myntra Recsys, Search, Vision, SCM, Pricing, Forecasting, Trend and Virality prediction, Gen AI and other areas
+Theoretical understanding and practise of machine learning and expertise in one or more of the topics, such as, NLP, Computer Vision, recommender systems and Optimisation.
+Implement robust and reliable software solutions for model deployment.
+Support the team in maintaining machine learning pipelines, contributing to tasks like data cleaning, feature extraction and basic model training.
+Participate in monitoring the performance of machine learning models, gaining experience in using statistical methods for evaluation.
+Working with the Data Platforms teams for understanding and collecting the data.
+Conduct performance testing, troubleshooting and tuning as required.
+Stay current with the latest research and technology and communicate your knowledge throughout the enterprise.
+
+---
+
+ADDITIONAL DETAILS
+Proficiency in Python or one other high-level programming language.
+Theoretical understanding of statistical models such as regression, clustering and ML algorithms such as decision trees, neural networks, etc.
+Strong written and verbal communication skills
+Intellectual curiosity and enthusiastic about continuous learning
+Experience developing machine learning models in Python, or equivalent programming language.
+Basic familiarity with machine learning frameworks like TensorFlow, PyTorch, or scikit-learn.
+Introductory understanding of statistics as it applies to machine learning.
+Ability to manage and prioritize your workload and support his/her manager.
+Experience with SQL and/or NoSQL databases.
+If you are an exceptional candidate, write in. We are happy to hire you even if you don't have the certified qualifications.
+
+================================================================================

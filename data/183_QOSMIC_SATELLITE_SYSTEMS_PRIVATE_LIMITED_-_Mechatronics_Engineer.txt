@@ -1,0 +1,168 @@
+================================================================================
+JOB: QOSMIC SATELLITE SYSTEMS PRIVATE LIMITED - Mechatronics Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/172588c4-6334-470a-afa5-15c67a1ada9b
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+QOSMIC SATELLITE SYSTEMS PRIVATE LIMITED
+Job Domain
+Engineering
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bangalore
+Industry
+Space Technologies, Communication, Quantum Technologies
+Industry Sector
+Private
+Website URL
+https://qosmic.space/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+8,23,774 - 12,35,412
+First Year Annual Overall CTC
+10,00,000 - 15,00,000
+First Year Monthly Salary
+68,648 - 1,02,942
+First Year Overall CTC - Detailed Breakup
+Component-wise breakdown (Range for 10L - 15L):
+
+Basic Salary: ₹4,70,833 - ₹7,06,000 per annum
+House Rent Allowance (HRA): ₹2,15,690 - ₹3,23,529 per annum
+PF Allowance: ₹1,17,647 - ₹1,76,471 per annum
+Other Allowance: ₹19,608 - ₹29,412 per annum
+Variable Pay (Performance Based): ₹1,76,226 - ₹2,64,588 per annum
+ESOP: 1-1.5x of Annual Pay
+Monthly In-hand (excluding Variable Pay): ₹68,648 - ₹1,02,942
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+19-Nov-25 17:30:00
+Application Deadline
+05-Dec-25 10:00:00
+Time Left
+Closed
+Application Current State
+Technical Interview-Mechatronics Engineer
+Shortlist Published At
+Stage 2(Assignment-Mechatronics Engineer) - 26 Dec 2025 14:39:22Stage 3(Technical Interview-Mechatronics Engineer) - 26 Dec 2025 14:40:16
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Assignment
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+BS (Research)
+M.Tech
+M.Tech (Research)
+MS (Research)
+MSc
+Discipline
+BS (Research) in Physics
+M.Engg in Semiconductor Technology
+M.Tech (Research) Aerospace Engineering
+M.Tech (Research) Centre for Nano Science and Engineering
+M.Tech (Research) Centre of Excellence in Advanced Mechanics of Materials
+M.Tech (Research) Department of Design and Manufacturing
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech (Research) Instrumentation and Applied Physics
+M.Tech (Research) Materials Engineering
+M.Tech (Research) Materials Research Centre
+M.Tech (Research) Physics
+M.Tech (Research) Robert Bosch Centre for Cyber Physical Systems
+M.Tech Aerospace Engineering
+M.Tech Astronomy and Astrophysics Programme
+M.Tech Centre for Nano Science and Engineering
+M.Tech Centre for Sustainable Technologies
+M.Tech Centre of Excellence in Advanced Mechanics of Materials
+M.Tech Department of Design and Manufacturing
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech in Instrumentation Systems
+M.Tech Materials Engineering
+M.Tech Materials Research Centre
+M.Tech Mechanical Engineering
+M.Tech Physics
+MS (Research) in Physics
+M.Tech Signal Processing
+M.Tech Smart Manufacturing
+M.Tech Artificial Intelligence
+M.Tech Electronics & Communication Engineering
+M.Tech Sustainable Technologies
+M.Tech Centre for NanoScience and Engineering
+M.Tech Semiconductor Technology
+M.Tech Mobility Engineering
+M Des Product Design
+Development and Management
+M.Tech Microelectronics & VLSI Design
+M.Tech Electronic Product Design
+M.Tech Robotics and Autonomous Systems
+M.Tech Computer Science & Engineering
+M.Tech Communication Networks
+M.Tech Electronics Systems Engineering
+Eligibility
+• B.Tech/M.Tech in Mechatronics, Mechanical Engineering, Robotics, Aerospace Engineering or related field
+Skills
+• Strong hands-on experience with precision motion control systems and servo mechanisms
+• Proven track record of designing and building electromechanical systems from concept to deployment
+• Experience with feedback control systems (PID, LQR, or similar)
+• Proficiency in CAD software (SolidWorks, Fusion 360, or similar)
+• Hands-on experience with motors, actuators, encoders, and precision stages
+• Experience with microcontrollers/embedded systems for motion control
+• Knowledge of sensor integration (IMUs, gyroscopes, encoders, cameras)
+• Proficiency with fabrication tools (CNC machining, 3D printing, workshop tools)
+• Experience with MATLAB/Simulink for control system simulation
+• Programming skills in Python, C/C++ for embedded control systems
+• Self-motivated with ability to own subsystems end-to-end
+• Knowledge of \control systems theory and real time implementation preferred
+• Experience with optical tracking systems, gimbal design, or pointing systems
+• Knowledge of fast steering mirrors, tip-tilt platforms, or stabilization techniques
+• Familiarity with vibration analysis, isolation, and damping systems
+• Understanding of optical alignment requirements and beam propagation
+• Experience with ruggedized mechanical design for outdoor/aerospace applications
+• Knowledge of Kalman filtering, state estimation, predictive control
+Bond Details
+No Bond
+
+---
+
+JD ATTACHMENTS
+Mechatronics Engineer JD
+
+---
+
+DETAILED JOB DESCRIPTION
+Join us in developing precision mechanical systems and motion control platforms for optical communication hardware. You will design and build electromechanical systems including positioning mechanisms, servo control systems, and mechanically stable platforms across various projects. This role involves hands-on work integrating mechanics, electronics, and control systems for field-deployable platforms supporting terrestrial and space-based applications.
+
+================================================================================

@@ -1,0 +1,212 @@
+================================================================================
+JOB: Albertsons India - Data Scientist
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/644ca609-dfc7-4be0-b2ba-caaf03710313
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Albertsons India
+Job Domain
+Retail
+Job Type
+Full Time Placement
+Job Mode
+Hybrid
+Locations
+Bangalore
+Industry
+Retail & Wholesale
+Industry Sector
+Private
+Website URL
+https://www.albertsonscompanies.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+1453990(BTECH) / 1726613(MTECH & MS)/2034642(P.HD)
+First Year Annual Overall CTC
+1600000(BTECH)/ 1900000(MTECH & MS)/2300000(P.HD)
+First Year Monthly Salary
+121166(BTECH)/ 143884(MTech & MS)/169553(P.HD) (Excluding Tax)
+First Year Overall CTC - Detailed Breakup
+B.TECH - 16 L CTC
+
+Base 1363115
+PF 68729
+Bonus 68156
+Joining Bonus 100000
+
+MTech & MS - 19 L CTC
+
+Base 1726613
+PF 87056
+Bonus 86331
+Joining Bonus 200000
+
+P.HD - 23 L CTC
+
+Base 2034642
+PF 102587
+Bonus 162771
+Joining Bonus 300000
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+4
+Application Start Time
+25-Feb-26 14:50:11
+Application Deadline
+27-Feb-26 10:00:19
+Time Left
+Closed
+Application Current State
+HR Interview-Data Scientist
+Shortlist Published At
+Stage 2(Technical Interview-Data Scientist) - 03 Mar 2026 16:00:09Stage 3(HR Interview-Data Scientist) - 03 Mar 2026 16:01:24
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+PhD (Science)
+PhD (Integrated)
+MS
+Discipline
+B.Tech in Mathematics and Computing
+M.Tech (Research) Chemical Engineering
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech Mathematics
+MS (Research) in Mathematics
+PhD Chemical Engineering
+PhD Computational and Data Sciences
+PhD Computer Science and Automation
+PhD Mathematics
+M.Tech Artificial Intelligence
+M.Tech Computer Science & Engineering
+Eligibility
+• Bachelors or master's or PhD degree in quantitative discipline: Computer Science, Engineering, Data Science, Math, Statistics Operations research or related mathematically intensive fields such as Experimental Physics or Chemical Engineering.
+
+• Experience in applying data science and modeling methodologies: regression model, survival model, ensemble modeling, NLP, recommendation algorithm, clustering, deep learning algorithm, experimental design (Multivariate/A-B testing) and nonparametric Bayesian modeling etc.
+
+• Experience with any of the following business analytics practices is preferred:
+
+• Supply chain analytics, including inventory optimization
+
+• Time series forecasting for large-scale demand forecasting
+
+• Ecommerce fulfillment operations, pick path optimization
+
+• Experience and proficiency in SQL, Python and/or Spark-ML
+
+• Experience SQL development skills writing queries, transforming data, mining structured and unstructured data.
+
+• Hands-on experience in building data science solutions and production-ready systems on big data platforms such as Databricks, Spark, Hadoop
+
+• Ability to write production-level code in Python
+
+• Experience with Snowflake, Azure Databricks, GCP is a strong plus
+
+• Building Recommendation/ personalization systems or foundational systems on apps & websites.
+Skills
+Skills Required:
+• Statistical and Experimental Modeling (regression modeling, survival modeling, experimental design multivariate/A-B testing)
+• ML and AI (deep learning algorithms, NLP, nonparametric Bayesian modeling, ensemble modeling, recommendation algorithms, clustering)
+• Mathematical and Applied Optimization (operations research, linear optimization, non-linear optimization, numerical search)
+• SQL, Python
+Skills Preferred:
+• Big Data and Tools (Spark-ML, Snowflake, Spark, Hadoop, Big Query)
+• Production-level Python coding
+• Data Engineering
+• AI Methodologies (GenAI, Agentic AI)
+Bond Details
+NA
+
+---
+
+JD ATTACHMENTS
+Albertsons
+
+---
+
+DETAILED JOB DESCRIPTION
+Job Description
+We are excited to announce multiple openings for Data Scientist at ACI. Please find below the details of the role and its responsibilities.
+Skills Required:
+Distributed Data Processing Framework, Spark, Data Science, Deep Learning, SQL, Python, Modeling, Recommendation, Personalization, Machine Learning, Agentic AI, Forecasting, Pricing, LLM, GenAI.
+Job Description:
+Positions : Data Scientist
+Job Description:
+Roles & responsibilities:
+• Collaborate with business and product stakeholders and build production grade
+models and machine learning algorithms on large-scale datasets
+• Enhance and apply end-to-end demand forecasting models to support various
+business decision making
+• Optimize inventory policies to reduce supply chain waste and opportunity cost related
+to holding excess inventory by maximizing the productivity of inventory
+• Identify key drivers for out of stocks and address them using Machine Learning and
+Mathematical Optimization techniques to maximize in stock conditions at stores to
+provide the best customer experience
+• Apply machine learning and mathematical optimization to increase productivity in
+ecommerce fulfillment operations and deliver the most optimum user experience on
+ecommerce website and loyalty mobile app
+• Apply predictive modeling techniques and survival models to forecast various demands
+for operations and to deploy real time learning algorithms to optimize the forecasts
+• Build models and algorithms to fuel growth initiatives for In Stock, Omni Channel,
+Digital and Merchandising
+• Apply statistical analysis to detect anomaly in systems and outliers in operational
+metrics for operational excellence
+• Convey machine learning solutions with intuitive visualizations and effective
+communications
+• Scale up prototypes and implement reliable automated production workflow for models
+• Collaborate with software development engineers to integrate models
+Experience Required:
+• Bachelors or master's or PhD degree in quantitative discipline: Computer Science, Engineering, Data Science, Math, Statistics Operations research or related mathematically intensive fields such as Experimental Physics or Chemical Engineering.
+• Experience in applying data science and modeling methodologies: regression model, survival model, ensemble modeling, NLP, recommendation algorithm, clustering, deep learning algorithm, experimental design (Multivariate/A-B testing) and nonparametric Bayesian modeling etc.
+• Experience with any of the following business analytics practices is preferred:
+• Supply chain analytics, including inventory optimization
+• Time series forecasting for large-scale demand forecasting
+• Ecommerce fulfillment operations, pick path optimization
+• Experience and proficiency in SQL, Python and/or Spark-ML
+• Experience SQL development skills writing queries, transforming data, mining structured and unstructured data.
+• Hands-on experience in building data science solutions and production-ready systems on big data platforms such as Databricks, Spark, Hadoop
+• Ability to write production-level code in Python
+• Experience with Snowflake, Azure Databricks, GCP is a strong plus
+• Building Recommendation/ personalization systems or foundational systems on apps & websites.
+Skills Required:
+• Statistical and Experimental Modeling (regression modeling, survival modeling, experimental design multivariate/A-B testing)
+• ML and AI (deep learning algorithms, NLP, nonparametric Bayesian modeling, ensemble modeling, recommendation algorithms, clustering)
+• Mathematical and Applied Optimization (operations research, linear optimization, non-linear optimization, numerical search)
+• SQL, Python
+Skills Preferred:
+• Big Data and Tools (Spark-ML, Snowflake, Spark, Hadoop, Big Query)
+• Production-level Python coding
+• Data Engineering
+• AI Methodologies (GenAI, Agentic AI)
+
+================================================================================

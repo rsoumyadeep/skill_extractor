@@ -1,0 +1,145 @@
+================================================================================
+JOB: Omspace Rocket and Exploration Pvt. Ltd - Avionics Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/efcb9811-b67e-415e-aeed-68f70bb8abf6
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Omspace Rocket and Exploration Pvt. Ltd
+Job Domain
+Technical Department
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Ahmedabad , Gujarat
+Industry
+Manufacturing
+Industry Sector
+Private
+Website URL
+https://www.omspacerocket.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+10,000,00 Anually
+First Year Annual Overall CTC
+12,000,00 Anually
+First Year Monthly Salary
+70,000-80,000 Per month
+First Year Overall CTC - Detailed Breakup
+1st Year Annual Base CTC:10,000,00 Anually
+1st Year Annual Overall CTC:12,000,00 Anually
+1st Year Monthly Salary:70,000-80,000 Per month
+Second Year Approx. Annual Base CTC
+11,000,00 Anually
+Second Year Approx. Annual Overall CTC
+13,000,00 Anually
+Second Year Approx. Monthly Salary
+85,000-95,000 Per month
+Second Year Approx. Overall CTC - Detailed Breakup
+2nd Year Approx. Annual Base CTC: 11,000,00 Anually
+2nd Year Approx. Annual Overall CTC: 13,000,00 Anually
+2nd Year Approx. Monthly Salary: 85,000-95,000 Per month
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+13-Nov-25 13:34:55
+Application Deadline
+15-Nov-25 08:00:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Avionics Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+12
+Maximum Job Experience
+24
+Programme
+B.Tech
+BS (Research)
+M.Engg
+M.Tech
+M.Tech (Research)
+MS (Research)
+PhD (Engineering)
+Discipline
+B.Tech in Mathematics and Computing
+M.Engg in Semiconductor Technology
+M.Tech (Research) Aerospace Engineering
+M.Tech (Research) Astronomy and Astrophysics Programme
+M.Tech (Research) Centre for Cryogenic Technology
+M.Tech (Research) Centre for Nano Science and Engineering
+MS (Research) in Mathematics
+MS (Research) in Physics
+M.Tech Electronics & Communication Engineering
+M.Tech Centre for NanoScience and Engineering
+M.Tech Semiconductor Technology
+M.Tech Microelectronics & VLSI Design
+M.Tech Electronics Systems Engineering
+Eligibility
+Bachelor’s/Master’s in Electronics, Electrical, Aerospace, or related engineering field.
+
+Skills
+1.Strong knowledge of circuit design, power electronics, and PCB layout.
+2.Experience with analog, digital, and mixed-signal electronics.
+3.Proficiency in hardware design tools (Altium Designer, OrCAD, Cadence, or equivalent).
+4.Knowledge of communication protocols (CAN, RS-422, MIL-STD-1553, SpaceWire, ARINC).
+5.Understanding of radiation effects, EMI/EMC considerations, and aerospace reliability standards.
+Bond Details
+1 year of Bond.
+
+---
+
+JD ATTACHMENTS
+Avionics JD
+
+---
+
+DETAILED JOB DESCRIPTION
+Job Title: Avionics Engineer
+
+
+Job Summary
+We are seeking an Avionics Engineer for aerospace core hardware development. The role focuses on the design, development, and integration of avionics hardware systems, including power distribution, communication interfaces, and flight control electronics.
+
+Key Responsibilities
+Design and develop avionics hardware systems for spacecraft and launch vehicles.
+Work on schematic design, PCB layout, and hardware integration for avionics subsystems.
+Develop power systems, control units, and communication interfaces for aerospace applications.
+Collaborate with embedded software, GNC, and systems teams for hardware-software integration.
+Ensure compliance with aerospace-grade standards and environmental requirements.
+Prepare and maintain hardware design documentation, schematics, and technical reports.
+Support component selection, reliability analysis, and system architecture design.
+
+---
+
+ADDITIONAL DETAILS
+Preferred Skills
+1.Experience with fault-tolerant avionics architectures.
+2.Knowledge of aerospace power systems and redundant hardware design.
+3.Familiarity with FPGA/ASIC hardware integration for avionics.
+4.Exposure to thermal and structural constraints in hardware design.
+5.Strong problem-solving skills and ability to work in cross-functional aerospace teams.
+
+================================================================================

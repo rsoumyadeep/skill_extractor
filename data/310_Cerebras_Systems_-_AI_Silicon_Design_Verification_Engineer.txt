@@ -1,0 +1,143 @@
+================================================================================
+JOB #310: Cerebras Systems - AI Silicon Design Verification Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/4f4dcbd0-d49c-45cd-a3e9-2007267aacc0
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Cerebras Systems
+Job Domain
+Hardware
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bengaluru
+Industry
+VLSI and Semiconductors
+Industry Sector
+Private
+Website URL
+https://www.cerebras.ai/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+35,00,000
+First Year Annual Overall CTC
+40,00,000
+First Year Monthly Salary
+2,91,667
+First Year Overall CTC - Detailed Breakup
+B.Tech degree, the package is INR 30 lakh, plus an additional INR 5 lakh in RSUs (Gross CTC 35 Lakh).
+M.Tech degree, the package is INR 35 lakh, plus an additional INR 5 lakh in RSUs (Gross CTC 40 Lakh).
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Oct-25 18:56:52
+Application Deadline
+28-Oct-25 06:00:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-AI Silicon Design Verification Engineer
+Shortlist Published At
+Stage 2(Resume Shortlisting-AI Silicon Design Verification Engineer) - 27 Dec 2025 14:11:05
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Technical Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Engg
+M.Tech
+PhD (Engineering)
+Discipline
+B.Tech in Mathematics and Computing
+M.Engg in Semiconductor Technology
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+PhD Computational and Data Sciences
+PhD Computer Science and Automation
+PhD Electrical Communication Engineering
+PhD Electrical Engineering
+PhD Electronic Systems Engineering
+M.Tech Signal Processing
+M.Tech Artificial Intelligence
+M.Tech Electronics & Communication Engineering
+M.Tech Semiconductor Technology
+M.Tech Microelectronics & VLSI Design
+Eligibility
+CGPA 8
+Skills
+Strong understanding of digital design fundamentals, computer architecture, and SoC design flow.
+Proficiency in Verilog/SystemVerilog, and exposure to UVM is highly desirable.
+Solid grasp of testbench architecture, assertions (SVA), and coverage method
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+Role Overview
+We are looking for highly motivated M.Tech and Ph.D. graduates with strong fundamentals in Digital Design and Verification to join our ASIC Design Verification team in Bangalore.
+As part of this team, you’ll work on verification of next-generation AI compute engines — some of the most complex and high-performance silicon systems being built today.
+You’ll collaborate with world-class engineers across RTL design, architecture & emulation to ensure functional correctness, quality, and innovation in every aspect of silicon development.
+Shape
+Key Responsibilities
+Develop SystemVerilog/UVM-based verification environments for complex ASIC/IP blocks and SoCs.
+Create test plans, coverage models, and constrained random tests for comprehensive validation.
+Work closely with designers and architects to understand microarchitecture and functional intent.
+Analyze simulation results, debug issues using waveform tools (e.g., Verdi, DVE), and drive root-cause resolution.
+Contribute to automation and scripting to improve regression efficiency and coverage closure.
+Participate in code and test plan reviews, contributing to a culture of engineering excellence.
+Shape
+Required Skills and Background
+M.Tech / Ph.D. in Electrical, Electronics, or Computer Engineering.
+Strong understanding of digital design fundamentals, computer architecture, and SoC design flow.
+Proficiency in Verilog/SystemVerilog, and exposure to UVM is highly desirable.
+Solid grasp of testbench architecture, assertions (SVA), and coverage methodology is highly desirable.
+Good programming skills in Python, Perl, or Shell scripting for automation.
+Excellent analytical and problem-solving ability.
+Passion for learning and contributing in a fast-paced, collaborative environment.
+Shape
+Preferred (Plus Points)
+Previous experience in VLSI domain – Design or Verification.
+Coursework or project experience in VLSI Design, Verification, or Computer Architecture.
+Exposure to high-speed protocols (PCIe, Ethernet, DDR, etc.) or AI/ML accelerators.
+Publications, research, or thesis work related to verification methodologies or hardware design.
+Shape
+Why Join Us
+Work on cutting-edge AI hardware used in the world’s fastest AI systems.
+Collaborate with some of the brightest minds in the semiconductor industry.
+Be part of a fast-growing India team that’s central to Cerebras’ global engineering efforts.
+Competitive compensation, learning opportunities, and an exceptional team culture.
+
+================================================================================

@@ -1,0 +1,217 @@
+================================================================================
+JOB #303: Meesho - Data Scientist- I
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/d7510ffb-21ac-4ae3-a9d7-292680bc8ac6
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Meesho
+Job Domain
+Data Science
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore
+Industry
+Ecommerce
+Industry Sector
+Private
+Website URL
+https://meesho.io
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+24,00,000
+First Year Annual Overall CTC
+60,00,000
+First Year Monthly Salary
+2,00,000
+First Year Overall CTC - Detailed Breakup
+DS 1 | Fixed Cash: 2,400,000 | JB1: 750,000 | JB2: 850,000 | JB3: 950,000 | JB4: 1,050,000 | Total Offer (INR): 6,000,000 |
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+25-Oct-25 19:06:40
+Application Deadline
+28-Oct-25 06:00:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Data Scientist- I
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Online Test
+Resume Shortlisting
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Engg
+M.Mgt
+M.Tech
+M.Tech (Research)
+PhD (Engineering)
+M.Des
+Discipline
+B.Tech in Mathematics and Computing
+BS (Research) in Mathematics
+M.Engg in Semiconductor Technology
+M.Tech (Research) Aerospace Engineering
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech Aerospace Engineering
+M.Tech Centre for Nano Science and Engineering
+M.Tech Civil Engineering
+M.Tech Department of Bioengineering
+M.Tech Electrical Engineering
+M.Tech Mechanical Engineering
+M.Tech Quantum Technology Initiative
+PhD Aerospace Engineering
+PhD Civil Engineering
+PhD Electrical Communication Engineering
+M.Tech Signal Processing
+M.Tech Smart Manufacturing
+M.Tech Artificial Intelligence
+M.Tech Electronics & Communication Engineering
+M.Tech Semiconductor Technology
+M.Tech Mobility Engineering
+M Des Product Design
+Development and Management
+Master of Business Analytics & Technology Management
+M.Tech Robotics and Autonomous Systems
+Eligibility
+Eligibility Criteria:
+This role is open only to students from the 2026 batch pursuing B.Tech programs, with specialisations in Computer Science, Information Technology, or Circuit-related streams.
+Required Skills & Experience:
+Strong fundamentals in Machine Learning, Deep Learning, Computer Vision, and Statistics
+
+
+Proficiency in Python, SQL, and frameworks like PyTorch or TensorFlow
+
+
+Solid understanding of hypothesis testing, linear algebra, and model evaluation techniques
+
+
+Strong analytical mindset with the ability to draw insights from complex or unstructured data
+
+
+At least one internship experience related to Data Science or related fields reflected in the resume
+
+Skills
+Proficiency in Python, SQL, and frameworks like PyTorch or TensorFlow
+Solid understanding of hypothesis testing, linear algebra, and model evaluation techniques
+Strong analytical mindset with the ability to draw insights from complex or unstructured da
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+Role: Data Scientist – I
+Location: Bangalore 
+
+
+
+
+
+
+About us 
+Meesho - Every story here begins with a spark of ambition and a touch of entrepreneurial magic. We’re not just a platform — we’re your partner in transforming dreams into reality.
+
+
+Our Mission
+
+
+
+
+Democratising internet commerce for everyone - Meesho (Meri shop) started with a single idea in mind to be an e-commerce destination for the next billion Indian consumers and enable 100 million small businesses to succeed online. We provide sellers with a range of industry-first benefits such as zero commission and an affordable shipping cost., growing their business by tapping the company’s massive customer base, state-of-the-art tech infrastructure, pan-India logistics at cost through third-party logistics providers and in-house logistics arm Valmo in an 'Everyday Low Cost' channel for sellers. Affordable, relatable merchandise mirroring local markets has helped us make inroads with first-time internet users in the country. We cater to an underserved and unique customer base and cover serviceable pincode in the country. Our unique business model and continuous innovation has enabled us to become the first Indian horizontal E-commerce company.
+Know more about Meesho here : https://www.meesho.io/
+
+
+
+
+
+
+
+
+About the Data Science Team
+
+
+
+
+Our Data Science team is the Avengers to Meesho’s S.H.I.E.L.D 🛡️. And why not? We are the ones who assemble during the toughest challenges and devise creative solutions, building intelligent systems for millions of our users looking at a thousand different categories of products. We’ve barely scratched the surface, and have amazing challenges in charting the future of commerce for Bharat.  
+
+
+Our typical day involves dealing with fraud detection, inventory optimisation, and platform vernacularisation.
+
+
+As a Data Scientist, you will navigate uncharted territories with us, discovering new paths to creating solutions for our users.🔍 You will be at the forefront of interesting challenges and solve unique customer problems in an untapped market.
+
+
+But wait – there’s more to us. Our team is huge on having a well-rounded personal and professional life. When we aren't nose-deep in data, you will most likely find us belting “Summer of 69” at the nearest Karaoke bar, or debating who the best Spider-Man is: Maguire, Garfield, or Holland? You tell us ☺️
+
+
+
+
+
+
+
+
+💼 About the Role
+As a Data Scientist - I, you won’t just crunch numbers — you’ll design solutions, build scalable models, and push boundaries.You’ll work across product and tech teams to:
+Develop advanced ML models to drive platform intelligence
+
+
+
+
+Build recommender systems & ranking algorithms that reflect user behavior
+Apply computer vision to seller tools for smart product listings
+Predict demand patterns and key business metrics
+Identify and prevent fraud using real-time data
+Optimize ad tech and monetization algorithms for seller ROI & user experience
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Have you undertaken any internship earlier that is relevant to the Data Scientist role? (Text)
+
+Q2. If Yes, Please Mention the name of the company where you completed the internship. (Text)
+
+Q3. If Yes, Please Mention the number of months where you completed the internship. (Text)
+
+Q4. If Yes, Please provide a brief description of your internship. (Document)
+
+Q5. If you have undertaken any additional projects relevant to the Data Scientist role, please include them. (Text)
+
+================================================================================

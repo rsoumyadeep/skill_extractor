@@ -1,0 +1,157 @@
+================================================================================
+JOB: RBM SOFTWARE PVT LTD - Graduate Engineer Trainee (GET) – Machine Learning / GenAI (Python)
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/c243e561-d92e-4ffb-8ee8-4df000a9d92c
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+RBM SOFTWARE PVT LTD
+Job Domain
+IT
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+PUNE
+Industry
+Information Technology (IT)
+Industry Sector
+Private
+Website URL
+https://rbmsoft.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+15,00,000
+First Year Annual Overall CTC
+15,00,000
+First Year Monthly Salary
+1,09,792
+First Year Overall CTC - Detailed Breakup
+CTC 1,500,000
+Basic 750000
+HRA 375000
+LTA 37,500
+Medical Allowance 15000
+Conveyance 19200
+Special Allowance 303,300
+Part A 1500000
+PF( employer and employee contribution) 180000
+Professional tax 2500
+Part B 182500
+Net Salary (A-B) 1317500
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+30-Jan-26 18:10:11
+Application Deadline
+02-Feb-26 10:00:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Graduate Engineer Trainee (GET) – Machine Learning / GenAI (Python)
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+B.Tech
+M.Tech
+Discipline
+B.Tech in Mathematics and Computing
+M.Tech (Research) Computational and Data Sciences
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Mathematics
+M.Tech Artificial Intelligence
+M.Tech Computer Science & Engineering
+Eligibility
+90% AND ABOVE IN ACADEMICS, MENTION JEE RANKING, AND WITHIN TOP 5 RANKERS IN ALL SEMESTER
+Skills
+AI/ML, PYTHON, GENAI
+Bond Details
+NA
+
+---
+
+DETAILED JOB DESCRIPTION
+We are looking to engage with top-performing B.E./B.Tech (Computer Science / Computer Engineering) students, specifically Top 5 rank holders of their branch, who have a strong foundation in Python, Machine Learning, Generative AI, and LLMs.
+
+
+Role Highlights:
+
+
+Hands-on work on ML and GenAI solutions (LLMs, RAG, fine-tuning, agents)
+
+
+Exposure to production-grade AI systems and real-world problem solving
+
+
+Mentorship from senior engineers and architects
+
+
+Best-in-class compensation for qualifying candidates
+
+
+Eligibility:
+
+
+Final-year students / Freshers (0–1 year experience)
+
+
+Strong coding skills in Python
+
+
+Academic excellence (Top 5 in branch)
+
+
+Selection Process:
+
+
+Python coding test
+
+
+ML/GenAI fundamentals interview
+
+
+Technical discussion (projects, internships, GitHub if any)
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. JEE RANKING (Text)
+
+Q2. CGPA (Text)
+
+Q3. NO OF PROJECTS DONE IN AI/ML (Text)
+
+================================================================================

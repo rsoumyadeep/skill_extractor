@@ -1,0 +1,215 @@
+================================================================================
+JOB: Ola - Vehicle Engineering
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/8271faa6-6dad-4f06-99e2-35e037ba6084
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Ola
+Job Domain
+Engineering
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bangalore
+Industry
+EV
+Industry Sector
+Public
+Website URL
+https://www.olaelectric.com
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+24,34,783
+First Year Annual Overall CTC
+28,00,000
+First Year Monthly Salary
+2,02,899
+First Year Overall CTC - Detailed Breakup
+CTC BREAK UP ANNUAL MONTHLY
+Basic 1,217,392 101,449
+HRA 608,696 50,725
+PF contribution 21,600 1,800
+Special Allowance 587,095 48,925
+Total Fixed CTC 2,434,783 202,899
+Annual Variable Incentive 365,217 -
+TOTAL COST TO COMPANY (CTC) 2,800,000 202,899
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+01-Dec-25 13:20:50
+Application Deadline
+02-Dec-25 13:20:57
+Time Left
+Closed
+Application Current State
+HR Interview-Vehicle Engineering
+Shortlist Published At
+Stage 2(Online Test-Vehicle Engineering) - 27 Dec 2025 13:06:38Stage 3(Technical Interview-Vehicle Engineering) - 27 Dec 2025 13:07:07Stage 4(HR Interview-Vehicle Engineering) - 27 Dec 2025 13:11:40
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+M.Tech
+Discipline
+M.Tech Computer Science and Engineering
+M.Tech Electrical Engineering
+M.Tech Electronic Systems Engineering
+M.Tech Mechanical Engineering
+Eligibility
+M.Tech in Electromagnetics, Electrical Engineering, RF Engineering, Computer Engineering, Embedded Systems, Robotics, Mechanical, Mechatronics, AI, or related field.
+Skills
+Experience with validation, testing, modelling, and safety compliance for power electronics.
+Expertise in HV/LV architecture, safety standards, and EV power distribution.
+Strong expertise in robotics algorithms, perception, control, and sensor fusion.
+Strong knowledge of C/C++, RTOS, microcontrollers, and automotive communication protocols.
+Experience with EM simulation tools, EMC/EMI testing, and regulatory standards.
+Bond Details
+No
+
+---
+
+JD ATTACHMENTS
+GET | Vehicle Engineering | FTE 2025-26
+
+---
+
+DETAILED JOB DESCRIPTION
+Job Summary:
+As part of Ola’s Vehicle Engineering team, you will design, develop, and validate core EV technologies across power electronics, power systems, robotics, embedded controllers, and electromagnetics. You will work end-to-end on system architecture, hardware-software integration, and performance validation to deliver reliable, safe, and scalable systems for next-generation Ola Electric platforms.
+
+
+Role 1: Power Electronics
+Specialization:
+Inverters, converters, onboard chargers, switching control, high-voltage EV hardware.
+Key Roles & Responsibilities (KRAs):
+Deliver high-efficiency inverter, converter, and onboard charging systems for next-gen Ola EVs.
+Own end-to-end validation across voltage, load, thermal, and environmental stress conditions.
+Optimize switching strategies, control algorithms, and protection logic to enhance range and efficiency.
+Collaborate with BMS, motor control, and vehicle integration teams for system-level performance.
+Drive component selection, supplier alignment, and cost optimization without compromising safety.
+Qualifications & Skills:
+M.Tech in Electrical, Electronics, Power Engineering, or related field.
+Strong understanding of HV systems, power semiconductors, converters/inverters.
+Experience with validation, testing, modelling, and safety compliance for power electronics.
+
+
+Role 2: Power Systems
+Specialization:
+Vehicle power architecture, HV/LV systems, power distribution & safety.
+Key Roles & Responsibilities (KRAs):
+Architect and validate complete vehicle power distribution networks.
+Optimise HV/LV architecture for charging, performance, and auxiliary loads.
+Lead system modelling, simulations, and FMEA for safety and stability.
+Work with software, BMS, and thermal teams to enhance system-level energy efficiency.
+Deliver diagnostics, protection logic, and power management strategies.
+Qualifications & Skills:
+Master’s Degree in Electrical Engineering, Power Systems, or similar.
+Expertise in HV/LV architecture, safety standards, and EV power distribution.
+Strong background in simulations, modelling, and failure analysis.
+
+
+Role 3: Robotics & Humanoids
+Specialization:
+Industrial robotics, humanoids, automation systems, motion control.
+Key Roles & Responsibilities (KRAs):
+Develop robotics and humanoid systems for automation and intelligent operations at the Futurefactory.
+Build motion planning, perception, and actuation modules with high accuracy and responsiveness.
+Integrate multi-sensor fusion, control algorithms, and safety mechanisms into production-ready systems.
+Collaborate with mechanical, controls, and AI teams to scale automation throughput.
+Conduct data-driven tuning, testing, and failure-mode analysis.
+Qualifications & Skills:
+M.Tech in Robotics, Mechanical, Mechatronics, AI, or related fields.
+Strong expertise in robotics algorithms, perception, control, and sensor fusion.
+Experience deploying robotics systems in real environments is preferred.
+
+
+Role 4: Embedded Systems
+Specialization:
+Embedded firmware, ECU development, automotive-grade software.
+Key Roles & Responsibilities (KRAs):
+Develop production-grade firmware for vehicle ECUs ensuring deterministic and reliable performance.
+Own feature development, board bring-up, driver integration, and firmware optimization.
+Collaborate with hardware, software, and diagnostics teams to ensure seamless system integration.
+Implement safety, cybersecurity, and OTA-ready frameworks.
+Improve memory efficiency, latency, power usage, and fault recovery mechanisms.
+Qualifications & Skills:
+Master’s Degree in Electronics, Computer Engineering, Embedded Systems, or similar.
+Strong knowledge of C/C++, RTOS, microcontrollers, and automotive communication protocols.
+Experience in embedded testing, debugging, and safety-compliant firmware development.
+
+
+Role 5: Electromagnetics
+Specialization:
+Motor EM design, antenna systems, EMC/EMI simulation & compliance.
+Key Roles & Responsibilities (KRAs):
+Lead EM design, simulation, and validation for motors, antennas, and wireless systems.
+Ensure EMC/EMI compliance and regulatory adherence across all vehicle operating conditions.
+Build EM models and run optimisation to improve performance and reduce noise/EM interference.
+Collaborate with powertrain, connectivity, and integration teams to resolve EM issues.
+Deliver test procedures, mitigation strategies, and documentation for certification.
+Qualifications & Skills:
+M.Tech in Electromagnetics, Electrical Engineering, RF Engineering, or similar.
+Experience with EM simulation tools, EMC/EMI testing, and regulatory standards.
+Strong understanding of motor design, wireless systems, and interference mitigation.
+
+
+Perks of working with Ola:
+Work on cutting-edge EV and robotics technologies that shape the future of mobility.
+Collaborate with top engineers and leaders across world-class R&D and manufacturing teams.
+Own high-impact charters with direct visibility to senior leadership.
+Access advanced labs, testing infrastructure, and next-gen engineering tools.
+Accelerated growth in a fast-paced, innovation-first environment.
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Are you part of any Club /Committee? (Multiple Choice)
+
+Q2. Name of the Club / Committee (If Yes) (Text)
+
+Q3. If you have done a previous Internship, mention duration in months (Text)
+
+Q4. If you have done a previous Internship, mention name of Company (Text)
+
+Q5. Do you have previous work experience (Multiple Choice)
+
+Q6. Name of the company (if yes) (Text)
+
+Q7. Job role (if yes (Text)
+
+Q8. Any Other Educational Qualification before apart from current course (Text)
+
+Q9. CGPA in above previous masters (if any) (Text)
+
+================================================================================

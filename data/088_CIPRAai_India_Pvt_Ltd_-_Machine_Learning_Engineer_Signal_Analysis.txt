@@ -1,0 +1,118 @@
+================================================================================
+JOB: CIPRA.ai India Pvt Ltd - Machine Learning Engineer – Signal Analysis
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/33ea1aef-ad5c-4f46-b021-180474b41c17
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+CIPRA.ai India Pvt Ltd
+Job Domain
+Engineering
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Bangalore
+Industry
+SaaS - MedTech
+Industry Sector
+Private
+Website URL
+https://cipra.ai
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+INR1500000
+First Year Annual Overall CTC
+INR1500000
+First Year Monthly Salary
+INR125000 per month
+First Year Overall CTC - Detailed Breakup
+SALARY -50%
+Allowance - 50%
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+13-Jan-26 12:30:35
+Application Deadline
+14-Jan-26 12:30:25
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Machine Learning Engineer – Signal Analysis
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+Online Test
+Assignment
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+36
+Programme
+All
+Discipline
+M.Tech Electrical Engineering
+PhD Electrical Engineering
+Eligibility
+
+In office work, based out of Bangalore
+Skills
+Bachelor’s, Master’s, or Ph.D. in Computer Science, Biomedical Engineering, Electrical Engineering, or a related field.
+Strong foundation in machine learning, signal processing, and time-series modeling.
+Experience working with physiological or wearable sensor data (e.g., PPG, ECG, accelerometer), including data preprocessing and feature engineering.
+Hands-on experience with sensors or wearable devices, including calibration, data acquisition, and troubleshooting.
+Proficiency in Python and ML frameworks such as PyTorch; familiarity with cloud platforms (e.g., AWS) is a plus.
+Prior exposure to healthcare or wearable-sensor applications is highly desirable.
+Excellent analytical, communication, and problem-solving skills.
+Self-driven and comfortable taking ownership of projects; ability to work collaboratively across India‑based and global teams.
+Bond Details
+No bond
+
+---
+
+JD ATTACHMENTS
+
+---
+
+DETAILED JOB DESCRIPTION
+Position Overview
+We are seeking a full‑time Machine Learning Engineer with strong expertise in signal processing and predictive modeling for physiological sensor data. The role focuses on developing and validating models using photoplethysmography (PPG) and related multimodal signals to derive meaningful health insights. The ideal candidate will be passionate about advancing healthcare technology and eager to build reliable, clinically relevant AI models that bridge wearable sensing and digital health applications.
+
+
+Key Responsibilities
+Develop, optimize, and evaluate ML models for physiological sensor data, focusing on extracting clinically meaningful insights from multimodal signals such as PPG, accelerometer, and ECG.
+Design preprocessing and feature-extraction pipelines for time-series data and implement signal-quality assessment techniques.
+Set up and operate hardware platforms for data collection; collaborate with clinicians and research partners to design and manage studies, ensuring high-quality data collection.
+Implement signal-quality assessment and noise-reduction techniques to enhance model robustness.
+Collaborate with data scientists and clinicians to interpret model outputs in a clinical context.
+Integrate ML pipelines into production systems (cloud or edge) and support model deployment.
+Conduct literature reviews in biomedical signal processing and machine learning for health applications.
+Contribute to research documentation, publications, and regulatory validation processes.
+
+================================================================================

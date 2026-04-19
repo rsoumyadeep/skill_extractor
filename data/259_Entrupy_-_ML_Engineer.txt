@@ -1,0 +1,209 @@
+================================================================================
+JOB: Entrupy - ML Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/23264256-c98f-4287-8e19-9726008dd013
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+Entrupy
+Job Domain
+ML Engineer
+Job Type
+Full Time Placement
+Job Mode
+-
+Locations
+Bangalore (Hybrid)
+Industry
+Engineering and Technology
+Industry Sector
+Private
+Website URL
+https://www.entrupy.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+20,00,000
+First Year Annual Overall CTC
+20,00,000
+First Year Monthly Salary
+150000-160000
+First Year Overall CTC - Detailed Breakup
+20,00,000
+Second Year Approx. Annual Base CTC
+20,00,000
+Second Year Approx. Annual Overall CTC
+20,00,000
+Second Year Approx. Monthly Salary
+150000-160000
+Second Year Approx. Overall CTC - Detailed Breakup
+Breakup is sensitive data, we can provide once we roll out the offer
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+04-Nov-25 17:26:48
+Application Deadline
+07-Nov-25 08:00:00
+Time Left
+Closed
+Application Current State
+Online Test-ML Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Online Test
+HR Interview
+Technical Interview
+Assignment
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+6
+Maximum Job Experience
+24
+Programme
+All
+Discipline
+B.Tech in Mathematics and Computing
+BS (Research) in Mathematics
+BS (Research) in Physics
+M.Tech (Research) Computational and Data Sciences
+M.Tech (Research) Computer Science and Automation
+M.Tech (Research) Electrical Engineering
+M.Tech (Research) Electronic Systems Engineering
+M.Tech (Research) Mathematics
+M.Tech (Research) Physics
+M.Tech Computational and Data Sciences
+M.Tech Computer Science and Engineering
+M.Tech Mathematics
+M.Tech Physics
+MS (Research) in Mathematics
+MS (Research) in Physics
+PhD Computational and Data Sciences
+PhD Computer Science and Automation
+PhD Electrical Engineering
+PhD Electronic Systems Engineering
+PhD Mathematics
+PhD Physics
+M.Tech Artificial Intelligence
+M.Tech Electronics & Communication Engineering
+M.Tech Robotics and Autonomous Systems
+M.Tech Computer Science & Engineering
+Eligibility
+We are seeking a Machine Learning Engineer with expertise in classical Computer Vision and Deep Learning to contribute to the development of advanced computer vision algorithms focused on item authentication and fingerprinting.
+Skills
+0-2 years in computer vision and machine learning development.
+Python, C++, PyTorch, HuggingFace, OpenCV, CUDA, FastAPI, TensorRT, Nvidia Triton, and Ray.
+traditional CV techniques (feature extraction, image processing)
+Strong foundation in probability, statistics, optimization, linear algebra, and geometry
+Bond Details
+No bond
+
+---
+
+JD ATTACHMENTS
+ML engineer - Research, Deep Leand Computer Vision
+
+---
+
+DETAILED JOB DESCRIPTION
+As we continue to build...
+
+
+We’re seeking curious, growth minded thinkers to help shape our vision, structures and systems; playing a key-role as we launch into our ambitious future. If you’re invigorated by our mission, values, and drive to change the world — we’d love to have you apply.
+
+
+About the role
+We are seeking a Machine Learning Engineer with expertise in classical Computer Vision and Deep Learning to contribute to the development of advanced computer vision algorithms focused on item authentication and fingerprinting.
+
+
+In this role, you will drive the research, development, and deployment of state-of-the-art algorithms and models aimed at accurately determining the authenticity of items and assigning unique digital identities through image analysis. You will also oversee the optimization of image capture solutions on edge devices and ensure models are interpretable, scalable, and robust.
+You will collaborate cross-functionally to define and deliver impactful projects, and contribute in the computer vision domain.
+
+
+Reports to: ML Lead
+Location: Bangalore, India (Hybrid)
+
+
+What You'll Do:
+
+
+Advanced Research & Algorithm Development
+- Design and develop cutting-edge computer vision models and algorithms for item authentication, fingerprinting, high-quality image capture and related applications.
+- Lead innovation by staying ahead of trends in computer vision and machine learning, introducing novel techniques to improve model performance and scalability.
+
+Scalable Systems & Model Deployment
+- Oversee the deployment of machine learning models in production, ensuring robustness, efficiency, and seamless integration into systems.
+- Optimize algorithms for edge device deployment, focusing on latency, accuracy, and power consumption.
+
+
+Collaboration & Stakeholder Engagement
+- Work closely with internal and external stakeholders to understand product requirements, define project scopes, and deliver actionable solutions.
+- Collaborate with engineering teams to integrate CV models into broader system architectures while maintaining system reliability and performance.
+
+Operational Excellence
+- Drive best practices in code quality, testing, and documentation. Review and refine code, ensuring modularity, reliability, and adherence to industry standards.
+- Analyze production data to identify opportunities for continuous improvement in algorithms and systems.
+
+Who you are:
+- Education: Bachelor's or Master’s in Electronics, Physics, Computer Science, or related field.
+- Experience: 0-2 years in computer vision and machine learning development. 
+
+
+Core Expertise:
+- Proficient in both traditional CV techniques (feature extraction, image processing) and deep learning methodologies.
+- Advanced knowledge of Python and C++, with expertise in frameworks such as PyTorch, HuggingFace, OpenCV, and CUDA.
+- Extensive experience in designing, training, and deploying CV models at scale, including distributed training and inference pipelines.
+- Expertise in API design and deployment for ML model services such as FastAPI, TensorRT, Nvidia Triton, and Ray.
+- Mathematical Proficiency: Strong foundation in probability, statistics, optimization, linear algebra, and geometry.
+- EdgeML Experience: Skilled in deploying and optimizing models for iOS devices, with a focus on real-time data processing and resource efficiency.
+- Collaboration & Communication: Ability to articulate technical concepts and collaborate in cross-functional, global teams.
+- Ownership & Drive: A proactive approach, a high degree of ownership, and an eagerness to tackle complex challenges.
+
+What we offer
+
+
+- Market competitive compensation structure
+- Hybrid with Flexible work from anywhere for 4-8 weeks per year
+- Generous time away, including company holidays, paid time off, sick time, parental leave, and more!
+- Rich medical benefits and insurance coverage.
+- The agency to innovate, directly impacting product features and customer experiences.
+- Opportunity to be part of the core team in a growing setup.
+- Opportunities to publish research, contribute to patents, and further develop CVML and edgeML expertise.
+- We have had an incredible run so far and laying the foundation for a culture that is fast-paced, entrepreneurial, and rooted in passion, kindness, and positivity. We live by these values – we hire by them, promote them, and celebrate them every day. 
+
+
+If you are a visionary Computer Vision / ML engineer with extensive experience in crafting production-ready solutions, a passion for mentoring, and a desire to solve impactful challenges, we’d love to connect!
+
+
+Entrupy embraces a diversity of backgrounds and experiences and provides equal opportunity for all applicants and employees. We are dedicated to building a company that represents a variety of backgrounds, perspectives, and skills. We believe that the more inclusive we are, the better our work (and work environment) will be for everyone.
+
+---
+
+ADDITIONAL DETAILS
+About Entrupy
+ 
+Entrupy is a global technology company whose mission is to protect businesses, borders and consumers from transacting in counterfeit goods. Entrupy has developed a patented technology system which utilizes a combination of AI and computer vision to instantly identify and authenticate high value physical goods.
+ 
+Entrupy’s solutions serve business customers including leading luxury brands, retailers, e-commerce marketplaces and online resellers in over 60 countries. Entrupy is growing quickly with team members based in the US, India, Japan and Brazil. Entrupy’s solutions in market:
+● Entrupy Luxury Authentication
+● Entrupy Sneaker Authentication
+● Entrupy Fingerprinting
+
+---
+
+ASSESSMENT QUESTIONS
+Q1. Add your linkedin profile (Text)
+
+================================================================================

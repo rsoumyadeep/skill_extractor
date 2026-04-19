@@ -1,0 +1,139 @@
+================================================================================
+JOB: BioAI Innovations Private Limited - Bioprocess Modelling Engineer
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/f1182f74-8ece-474c-85a4-d4254ba0cfa2
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+BioAI Innovations Private Limited
+Job Domain
+R&D
+Job Type
+Full Time Placement
+Job Mode
+Hybrid
+Locations
+Bangalore
+Industry
+Biotechnology
+Industry Sector
+Private
+Website URL
+https://www.lemnisca.bio/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+12-17 lakhs
+First Year Annual Overall CTC
+15-20 lakhs
+First Year Monthly Salary
+1 - 1.4 lakhs
+First Year Overall CTC - Detailed Breakup
+15 - 20 lakhs of CTC
+~10-15% of the total CTC will be performance-linked bonus
+As a startup, we can give ESOPs on a case-to-case basis
+Pension fund and Gratuity contributions may be provided once >10 employees are onboarded
+Medical Insurance will be covered or cash in lieu will be given at a fixed amount
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+06-Jan-26 15:00:00
+Application Deadline
+07-Jan-26 15:00:00
+Time Left
+Closed
+Application Current State
+Resume Shortlisting-Bioprocess Modelling Engineer
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Resume Shortlisting
+HR Interview
+Technical Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+PhD (Engineering)
+PhD (Science)
+Post Doc
+PhD (Integrated)
+Discipline
+All
+Eligibility
+• PhD or Master’s in Chemical Engineering, Biotechnology, Bioengineering, or a related field.
+• 5+ years of hands-on experience developing mechanistic, statistical, or data-driven models for biological or chemical processes.
+• Strong understanding of fermentation and bioprocess scale-up fundamentals, including mass transfer and process variability.
+• Demonstrated experience applying computational and data-driven methods to experimental or process datasets in applied settings.
+• Expert-level proficiency in Python, MATLAB, or similar tools for simulation, modeling, and data analysis.
+• Proven ability to work in an early-stage startup environment with high ownership and accountability for technical outcomes.
+
+Skills
+• Experience building or deploying process models to support development, scale-up, or technology transfer in industrial or pilot environments.
+• Exposure to modeling of downstream or purification steps as part of an integrated process view.
+• Prior experience working closely with experimental teams to design experiments that inform or validate models.
+• Familiarity with process monitoring, decision-support, or model-informed process development workflows.
+• Strong judgment in selecting appropriate modeling approaches based on data availability, timelines, and business needs.
+• An established professional network within the bioprocess modeling, computational biology, or applied systems engineering community.
+Bond Details
+No bond
+
+---
+
+JD ATTACHMENTS
+Bioprocess Modelling Engineer
+
+---
+
+DETAILED JOB DESCRIPTION
+About Lemnisca
+India is at an inflection point in manufacturing and sustainability. Over the next decade, a large share of global production will shift towards cleaner, local, and more resilient supply chains. Biomanufacturing will be a core pillar of that shift.
+Lemnisca is building the AI-first backbone for this transition – starting with precision fermentation. We combine biology, chemical engineering and data/AI to make fermentation processes:
+• Faster to develop
+• Smoother to scale
+• More predictable across sites and scales
+Our goal is to enable companies in India and globally to manufacture high-value molecules from renewable feedstocks, reliably and competitively. From personal care to food and health, we want everyday products to be made more sustainably – with India not just participating, but leading.
+As part of the early team, you will help turn this vision into operating reality: real processes, real customers, real plants.
+
+
+Mission for this role
+The Bioprocess Modeling lead will develop Lemnisca’s bioprocess modeling capability, focused on supporting fermentation and downstream process development across the lab-to-industrial continuum. The mission of this role is to build robust computational models that help bridge experimental results and reliable process operation.
+This is a founding leadership role with significant influence on technical direction. You will work closely with the Bioengineering team to establish effective practices for integrating experimental data and computational models, ensuring that modeling outputs directly inform process development and decision-making.
+
+
+What you will do
+• Develop and maintain bioprocess models that support fermentation and downstream process development across laboratory and early industrial settings.
+• Work closely with the Bioengineering team to define modeling questions, design informative experiments, and interpret experimental data through a modeling lens.
+• Translate experimental and process data into predictive insights that guide development decisions and reduce uncertainty during process scale-up.
+• Establish standards for model development, validation, documentation, and reuse within the company.
+• Build and maintain data workflows that connect experimental results with computational analysis in a reliable and traceable manner.
+
+
+What you will get
+You will help build an IP-led Indian company aiming to make biomanufacturing the default way materials are produced, with your work directly shaping how processes are developed and operated.
+You will be part of the leadership team, influencing technical direction, modeling strategy, and how computational tools are used across the company.
+As a founding member, you will own the development of Lemnisca’s bioprocess modeling capability end-to-end, with the autonomy to define standards, tools, and ways of working as the platform evolves.
+
+================================================================================

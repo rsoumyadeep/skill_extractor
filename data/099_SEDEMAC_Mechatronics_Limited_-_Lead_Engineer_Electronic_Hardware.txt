@@ -1,0 +1,207 @@
+================================================================================
+JOB: SEDEMAC Mechatronics Limited - Lead Engineer, Electronic Hardware
+URL: https://skynet-iisc.edtex.in/#/applications/application/post-jobs/210a5bf1-676d-496e-a8c9-56bcba78e93e
+================================================================================
+
+COMPANY & JOB INFORMATION
+Company Name
+SEDEMAC Mechatronics Limited
+Job Domain
+Engineering
+Job Type
+Full Time Placement
+Job Mode
+Physical
+Locations
+Baner, Pune
+Industry
+Engineering and Technology
+Industry Sector
+Public
+Website URL
+https://www.sedemac.com/
+
+---
+
+STIPEND / SALARY DETAILS
+First Year Annual Base CTC
+22,00,000
+First Year Annual Overall CTC
+22,00,000
+First Year Monthly Salary
+1,77,200
+First Year Overall CTC - Detailed Breakup
+Attached with the mail
+Second Year Approx. Annual Base CTC
+-
+Second Year Approx. Annual Overall CTC
+-
+Second Year Approx. Monthly Salary
+-
+Second Year Approx. Overall CTC - Detailed Breakup
+-
+
+---
+
+APPLICATION DETAILS
+Max Roles To Be Applied
+No limit
+Application Start Time
+29-Dec-25 12:00:00
+Application Deadline
+30-Dec-25 12:00:00
+Time Left
+Closed
+Application Current State
+Pre Placement Talk (ppt)-Lead Engineer, Electronic Hardware
+Shortlist Published At
+-
+
+---
+
+APPLICATION STAGES
+Pre Placement Talk (ppt)
+Resume Shortlisting
+Online Test
+Technical Interview
+HR Interview
+
+---
+
+CRITERIA DETAILS
+Minimum Job Experience
+-
+Maximum Job Experience
+-
+Programme
+PhD (Engineering)
+PhD (Science)
+PhD (Integrated)
+Discipline
+PhD Electrical Communication Engineering
+PhD Electrical Engineering
+PhD Electronic Systems Engineering
+PhD Instrumentation and Applied Physics
+Eligibility
+CGPA 6.0+ or 60% throughout 10th, 12th and Graduation, PG and PhD.
+Skills
+• Requirements analysis.
+• Product architecture definition, Component selection.
+• Design calculation & simulation, Worst Case Analysis, Component derating.
+• Thermal analysis, Signal Integrity Analysis.
+• Functional/Piece Part FMEA, DRBFM.
+• PCB design, DFM, DFT, DFR aspects.
+• Usage of lab equipment like DSO/MSO, Function generators, Power supplies etc.
+• Failure root cause analysis - 8D, 3x5 Why methodologies.
+• Experience in hands-on development of analog/embedded circuits, validation, industrialization, and series
+maintenance of medium/high complexity products, preferably in Automotive / Transportation / Aerospace
+or similar industries.
+• Hands on experience in reliability prediction, compliance testing is preferable.
+• Exposure to development of High Power DC-DC Converters, Motor drives is an added advantage.
+Bond Details
+Not Applicable
+
+---
+
+JD ATTACHMENTS
+Lead Engineer, Electronic Hardware
+
+---
+
+DETAILED JOB DESCRIPTION
+SEDEMAC Mechatronics Limited
+
+
+Lead Engineer, Electronic Hardware
+
+
+Job Description:
+
+
+We at SEDEMAC are on the look-out for a Hardware Design Engineer to join our stellar Electronic Hardware team.
+
+
+Major Responsibilities:
+
+
+• The candidate is expected to lead a small team of Hardware engineers working closely with cross functions such as Systems/Software Engineering, Product Validation, Manufacturing, Product Costing etc.
+• Single point of contact for cross functional engineering team for product specific hardware development initiatives.
+• Defines and manages changes to hardware product requirements.
+• Leads product feasibility assessment activities.
+• Selection of major components considering competing constraints such as costing, performance, reliability, availability etc.
+• Proactively assesses and treats high severity failure modes during the design phase to achieve industry leading product reliability.
+• Performs worst case design simulations / calculations & prototype studies to ensure compliance to requirements.
+• Defines and communicates HW-SW, HW-Mechanical interface requirements and constraints.
+• Assesses and communicates risks associated with design trade-offs.
+• Defines PCB constraints.
+• Supports development of manufacturing SOPs, EOL test rigs.
+• Defines hardware verification plan & amp; performs V&V activities.
+• Leads design implementation activities working closely with CAD engineers.
+• Represents HW team for RCA activities and ensures implementation of CAPA during the complete HW product lifecycle.
+• Proactively identifies and implements opportunities to minimize BOM cost and improve product robustness and reliability.
+• Technically mentors junior team members.
+• Conducts internal product training & sharing of LLBP and technical knowhow.
+
+
+Technical Skills & Experience:
+
+
+• Requirements analysis.
+• Product architecture definition, Component selection.
+• Design calculation & simulation, Worst Case Analysis, Component derating.
+• Thermal analysis, Signal Integrity Analysis.
+• Functional/Piece Part FMEA, DRBFM.
+• PCB design, DFM, DFT, DFR aspects.
+• Usage of lab equipment like DSO/MSO, Function generators, Power supplies etc.
+• Failure root cause analysis - 8D, 3x5 Why methodologies.
+• Experience in hands-on development of analog/embedded circuits, validation, industrialization, and series maintenance of medium/high complexity products, preferably in Automotive / Transportation / Aerospace or similar industries.
+• Hands on experience in reliability prediction, compliance testing is preferable.
+• Exposure to development of High Power DC-DC Converters, Motor drives is an added advantage.
+
+
+Managerial Skills & Experience:
+
+
+• Collaborative and effective teamwork.
+• Ownership and sense of urgency.
+• Good judgement and attention to details.
+• Good written and verbal communication.
+
+
+Information on Selection Process:
+
+
+• The selection process will be multi-phased tests plus interviews.
+• There will be a focus on evaluation of the candidate’s understanding of electronic Hardware Design, analytical & logical skills.
+
+
+Educational Requirement:
+
+
+• PhD in Electrical / Electronics Engineering (CGPA 6.0+ or 60% throughout)
+
+
+About SEDEMAC
+
+
+At its core, SEDEMAC is the convergence of talented engineers committed to the development and large-scale deployment of innovative control technologies and products. As one of the fastest-growing Tier-1 suppliers in the automotive space, we work with vehicle, motor, and engine manufacturers who are leaders in their own space to deliver fundamental control solutions with real-world impact. Our engineer-led organization prides itself on creating technology propositions and taking them from the drawing board to high-volume production with operational excellence. We foster a culture that values creativity, honesty, and respect—where ideas are judged by their merit, not by hierarchy. With a strong foundation and ambitious growth plans, SEDEMAC is uniquely positioned to shape the future of controls.
+
+
+Job Location: Baner, Pune
+
+---
+
+ADDITIONAL DETAILS
+1: We will be using Superset from this year. The applications will be opened on Superset and the eligible students should apply on the platform.
+2: The online aptitude and technical tests will be conducted on campus in our presence using Mettl platform. The arrangements should be made accordingly.
+3: The Technical and HR interview will be conducted on campus.
+
+
+
+
+INFRASTRUCTURE REQUIREMENTS:
+
+
+Online Test Platform: Mettl (Video proctored). It is expected that the tests should be conducted in the classroom / auditorium in our invigilation. The arrangements should be made accordingly. All students should be instructed to carry the hard copy of any govt. id proof for the tests. This is a requirement for registration on Mettl platform for the tests.
+
+================================================================================
